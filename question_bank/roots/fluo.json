@@ -1,0 +1,110 @@
+[
+ {
+  "word": "affluence",
+  "question": "The family enjoyed great wealth and plenty of money. This wealth is:",
+  "options": [
+   "penury",
+   "indigence",
+   "destitution",
+   "affluence"
+  ],
+  "correct": "D",
+  "explanation": "affluence: Wealth; abundance of money.",
+  "reasons": {
+   "A": "Wrong: Extreme poverty; lack of necessities.",
+   "B": "Wrong: Poverty; lack of money for basic needs.",
+   "C": "Wrong: Extreme poverty; complete lack of resources.",
+   "D": "Correct: Wealth; abundance of money."
+  }
+ },
+ {
+  "word": "affluent",
+  "question": "The wealthy family lived in a large mansion and had plenty of money. They were:",
+  "options": [
+   "affluent",
+   "indigent",
+   "destitute",
+   "penurious"
+  ],
+  "correct": "A",
+  "explanation": "affluent: Wealthy; having plenty of money.",
+  "reasons": {
+   "A": "Correct: Wealthy; having plenty of money.",
+   "B": "Wrong: Poor; living in reduced circumstances.",
+   "C": "Wrong: Completely without money or resources.",
+   "D": "Wrong: Very poor; also stingy and grasping."
+  }
+ },
+ {
+  "word": "confluence",
+  "question": "The two rivers meet at one point, where their waters flow together. This meeting point is a:",
+  "options": [
+   "influence",
+   "confluence",
+   "fluid",
+   "fraternity"
+  ],
+  "correct": "B",
+  "explanation": "confluence: A flowing together; a meeting point of rivers or ideas.",
+  "reasons": {
+   "A": "Wrong: The power to affect or change others.",
+   "B": "Correct: A flowing together; a meeting point of rivers or ideas.",
+   "C": "Wrong: Able to flow; smooth and easy to change.",
+   "D": "Wrong: A men's club or brotherhood."
+  }
+ },
+ {
+  "word": "fluent",
+  "question": "She spoke three languages smoothly and easily without pausing. She was:",
+  "options": [
+   "inarticulate",
+   "taciturn",
+   "fluent",
+   "reticent"
+  ],
+  "correct": "C",
+  "explanation": "fluent: Speaking or writing smoothly and easily.",
+  "reasons": {
+   "A": "Wrong: Unable to speak clearly or express feelings.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Correct: Speaking or writing smoothly and easily.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "fluid",
+  "question": "The honey flowed easily and could change shape like a liquid. It was:",
+  "options": [
+   "placid",
+   "stoical",
+   "apathetic",
+   "fluid"
+  ],
+  "correct": "D",
+  "explanation": "fluid: Able to flow; smooth and easy to change.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Wrong: Bearing pain and trouble calmly, without complaint.",
+   "C": "Wrong: Showing no interest or feeling.",
+   "D": "Correct: Able to flow; smooth and easy to change."
+  }
+ },
+ {
+  "word": "influence",
+  "question": "The mentor's power to shape her beliefs and choices was strong. This power is:",
+  "options": [
+   "influence",
+   "impotence",
+   "omnipotence",
+   "penury"
+  ],
+  "correct": "A",
+  "explanation": "influence: The power to affect or change others.",
+  "reasons": {
+   "A": "Correct: The power to affect or change others.",
+   "B": "Wrong: Lack of power or ability to act.",
+   "C": "Wrong: Unlimited power.",
+   "D": "Wrong: Extreme poverty; lack of necessities."
+  }
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "word": "castigate",
+  "question": "The editor sharply criticised the journalist's careless error in front of the whole newsroom, scolding him harshly. The editor ___ him.",
+  "options": [
+   "Castigate",
+   "Condone",
+   "Imbibe",
+   "Oscillate"
+  ],
+  "correct": "A",
+  "explanation": "Castigo (to chastise) + -ate: to criticise harshly.",
+  "reasons": {
+   "A": "Correct: to scold or criticise severely.",
+   "B": "Wrong: to overlook or excuse wrongdoing; the editor did not excuse it.",
+   "C": "Wrong: to take in or absorb; not a way of scolding.",
+   "D": "Wrong: to swing back and forth; not a way of scolding."
+  }
+ },
+ {
+  "word": "castigation",
+  "question": "The harsh public scolding the mayor received for his scandal was a severe:",
+  "options": [
+   "Condonation",
+   "Castigation",
+   "Oscillation",
+   "Inebriation"
+  ],
+  "correct": "B",
+  "explanation": "Castigation: the act of castigating, criticising harshly.",
+  "reasons": {
+   "A": "Wrong: the overlooking of wrongdoing.",
+   "B": "Correct: severe criticism or scolding.",
+   "C": "Wrong: a swinging back and forth.",
+   "D": "Wrong: drunkenness."
+  }
+ }
+]

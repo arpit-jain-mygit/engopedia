@@ -1,0 +1,92 @@
+[
+ {
+  "word": "somniferous",
+  "question": "The drug was so strong that it brought on drowsiness and sleep. The drug was:",
+  "options": [
+   "vivid",
+   "vociferous",
+   "somniferous",
+   "vivacious"
+  ],
+  "correct": "C",
+  "explanation": "somniferous: Bringing sleep; boring to the point of sleep.",
+  "reasons": {
+   "A": "Wrong: Full of life and freshness; bright or sharp.",
+   "B": "Wrong: Loud, noisy, and clamorous.",
+   "C": "Correct: Bringing sleep; boring to the point of sleep.",
+   "D": "Wrong: Full of life, joy, and energy."
+  }
+ },
+ {
+  "word": "vociferate",
+  "question": "The angry crowd began to shout loudly at the referee. They began to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "titillate",
+   "vociferate"
+  ],
+  "correct": "D",
+  "explanation": "vociferate: To shout loudly.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Wrong: To tickle or stimulate pleasantly.",
+   "D": "Correct: To shout loudly."
+  }
+ },
+ {
+  "word": "vociferation",
+  "question": "The loud shouting of the protesters filled the square. This outcry is a:",
+  "options": [
+   "vociferation",
+   "vacillation",
+   "evanescence",
+   "revitalization"
+  ],
+  "correct": "A",
+  "explanation": "vociferation: A loud shouting or outcry.",
+  "reasons": {
+   "A": "Correct: A loud shouting or outcry.",
+   "B": "Wrong: Wavering between opinions or choices.",
+   "C": "Wrong: The quality of quickly vanishing.",
+   "D": "Wrong: The act of giving new life or vigor."
+  }
+ },
+ {
+  "word": "vociferous",
+  "question": "The noisy crowd was loud and clamorous, protesting on every corner. The crowd was:",
+  "options": [
+   "laconic",
+   "vociferous",
+   "taciturn",
+   "reticent"
+  ],
+  "correct": "B",
+  "explanation": "vociferous: Loud, noisy, and clamorous.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Correct: Loud, noisy, and clamorous.",
+   "C": "Wrong: Silent, unwilling to talk.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "vociferousness",
+  "question": "The sheer loudness of the protest was its striking feature. Its quality of being loud is:",
+  "options": [
+   "taciturnity",
+   "reticence",
+   "vociferousness",
+   "laconicism"
+  ],
+  "correct": "C",
+  "explanation": "vociferousness: The quality of being loud and noisy.",
+  "reasons": {
+   "A": "Wrong: Habitual silence; unwillingness to talk.",
+   "B": "Wrong: Unwillingness to speak openly.",
+   "C": "Correct: The quality of being loud and noisy.",
+   "D": "Wrong: A habit of using few words."
+  }
+ }
+]

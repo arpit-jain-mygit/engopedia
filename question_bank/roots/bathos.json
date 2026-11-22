@@ -1,0 +1,20 @@
+[
+ {
+  "word": "bathophobia",
+  "question": "She freezes at the edge of a swimming pool, unable to look down into the water, even though she swims well. Her fear is of:",
+  "options": [
+   "Thalassophobia",
+   "Kenophobia",
+   "Climacophobia",
+   "Bathophobia"
+  ],
+  "correct": "D",
+  "explanation": "Bathos (depth) + phobia = fear of depths.",
+  "reasons": {
+   "A": "Wrong: fear of the sea or oceans, not of a pool.",
+   "B": "Wrong: fear of emptiness.",
+   "C": "Wrong: fear of stairs.",
+   "D": "Correct: bathos means depth, so the fear is of depths."
+  }
+ }
+]

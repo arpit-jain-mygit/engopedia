@@ -1,0 +1,20 @@
+[
+ {
+  "word": "peniophobia",
+  "question": "A wealthy man lives in constant dread that he will someday lose everything and end up with nothing. He fears:",
+  "options": [
+   "Plutophobia",
+   "Algophobia",
+   "Peniophobia",
+   "Thanatophobia"
+  ],
+  "correct": "C",
+  "explanation": "Penia (poverty) + phobia = fear of poverty.",
+  "reasons": {
+   "A": "Wrong: fear of wealth itself, the opposite fear.",
+   "B": "Wrong: fear of pain.",
+   "C": "Correct: penia means poverty, so the fear is of poverty.",
+   "D": "Wrong: fear of death."
+  }
+ }
+]

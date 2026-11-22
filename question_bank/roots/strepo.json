@@ -1,0 +1,20 @@
+[
+ {
+  "word": "obstreperous",
+  "question": "The passengers kept shouting and ignored every instruction from the guard, so the guard struggled to control them. They were:",
+  "options": [
+   "Obstreperous",
+   "Querulous",
+   "Pusillanimous",
+   "Sanguine"
+  ],
+  "correct": "A",
+  "explanation": "Ob- (against) + strepo (make noise) + -ous: noisy and resisting control.",
+  "reasons": {
+   "A": "Correct: noisy, unruly and hard to control.",
+   "B": "Wrong: complaining or whining.",
+   "C": "Wrong: timid and cowardly.",
+   "D": "Wrong: cheerful and hopeful."
+  }
+ }
+]

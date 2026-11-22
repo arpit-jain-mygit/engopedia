@@ -1,0 +1,20 @@
+[
+ {
+  "word": "chromophobia",
+  "question": "She refuses any room painted in vivid tints, wears only grey and black, and panics at any bright shade. Her fear is of:",
+  "options": [
+   "Chromophobia",
+   "Erythrophobia",
+   "Photophobia",
+   "Cibophobia"
+  ],
+  "correct": "A",
+  "explanation": "Chroma (colour) + phobia = fear of colours.",
+  "reasons": {
+   "A": "Correct: chroma means colour, so the fear is of colours.",
+   "B": "Wrong: fear of red only, not all bright shades.",
+   "C": "Wrong: fear of light, not of the shades themselves.",
+   "D": "Wrong: fear of food."
+  }
+ }
+]

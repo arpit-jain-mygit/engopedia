@@ -1,0 +1,20 @@
+[
+ {
+  "word": "licentious",
+  "question": "The ruler's court ignored every moral rule, indulging in sexual excess and debauchery. The court was:",
+  "options": [
+   "Licit",
+   "Licentious",
+   "Puritanical",
+   "Lenient"
+  ],
+  "correct": "B",
+  "explanation": "Licere (to be permitted) + -ous: taking freedom beyond what is allowed.",
+  "reasons": {
+   "A": "Wrong: lawful and permitted; the opposite of this court.",
+   "B": "Correct: disregarding moral rules; sexually immoral.",
+   "C": "Wrong: strictly moral; the opposite of this court.",
+   "D": "Wrong: mild and forgiving, not debauched."
+  }
+ }
+]

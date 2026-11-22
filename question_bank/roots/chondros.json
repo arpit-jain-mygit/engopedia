@@ -1,0 +1,56 @@
+[
+ {
+  "word": "hypochondria",
+  "question": "Her constant worry about imaginary illnesses made her feel sick all the time. This excessive worry about health is:",
+  "options": [
+   "neurosis",
+   "psychosis",
+   "hypochondria",
+   "neuralgia"
+  ],
+  "correct": "C",
+  "explanation": "hypochondria: Excessive worry about one's health.",
+  "reasons": {
+   "A": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "B": "Wrong: A serious mental disorder that loses contact with reality.",
+   "C": "Correct: Excessive worry about one's health.",
+   "D": "Wrong: Acute pain along the nerves."
+  }
+ },
+ {
+  "word": "hypochondriac",
+  "question": "He constantly imagined he had serious diseases and worried about his health. He was a:",
+  "options": [
+   "misanthrope",
+   "egomaniac",
+   "dipsomaniac",
+   "hypochondriac"
+  ],
+  "correct": "D",
+  "explanation": "hypochondriac: A person who imagines illness; a worrier about health.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: A person with an obsession with his own needs and ambitions.",
+   "C": "Wrong: A person with a craving for alcohol.",
+   "D": "Correct: A person who imagines illness; a worrier about health."
+  }
+ },
+ {
+  "word": "hypochondriacal",
+  "question": "Her worries about her health were excessive and imagined. Her worries were:",
+  "options": [
+   "hypochondriacal",
+   "neurotic",
+   "psychotic",
+   "pathological"
+  ],
+  "correct": "A",
+  "explanation": "hypochondriacal: Excessively worried about illness.",
+  "reasons": {
+   "A": "Correct: Excessively worried about illness.",
+   "B": "Wrong: Suffering from a neurosis; a person with one.",
+   "C": "Wrong: Having a psychosis; out of touch with reality.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "word": "obviate",
+  "question": "The new rule made the old checks unnecessary and removed the need for them. It would:",
+  "options": [
+   "obviate",
+   "alleviate",
+   "levitate",
+   "intimate"
+  ],
+  "correct": "A",
+  "explanation": "obviate: To make unnecessary or remove the need for.",
+  "reasons": {
+   "A": "Correct: To make unnecessary or remove the need for.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "obviation",
+  "question": "The new software removed the need for manual checks entirely. This removal of need is:",
+  "options": [
+   "alleviation",
+   "obviation",
+   "levitation",
+   "trepidation"
+  ],
+  "correct": "B",
+  "explanation": "obviation: The act of preventing or removing a need.",
+  "reasons": {
+   "A": "Wrong: Relief from pain or trouble.",
+   "B": "Correct: The act of preventing or removing a need.",
+   "C": "Wrong: Rising into the air without visible support.",
+   "D": "Wrong: Fear, nervousness, or alarm."
+  }
+ },
+ {
+  "word": "trivia",
+  "question": "The quiz covered unimportant facts and small details about everything. Such facts are:",
+  "options": [
+   "omnibus",
+   "tome",
+   "trivia",
+   "epitome"
+  ],
+  "correct": "C",
+  "explanation": "trivia: Unimportant things or details.",
+  "reasons": {
+   "A": "Wrong: A book or law covering many things; a bus for all.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: Unimportant things or details.",
+   "D": "Wrong: A perfect example; a short summary."
+  }
+ },
+ {
+  "word": "trivial",
+  "question": "The mistake was unimportant and of little value, hardly worth noticing. It was:",
+  "options": [
+   "cogent",
+   "vital",
+   "vivid",
+   "trivial"
+  ],
+  "correct": "D",
+  "explanation": "trivial: Unimportant; of little value.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Essential to life; very important.",
+   "C": "Wrong: Full of life and freshness; bright or sharp.",
+   "D": "Correct: Unimportant; of little value."
+  }
+ },
+ {
+  "word": "trivialities",
+  "question": "She was distracted by unimportant matters and small concerns. Such things are her:",
+  "options": [
+   "trivialities",
+   "vitality",
+   "decadence",
+   "revitalization"
+  ],
+  "correct": "A",
+  "explanation": "trivialities: Unimportant matters or small things.",
+  "reasons": {
+   "A": "Correct: Unimportant matters or small things.",
+   "B": "Wrong: Energy and strength for life.",
+   "C": "Wrong: Moral or physical decay.",
+   "D": "Wrong: The act of giving new life or vigor."
+  }
+ }
+]

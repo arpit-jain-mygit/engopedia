@@ -1,0 +1,38 @@
+[
+ {
+  "word": "suicide",
+  "question": "A man ends his own life after years of despair. This act of killing oneself is called:",
+  "options": [
+   "Homicide",
+   "Parricide",
+   "Suicide",
+   "Regicide"
+  ],
+  "correct": "C",
+  "explanation": "Sui (of oneself) + -cide (killing): killing oneself.",
+  "reasons": {
+   "A": "Wrong: the killing of another person.",
+   "B": "Wrong: killing one's parent.",
+   "C": "Correct: the act of killing oneself.",
+   "D": "Wrong: killing a king or queen."
+  }
+ },
+ {
+  "word": "suicidal",
+  "question": "A patient who talks about wanting to end their own life is described as:",
+  "options": [
+   "Homicidal",
+   "Parricidal",
+   "Regicidal",
+   "Suicidal"
+  ],
+  "correct": "D",
+  "explanation": "Sui (of oneself) + -cide + -al: inclined to kill oneself.",
+  "reasons": {
+   "A": "Wrong: wanting to kill another person.",
+   "B": "Wrong: wanting to kill a parent.",
+   "C": "Wrong: wanting to kill a king.",
+   "D": "Correct: wanting or inclined to kill oneself."
+  }
+ }
+]

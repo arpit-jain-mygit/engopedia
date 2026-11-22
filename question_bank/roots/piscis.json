@@ -1,0 +1,20 @@
+[
+ {
+  "word": "piscine",
+  "question": "A marine biologist describes the sleek body, fins and gills of the eel, calling its form ___.",
+  "options": [
+   "Ophidian",
+   "Anserine",
+   "Aquiline",
+   "Piscine"
+  ],
+  "correct": "D",
+  "explanation": "Piscis (fish) + -ine: fish-like.",
+  "reasons": {
+   "A": "Wrong: snake-like; an eel is not a snake.",
+   "B": "Wrong: goose-like, or silly.",
+   "C": "Wrong: eagle-like or hooked, like an eagle's beak.",
+   "D": "Correct: fish-like."
+  }
+ }
+]

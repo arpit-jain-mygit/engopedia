@@ -1,0 +1,56 @@
+[
+ {
+  "word": "platitude",
+  "question": "The speaker repeated dull, trite remarks presented as if they were new. Those remarks were:",
+  "options": [
+   "epitome",
+   "tome",
+   "platitude",
+   "colloquialism"
+  ],
+  "correct": "C",
+  "explanation": "platitude: A dull, trite remark presented as if new.",
+  "reasons": {
+   "A": "Wrong: A perfect example; a short summary.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: A dull, trite remark presented as if new.",
+   "D": "Wrong: An informal expression used in everyday speech."
+  }
+ },
+ {
+  "word": "platitudinous",
+  "question": "His speech was made of dull, trite, commonplace phrases. It was:",
+  "options": [
+   "cogent",
+   "placid",
+   "laconic",
+   "platitudinous"
+  ],
+  "correct": "D",
+  "explanation": "platitudinous: Dull, trite, and commonplace in speech.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Correct: Dull, trite, and commonplace in speech."
+  }
+ },
+ {
+  "word": "platypus",
+  "question": "The furry, egg-laying mammal with a bill and webbed feet is the:",
+  "options": [
+   "platypus",
+   "octopus",
+   "tome",
+   "omnibus"
+  ],
+  "correct": "A",
+  "explanation": "platypus: A furry, egg-laying mammal with a bill and webbed feet.",
+  "reasons": {
+   "A": "Correct: A furry, egg-laying mammal with a bill and webbed feet.",
+   "B": "Wrong: A sea creature with eight arms.",
+   "C": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "D": "Wrong: A book or law covering many things; a bus for all."
+  }
+ }
+]

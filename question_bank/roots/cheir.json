@@ -1,0 +1,200 @@
+[
+ {
+  "word": "chirographer",
+  "question": "The handwriting expert examined the signatures to see whether they were real. He was a:",
+  "options": [
+   "graphologist",
+   "calligrapher",
+   "cacographer",
+   "chirographer"
+  ],
+  "correct": "D",
+  "explanation": "chirographer: An expert in handwriting or penmanship.",
+  "reasons": {
+   "A": "Wrong: A person who analyzes handwriting to judge character.",
+   "B": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "C": "Wrong: A person who writes badly or illegibly.",
+   "D": "Correct: An expert in handwriting or penmanship."
+  }
+ },
+ {
+  "word": "chirographic",
+  "question": "The signatures were compared through their letter shapes and strokes. Their features were:",
+  "options": [
+   "chirographic",
+   "calligraphic",
+   "cacographic",
+   "geographical"
+  ],
+  "correct": "A",
+  "explanation": "chirographic: Relating to handwriting.",
+  "reasons": {
+   "A": "Correct: Relating to handwriting.",
+   "B": "Wrong: Relating to beautiful handwriting.",
+   "C": "Wrong: Pertaining to bad or illegible handwriting.",
+   "D": "Wrong: Relating to geography."
+  }
+ },
+ {
+  "word": "chirography",
+  "question": "The scribe's handwriting was neat and careful, showing the art of penmanship. This penmanship is:",
+  "options": [
+   "calligraphy",
+   "chirography",
+   "cacography",
+   "graphology"
+  ],
+  "correct": "B",
+  "explanation": "chirography: Handwriting or penmanship.",
+  "reasons": {
+   "A": "Wrong: Beautiful handwriting, practiced as an art.",
+   "B": "Correct: Handwriting or penmanship.",
+   "C": "Wrong: Bad, ugly, or illegible handwriting.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "chiromancer",
+  "question": "She claimed to tell fortunes by reading people's palms. She was a:",
+  "options": [
+   "astrologer",
+   "graphologist",
+   "chiromancer",
+   "chirographer"
+  ],
+  "correct": "C",
+  "explanation": "chiromancer: A person who reads palms.",
+  "reasons": {
+   "A": "Wrong: A person who studies the stars to predict human events.",
+   "B": "Wrong: A person who analyzes handwriting to judge character.",
+   "C": "Correct: A person who reads palms.",
+   "D": "Wrong: An expert in handwriting or penmanship."
+  }
+ },
+ {
+  "word": "chiromancy",
+  "question": "Foretelling the future by reading the lines of the palm is called:",
+  "options": [
+   "astrology",
+   "graphology",
+   "chirography",
+   "chiromancy"
+  ],
+  "correct": "D",
+  "explanation": "chiromancy: Palm reading; foretelling the future by the hand.",
+  "reasons": {
+   "A": "Wrong: The belief that the stars and planets affect human events.",
+   "B": "Wrong: The study of handwriting to judge character.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Correct: Palm reading; foretelling the future by the hand."
+  }
+ },
+ {
+  "word": "chiromantic",
+  "question": "The fortune teller used palm-reading methods. Her methods were:",
+  "options": [
+   "chiromantic",
+   "astrological",
+   "calligraphic",
+   "chirographic"
+  ],
+  "correct": "A",
+  "explanation": "chiromantic: Relating to palm reading.",
+  "reasons": {
+   "A": "Correct: Relating to palm reading.",
+   "B": "Wrong: Relating to astrology.",
+   "C": "Wrong: Relating to beautiful handwriting.",
+   "D": "Wrong: Relating to handwriting."
+  }
+ },
+ {
+  "word": "chirophobia",
+  "question": "She could not bear to touch hands, fearing them. Her fear is:",
+  "options": [
+   "trichophobia",
+   "chirophobia",
+   "dermatophobia",
+   "ophthalmophobia"
+  ],
+  "correct": "B",
+  "explanation": "chirophobia: Fear of hands.",
+  "reasons": {
+   "A": "Wrong: Fear of hair.",
+   "B": "Correct: Fear of hands.",
+   "C": "Wrong: Fear of skin.",
+   "D": "Wrong: Fear of eyes."
+  }
+ },
+ {
+  "word": "chiropodist",
+  "question": "The doctor who treated foot ailments, a title used in the past, was a:",
+  "options": [
+   "psychiatrist",
+   "pediatrician",
+   "chiropodist",
+   "geriatrician"
+  ],
+  "correct": "C",
+  "explanation": "chiropodist: An earlier title for a podiatrist.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats mental and emotional disorders.",
+   "B": "Wrong: A doctor who treats children.",
+   "C": "Correct: An earlier title for a podiatrist.",
+   "D": "Wrong: A doctor who specializes in the elderly."
+  }
+ },
+ {
+  "word": "chiropody",
+  "question": "The treatment of minor foot ailments is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "psychiatry",
+   "chiropody"
+  ],
+  "correct": "D",
+  "explanation": "chiropody: The treatment of minor foot ailments.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Wrong: The medical treatment of mental disorders.",
+   "D": "Correct: The treatment of minor foot ailments."
+  }
+ },
+ {
+  "word": "chiropractic",
+  "question": "The system of treating the body by adjusting the spine is called:",
+  "options": [
+   "chiropractic",
+   "acupuncture",
+   "orthodontic",
+   "endodontic"
+  ],
+  "correct": "A",
+  "explanation": "chiropractic: Relating to the manipulation of the spine to relieve pressure on nerves.",
+  "reasons": {
+   "A": "Correct: Relating to the manipulation of the spine to relieve pressure on nerves.",
+   "B": "Wrong: Treatment using thin needles inserted into the body.",
+   "C": "Wrong: Relating to the straightening of teeth.",
+   "D": "Wrong: Relating to root-canal treatment."
+  }
+ },
+ {
+  "word": "chiropractor",
+  "question": "The practitioner who adjusts the spine to relieve back pain is a:",
+  "options": [
+   "podiatrist",
+   "chiropractor",
+   "pediatrician",
+   "psychiatrist"
+  ],
+  "correct": "B",
+  "explanation": "chiropractor: A practitioner who treats the spine and nervous system by manipulation.",
+  "reasons": {
+   "A": "Wrong: A practitioner who treats minor foot ailments.",
+   "B": "Correct: A practitioner who treats the spine and nervous system by manipulation.",
+   "C": "Wrong: A doctor who treats children.",
+   "D": "Wrong: A doctor who treats mental and emotional disorders."
+  }
+ }
+]

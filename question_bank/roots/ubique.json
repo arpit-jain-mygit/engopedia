@@ -1,0 +1,56 @@
+[
+ {
+  "word": "ubiquitous",
+  "question": "The mobile phones were found everywhere in the city, present wherever you looked. They were:",
+  "options": [
+   "benign",
+   "placid",
+   "reticent",
+   "ubiquitous"
+  ],
+  "correct": "D",
+  "explanation": "ubiquitous: Found everywhere.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "D": "Correct: Found everywhere."
+  }
+ },
+ {
+  "word": "ubiquitousness",
+  "question": "The phones' presence in every place was striking. Their quality of being everywhere is:",
+  "options": [
+   "ubiquitousness",
+   "taciturnity",
+   "reticence",
+   "placidity"
+  ],
+  "correct": "A",
+  "explanation": "ubiquitousness: The quality of being found everywhere.",
+  "reasons": {
+   "A": "Correct: The quality of being found everywhere.",
+   "B": "Wrong: Habitual silence; unwillingness to talk.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ },
+ {
+  "word": "ubiquity",
+  "question": "The state of being found everywhere was the trait of the ads. This trait is:",
+  "options": [
+   "animosity",
+   "ubiquity",
+   "placidity",
+   "vivacity"
+  ],
+  "correct": "B",
+  "explanation": "ubiquity: The state of being everywhere.",
+  "reasons": {
+   "A": "Wrong: Strong dislike; hostility.",
+   "B": "Correct: The state of being everywhere.",
+   "C": "Wrong: Calmness; peacefulness.",
+   "D": "Wrong: Liveliness; high spirits."
+  }
+ }
+]

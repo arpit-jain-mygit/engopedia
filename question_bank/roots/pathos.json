@@ -1,0 +1,416 @@
+[
+ {
+  "word": "antipathetic",
+  "question": "Her manner was openly hostile, showing strong dislike toward the new policy. Her manner was:",
+  "options": [
+   "antipathetic",
+   "sympathetic",
+   "apathetic",
+   "empathetic"
+  ],
+  "correct": "A",
+  "explanation": "antipathetic: Showing strong dislike or opposition.",
+  "reasons": {
+   "A": "Correct: Showing strong dislike or opposition.",
+   "B": "Wrong: Showing understanding and sharing another's feelings.",
+   "C": "Wrong: Showing no interest or feeling.",
+   "D": "Wrong: Understanding the feelings of another person."
+  }
+ },
+ {
+  "word": "antipathy",
+  "question": "There was a deep, mutual dislike between the two rival teams. Their feeling is:",
+  "options": [
+   "sympathy",
+   "antipathy",
+   "empathy",
+   "apathy"
+  ],
+  "correct": "B",
+  "explanation": "antipathy: A strong feeling of dislike or hostility.",
+  "reasons": {
+   "A": "Wrong: A feeling of pity or of sharing another's feelings.",
+   "B": "Correct: A strong feeling of dislike or hostility.",
+   "C": "Wrong: Identification with another's feelings, as if they were your own.",
+   "D": "Wrong: A lack of feeling, interest, or concern."
+  }
+ },
+ {
+  "word": "apathetic",
+  "question": "The students showed no interest at all in the lecture, lounging and yawning. They were:",
+  "options": [
+   "sympathetic",
+   "empathetic",
+   "apathetic",
+   "antipathetic"
+  ],
+  "correct": "C",
+  "explanation": "apathetic: Showing no interest or feeling.",
+  "reasons": {
+   "A": "Wrong: Showing understanding and sharing another's feelings.",
+   "B": "Wrong: Understanding the feelings of another person.",
+   "C": "Correct: Showing no interest or feeling.",
+   "D": "Wrong: Showing strong dislike or opposition."
+  }
+ },
+ {
+  "word": "apathy",
+  "question": "The voters' lack of interest in the election was clear; they simply did not care. Their indifference is:",
+  "options": [
+   "sympathy",
+   "empathy",
+   "antipathy",
+   "apathy"
+  ],
+  "correct": "D",
+  "explanation": "apathy: A lack of feeling, interest, or concern.",
+  "reasons": {
+   "A": "Wrong: A feeling of pity or of sharing another's feelings.",
+   "B": "Wrong: Identification with another's feelings, as if they were your own.",
+   "C": "Wrong: A strong feeling of dislike or hostility.",
+   "D": "Correct: A lack of feeling, interest, or concern."
+  }
+ },
+ {
+  "word": "empathetic",
+  "question": "She listened carefully and understood exactly how her friend felt. She was:",
+  "options": [
+   "empathetic",
+   "apathetic",
+   "antipathetic",
+   "stoical"
+  ],
+  "correct": "A",
+  "explanation": "empathetic: Understanding the feelings of another person.",
+  "reasons": {
+   "A": "Correct: Understanding the feelings of another person.",
+   "B": "Wrong: Showing no interest or feeling.",
+   "C": "Wrong: Showing strong dislike or opposition.",
+   "D": "Wrong: Bearing pain and trouble calmly, without complaint."
+  }
+ },
+ {
+  "word": "empathize",
+  "question": "The nurse tried to understand and identify with the patient's fear. She would:",
+  "options": [
+   "vacillate",
+   "empathize",
+   "levitate",
+   "equivocate"
+  ],
+  "correct": "B",
+  "explanation": "empathize: To identify with another's feelings.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Correct: To identify with another's feelings.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To use vague words on purpose to avoid a clear answer."
+  }
+ },
+ {
+  "word": "empathy",
+  "question": "Her ability to feel what another person feels was clear to all. This ability is:",
+  "options": [
+   "apathy",
+   "antipathy",
+   "empathy",
+   "ennui"
+  ],
+  "correct": "C",
+  "explanation": "empathy: Identification with another's feelings, as if they were your own.",
+  "reasons": {
+   "A": "Wrong: A lack of feeling, interest, or concern.",
+   "B": "Wrong: A strong feeling of dislike or hostility.",
+   "C": "Correct: Identification with another's feelings, as if they were your own.",
+   "D": "Wrong: Boredom and weariness from having too little to do."
+  }
+ },
+ {
+  "word": "osteopath",
+  "question": "The practitioner used his hands to adjust the spine and treat aches. He was an:",
+  "options": [
+   "psychopath",
+   "pathologist",
+   "neurologist",
+   "osteopath"
+  ],
+  "correct": "D",
+  "explanation": "osteopath: A practitioner who treats disease through manipulating bones and muscles.",
+  "reasons": {
+   "A": "Wrong: A person who lacks social conscience and often acts antisocially.",
+   "B": "Wrong: An expert who examines tissue to diagnose disease.",
+   "C": "Wrong: A doctor who treats the nervous system.",
+   "D": "Correct: A practitioner who treats disease through manipulating bones and muscles."
+  }
+ },
+ {
+  "word": "osteopathic",
+  "question": "The clinic used hands-on methods to treat bone and muscle problems. Its method was:",
+  "options": [
+   "osteopathic",
+   "pathological",
+   "psychotic",
+   "neurotic"
+  ],
+  "correct": "A",
+  "explanation": "osteopathic: Relating to osteopathy.",
+  "reasons": {
+   "A": "Correct: Relating to osteopathy.",
+   "B": "Wrong: Diseased; relating to a disease.",
+   "C": "Wrong: Having a psychosis; out of touch with reality.",
+   "D": "Wrong: Suffering from a neurosis; a person with one."
+  }
+ },
+ {
+  "word": "osteopathy",
+  "question": "The hands-on method for treating aches through the bones and muscles is called:",
+  "options": [
+   "pathology",
+   "osteopathy",
+   "neurology",
+   "dermatology"
+  ],
+  "correct": "B",
+  "explanation": "osteopathy: A system of treating disease by manipulating bones and muscles.",
+  "reasons": {
+   "A": "Wrong: The study of disease, its nature, and its cause.",
+   "B": "Correct: A system of treating disease by manipulating bones and muscles.",
+   "C": "Wrong: The study of the nervous system.",
+   "D": "Wrong: The study of skin and its diseases."
+  }
+ },
+ {
+  "word": "pathetic",
+  "question": "The poor, sad, ragged puppy in the rain looked so miserable that it made people weep. It was:",
+  "options": [
+   "euphoric",
+   "stoical",
+   "pathetic",
+   "apathetic"
+  ],
+  "correct": "C",
+  "explanation": "pathetic: Arousing sorrow or pity; suffering.",
+  "reasons": {
+   "A": "Wrong: Feeling great joy and excitement.",
+   "B": "Wrong: Bearing pain and trouble calmly, without complaint.",
+   "C": "Correct: Arousing sorrow or pity; suffering.",
+   "D": "Wrong: Showing no interest or feeling."
+  }
+ },
+ {
+  "word": "pathological",
+  "question": "The lab found diseased, abnormal tissue in the sample. The sample was:",
+  "options": [
+   "psychological",
+   "sociological",
+   "theological",
+   "pathological"
+  ],
+  "correct": "D",
+  "explanation": "pathological: Diseased; relating to a disease.",
+  "reasons": {
+   "A": "Wrong: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to the study of society.",
+   "C": "Wrong: Relating to the study of God and religion.",
+   "D": "Correct: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "pathologist",
+  "question": "The doctor who examines tissue to find the cause of a disease is a:",
+  "options": [
+   "pathologist",
+   "psychologist",
+   "sociologist",
+   "theologian"
+  ],
+  "correct": "A",
+  "explanation": "pathologist: An expert who examines tissue to diagnose disease.",
+  "reasons": {
+   "A": "Correct: An expert who examines tissue to diagnose disease.",
+   "B": "Wrong: A specialist who studies human behavior.",
+   "C": "Wrong: A scientist who studies human society and social groups.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "pathology",
+  "question": "The study of the nature and causes of disease is called:",
+  "options": [
+   "psychology",
+   "pathology",
+   "sociology",
+   "theology"
+  ],
+  "correct": "B",
+  "explanation": "pathology: The study of disease, its nature, and its cause.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Correct: The study of disease, its nature, and its cause.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "pathophobia",
+  "question": "She dreaded every illness and avoided doctors for fear of disease. Her fear is called:",
+  "options": [
+   "acrophobia",
+   "claustrophobia",
+   "pathophobia",
+   "hydrophobia"
+  ],
+  "correct": "C",
+  "explanation": "pathophobia: Fear of disease.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of heights.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Correct: Fear of disease.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "psychopath",
+  "question": "The man who lacked any conscience and showed no remorse for harm was a:",
+  "options": [
+   "misanthrope",
+   "sycophant",
+   "egoist",
+   "psychopath"
+  ],
+  "correct": "D",
+  "explanation": "psychopath: A person who lacks social conscience and often acts antisocially.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: A person who flatters the powerful to gain favor.",
+   "C": "Wrong: One who is excessively concerned with his own desires and needs.",
+   "D": "Correct: A person who lacks social conscience and often acts antisocially."
+  }
+ },
+ {
+  "word": "psychopathic",
+  "question": "His cold, conscienceless behaviour was typical of a personality lacking a moral sense. His behaviour was:",
+  "options": [
+   "psychopathic",
+   "benevolent",
+   "altruistic",
+   "pathetic"
+  ],
+  "correct": "A",
+  "explanation": "psychopathic: Lacking an inner moral censor; describing a psychopath.",
+  "reasons": {
+   "A": "Correct: Lacking an inner moral censor; describing a psychopath.",
+   "B": "Wrong: Kind, well disposed, and wishing good for others.",
+   "C": "Wrong: Showing concern for others; unselfish.",
+   "D": "Wrong: Arousing sorrow or pity; suffering."
+  }
+ },
+ {
+  "word": "psychopathy",
+  "question": "A personality that lacks a conscience is said to show:",
+  "options": [
+   "apathy",
+   "psychopathy",
+   "empathy",
+   "sympathy"
+  ],
+  "correct": "B",
+  "explanation": "psychopathy: A personality that lacks a conscience.",
+  "reasons": {
+   "A": "Wrong: A lack of feeling, interest, or concern.",
+   "B": "Correct: A personality that lacks a conscience.",
+   "C": "Wrong: Identification with another's feelings, as if they were your own.",
+   "D": "Wrong: A feeling of pity or of sharing another's feelings."
+  }
+ },
+ {
+  "word": "sympathetic",
+  "question": "She was understanding and shared her friend's sorrow. She was:",
+  "options": [
+   "apathetic",
+   "antipathetic",
+   "sympathetic",
+   "stoical"
+  ],
+  "correct": "C",
+  "explanation": "sympathetic: Showing understanding and sharing another's feelings.",
+  "reasons": {
+   "A": "Wrong: Showing no interest or feeling.",
+   "B": "Wrong: Showing strong dislike or opposition.",
+   "C": "Correct: Showing understanding and sharing another's feelings.",
+   "D": "Wrong: Bearing pain and trouble calmly, without complaint."
+  }
+ },
+ {
+  "word": "sympathize",
+  "question": "When her friend lost his job, she shared his feelings of disappointment. She could:",
+  "options": [
+   "alleviate",
+   "relieve",
+   "elevate",
+   "sympathize"
+  ],
+  "correct": "D",
+  "explanation": "sympathize: To share the feelings of another.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Wrong: To ease pain or trouble.",
+   "C": "Wrong: To raise up to a higher position or level.",
+   "D": "Correct: To share the feelings of another."
+  }
+ },
+ {
+  "word": "sympathy",
+  "question": "The villagers showed deep pity and shared sorrow for the family's loss. Their feeling is:",
+  "options": [
+   "sympathy",
+   "apathy",
+   "antipathy",
+   "empathy"
+  ],
+  "correct": "A",
+  "explanation": "sympathy: A feeling of pity or of sharing another's feelings.",
+  "reasons": {
+   "A": "Correct: A feeling of pity or of sharing another's feelings.",
+   "B": "Wrong: A lack of feeling, interest, or concern.",
+   "C": "Wrong: A strong feeling of dislike or hostility.",
+   "D": "Wrong: Identification with another's feelings, as if they were your own."
+  }
+ },
+ {
+  "word": "telepathic",
+  "question": "The twins seemed able to read each other's thoughts without speaking. Their link was:",
+  "options": [
+   "psychosomatic",
+   "telepathic",
+   "psychogenic",
+   "psychotic"
+  ],
+  "correct": "B",
+  "explanation": "telepathic: Relating to communication of thoughts at a distance.",
+  "reasons": {
+   "A": "Wrong: A physical illness caused by the mind.",
+   "B": "Correct: Relating to communication of thoughts at a distance.",
+   "C": "Wrong: Originating in the mind.",
+   "D": "Wrong: Having a psychosis; out of touch with reality."
+  }
+ },
+ {
+  "word": "telepathy",
+  "question": "The woman claimed she could send her thoughts to others at a distance. This communication of thoughts is:",
+  "options": [
+   "psychosis",
+   "psychology",
+   "telepathy",
+   "psychotherapy"
+  ],
+  "correct": "C",
+  "explanation": "telepathy: Communication of thoughts from a distance without the senses.",
+  "reasons": {
+   "A": "Wrong: A serious mental disorder that loses contact with reality.",
+   "B": "Wrong: The study of the mind and behavior.",
+   "C": "Correct: Communication of thoughts from a distance without the senses.",
+   "D": "Wrong: Treatment of mental or emotional problems by talking and counseling."
+  }
+ }
+]

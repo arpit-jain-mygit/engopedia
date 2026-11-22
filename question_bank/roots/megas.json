@@ -1,0 +1,20 @@
+[
+ {
+  "word": "megalophobia",
+  "question": "A child screams beneath a towering statue and begs to leave the enormous cathedral. Her fear is of:",
+  "options": [
+   "Megalophobia",
+   "Microphobia",
+   "Polyphobia",
+   "Acrophobia"
+  ],
+  "correct": "A",
+  "explanation": "Megas (large, great) + phobia = fear of large things.",
+  "reasons": {
+   "A": "Correct: megas means large or great, so the fear is of large things.",
+   "B": "Wrong: fear of small things, the opposite fear.",
+   "C": "Wrong: fear of many things.",
+   "D": "Wrong: fear of heights."
+  }
+ }
+]

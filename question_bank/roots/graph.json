@@ -1,0 +1,434 @@
+[
+ {
+  "word": "autobiographer",
+  "question": "A man wrote the full story of his own life, from childhood to old age. He is an:",
+  "options": [
+   "biographer",
+   "autobiographer",
+   "cacographer",
+   "calligrapher"
+  ],
+  "correct": "B",
+  "explanation": "autobiographer: A person who writes his or her own life story.",
+  "reasons": {
+   "A": "Wrong: A person who writes the story of someone's life.",
+   "B": "Correct: A person who writes his or her own life story.",
+   "C": "Wrong: A person who writes badly or illegibly.",
+   "D": "Wrong: A person who writes beautiful script for announcements and cards."
+  }
+ },
+ {
+  "word": "autobiographical",
+  "question": "The novel drew heavily on the author's own life story, so it was:",
+  "options": [
+   "biographical",
+   "graphological",
+   "autobiographical",
+   "calligraphic"
+  ],
+  "correct": "C",
+  "explanation": "autobiographical: Relating to a person's own life story.",
+  "reasons": {
+   "A": "Wrong: Relating to the story of a person's life.",
+   "B": "Wrong: Relating to the study of handwriting.",
+   "C": "Correct: Relating to a person's own life story.",
+   "D": "Wrong: Relating to beautiful handwriting."
+  }
+ },
+ {
+  "word": "autobiography",
+  "question": "She published a book about her childhood, told in her own words. The book is an:",
+  "options": [
+   "biography",
+   "cacography",
+   "chirography",
+   "autobiography"
+  ],
+  "correct": "D",
+  "explanation": "autobiography: A life story written by the person it describes.",
+  "reasons": {
+   "A": "Wrong: A written account of a person's life.",
+   "B": "Wrong: Bad, ugly, or illegible handwriting.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Correct: A life story written by the person it describes."
+  }
+ },
+ {
+  "word": "biographer",
+  "question": "He spent years researching the life of the poet and wrote a detailed account of it. He is a:",
+  "options": [
+   "biographer",
+   "autobiographer",
+   "chirographer",
+   "graphologist"
+  ],
+  "correct": "A",
+  "explanation": "biographer: A person who writes the story of someone's life.",
+  "reasons": {
+   "A": "Correct: A person who writes the story of someone's life.",
+   "B": "Wrong: A person who writes his or her own life story.",
+   "C": "Wrong: An expert in handwriting or penmanship.",
+   "D": "Wrong: A person who analyzes handwriting to judge character."
+  }
+ },
+ {
+  "word": "biographical",
+  "question": "The museum display gave facts about the composer's life and career. The details were:",
+  "options": [
+   "cacographic",
+   "biographical",
+   "chirographic",
+   "geographical"
+  ],
+  "correct": "B",
+  "explanation": "biographical: Relating to the story of a person's life.",
+  "reasons": {
+   "A": "Wrong: Pertaining to bad or illegible handwriting.",
+   "B": "Correct: Relating to the story of a person's life.",
+   "C": "Wrong: Relating to handwriting.",
+   "D": "Wrong: Relating to geography."
+  }
+ },
+ {
+  "word": "biography",
+  "question": "A detailed written account of Gandhi's life fills the whole shelf. Such a written account of a life is a:",
+  "options": [
+   "cacography",
+   "calligraphy",
+   "biography",
+   "chirography"
+  ],
+  "correct": "C",
+  "explanation": "biography: A written account of a person's life.",
+  "reasons": {
+   "A": "Wrong: Bad, ugly, or illegible handwriting.",
+   "B": "Wrong: Beautiful handwriting, practiced as an art.",
+   "C": "Correct: A written account of a person's life.",
+   "D": "Wrong: Handwriting or penmanship."
+  }
+ },
+ {
+  "word": "cacographer",
+  "question": "The clerk wrote in such messy, illegible handwriting that nobody could read his notes. He was a bad writer, a:",
+  "options": [
+   "calligrapher",
+   "chirographer",
+   "graphologist",
+   "cacographer"
+  ],
+  "correct": "D",
+  "explanation": "cacographer: A person who writes badly or illegibly.",
+  "reasons": {
+   "A": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "B": "Wrong: An expert in handwriting or penmanship.",
+   "C": "Wrong: A person who analyzes handwriting to judge character.",
+   "D": "Correct: A person who writes badly or illegibly."
+  }
+ },
+ {
+  "word": "cacographic",
+  "question": "Her ugly, illegible writing made the letters impossible to read. Her writing was:",
+  "options": [
+   "cacographic",
+   "calligraphic",
+   "chirographic",
+   "graphological"
+  ],
+  "correct": "A",
+  "explanation": "cacographic: Pertaining to bad or illegible handwriting.",
+  "reasons": {
+   "A": "Correct: Pertaining to bad or illegible handwriting.",
+   "B": "Wrong: Relating to beautiful handwriting.",
+   "C": "Wrong: Relating to handwriting.",
+   "D": "Wrong: Relating to the study of handwriting."
+  }
+ },
+ {
+  "word": "cacography",
+  "question": "Her note was so scrawled and ugly that no one could decipher it. Such bad handwriting is:",
+  "options": [
+   "calligraphy",
+   "cacography",
+   "chirography",
+   "graphology"
+  ],
+  "correct": "B",
+  "explanation": "cacography: Bad, ugly, or illegible handwriting.",
+  "reasons": {
+   "A": "Wrong: Beautiful handwriting, practiced as an art.",
+   "B": "Correct: Bad, ugly, or illegible handwriting.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "calligrapher",
+  "question": "The monk spent hours producing beautifully decorated script for the manuscript. He was a:",
+  "options": [
+   "cacographer",
+   "chirographer",
+   "calligrapher",
+   "geographer"
+  ],
+  "correct": "C",
+  "explanation": "calligrapher: A person who writes beautiful script for announcements and cards.",
+  "reasons": {
+   "A": "Wrong: A person who writes badly or illegibly.",
+   "B": "Wrong: An expert in handwriting or penmanship.",
+   "C": "Correct: A person who writes beautiful script for announcements and cards.",
+   "D": "Wrong: A scientist who studies and maps the earth's surface."
+  }
+ },
+ {
+  "word": "calligraphic",
+  "question": "The invitation was decorated with elegant, flowing lettering. Its lettering was:",
+  "options": [
+   "cacographic",
+   "chirographic",
+   "geographical",
+   "calligraphic"
+  ],
+  "correct": "D",
+  "explanation": "calligraphic: Relating to beautiful handwriting.",
+  "reasons": {
+   "A": "Wrong: Pertaining to bad or illegible handwriting.",
+   "B": "Wrong: Relating to handwriting.",
+   "C": "Wrong: Relating to geography.",
+   "D": "Correct: Relating to beautiful handwriting."
+  }
+ },
+ {
+  "word": "calligraphy",
+  "question": "The wedding card showed elegant, decorative hand-lettering done as an art. This art is:",
+  "options": [
+   "calligraphy",
+   "cacography",
+   "chirography",
+   "graphology"
+  ],
+  "correct": "A",
+  "explanation": "calligraphy: Beautiful handwriting, practiced as an art.",
+  "reasons": {
+   "A": "Correct: Beautiful handwriting, practiced as an art.",
+   "B": "Wrong: Bad, ugly, or illegible handwriting.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "chirographer",
+  "question": "An expert who studied old handwriting and penmanship was called to examine the letter. He was a:",
+  "options": [
+   "cacographer",
+   "chirographer",
+   "calligrapher",
+   "graphologist"
+  ],
+  "correct": "B",
+  "explanation": "chirographer: An expert in handwriting or penmanship.",
+  "reasons": {
+   "A": "Wrong: A person who writes badly or illegibly.",
+   "B": "Correct: An expert in handwriting or penmanship.",
+   "C": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "D": "Wrong: A person who analyzes handwriting to judge character."
+  }
+ },
+ {
+  "word": "chirographic",
+  "question": "The expert compared the signatures and their handwriting features. These features were:",
+  "options": [
+   "cacographic",
+   "calligraphic",
+   "chirographic",
+   "graphological"
+  ],
+  "correct": "C",
+  "explanation": "chirographic: Relating to handwriting.",
+  "reasons": {
+   "A": "Wrong: Pertaining to bad or illegible handwriting.",
+   "B": "Wrong: Relating to beautiful handwriting.",
+   "C": "Correct: Relating to handwriting.",
+   "D": "Wrong: Relating to the study of handwriting."
+  }
+ },
+ {
+  "word": "chirography",
+  "question": "The old manuscript showed careful, neat handwriting from the 1700s. The handwriting is its:",
+  "options": [
+   "cacography",
+   "calligraphy",
+   "graphology",
+   "chirography"
+  ],
+  "correct": "D",
+  "explanation": "chirography: Handwriting or penmanship.",
+  "reasons": {
+   "A": "Wrong: Bad, ugly, or illegible handwriting.",
+   "B": "Wrong: Beautiful handwriting, practiced as an art.",
+   "C": "Wrong: The study of handwriting to judge character.",
+   "D": "Correct: Handwriting or penmanship."
+  }
+ },
+ {
+  "word": "geographer",
+  "question": "The scientist mapped the rivers, mountains, and climate of the region. She is a:",
+  "options": [
+   "geographer",
+   "geologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "A",
+  "explanation": "geographer: A scientist who studies and maps the earth's surface.",
+  "reasons": {
+   "A": "Correct: A scientist who studies and maps the earth's surface.",
+   "B": "Wrong: A scientist who studies the earth and its rocks.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "geographical",
+  "question": "The map showed the physical features of the land and its regions. These features are:",
+  "options": [
+   "geological",
+   "geographical",
+   "biological",
+   "zoological"
+  ],
+  "correct": "B",
+  "explanation": "geographical: Relating to geography.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Correct: Relating to geography.",
+   "C": "Wrong: Relating to living things.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "geography",
+  "question": "The class studied rivers, climate, and countries of the world. The subject is:",
+  "options": [
+   "geology",
+   "biology",
+   "geography",
+   "theology"
+  ],
+  "correct": "C",
+  "explanation": "geography: The study of the earth's surface and of places on it.",
+  "reasons": {
+   "A": "Wrong: The science of the earth's composition and history.",
+   "B": "Wrong: The science of living things.",
+   "C": "Correct: The study of the earth's surface and of places on it.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "graphological",
+  "question": "The expert examined the handwriting to judge the writer's personality. Her analysis was:",
+  "options": [
+   "calligraphic",
+   "chirographic",
+   "sociological",
+   "graphological"
+  ],
+  "correct": "D",
+  "explanation": "graphological: Relating to the study of handwriting.",
+  "reasons": {
+   "A": "Wrong: Relating to beautiful handwriting.",
+   "B": "Wrong: Relating to handwriting.",
+   "C": "Wrong: Relating to the study of society.",
+   "D": "Correct: Relating to the study of handwriting."
+  }
+ },
+ {
+  "word": "graphologist",
+  "question": "The consultant analyzed the handwriting samples to judge character traits. She is a:",
+  "options": [
+   "graphologist",
+   "calligrapher",
+   "chirographer",
+   "psychologist"
+  ],
+  "correct": "A",
+  "explanation": "graphologist: A person who analyzes handwriting to judge character.",
+  "reasons": {
+   "A": "Correct: A person who analyzes handwriting to judge character.",
+   "B": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "C": "Wrong: An expert in handwriting or penmanship.",
+   "D": "Wrong: A specialist who studies human behavior."
+  }
+ },
+ {
+  "word": "graphology",
+  "question": "The science of reading handwriting to judge personality is called:",
+  "options": [
+   "geology",
+   "graphology",
+   "theology",
+   "chirography"
+  ],
+  "correct": "B",
+  "explanation": "graphology: The study of handwriting to judge character.",
+  "reasons": {
+   "A": "Wrong: The science of the earth's composition and history.",
+   "B": "Correct: The study of handwriting to judge character.",
+   "C": "Wrong: The study of God and religion.",
+   "D": "Wrong: Handwriting or penmanship."
+  }
+ },
+ {
+  "word": "phonograph",
+  "question": "The early machine recorded music on wax cylinders and played it back. This record player is a:",
+  "options": [
+   "telegraph",
+   "xylophone",
+   "phonograph",
+   "telephone"
+  ],
+  "correct": "C",
+  "explanation": "phonograph: An early machine that records and plays sound; a sound writer.",
+  "reasons": {
+   "A": "Wrong: A system that sends written messages over a distance by wire.",
+   "B": "Wrong: A musical instrument of wooden bars that sound when struck.",
+   "C": "Correct: An early machine that records and plays sound; a sound writer.",
+   "D": "Wrong: A device that carries sound over a distance."
+  }
+ },
+ {
+  "word": "photograph",
+  "question": "A picture made by light on film or a sensor is called a:",
+  "options": [
+   "telegraph",
+   "phonograph",
+   "xylophone",
+   "photograph"
+  ],
+  "correct": "D",
+  "explanation": "photograph: A picture made by light on film or a sensor; written by light.",
+  "reasons": {
+   "A": "Wrong: A system that sends written messages over a distance by wire.",
+   "B": "Wrong: An early machine that records and plays sound; a sound writer.",
+   "C": "Wrong: A musical instrument of wooden bars that sound when struck.",
+   "D": "Correct: A picture made by light on film or a sensor; written by light."
+  }
+ },
+ {
+  "word": "telegraph",
+  "question": "The system sent messages over wires using coded electrical signals. The system is the:",
+  "options": [
+   "telegraph",
+   "telephone",
+   "phonograph",
+   "photograph"
+  ],
+  "correct": "A",
+  "explanation": "telegraph: A system that sends written messages over a distance by wire.",
+  "reasons": {
+   "A": "Correct: A system that sends written messages over a distance by wire.",
+   "B": "Wrong: A device that carries sound over a distance.",
+   "C": "Wrong: An early machine that records and plays sound; a sound writer.",
+   "D": "Wrong: A picture made by light on film or a sensor; written by light."
+  }
+ }
+]

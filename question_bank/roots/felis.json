@@ -1,0 +1,20 @@
+[
+ {
+  "word": "feline",
+  "question": "She crossed the stage with soft, stealthy, graceful steps, every move quiet and controlled. Her movement was:",
+  "options": [
+   "Bovine",
+   "Feline",
+   "Canine",
+   "Avuncular"
+  ],
+  "correct": "B",
+  "explanation": "Felis (cat) + -ine: cat-like.",
+  "reasons": {
+   "A": "Wrong: slow and dull, like a cow.",
+   "B": "Correct: cat-like, graceful and stealthy.",
+   "C": "Wrong: eager and alert, like a dog.",
+   "D": "Wrong: kindly and protective, like an uncle."
+  }
+ }
+]

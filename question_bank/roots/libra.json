@@ -1,0 +1,38 @@
+[
+ {
+  "word": "equilibrium",
+  "question": "A seesaw stays perfectly level only when the forces on each end cancel out exactly. This state of perfect balance is called:",
+  "options": [
+   "Equanimity",
+   "Equity",
+   "Equinox",
+   "Equilibrium"
+  ],
+  "correct": "D",
+  "explanation": "Aequus (equal) + libra (balance, scale): equal balance.",
+  "reasons": {
+   "A": "Wrong: calm, even temper.",
+   "B": "Wrong: fairness in how people are treated.",
+   "C": "Wrong: a time of year when day and night are equal.",
+   "D": "Correct: a balance between opposing forces."
+  }
+ },
+ {
+  "word": "equilibrist",
+  "question": "A performer balances on a rope high above the crowd, keeping perfect poise at every step. This performer is a(n):",
+  "options": [
+   "Equilibrist",
+   "Equestrian",
+   "Juggler",
+   "Mime"
+  ],
+  "correct": "A",
+  "explanation": "Aequus (equal) + libra (balance): one who keeps balance.",
+  "reasons": {
+   "A": "Correct: a performer who keeps perfect balance.",
+   "B": "Wrong: a horse rider.",
+   "C": "Wrong: a performer who throws and catches objects.",
+   "D": "Wrong: a silent performer who acts with gestures."
+  }
+ }
+]

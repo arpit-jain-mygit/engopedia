@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+.pytest_cache/
+node_modules/
+dist/
+.angular/
+infra/.terraform/
+infra/*.tfstate*
+infra/tfplan
+infra/terraform.tfvars
+
+# OS and local tool files
+.DS_Store
+**/.DS_Store
+.claude/
+
+# Temporary backups made during quiz work
+scratchpad_backup/
+
+# Office lock files
+.~lock.*#

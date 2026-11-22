@@ -1,0 +1,74 @@
+[
+ {
+  "word": "diaphanous",
+  "question": "The dress was so thin and sheer that the light passed through it. The fabric was:",
+  "options": [
+   "ambiguous",
+   "voluble",
+   "diaphanous",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "diaphanous: Thin, sheer, and transparent.",
+  "reasons": {
+   "A": "Wrong: Open to more than one interpretation.",
+   "B": "Wrong: Speaking rapidly and fluently.",
+   "C": "Correct: Thin, sheer, and transparent.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "sycophancy",
+  "question": "The courtiers flattered the king constantly, fawning to win his favour. Their fawning is:",
+  "options": [
+   "asceticism",
+   "misanthropy",
+   "altruism",
+   "sycophancy"
+  ],
+  "correct": "D",
+  "explanation": "sycophancy: Fawning behavior toward the powerful.",
+  "reasons": {
+   "A": "Wrong: A life of strict self-denial and simplicity.",
+   "B": "Wrong: Hatred of the human race.",
+   "C": "Wrong: Concern for the welfare of others; selfless giving.",
+   "D": "Correct: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "sycophant",
+  "question": "The servant praised the rich man's every word to win his favour. He was a:",
+  "options": [
+   "sycophant",
+   "iconoclast",
+   "ascetic",
+   "altruist"
+  ],
+  "correct": "A",
+  "explanation": "sycophant: A person who flatters the powerful to gain favor.",
+  "reasons": {
+   "A": "Correct: A person who flatters the powerful to gain favor.",
+   "B": "Wrong: A person who attacks established beliefs and traditions.",
+   "C": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "D": "Wrong: One who is interested in the welfare of others more than his own."
+  }
+ },
+ {
+  "word": "sycophantic",
+  "question": "Her fawning, flattering manner toward the boss was obvious to everyone. Her manner was:",
+  "options": [
+   "iconoclastic",
+   "sycophantic",
+   "ascetic",
+   "placid"
+  ],
+  "correct": "B",
+  "explanation": "sycophantic: Fawning; flattering to gain favor.",
+  "reasons": {
+   "A": "Wrong: Attacking traditions and beliefs.",
+   "B": "Correct: Fawning; flattering to gain favor.",
+   "C": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ }
+]

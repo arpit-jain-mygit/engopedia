@@ -1,0 +1,20 @@
+[
+ {
+  "word": "sphygmomanometer",
+  "question": "A nurse wraps a cuff around the patient's arm and pumps it up to read the pressure in the arteries. The device is a:",
+  "options": [
+   "Stethoscope",
+   "Thermometer",
+   "Sphygmomanometer",
+   "Spirometer"
+  ],
+  "correct": "C",
+  "explanation": "Sphygmos (pulse) + manometer (pressure gauge): measures pulse pressure.",
+  "reasons": {
+   "A": "Wrong: a device for listening to heart and lung sounds.",
+   "B": "Wrong: a device for measuring temperature.",
+   "C": "Correct: a device that measures blood pressure.",
+   "D": "Wrong: a device for measuring breath capacity."
+  }
+ }
+]

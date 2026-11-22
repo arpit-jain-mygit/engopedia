@@ -1,0 +1,20 @@
+[
+ {
+  "word": "erythrophobia",
+  "question": "A girl refuses to wear her favourite dress, which is the deep shade of ripe cherries, and avoids every flower of that blush. She fears:",
+  "options": [
+   "Chromophobia",
+   "Erythrophobia",
+   "Hematophobia",
+   "Photophobia"
+  ],
+  "correct": "B",
+  "explanation": "Erythros (red) + phobia = fear of red.",
+  "reasons": {
+   "A": "Wrong: fear of all colours, not one shade alone.",
+   "B": "Correct: erythros means red, so the fear is of red.",
+   "C": "Wrong: fear of blood.",
+   "D": "Wrong: fear of light."
+  }
+ }
+]

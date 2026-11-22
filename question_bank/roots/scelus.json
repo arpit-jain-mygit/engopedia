@@ -1,0 +1,20 @@
+[
+ {
+  "word": "scelerophobia",
+  "question": "A woman checks her locks twice and keeps a light burning all night, sure that an intruder will break into her home. Her fear is of:",
+  "options": [
+   "Kleptophobia",
+   "Harpaxophobia",
+   "Scelerophobia",
+   "Xenophobia"
+  ],
+  "correct": "C",
+  "explanation": "Scelus (crime) + phobia, as listed in the appendix: fear of burglars.",
+  "reasons": {
+   "A": "Wrong: fear of stealing or thieves, a close fear but not this root.",
+   "B": "Wrong: fear of robbers, a close fear but not this root.",
+   "C": "Correct: scelus means crime, and the book's phobia names fear of burglars.",
+   "D": "Wrong: fear of strangers."
+  }
+ }
+]

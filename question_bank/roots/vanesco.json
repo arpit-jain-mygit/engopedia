@@ -1,0 +1,56 @@
+[
+ {
+  "word": "evanesce",
+  "question": "The mist began to vanish gradually as the sun rose. It would:",
+  "options": [
+   "evanesce",
+   "alleviate",
+   "levitate",
+   "intimate"
+  ],
+  "correct": "A",
+  "explanation": "evanesce: To vanish gradually from sight.",
+  "reasons": {
+   "A": "Correct: To vanish gradually from sight.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "evanescence",
+  "question": "The quick fading of the fragrance was typical of its fleeting presence. Its quality of quickly vanishing is:",
+  "options": [
+   "vacillation",
+   "evanescence",
+   "alleviation",
+   "trepidation"
+  ],
+  "correct": "B",
+  "explanation": "evanescence: The quality of quickly vanishing.",
+  "reasons": {
+   "A": "Wrong: Wavering between opinions or choices.",
+   "B": "Correct: The quality of quickly vanishing.",
+   "C": "Wrong: Relief from pain or trouble.",
+   "D": "Wrong: Fear, nervousness, or alarm."
+  }
+ },
+ {
+  "word": "evanescent",
+  "question": "The bright rainbow faded away within minutes. It was:",
+  "options": [
+   "ubiquitous",
+   "placid",
+   "evanescent",
+   "cogent"
+  ],
+  "correct": "C",
+  "explanation": "evanescent: Quickly fading; vanishing.",
+  "reasons": {
+   "A": "Wrong: Found everywhere.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Correct: Quickly fading; vanishing.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ }
+]

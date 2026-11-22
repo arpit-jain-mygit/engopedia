@@ -1,0 +1,92 @@
+[
+ {
+  "word": "calligrapher",
+  "question": "She decorated wedding invitations with elegant, flowing lettering. She is a skilled:",
+  "options": [
+   "cacographer",
+   "calligrapher",
+   "chirographer",
+   "graphologist"
+  ],
+  "correct": "B",
+  "explanation": "calligrapher: A person who writes beautiful script for announcements and cards.",
+  "reasons": {
+   "A": "Wrong: A person who writes badly or illegibly.",
+   "B": "Correct: A person who writes beautiful script for announcements and cards.",
+   "C": "Wrong: An expert in handwriting or penmanship.",
+   "D": "Wrong: A person who analyzes handwriting to judge character."
+  }
+ },
+ {
+  "word": "calligraphic",
+  "question": "The shop sold beautiful, ornate lettering on cards. The lettering was:",
+  "options": [
+   "cacographic",
+   "chirographic",
+   "calligraphic",
+   "geographical"
+  ],
+  "correct": "C",
+  "explanation": "calligraphic: Relating to beautiful handwriting.",
+  "reasons": {
+   "A": "Wrong: Pertaining to bad or illegible handwriting.",
+   "B": "Wrong: Relating to handwriting.",
+   "C": "Correct: Relating to beautiful handwriting.",
+   "D": "Wrong: Relating to geography."
+  }
+ },
+ {
+  "word": "calligraphy",
+  "question": "The art of beautiful writing taught at the monastery is called:",
+  "options": [
+   "cacography",
+   "chirography",
+   "graphology",
+   "calligraphy"
+  ],
+  "correct": "D",
+  "explanation": "calligraphy: Beautiful handwriting, practiced as an art.",
+  "reasons": {
+   "A": "Wrong: Bad, ugly, or illegible handwriting.",
+   "B": "Wrong: Handwriting or penmanship.",
+   "C": "Wrong: The study of handwriting to judge character.",
+   "D": "Correct: Beautiful handwriting, practiced as an art."
+  }
+ },
+ {
+  "word": "callipygian",
+  "question": "The statue showed a shapely, attractive figure, admired by the critics. This quality of having a shapely rear is:",
+  "options": [
+   "callipygian",
+   "cadaverous",
+   "carnal",
+   "chivalrous"
+  ],
+  "correct": "A",
+  "explanation": "callipygian: Having a shapely, attractive rear end.",
+  "reasons": {
+   "A": "Correct: Having a shapely, attractive rear end.",
+   "B": "Wrong: Thin, pale, and gaunt, like a corpse.",
+   "C": "Wrong: Relating to the body and physical pleasures.",
+   "D": "Wrong: Courteous and gallant, especially toward women."
+  }
+ },
+ {
+  "word": "callophobia",
+  "question": "She feared beauty and avoided anything lovely because it frightened her. Her fear is called:",
+  "options": [
+   "cacophobia",
+   "callophobia",
+   "chronophobia",
+   "thanatophobia"
+  ],
+  "correct": "B",
+  "explanation": "callophobia: Fear of beauty.",
+  "reasons": {
+   "A": "Wrong: Fear of ugliness.",
+   "B": "Correct: Fear of beauty.",
+   "C": "Wrong: Fear of time.",
+   "D": "Wrong: Fear of death."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "linguistics",
+  "question": "A scholar studies how children learn grammar and how sounds shift across regional dialects. Her field of study is:",
+  "options": [
+   "Lexicography",
+   "Philology",
+   "Linguistics",
+   "Typography"
+  ],
+  "correct": "C",
+  "explanation": "Lingua (tongue, language) + -istics: the study of language.",
+  "reasons": {
+   "A": "Wrong: the writing of dictionaries.",
+   "B": "Wrong: the historical study of texts.",
+   "C": "Correct: the scientific study of language.",
+   "D": "Wrong: the design and arrangement of printed letters."
+  }
+ }
+]

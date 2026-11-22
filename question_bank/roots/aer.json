@@ -1,0 +1,20 @@
+[
+ {
+  "word": "aerophobia",
+  "question": "A man refuses to open his window in a stuffy room, panicking at the thought of fresh breezes moving across his face. He has a fear of:",
+  "options": [
+   "Acrophobia",
+   "Claustrophobia",
+   "Agoraphobia",
+   "Aerophobia"
+  ],
+  "correct": "D",
+  "explanation": "Aer (air) + phobia = fear of air.",
+  "reasons": {
+   "A": "Wrong: fear of heights, not of moving air.",
+   "B": "Wrong: fear of enclosed spaces, not of air.",
+   "C": "Wrong: fear of open or crowded places.",
+   "D": "Correct: aer means air, so the fear is of air."
+  }
+ }
+]

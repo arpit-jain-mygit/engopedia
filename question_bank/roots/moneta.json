@@ -1,0 +1,20 @@
+[
+ {
+  "word": "patrimony",
+  "question": "A woman inherits her father's house, land and savings, property passed down the paternal line. Such an inheritance is called her:",
+  "options": [
+   "Matrimony",
+   "Alimony",
+   "Testimony",
+   "Patrimony"
+  ],
+  "correct": "D",
+  "explanation": "Patrimony: the inheritance passed down from one's father.",
+  "reasons": {
+   "A": "Wrong: marriage.",
+   "B": "Wrong: money paid to a former spouse after divorce.",
+   "C": "Wrong: a formal statement given in court.",
+   "D": "Correct: property inherited from one's father."
+  }
+ }
+]

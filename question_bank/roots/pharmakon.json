@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pharmacophobia",
+  "question": "A man refuses every pill his doctor prescribes, convinced that every remedy will harm him. He fears:",
+  "options": [
+   "Iatrophobia",
+   "Toxicophobia",
+   "Nosophobia",
+   "Pharmacophobia"
+  ],
+  "correct": "D",
+  "explanation": "Pharmakon (drug, medicine) + phobia = fear of medicine.",
+  "reasons": {
+   "A": "Wrong: fear of doctors.",
+   "B": "Wrong: fear of poison.",
+   "C": "Wrong: fear of illness.",
+   "D": "Correct: pharmakon means drug or medicine, so the fear is of medicine."
+  }
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "word": "monocle",
+  "question": "The old gentleman wore a single lens over one eye to read the paper. The lens is a:",
+  "options": [
+   "monocle",
+   "binoculars",
+   "barometer",
+   "podium"
+  ],
+  "correct": "A",
+  "explanation": "monocle: A lens worn over one eye.",
+  "reasons": {
+   "A": "Correct: A lens worn over one eye.",
+   "B": "Wrong: A pair of field glasses for both eyes.",
+   "C": "Wrong: An instrument that measures atmospheric pressure.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "monogamist",
+  "question": "The man who married only one spouse for his whole life was a:",
+  "options": [
+   "polygamist",
+   "monogamist",
+   "bigamist",
+   "polyandrist"
+  ],
+  "correct": "B",
+  "explanation": "monogamist: A person married to only one spouse.",
+  "reasons": {
+   "A": "Wrong: A person with more than one spouse.",
+   "B": "Correct: A person married to only one spouse.",
+   "C": "Wrong: A person who marries while already married.",
+   "D": "Wrong: A woman with more than one husband."
+  }
+ },
+ {
+  "word": "monogamous",
+  "question": "The couple lived in a marriage with only one partner each. Their marriage was:",
+  "options": [
+   "polygamous",
+   "bigamous",
+   "monogamous",
+   "polyandrous"
+  ],
+  "correct": "C",
+  "explanation": "monogamous: Married to only one person.",
+  "reasons": {
+   "A": "Wrong: Having many spouses at the same time.",
+   "B": "Wrong: Having two spouses at the same time.",
+   "C": "Correct: Married to only one person.",
+   "D": "Wrong: Relating to a woman with several husbands."
+  }
+ },
+ {
+  "word": "monogamy",
+  "question": "A marriage to only one spouse at a time is called:",
+  "options": [
+   "polygamy",
+   "bigamy",
+   "polyandry",
+   "monogamy"
+  ],
+  "correct": "D",
+  "explanation": "monogamy: Marriage to only one spouse at a time.",
+  "reasons": {
+   "A": "Wrong: Marriage with many spouses at once.",
+   "B": "Wrong: The crime of having two spouses at once.",
+   "C": "Wrong: The practice of a woman having several husbands.",
+   "D": "Correct: Marriage to only one spouse at a time."
+  }
+ },
+ {
+  "word": "monotheism",
+  "question": "The belief in one God is called:",
+  "options": [
+   "monotheism",
+   "polytheism",
+   "pantheism",
+   "atheism"
+  ],
+  "correct": "A",
+  "explanation": "monotheism: The belief in one God.",
+  "reasons": {
+   "A": "Correct: The belief in one God.",
+   "B": "Wrong: Belief in many gods.",
+   "C": "Wrong: The belief that God is in all of nature.",
+   "D": "Wrong: The belief that there is no God."
+  }
+ },
+ {
+  "word": "monotheist",
+  "question": "A person who believes in one God is a:",
+  "options": [
+   "polytheist",
+   "monotheist",
+   "pantheist",
+   "atheist"
+  ],
+  "correct": "B",
+  "explanation": "monotheist: A person who believes in one God.",
+  "reasons": {
+   "A": "Wrong: A person who believes in many gods.",
+   "B": "Correct: A person who believes in one God.",
+   "C": "Wrong: A person who believes God is in nature.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "monotheistic",
+  "question": "The religion believed in one God and worshipped only him. Its belief was:",
+  "options": [
+   "polytheistic",
+   "pantheistic",
+   "monotheistic",
+   "atheistic"
+  ],
+  "correct": "C",
+  "explanation": "monotheistic: Believing in one God.",
+  "reasons": {
+   "A": "Wrong: Believing in many gods.",
+   "B": "Wrong: Believing God is in nature.",
+   "C": "Correct: Believing in one God.",
+   "D": "Wrong: Relating to the belief that there is no God."
+  }
+ }
+]

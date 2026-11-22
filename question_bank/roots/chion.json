@@ -1,0 +1,20 @@
+[
+ {
+  "word": "chionophobia",
+  "question": "He cancels every winter trip, dreads the frost on the road and the cold white flakes that drift from the sky. His fear is of:",
+  "options": [
+   "Thermophobia",
+   "Chromophobia",
+   "Gymnophobia",
+   "Chionophobia"
+  ],
+  "correct": "D",
+  "explanation": "Chion (snow) + phobia = fear of snow.",
+  "reasons": {
+   "A": "Wrong: fear of heat, the opposite temperature.",
+   "B": "Wrong: fear of colours.",
+   "C": "Wrong: fear of nakedness.",
+   "D": "Correct: chion means snow, so the fear is of snow."
+  }
+ }
+]

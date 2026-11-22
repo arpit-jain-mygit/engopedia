@@ -1,0 +1,38 @@
+[
+ {
+  "word": "arson",
+  "question": "A man is charged with deliberately setting a warehouse alight to claim the insurance money. The crime is called:",
+  "options": [
+   "Larceny",
+   "Libel",
+   "Embezzlement",
+   "Arson"
+  ],
+  "correct": "D",
+  "explanation": "Ardo (burn): the crime of deliberately burning property.",
+  "reasons": {
+   "A": "Wrong: theft of property.",
+   "B": "Wrong: a false written statement that damages a reputation.",
+   "C": "Wrong: stealing money entrusted to one's care.",
+   "D": "Correct: the deliberate setting of fire to property, a crime."
+  }
+ },
+ {
+  "word": "arsonist",
+  "question": "A person who deliberately sets fires to buildings for profit or spite, and is then caught, is called an:",
+  "options": [
+   "Arsonist",
+   "Pyromaniac",
+   "Burglar",
+   "Forger"
+  ],
+  "correct": "A",
+  "explanation": "Ardo (burn) + -ist: one who sets buildings alight on purpose.",
+  "reasons": {
+   "A": "Correct: one who deliberately sets fires to property.",
+   "B": "Wrong: a person with an uncontrollable urge to set fires; the person here acts for profit or spite.",
+   "C": "Wrong: a person who breaks in to steal.",
+   "D": "Wrong: a person who makes false copies of documents."
+  }
+ }
+]

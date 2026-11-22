@@ -1,0 +1,74 @@
+[
+ {
+  "word": "capital",
+  "question": "The head city, where the government sits, is the country's:",
+  "options": [
+   "tome",
+   "podium",
+   "capital",
+   "tripod"
+  ],
+  "correct": "C",
+  "explanation": "capital: The head city of a state or nation.",
+  "reasons": {
+   "A": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "B": "Wrong: A speaker's platform.",
+   "C": "Correct: The head city of a state or nation.",
+   "D": "Wrong: A three-legged stand for a camera."
+  }
+ },
+ {
+  "word": "captain",
+  "question": "The head of a ship or a team is called its:",
+  "options": [
+   "tyro",
+   "martinet",
+   "potentate",
+   "captain"
+  ],
+  "correct": "D",
+  "explanation": "captain: The head of a group, such as a ship or team.",
+  "reasons": {
+   "A": "Wrong: A beginner; someone new to a field.",
+   "B": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "C": "Wrong: A powerful ruler.",
+   "D": "Correct: The head of a group, such as a ship or team."
+  }
+ },
+ {
+  "word": "decapitate",
+  "question": "The executioner was ordered to cut off the head of the prisoner. He was to:",
+  "options": [
+   "decapitate",
+   "alleviate",
+   "levitate",
+   "intimate"
+  ],
+  "correct": "A",
+  "explanation": "decapitate: To cut off the head.",
+  "reasons": {
+   "A": "Correct: To cut off the head.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "decapitation",
+  "question": "The act of cutting off a head is called:",
+  "options": [
+   "capitulation",
+   "decapitation",
+   "alleviation",
+   "levitation"
+  ],
+  "correct": "B",
+  "explanation": "decapitation: The act of cutting off the head.",
+  "reasons": {
+   "A": "Wrong: Surrender.",
+   "B": "Correct: The act of cutting off the head.",
+   "C": "Wrong: Relief from pain or trouble.",
+   "D": "Wrong: Rising into the air without visible support."
+  }
+ }
+]

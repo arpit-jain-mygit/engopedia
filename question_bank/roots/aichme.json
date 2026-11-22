@@ -1,0 +1,20 @@
+[
+ {
+  "word": "aichmophobia",
+  "question": "A surgeon's assistant trembles at any sharp, pointed instrument, even a cutting blade on the kitchen counter, and cannot stay in a room with one. Her fear is of:",
+  "options": [
+   "Aichmophobia",
+   "Belonophobia",
+   "Hematophobia",
+   "Trichophobia"
+  ],
+  "correct": "A",
+  "explanation": "Aichme (spear, point, knife) + phobia = fear of pointed things.",
+  "reasons": {
+   "A": "Correct: aichme means spear, point or knife, so the fear is of pointed things.",
+   "B": "Wrong: fear of needles, a narrower target than the sharp objects described.",
+   "C": "Wrong: fear of blood.",
+   "D": "Wrong: fear of hair."
+  }
+ }
+]

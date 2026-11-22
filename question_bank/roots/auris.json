@@ -1,0 +1,38 @@
+[
+ {
+  "word": "auricle",
+  "question": "The soft, visible outer part of the ear, made of cartilage, is called the:",
+  "options": [
+   "Cochlea",
+   "Auricle",
+   "Retina",
+   "Pupil"
+  ],
+  "correct": "B",
+  "explanation": "Auris (ear) + -cle: the outer ear.",
+  "reasons": {
+   "A": "Wrong: the snail-shaped part of the inner ear, not visible from outside.",
+   "B": "Correct: the visible outer part of the ear.",
+   "C": "Wrong: the light-sensitive layer at the back of the eye.",
+   "D": "Wrong: the opening at the centre of the eye."
+  }
+ },
+ {
+  "word": "auricular",
+  "question": "The doctor tested the patient's hearing by whispering close to the ear and checking the response. Which adjective describes this test of the ear?",
+  "options": [
+   "Ocular",
+   "Dental",
+   "Auricular",
+   "Digital"
+  ],
+  "correct": "C",
+  "explanation": "Auris (ear) + -ar: relating to the ear.",
+  "reasons": {
+   "A": "Wrong: relating to the eye.",
+   "B": "Wrong: relating to teeth.",
+   "C": "Correct: relating to the ear.",
+   "D": "Wrong: relating to fingers or digits."
+  }
+ }
+]

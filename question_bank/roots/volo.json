@@ -1,0 +1,92 @@
+[
+ {
+  "word": "benevolence",
+  "question": "The donor's kind wish to help others, shown in her generous giving, was sincere. This kindly wish is:",
+  "options": [
+   "benevolence",
+   "malevolence",
+   "malignity",
+   "malignancy"
+  ],
+  "correct": "A",
+  "explanation": "benevolence: A wish to do good for others.",
+  "reasons": {
+   "A": "Correct: A wish to do good for others.",
+   "B": "Wrong: A wish to do harm.",
+   "C": "Wrong: Deep hatred or harmfulness.",
+   "D": "Wrong: A cancerous growth; harmfulness."
+  }
+ },
+ {
+  "word": "benevolent",
+  "question": "She was a gentle, kindly woman who always wished others well. She was:",
+  "options": [
+   "malevolent",
+   "benevolent",
+   "malign",
+   "malignant"
+  ],
+  "correct": "B",
+  "explanation": "benevolent: Kind, well disposed, and wishing good for others.",
+  "reasons": {
+   "A": "Wrong: Wishing evil or harm to others.",
+   "B": "Correct: Kind, well disposed, and wishing good for others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Wrong: Harmful and deadly, with deep hatred or evil intent."
+  }
+ },
+ {
+  "word": "malevolence",
+  "question": "The villain's wish to harm others revealed his deep ill will. This wish is:",
+  "options": [
+   "benevolence",
+   "benignity",
+   "malevolence",
+   "benediction"
+  ],
+  "correct": "C",
+  "explanation": "malevolence: A wish to do harm.",
+  "reasons": {
+   "A": "Wrong: A wish to do good for others.",
+   "B": "Wrong: Kindness and gentleness of nature.",
+   "C": "Correct: A wish to do harm.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "malevolent",
+  "question": "The wicked stepmother wished harm on the children. She was:",
+  "options": [
+   "benevolent",
+   "benign",
+   "beneficent",
+   "malevolent"
+  ],
+  "correct": "D",
+  "explanation": "malevolent: Wishing evil or harm to others.",
+  "reasons": {
+   "A": "Wrong: Kind, well disposed, and wishing good for others.",
+   "B": "Wrong: Kindly, good-natured, and harmless.",
+   "C": "Wrong: Doing good; generous and kind.",
+   "D": "Correct: Wishing evil or harm to others."
+  }
+ },
+ {
+  "word": "volition",
+  "question": "She chose to leave the job by her own free will and decision. The choice was her:",
+  "options": [
+   "volition",
+   "trepidation",
+   "animosity",
+   "placidity"
+  ],
+  "correct": "A",
+  "explanation": "volition: One's own will or choice.",
+  "reasons": {
+   "A": "Correct: One's own will or choice.",
+   "B": "Wrong: Fear, nervousness, or alarm.",
+   "C": "Wrong: Strong dislike; hostility.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ }
+]

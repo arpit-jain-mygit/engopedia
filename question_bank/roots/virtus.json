@@ -1,0 +1,20 @@
+[
+ {
+  "word": "virtuoso",
+  "question": "A pianist plays so perfectly that critics call her a master of her instrument. She is a:",
+  "options": [
+   "Virtuoso",
+   "Ingenue",
+   "Virago",
+   "Amateur"
+  ],
+  "correct": "A",
+  "explanation": "Virtus (manly excellence, skill) + -oso: highly skilled.",
+  "reasons": {
+   "A": "Correct: an accomplished musician or master of an art.",
+   "B": "Wrong: an innocent, naive young woman, usually an actress.",
+   "C": "Wrong: a loud, quarrelsome woman.",
+   "D": "Wrong: someone who does a thing for love, not with mastery."
+  }
+ }
+]

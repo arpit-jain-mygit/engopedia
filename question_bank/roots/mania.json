@@ -1,0 +1,380 @@
+[
+ {
+  "word": "dipsomania",
+  "question": "He drank alcohol in such large amounts that he could not stop craving it. His craving is:",
+  "options": [
+   "kleptomania",
+   "pyromania",
+   "nymphomania",
+   "dipsomania"
+  ],
+  "correct": "D",
+  "explanation": "dipsomania: A morbid craving for alcohol.",
+  "reasons": {
+   "A": "Wrong: A compulsion to steal, often without need.",
+   "B": "Wrong: A compulsion to set fires.",
+   "C": "Wrong: Uncontrollable sexual desire in a woman.",
+   "D": "Correct: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "dipsomaniac",
+  "question": "The man with a strong craving for alcohol could not resist a drink. He was a:",
+  "options": [
+   "dipsomaniac",
+   "kleptomaniac",
+   "pyromaniac",
+   "nymphomaniac"
+  ],
+  "correct": "A",
+  "explanation": "dipsomaniac: A person with a craving for alcohol.",
+  "reasons": {
+   "A": "Correct: A person with a craving for alcohol.",
+   "B": "Wrong: A person with a compulsion to steal.",
+   "C": "Wrong: A person who sets fires for pleasure.",
+   "D": "Wrong: A woman with uncontrollable sexual desire."
+  }
+ },
+ {
+  "word": "dipsomaniacal",
+  "question": "His uncontrollable urge for drink was obvious at every party. His urge was:",
+  "options": [
+   "kleptomaniacal",
+   "dipsomaniacal",
+   "pyromaniacal",
+   "nymphomaniacal"
+  ],
+  "correct": "B",
+  "explanation": "dipsomaniacal: Relating to a craving for alcohol.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to steal.",
+   "B": "Correct: Relating to a craving for alcohol.",
+   "C": "Wrong: Relating to a compulsion to set fires.",
+   "D": "Wrong: Relating to uncontrollable sexual desire."
+  }
+ },
+ {
+  "word": "egomaniac",
+  "question": "He was obsessed with himself and always demanded attention and praise. He was an:",
+  "options": [
+   "misanthrope",
+   "altruist",
+   "egomaniac",
+   "monotheist"
+  ],
+  "correct": "C",
+  "explanation": "egomaniac: A person with an obsession with his own needs and ambitions.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: One who is interested in the welfare of others more than his own.",
+   "C": "Correct: A person with an obsession with his own needs and ambitions.",
+   "D": "Wrong: A person who believes in one God."
+  }
+ },
+ {
+  "word": "egomaniacal",
+  "question": "His obsession with his own needs and ambitions made him insufferable. His behaviour was:",
+  "options": [
+   "altruistic",
+   "misanthropic",
+   "monotheistic",
+   "egomaniacal"
+  ],
+  "correct": "D",
+  "explanation": "egomaniacal: Relating to an obsession with one's own needs.",
+  "reasons": {
+   "A": "Wrong: Showing concern for others; unselfish.",
+   "B": "Wrong: Hating mankind.",
+   "C": "Wrong: Believing in one God.",
+   "D": "Correct: Relating to an obsession with one's own needs."
+  }
+ },
+ {
+  "word": "kleptomania",
+  "question": "The wealthy woman stole small items from shops though she could afford them. Her habit is:",
+  "options": [
+   "kleptomania",
+   "pyromania",
+   "nymphomania",
+   "dipsomania"
+  ],
+  "correct": "A",
+  "explanation": "kleptomania: A compulsion to steal, often without need.",
+  "reasons": {
+   "A": "Correct: A compulsion to steal, often without need.",
+   "B": "Wrong: A compulsion to set fires.",
+   "C": "Wrong: Uncontrollable sexual desire in a woman.",
+   "D": "Wrong: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "kleptomaniac",
+  "question": "The woman with a habit of stealing things she did not need was a:",
+  "options": [
+   "pyromaniac",
+   "kleptomaniac",
+   "megalomaniac",
+   "egomaniac"
+  ],
+  "correct": "B",
+  "explanation": "kleptomaniac: A person with a compulsion to steal.",
+  "reasons": {
+   "A": "Wrong: A person who sets fires for pleasure.",
+   "B": "Correct: A person with a compulsion to steal.",
+   "C": "Wrong: A person with delusions of greatness.",
+   "D": "Wrong: A person with an obsession with his own needs and ambitions."
+  }
+ },
+ {
+  "word": "kleptomaniacal",
+  "question": "Her urge to steal things she did not need was constant. Her behaviour was:",
+  "options": [
+   "pyromaniacal",
+   "megalomaniacal",
+   "kleptomaniacal",
+   "monomaniacal"
+  ],
+  "correct": "C",
+  "explanation": "kleptomaniacal: Relating to a compulsion to steal.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to set fires.",
+   "B": "Wrong: Relating to delusions of greatness.",
+   "C": "Correct: Relating to a compulsion to steal.",
+   "D": "Wrong: Obsessed with one thing."
+  }
+ },
+ {
+  "word": "megalomania",
+  "question": "The dictator believed he was all-powerful and great beyond measure. This delusion of grandeur is:",
+  "options": [
+   "monomania",
+   "pyromania",
+   "dipsomania",
+   "megalomania"
+  ],
+  "correct": "D",
+  "explanation": "megalomania: Morbid delusions of grandeur or power.",
+  "reasons": {
+   "A": "Wrong: An abnormal obsession with one thing.",
+   "B": "Wrong: A compulsion to set fires.",
+   "C": "Wrong: A morbid craving for alcohol.",
+   "D": "Correct: Morbid delusions of grandeur or power."
+  }
+ },
+ {
+  "word": "megalomaniac",
+  "question": "The ruler who believed himself mighty and greater than anyone was a:",
+  "options": [
+   "megalomaniac",
+   "monomaniac",
+   "pyromaniac",
+   "dipsomaniac"
+  ],
+  "correct": "A",
+  "explanation": "megalomaniac: A person with delusions of greatness.",
+  "reasons": {
+   "A": "Correct: A person with delusions of greatness.",
+   "B": "Wrong: A person with a one-track mind; obsessed with one thing.",
+   "C": "Wrong: A person who sets fires for pleasure.",
+   "D": "Wrong: A person with a craving for alcohol."
+  }
+ },
+ {
+  "word": "megalomaniacal",
+  "question": "His schemes showed an obsession with his own greatness and power. His schemes were:",
+  "options": [
+   "monomaniacal",
+   "megalomaniacal",
+   "pyromaniacal",
+   "dipsomaniacal"
+  ],
+  "correct": "B",
+  "explanation": "megalomaniacal: Relating to delusions of greatness.",
+  "reasons": {
+   "A": "Wrong: Obsessed with one thing.",
+   "B": "Correct: Relating to delusions of greatness.",
+   "C": "Wrong: Relating to a compulsion to set fires.",
+   "D": "Wrong: Relating to a craving for alcohol."
+  }
+ },
+ {
+  "word": "monomania",
+  "question": "He could talk about nothing but his new invention, obsessed with one thing. This obsession is:",
+  "options": [
+   "megalomania",
+   "pyromania",
+   "monomania",
+   "nymphomania"
+  ],
+  "correct": "C",
+  "explanation": "monomania: An abnormal obsession with one thing.",
+  "reasons": {
+   "A": "Wrong: Morbid delusions of grandeur or power.",
+   "B": "Wrong: A compulsion to set fires.",
+   "C": "Correct: An abnormal obsession with one thing.",
+   "D": "Wrong: Uncontrollable sexual desire in a woman."
+  }
+ },
+ {
+  "word": "monomaniac",
+  "question": "The scientist was obsessed with a single idea and nothing else. He was a:",
+  "options": [
+   "megalomaniac",
+   "pyromaniac",
+   "nymphomaniac",
+   "monomaniac"
+  ],
+  "correct": "D",
+  "explanation": "monomaniac: A person with a one-track mind; obsessed with one thing.",
+  "reasons": {
+   "A": "Wrong: A person with delusions of greatness.",
+   "B": "Wrong: A person who sets fires for pleasure.",
+   "C": "Wrong: A woman with uncontrollable sexual desire.",
+   "D": "Correct: A person with a one-track mind; obsessed with one thing."
+  }
+ },
+ {
+  "word": "monomaniacal",
+  "question": "Her fixation on one single goal crowded out everything else. Her fixation was:",
+  "options": [
+   "monomaniacal",
+   "megalomaniacal",
+   "pyromaniacal",
+   "nymphomaniacal"
+  ],
+  "correct": "A",
+  "explanation": "monomaniacal: Obsessed with one thing.",
+  "reasons": {
+   "A": "Correct: Obsessed with one thing.",
+   "B": "Wrong: Relating to delusions of greatness.",
+   "C": "Wrong: Relating to a compulsion to set fires.",
+   "D": "Wrong: Relating to uncontrollable sexual desire."
+  }
+ },
+ {
+  "word": "nymphomania",
+  "question": "A woman with uncontrollable sexual desire is said to suffer from:",
+  "options": [
+   "satyromania",
+   "nymphomania",
+   "pyromania",
+   "dipsomania"
+  ],
+  "correct": "B",
+  "explanation": "nymphomania: Uncontrollable sexual desire in a woman.",
+  "reasons": {
+   "A": "Wrong: Uncontrollable sexual desire in a man.",
+   "B": "Correct: Uncontrollable sexual desire in a woman.",
+   "C": "Wrong: A compulsion to set fires.",
+   "D": "Wrong: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "nymphomaniac",
+  "question": "The woman with uncontrollable sexual desire was called a:",
+  "options": [
+   "dipsomaniac",
+   "pyromaniac",
+   "nymphomaniac",
+   "kleptomaniac"
+  ],
+  "correct": "C",
+  "explanation": "nymphomaniac: A woman with uncontrollable sexual desire.",
+  "reasons": {
+   "A": "Wrong: A person with a craving for alcohol.",
+   "B": "Wrong: A person who sets fires for pleasure.",
+   "C": "Correct: A woman with uncontrollable sexual desire.",
+   "D": "Wrong: A person with a compulsion to steal."
+  }
+ },
+ {
+  "word": "nymphomaniacal",
+  "question": "Her uncontrollable sexual desire was the focus of the case. Her desire was:",
+  "options": [
+   "pyromaniacal",
+   "dipsomaniacal",
+   "kleptomaniacal",
+   "nymphomaniacal"
+  ],
+  "correct": "D",
+  "explanation": "nymphomaniacal: Relating to uncontrollable sexual desire.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to set fires.",
+   "B": "Wrong: Relating to a craving for alcohol.",
+   "C": "Wrong: Relating to a compulsion to steal.",
+   "D": "Correct: Relating to uncontrollable sexual desire."
+  }
+ },
+ {
+  "word": "pyromania",
+  "question": "The boy had a compulsion to set fires for the thrill of it. His compulsion is:",
+  "options": [
+   "pyromania",
+   "kleptomania",
+   "monomania",
+   "dipsomania"
+  ],
+  "correct": "A",
+  "explanation": "pyromania: A compulsion to set fires.",
+  "reasons": {
+   "A": "Correct: A compulsion to set fires.",
+   "B": "Wrong: A compulsion to steal, often without need.",
+   "C": "Wrong: An abnormal obsession with one thing.",
+   "D": "Wrong: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "pyromaniac",
+  "question": "He set fires for pleasure, and the firefighters knew his name. He was a:",
+  "options": [
+   "kleptomaniac",
+   "pyromaniac",
+   "egomaniac",
+   "dipsomaniac"
+  ],
+  "correct": "B",
+  "explanation": "pyromaniac: A person who sets fires for pleasure.",
+  "reasons": {
+   "A": "Wrong: A person with a compulsion to steal.",
+   "B": "Correct: A person who sets fires for pleasure.",
+   "C": "Wrong: A person with an obsession with his own needs and ambitions.",
+   "D": "Wrong: A person with a craving for alcohol."
+  }
+ },
+ {
+  "word": "pyromaniacal",
+  "question": "His obsession with setting fires was a serious danger. His behaviour was:",
+  "options": [
+   "kleptomaniacal",
+   "monomaniacal",
+   "pyromaniacal",
+   "dipsomaniacal"
+  ],
+  "correct": "C",
+  "explanation": "pyromaniacal: Relating to a compulsion to set fires.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to steal.",
+   "B": "Wrong: Obsessed with one thing.",
+   "C": "Correct: Relating to a compulsion to set fires.",
+   "D": "Wrong: Relating to a craving for alcohol."
+  }
+ },
+ {
+  "word": "satyromania",
+  "question": "Uncontrollable sexual desire in a man is called:",
+  "options": [
+   "nymphomania",
+   "dipsomania",
+   "kleptomania",
+   "satyromania"
+  ],
+  "correct": "D",
+  "explanation": "satyromania: Uncontrollable sexual desire in a man.",
+  "reasons": {
+   "A": "Wrong: Uncontrollable sexual desire in a woman.",
+   "B": "Wrong: A morbid craving for alcohol.",
+   "C": "Wrong: A compulsion to steal, often without need.",
+   "D": "Correct: Uncontrollable sexual desire in a man."
+  }
+ }
+]

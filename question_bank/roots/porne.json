@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pornophobia",
+  "question": "The appendix lists a phobia whose root names a group of women who sell sex. Which word names this fear?",
+  "options": [
+   "Gynephobia",
+   "Pornophobia",
+   "Androphobia",
+   "Coitophobia"
+  ],
+  "correct": "B",
+  "explanation": "Porne (prostitute) + phobia, as listed in the appendix.",
+  "reasons": {
+   "A": "Wrong: fear of women in general.",
+   "B": "Correct: porne means prostitute, as listed in the book's appendix.",
+   "C": "Wrong: fear of men.",
+   "D": "Wrong: fear of sexual intercourse."
+  }
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "word": "credence",
+  "question": "She gave the rumour no belief at all and treated it as unworthy of trust. She gave it no:",
+  "options": [
+   "incredulity",
+   "incredibility",
+   "ambivalence",
+   "credence"
+  ],
+  "correct": "D",
+  "explanation": "credence: Belief or trust.",
+  "reasons": {
+   "A": "Wrong: Unwillingness to believe.",
+   "B": "Wrong: The quality of being impossible to believe.",
+   "C": "Wrong: Having mixed or conflicting feelings.",
+   "D": "Correct: Belief or trust."
+  }
+ },
+ {
+  "word": "credentials",
+  "question": "The applicant showed the papers that proved his right to the job. These papers are his:",
+  "options": [
+   "credentials",
+   "patrimony",
+   "sequel",
+   "magnum opus"
+  ],
+  "correct": "A",
+  "explanation": "credentials: Papers proving a person's right to a title or privilege.",
+  "reasons": {
+   "A": "Correct: Papers proving a person's right to a title or privilege.",
+   "B": "Wrong: An inheritance from one's father.",
+   "C": "Wrong: A later story or event that follows an earlier one.",
+   "D": "Wrong: A great work; a masterpiece."
+  }
+ },
+ {
+  "word": "credibility",
+  "question": "The witness's account was believable and trustworthy in court. Its quality of being believable is:",
+  "options": [
+   "incredibility",
+   "credibility",
+   "credulity",
+   "incredulity"
+  ],
+  "correct": "B",
+  "explanation": "credibility: The quality of being believable.",
+  "reasons": {
+   "A": "Wrong: The quality of being impossible to believe.",
+   "B": "Correct: The quality of being believable.",
+   "C": "Wrong: A tendency to believe too easily.",
+   "D": "Wrong: Unwillingness to believe."
+  }
+ },
+ {
+  "word": "credible",
+  "question": "The story seemed believable and the evidence was convincing. The story was:",
+  "options": [
+   "incredible",
+   "incredulous",
+   "credible",
+   "credulous"
+  ],
+  "correct": "C",
+  "explanation": "credible: Able to be believed.",
+  "reasons": {
+   "A": "Wrong: Impossible to believe.",
+   "B": "Wrong: Unwilling to believe; doubtful.",
+   "C": "Correct: Able to be believed.",
+   "D": "Wrong: Willing to believe almost anything."
+  }
+ },
+ {
+  "word": "credulity",
+  "question": "He believed every word the salesman said, too readily. This tendency is:",
+  "options": [
+   "incredulity",
+   "credibility",
+   "incredibility",
+   "credulity"
+  ],
+  "correct": "D",
+  "explanation": "credulity: A tendency to believe too easily.",
+  "reasons": {
+   "A": "Wrong: Unwillingness to believe.",
+   "B": "Wrong: The quality of being believable.",
+   "C": "Wrong: The quality of being impossible to believe.",
+   "D": "Correct: A tendency to believe too easily."
+  }
+ },
+ {
+  "word": "credulous",
+  "question": "The gullible old man believed almost anything he was told. He was:",
+  "options": [
+   "credulous",
+   "incredulous",
+   "incredible",
+   "credible"
+  ],
+  "correct": "A",
+  "explanation": "credulous: Willing to believe almost anything.",
+  "reasons": {
+   "A": "Correct: Willing to believe almost anything.",
+   "B": "Wrong: Unwilling to believe; doubtful.",
+   "C": "Wrong: Impossible to believe.",
+   "D": "Wrong: Able to be believed."
+  }
+ },
+ {
+  "word": "creed",
+  "question": "The set of religious beliefs held by the group was written down as its:",
+  "options": [
+   "credence",
+   "creed",
+   "credibility",
+   "credulity"
+  ],
+  "correct": "B",
+  "explanation": "creed: A set of beliefs, often religious.",
+  "reasons": {
+   "A": "Wrong: Belief or trust.",
+   "B": "Correct: A set of beliefs, often religious.",
+   "C": "Wrong: The quality of being believable.",
+   "D": "Wrong: A tendency to believe too easily."
+  }
+ },
+ {
+  "word": "incredibility",
+  "question": "The sheer unbelievability of the story was obvious to all. Its quality of being impossible to believe is:",
+  "options": [
+   "credibility",
+   "credulity",
+   "incredibility",
+   "incredulity"
+  ],
+  "correct": "C",
+  "explanation": "incredibility: The quality of being impossible to believe.",
+  "reasons": {
+   "A": "Wrong: The quality of being believable.",
+   "B": "Wrong: A tendency to believe too easily.",
+   "C": "Correct: The quality of being impossible to believe.",
+   "D": "Wrong: Unwillingness to believe."
+  }
+ },
+ {
+  "word": "incredible",
+  "question": "The scene was so amazing and unbelievable that no one could believe it. The scene was:",
+  "options": [
+   "credible",
+   "credulous",
+   "incredulous",
+   "incredible"
+  ],
+  "correct": "D",
+  "explanation": "incredible: Impossible to believe.",
+  "reasons": {
+   "A": "Wrong: Able to be believed.",
+   "B": "Wrong: Willing to believe almost anything.",
+   "C": "Wrong: Unwilling to believe; doubtful.",
+   "D": "Correct: Impossible to believe."
+  }
+ },
+ {
+  "word": "incredulity",
+  "question": "She stared at the news, unwilling to believe what she heard. Her unwillingness to believe is:",
+  "options": [
+   "incredulity",
+   "credulity",
+   "credibility",
+   "incredibility"
+  ],
+  "correct": "A",
+  "explanation": "incredulity: Unwillingness to believe.",
+  "reasons": {
+   "A": "Correct: Unwillingness to believe.",
+   "B": "Wrong: A tendency to believe too easily.",
+   "C": "Wrong: The quality of being believable.",
+   "D": "Wrong: The quality of being impossible to believe."
+  }
+ },
+ {
+  "word": "incredulous",
+  "question": "He was doubtful and unwilling to believe the strange news. He was:",
+  "options": [
+   "credulous",
+   "incredulous",
+   "credible",
+   "incredible"
+  ],
+  "correct": "B",
+  "explanation": "incredulous: Unwilling to believe; doubtful.",
+  "reasons": {
+   "A": "Wrong: Willing to believe almost anything.",
+   "B": "Correct: Unwilling to believe; doubtful.",
+   "C": "Wrong: Able to be believed.",
+   "D": "Wrong: Impossible to believe."
+  }
+ }
+]

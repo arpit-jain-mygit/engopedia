@@ -1,0 +1,38 @@
+[
+ {
+  "word": "incongruous",
+  "question": "A man in a tuxedo arrives at a muddy farmyard barbecue and looks completely out of place among the work boots. His outfit is:",
+  "options": [
+   "Incongruous",
+   "Opulent",
+   "Ambivalent",
+   "Pungent"
+  ],
+  "correct": "A",
+  "explanation": "In- (not) + congruo (agree, fit): not fitting.",
+  "reasons": {
+   "A": "Correct: out of place; clashing with its surroundings.",
+   "B": "Wrong: luxurious and rich; the outfit is fancy, but it does not describe a mismatch.",
+   "C": "Wrong: having mixed feelings.",
+   "D": "Wrong: sharp in smell or taste."
+  }
+ },
+ {
+  "word": "incongruity",
+  "question": "The clash between the solemn funeral and the clown's bright costume created a striking:",
+  "options": [
+   "Opulence",
+   "Incongruity",
+   "Ambivalence",
+   "Pungency"
+  ],
+  "correct": "B",
+  "explanation": "Incongruity: the quality of not fitting together.",
+  "reasons": {
+   "A": "Wrong: wealth and luxury.",
+   "B": "Correct: a clash, a lack of fit between things.",
+   "C": "Wrong: mixed or conflicting feelings.",
+   "D": "Wrong: sharp smell or taste."
+  }
+ }
+]

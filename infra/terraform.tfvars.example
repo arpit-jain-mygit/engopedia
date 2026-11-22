@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and change if needed. Defaults already match ap-south-1.
+region      = "ap-south-1"
+project     = "word-wizard"
+environment = "dev"

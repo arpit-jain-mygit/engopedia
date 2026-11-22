@@ -1,0 +1,56 @@
+[
+ {
+  "word": "kleptomania",
+  "question": "A compulsion to steal, often without need, is called:",
+  "options": [
+   "pyromania",
+   "megalomania",
+   "monomania",
+   "kleptomania"
+  ],
+  "correct": "D",
+  "explanation": "kleptomania: A compulsion to steal, often without need.",
+  "reasons": {
+   "A": "Wrong: A compulsion to set fires.",
+   "B": "Wrong: Morbid delusions of grandeur or power.",
+   "C": "Wrong: An abnormal obsession with one thing.",
+   "D": "Correct: A compulsion to steal, often without need."
+  }
+ },
+ {
+  "word": "kleptomaniac",
+  "question": "A person with a compulsion to steal is a:",
+  "options": [
+   "kleptomaniac",
+   "pyromaniac",
+   "megalomaniac",
+   "egomaniac"
+  ],
+  "correct": "A",
+  "explanation": "kleptomaniac: A person with a compulsion to steal.",
+  "reasons": {
+   "A": "Correct: A person with a compulsion to steal.",
+   "B": "Wrong: A person who sets fires for pleasure.",
+   "C": "Wrong: A person with delusions of greatness.",
+   "D": "Wrong: A person with an obsession with his own needs and ambitions."
+  }
+ },
+ {
+  "word": "kleptomaniacal",
+  "question": "Her urge to steal things without any need was:",
+  "options": [
+   "pyromaniacal",
+   "kleptomaniacal",
+   "megalomaniacal",
+   "monomaniacal"
+  ],
+  "correct": "B",
+  "explanation": "kleptomaniacal: Relating to a compulsion to steal.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to set fires.",
+   "B": "Correct: Relating to a compulsion to steal.",
+   "C": "Wrong: Relating to delusions of greatness.",
+   "D": "Wrong: Obsessed with one thing."
+  }
+ }
+]

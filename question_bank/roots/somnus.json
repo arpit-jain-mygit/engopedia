@@ -1,0 +1,182 @@
+[
+ {
+  "word": "insomnia",
+  "question": "She lay awake for hours every night, unable to fall asleep. Her condition is:",
+  "options": [
+   "somnolence",
+   "hypnophobia",
+   "insomnia",
+   "somnambulism"
+  ],
+  "correct": "C",
+  "explanation": "insomnia: The inability to fall asleep.",
+  "reasons": {
+   "A": "Wrong: Sleepiness.",
+   "B": "Wrong: Fear of sleep.",
+   "C": "Correct: The inability to fall asleep.",
+   "D": "Wrong: Sleepwalking."
+  }
+ },
+ {
+  "word": "insomniac",
+  "question": "The man who could not sleep at night was an:",
+  "options": [
+   "somnambulist",
+   "ventriloquist",
+   "tyro",
+   "insomniac"
+  ],
+  "correct": "D",
+  "explanation": "insomniac: A person who cannot sleep.",
+  "reasons": {
+   "A": "Wrong: A sleepwalker.",
+   "B": "Wrong: A performer who throws the voice.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Correct: A person who cannot sleep."
+  }
+ },
+ {
+  "word": "insomnious",
+  "question": "The sleepless night brought restless hours without rest. It was:",
+  "options": [
+   "insomnious",
+   "somniferous",
+   "somnolent",
+   "vivacious"
+  ],
+  "correct": "A",
+  "explanation": "insomnious: Not sleeping; sleepless.",
+  "reasons": {
+   "A": "Correct: Not sleeping; sleepless.",
+   "B": "Wrong: Bringing sleep; boring to the point of sleep.",
+   "C": "Wrong: Sleepy and drowsy.",
+   "D": "Wrong: Full of life, joy, and energy."
+  }
+ },
+ {
+  "word": "somnambulism",
+  "question": "The woman walked around the house in her sleep, unaware of it. This sleepwalking is:",
+  "options": [
+   "insomnia",
+   "somnambulism",
+   "hypnophobia",
+   "somnolence"
+  ],
+  "correct": "B",
+  "explanation": "somnambulism: Sleepwalking.",
+  "reasons": {
+   "A": "Wrong: The inability to fall asleep.",
+   "B": "Correct: Sleepwalking.",
+   "C": "Wrong: Fear of sleep.",
+   "D": "Wrong: Sleepiness."
+  }
+ },
+ {
+  "word": "somnambulist",
+  "question": "The boy got out of bed at night and walked down the stairs asleep. He was a:",
+  "options": [
+   "insomniac",
+   "soliloquist",
+   "somnambulist",
+   "ventriloquist"
+  ],
+  "correct": "C",
+  "explanation": "somnambulist: A sleepwalker.",
+  "reasons": {
+   "A": "Wrong: A person who cannot sleep.",
+   "B": "Wrong: A person who speaks alone.",
+   "C": "Correct: A sleepwalker.",
+   "D": "Wrong: A performer who throws the voice."
+  }
+ },
+ {
+  "word": "somnambulistic",
+  "question": "Her dreamy walking through the house while asleep was:",
+  "options": [
+   "cogent",
+   "placid",
+   "vivid",
+   "somnambulistic"
+  ],
+  "correct": "D",
+  "explanation": "somnambulistic: Relating to sleepwalking.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Full of life and freshness; bright or sharp.",
+   "D": "Correct: Relating to sleepwalking."
+  }
+ },
+ {
+  "word": "somniferous",
+  "question": "The medicine had a sleep-inducing effect and made her drowsy. The medicine was:",
+  "options": [
+   "somniferous",
+   "vociferous",
+   "vivid",
+   "vivacious"
+  ],
+  "correct": "A",
+  "explanation": "somniferous: Bringing sleep; boring to the point of sleep.",
+  "reasons": {
+   "A": "Correct: Bringing sleep; boring to the point of sleep.",
+   "B": "Wrong: Loud, noisy, and clamorous.",
+   "C": "Wrong: Full of life and freshness; bright or sharp.",
+   "D": "Wrong: Full of life, joy, and energy."
+  }
+ },
+ {
+  "word": "somnolence",
+  "question": "She felt the heavy drowsiness that came before sleep. This drowsiness is:",
+  "options": [
+   "insomnia",
+   "somnolence",
+   "somnambulism",
+   "hypnophobia"
+  ],
+  "correct": "B",
+  "explanation": "somnolence: Sleepiness.",
+  "reasons": {
+   "A": "Wrong: The inability to fall asleep.",
+   "B": "Correct: Sleepiness.",
+   "C": "Wrong: Sleepwalking.",
+   "D": "Wrong: Fear of sleep."
+  }
+ },
+ {
+  "word": "somnolency",
+  "question": "The drowsy state of the afternoon made the students sleepy. This state is:",
+  "options": [
+   "insomnia",
+   "ennui",
+   "somnolency",
+   "apathy"
+  ],
+  "correct": "C",
+  "explanation": "somnolency: A drowsy state.",
+  "reasons": {
+   "A": "Wrong: The inability to fall asleep.",
+   "B": "Wrong: Boredom and weariness from having too little to do.",
+   "C": "Correct: A drowsy state.",
+   "D": "Wrong: A lack of feeling, interest, or concern."
+  }
+ },
+ {
+  "word": "somnolent",
+  "question": "The warm room made everyone sleepy and drowsy. The room was:",
+  "options": [
+   "vivacious",
+   "vivid",
+   "placid",
+   "somnolent"
+  ],
+  "correct": "D",
+  "explanation": "somnolent: Sleepy and drowsy.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Wrong: Full of life and freshness; bright or sharp.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Sleepy and drowsy."
+  }
+ }
+]

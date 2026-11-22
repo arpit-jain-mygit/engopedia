@@ -1,0 +1,182 @@
+[
+ {
+  "word": "antisocial",
+  "question": "The hermit avoided all contact with others and disliked society. He was:",
+  "options": [
+   "sociable",
+   "antisocial",
+   "gregarious",
+   "convivial"
+  ],
+  "correct": "B",
+  "explanation": "antisocial: Unfriendly to others; harmful to society.",
+  "reasons": {
+   "A": "Wrong: Friendly; enjoying the company of others.",
+   "B": "Correct: Unfriendly to others; harmful to society.",
+   "C": "Wrong: Enjoying the company of others; sociable in groups.",
+   "D": "Wrong: Friendly, jovial, fond of parties and good company."
+  }
+ },
+ {
+  "word": "asocial",
+  "question": "The shy man was withdrawn from society and had no interest in people. He was:",
+  "options": [
+   "gregarious",
+   "sociable",
+   "asocial",
+   "convivial"
+  ],
+  "correct": "C",
+  "explanation": "asocial: Withdrawn from others; not interested in society.",
+  "reasons": {
+   "A": "Wrong: Enjoying the company of others; sociable in groups.",
+   "B": "Wrong: Friendly; enjoying the company of others.",
+   "C": "Correct: Withdrawn from others; not interested in society.",
+   "D": "Wrong: Friendly, jovial, fond of parties and good company."
+  }
+ },
+ {
+  "word": "associate",
+  "question": "The two partners worked together and joined their business. They would:",
+  "options": [
+   "segregate",
+   "disparage",
+   "dissimulate",
+   "associate"
+  ],
+  "correct": "D",
+  "explanation": "associate: To join or connect with others; a partner.",
+  "reasons": {
+   "A": "Wrong: To separate from the rest.",
+   "B": "Wrong: To belittle or speak of as less important.",
+   "C": "Wrong: To hide your true feelings by pretending.",
+   "D": "Correct: To join or connect with others; a partner."
+  }
+ },
+ {
+  "word": "sociable",
+  "question": "The friendly woman loved parties and enjoyed the company of others. She was:",
+  "options": [
+   "sociable",
+   "antisocial",
+   "asocial",
+   "misanthropic"
+  ],
+  "correct": "A",
+  "explanation": "sociable: Friendly; enjoying the company of others.",
+  "reasons": {
+   "A": "Correct: Friendly; enjoying the company of others.",
+   "B": "Wrong: Unfriendly to others; harmful to society.",
+   "C": "Wrong: Withdrawn from others; not interested in society.",
+   "D": "Wrong: Hating mankind."
+  }
+ },
+ {
+  "word": "social",
+  "question": "The club organized meetings and events for people living together in the community. The events were:",
+  "options": [
+   "asocial",
+   "social",
+   "antisocial",
+   "misanthropic"
+  ],
+  "correct": "B",
+  "explanation": "social: Relating to society or to people living together.",
+  "reasons": {
+   "A": "Wrong: Withdrawn from others; not interested in society.",
+   "B": "Correct: Relating to society or to people living together.",
+   "C": "Wrong: Unfriendly to others; harmful to society.",
+   "D": "Wrong: Hating mankind."
+  }
+ },
+ {
+  "word": "socialize",
+  "question": "The new students mixed with classmates at lunch and made friends. They began to:",
+  "options": [
+   "segregate",
+   "disparage",
+   "socialize",
+   "vacillate"
+  ],
+  "correct": "C",
+  "explanation": "socialize: To mix with others in a friendly way.",
+  "reasons": {
+   "A": "Wrong: To separate from the rest.",
+   "B": "Wrong: To belittle or speak of as less important.",
+   "C": "Correct: To mix with others in a friendly way.",
+   "D": "Wrong: To waver or keep changing your mind."
+  }
+ },
+ {
+  "word": "society",
+  "question": "The community of people living together under common laws is called:",
+  "options": [
+   "senate",
+   "congregation",
+   "fraternity",
+   "society"
+  ],
+  "correct": "D",
+  "explanation": "society: A community of people living together under common rules.",
+  "reasons": {
+   "A": "Wrong: A council of older, presumably wiser, citizens.",
+   "B": "Wrong: A group of people gathered for worship.",
+   "C": "Wrong: A men's club or brotherhood.",
+   "D": "Correct: A community of people living together under common rules."
+  }
+ },
+ {
+  "word": "sociological",
+  "question": "The thesis analysed social groups and their customs. The analysis was:",
+  "options": [
+   "sociological",
+   "psychological",
+   "theological",
+   "geological"
+  ],
+  "correct": "A",
+  "explanation": "sociological: Relating to the study of society.",
+  "reasons": {
+   "A": "Correct: Relating to the study of society.",
+   "B": "Wrong: Relating to the mind or to psychology.",
+   "C": "Wrong: Relating to the study of God and religion.",
+   "D": "Wrong: Relating to geology."
+  }
+ },
+ {
+  "word": "sociologist",
+  "question": "The scientist who studies human groups and society is a:",
+  "options": [
+   "psychologist",
+   "sociologist",
+   "theologian",
+   "geologist"
+  ],
+  "correct": "B",
+  "explanation": "sociologist: A scientist who studies human society and social groups.",
+  "reasons": {
+   "A": "Wrong: A specialist who studies human behavior.",
+   "B": "Correct: A scientist who studies human society and social groups.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies the earth and its rocks."
+  }
+ },
+ {
+  "word": "sociology",
+  "question": "The study of human society and social groups is called:",
+  "options": [
+   "psychology",
+   "theology",
+   "sociology",
+   "geology"
+  ],
+  "correct": "C",
+  "explanation": "sociology: The study of human society and social groups.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Wrong: The study of God and religion.",
+   "C": "Correct: The study of human society and social groups.",
+   "D": "Wrong: The science of the earth's composition and history."
+  }
+ }
+]

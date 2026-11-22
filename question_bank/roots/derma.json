@@ -1,0 +1,182 @@
+[
+ {
+  "word": "dermatitis",
+  "question": "A skin rash causing painful, red inflammation was diagnosed as:",
+  "options": [
+   "neuritis",
+   "psychosis",
+   "dermatitis",
+   "neurosis"
+  ],
+  "correct": "C",
+  "explanation": "dermatitis: Inflammation of the skin.",
+  "reasons": {
+   "A": "Wrong: Inflammation of the nerves.",
+   "B": "Wrong: A serious mental disorder that loses contact with reality.",
+   "C": "Correct: Inflammation of the skin.",
+   "D": "Wrong: An emotional disturbance that is not a full mental disorder."
+  }
+ },
+ {
+  "word": "dermatological",
+  "question": "The clinic's research focused on skin conditions and their treatment. Its work was:",
+  "options": [
+   "cardiological",
+   "neurological",
+   "gynecological",
+   "dermatological"
+  ],
+  "correct": "D",
+  "explanation": "dermatological: Relating to skin medicine.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of the heart.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to women's health.",
+   "D": "Correct: Relating to skin medicine."
+  }
+ },
+ {
+  "word": "dermatologist",
+  "question": "The doctor who treats skin diseases is a:",
+  "options": [
+   "dermatologist",
+   "cardiologist",
+   "neurologist",
+   "gynecologist"
+  ],
+  "correct": "A",
+  "explanation": "dermatologist: A doctor who treats skin diseases.",
+  "reasons": {
+   "A": "Correct: A doctor who treats skin diseases.",
+   "B": "Wrong: A doctor who treats heart diseases.",
+   "C": "Wrong: A doctor who treats the nervous system.",
+   "D": "Wrong: A doctor who treats women's diseases."
+  }
+ },
+ {
+  "word": "dermatology",
+  "question": "The medical study of skin and its diseases is called:",
+  "options": [
+   "cardiology",
+   "dermatology",
+   "neurology",
+   "gynecology"
+  ],
+  "correct": "B",
+  "explanation": "dermatology: The study of skin and its diseases.",
+  "reasons": {
+   "A": "Wrong: The study of the heart and its diseases.",
+   "B": "Correct: The study of skin and its diseases.",
+   "C": "Wrong: The study of the nervous system.",
+   "D": "Wrong: The medical study of women's health."
+  }
+ },
+ {
+  "word": "dermatophobia",
+  "question": "She could not bear to touch skin and dreaded it. Her fear is:",
+  "options": [
+   "chirophobia",
+   "hematophobia",
+   "dermatophobia",
+   "odontophobia"
+  ],
+  "correct": "C",
+  "explanation": "dermatophobia: Fear of skin.",
+  "reasons": {
+   "A": "Wrong: Fear of hands.",
+   "B": "Wrong: Fear of blood.",
+   "C": "Correct: Fear of skin.",
+   "D": "Wrong: Fear of teeth."
+  }
+ },
+ {
+  "word": "epidermis",
+  "question": "The outermost layer of the skin, which protects the body, is the:",
+  "options": [
+   "ventricle",
+   "auricle",
+   "ovary",
+   "epidermis"
+  ],
+  "correct": "D",
+  "explanation": "epidermis: The outer layer of skin.",
+  "reasons": {
+   "A": "Wrong: A hollow chamber of the heart or brain.",
+   "B": "Wrong: An upper chamber of the heart.",
+   "C": "Wrong: The organ that produces eggs.",
+   "D": "Correct: The outer layer of skin."
+  }
+ },
+ {
+  "word": "hypodermic",
+  "question": "The doctor gave the injection beneath the skin using a syringe. The injection was:",
+  "options": [
+   "hypodermic",
+   "neurological",
+   "cardiac",
+   "dermatological"
+  ],
+  "correct": "A",
+  "explanation": "hypodermic: Under the skin.",
+  "reasons": {
+   "A": "Correct: Under the skin.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to the heart.",
+   "D": "Wrong: Relating to skin medicine."
+  }
+ },
+ {
+  "word": "pachyderm",
+  "question": "The elephant, a thick-skinned animal, is an example of a:",
+  "options": [
+   "herbivore",
+   "pachyderm",
+   "omnivore",
+   "equine"
+  ],
+  "correct": "B",
+  "explanation": "pachyderm: A thick-skinned animal, such as an elephant.",
+  "reasons": {
+   "A": "Wrong: An animal that eats plants.",
+   "B": "Correct: A thick-skinned animal, such as an elephant.",
+   "C": "Wrong: An animal that eats both plants and meat.",
+   "D": "Wrong: Relating to a horse."
+  }
+ },
+ {
+  "word": "taxidermist",
+  "question": "The craftsman who stuffs and mounts animal skins for museum display is a:",
+  "options": [
+   "cardiologist",
+   "dermatologist",
+   "taxidermist",
+   "entomologist"
+  ],
+  "correct": "C",
+  "explanation": "taxidermist: One who stuffs and mounts animal skins.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats heart diseases.",
+   "B": "Wrong: A doctor who treats skin diseases.",
+   "C": "Correct: One who stuffs and mounts animal skins.",
+   "D": "Wrong: A scientist who studies insects."
+  }
+ },
+ {
+  "word": "taxidermy",
+  "question": "The art of stuffing and mounting animal skins is called:",
+  "options": [
+   "dermatology",
+   "entomology",
+   "zoology",
+   "taxidermy"
+  ],
+  "correct": "D",
+  "explanation": "taxidermy: The art of stuffing and mounting animal skins.",
+  "reasons": {
+   "A": "Wrong: The study of skin and its diseases.",
+   "B": "Wrong: The science of insects.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Correct: The art of stuffing and mounting animal skins."
+  }
+ }
+]

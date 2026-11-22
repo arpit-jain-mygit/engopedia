@@ -1,0 +1,56 @@
+[
+ {
+  "word": "megalomania",
+  "question": "The dictator's dream of endless power and grandeur was a sign of his:",
+  "options": [
+   "megalomania",
+   "monomania",
+   "pyromania",
+   "dipsomania"
+  ],
+  "correct": "A",
+  "explanation": "megalomania: Morbid delusions of grandeur or power.",
+  "reasons": {
+   "A": "Correct: Morbid delusions of grandeur or power.",
+   "B": "Wrong: An abnormal obsession with one thing.",
+   "C": "Wrong: A compulsion to set fires.",
+   "D": "Wrong: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "megalomaniac",
+  "question": "The king who believed he was the greatest man on earth was a:",
+  "options": [
+   "monomaniac",
+   "megalomaniac",
+   "pyromaniac",
+   "egomaniac"
+  ],
+  "correct": "B",
+  "explanation": "megalomaniac: A person with delusions of greatness.",
+  "reasons": {
+   "A": "Wrong: A person with a one-track mind; obsessed with one thing.",
+   "B": "Correct: A person with delusions of greatness.",
+   "C": "Wrong: A person who sets fires for pleasure.",
+   "D": "Wrong: A person with an obsession with his own needs and ambitions."
+  }
+ },
+ {
+  "word": "megalomaniacal",
+  "question": "His plans to rule the whole world showed grandiose, self-glorifying ambition. The plans were:",
+  "options": [
+   "monomaniacal",
+   "egomaniacal",
+   "megalomaniacal",
+   "pyromaniacal"
+  ],
+  "correct": "C",
+  "explanation": "megalomaniacal: Relating to delusions of greatness.",
+  "reasons": {
+   "A": "Wrong: Obsessed with one thing.",
+   "B": "Wrong: Relating to an obsession with one's own needs.",
+   "C": "Correct: Relating to delusions of greatness.",
+   "D": "Wrong: Relating to a compulsion to set fires."
+  }
+ }
+]

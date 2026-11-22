@@ -1,0 +1,20 @@
+[
+ {
+  "word": "kleptophobia",
+  "question": "A shopkeeper panics whenever a customer reaches into a bag near the till, dreading that something will be taken. He fears:",
+  "options": [
+   "Xenophobia",
+   "Kleptophobia",
+   "Anemophobia",
+   "Ochlophobia"
+  ],
+  "correct": "B",
+  "explanation": "Kleptes (thief) + phobia = fear of stealing or thieves.",
+  "reasons": {
+   "A": "Wrong: fear of foreigners or strangers.",
+   "B": "Correct: kleptes means thief, so the fear is of stealing or thieves.",
+   "C": "Wrong: fear of wind.",
+   "D": "Wrong: fear of crowds."
+  }
+ }
+]

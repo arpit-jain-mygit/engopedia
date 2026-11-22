@@ -1,0 +1,38 @@
+[
+ {
+  "word": "vivisection",
+  "question": "A scientist cuts into animals that are still alive, in a laboratory, to study their bodies. This practice is called:",
+  "options": [
+   "Dissection",
+   "Autopsy",
+   "Anaesthesia",
+   "Vivisection"
+  ],
+  "correct": "D",
+  "explanation": "Vivus (alive) + sectio (cutting): cutting a living animal.",
+  "reasons": {
+   "A": "Wrong: cutting open a body that has already died.",
+   "B": "Wrong: an examination of a dead body.",
+   "C": "Wrong: a state of numbness produced by drugs.",
+   "D": "Correct: surgery on living animals for research."
+  }
+ },
+ {
+  "word": "antivivisectionist",
+  "question": "A campaigner who opposes all surgery on living animals for research is called an:",
+  "options": [
+   "Antivivisectionist",
+   "Vivisectionist",
+   "Taxidermist",
+   "Zoologist"
+  ],
+  "correct": "A",
+  "explanation": "Anti- (against) + vivisection + -ist: one who opposes vivisection.",
+  "reasons": {
+   "A": "Correct: a person who opposes vivisection.",
+   "B": "Wrong: someone who performs such surgery, the opposite of this campaigner.",
+   "C": "Wrong: someone who stuffs and mounts animal skins.",
+   "D": "Wrong: a scientist who studies animals."
+  }
+ }
+]

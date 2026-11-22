@@ -1,0 +1,128 @@
+[
+ {
+  "word": "reticence",
+  "question": "Her habit of keeping her feelings to herself showed her quiet unwillingness to speak. This is her:",
+  "options": [
+   "loquacity",
+   "garrulity",
+   "eloquence",
+   "reticence"
+  ],
+  "correct": "D",
+  "explanation": "reticence: Unwillingness to speak openly.",
+  "reasons": {
+   "A": "Wrong: Talkativeness.",
+   "B": "Wrong: Constant chatter about trifles.",
+   "C": "Wrong: Persuasive, fluent speech.",
+   "D": "Correct: Unwillingness to speak openly."
+  }
+ },
+ {
+  "word": "reticency",
+  "question": "She was reluctant to reveal herself to anyone. This unwillingness is:",
+  "options": [
+   "reticency",
+   "loquacity",
+   "garrulity",
+   "magniloquence"
+  ],
+  "correct": "A",
+  "explanation": "reticency: Unwillingness to reveal oneself.",
+  "reasons": {
+   "A": "Correct: Unwillingness to reveal oneself.",
+   "B": "Wrong: Talkativeness.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Wrong: Lofty, grand, and pompous speech."
+  }
+ },
+ {
+  "word": "reticent",
+  "question": "The shy girl was unwilling to share her thoughts in the meeting. She was:",
+  "options": [
+   "loquacious",
+   "reticent",
+   "garrulous",
+   "voluble"
+  ],
+  "correct": "B",
+  "explanation": "reticent: Unwilling to reveal feelings or thoughts.",
+  "reasons": {
+   "A": "Wrong: Talkative; tending to talk a lot.",
+   "B": "Correct: Unwilling to reveal feelings or thoughts.",
+   "C": "Wrong: Talking too much, often about small things.",
+   "D": "Wrong: Speaking rapidly and fluently."
+  }
+ },
+ {
+  "word": "tacit",
+  "question": "The agreement was understood between them without being spoken aloud. It was:",
+  "options": [
+   "loquacious",
+   "voluble",
+   "tacit",
+   "garrulous"
+  ],
+  "correct": "C",
+  "explanation": "tacit: Understood without being spoken.",
+  "reasons": {
+   "A": "Wrong: Talkative; tending to talk a lot.",
+   "B": "Wrong: Speaking rapidly and fluently.",
+   "C": "Correct: Understood without being spoken.",
+   "D": "Wrong: Talking too much, often about small things."
+  }
+ },
+ {
+  "word": "tacitness",
+  "question": "The silent understanding between them was never put into words. Its unspoken quality is its:",
+  "options": [
+   "loquacity",
+   "volubility",
+   "garrulity",
+   "tacitness"
+  ],
+  "correct": "D",
+  "explanation": "tacitness: The state of being unspoken.",
+  "reasons": {
+   "A": "Wrong: Talkativeness.",
+   "B": "Wrong: Speaking rapidly and easily.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Correct: The state of being unspoken."
+  }
+ },
+ {
+  "word": "taciturn",
+  "question": "The quiet farmer rarely spoke, silent and unwilling to talk. He was:",
+  "options": [
+   "taciturn",
+   "loquacious",
+   "garrulous",
+   "voluble"
+  ],
+  "correct": "A",
+  "explanation": "taciturn: Silent, unwilling to talk.",
+  "reasons": {
+   "A": "Correct: Silent, unwilling to talk.",
+   "B": "Wrong: Talkative; tending to talk a lot.",
+   "C": "Wrong: Talking too much, often about small things.",
+   "D": "Wrong: Speaking rapidly and fluently."
+  }
+ },
+ {
+  "word": "taciturnity",
+  "question": "His habitual silence and unwillingness to talk was known to everyone. This silence is his:",
+  "options": [
+   "loquacity",
+   "taciturnity",
+   "garrulity",
+   "volubility"
+  ],
+  "correct": "B",
+  "explanation": "taciturnity: Habitual silence; unwillingness to talk.",
+  "reasons": {
+   "A": "Wrong: Talkativeness.",
+   "B": "Correct: Habitual silence; unwillingness to talk.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Wrong: Speaking rapidly and easily."
+  }
+ }
+]

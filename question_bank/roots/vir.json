@@ -1,0 +1,20 @@
+[
+ {
+  "word": "virago",
+  "question": "A quarrelsome, loud-mouthed woman who shouts down every rival is called a:",
+  "options": [
+   "Virtuoso",
+   "Pusillanimous",
+   "Equable",
+   "Virago"
+  ],
+  "correct": "D",
+  "explanation": "Vir (man) + -ago: from the Latin word for a manly woman; now means a shrewish woman.",
+  "reasons": {
+   "A": "Wrong: a master of an art, usually praised for skill.",
+   "B": "Wrong: timid and cowardly.",
+   "C": "Wrong: calm and even-tempered.",
+   "D": "Correct: a loud-mouthed, quarrelsome woman."
+  }
+ }
+]

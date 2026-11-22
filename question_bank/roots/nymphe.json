@@ -1,0 +1,56 @@
+[
+ {
+  "word": "nymphomania",
+  "question": "The condition of uncontrollable sexual desire in women is called:",
+  "options": [
+   "monomania",
+   "nymphomania",
+   "pyromania",
+   "dipsomania"
+  ],
+  "correct": "B",
+  "explanation": "nymphomania: Uncontrollable sexual desire in a woman.",
+  "reasons": {
+   "A": "Wrong: An abnormal obsession with one thing.",
+   "B": "Correct: Uncontrollable sexual desire in a woman.",
+   "C": "Wrong: A compulsion to set fires.",
+   "D": "Wrong: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "nymphomaniac",
+  "question": "The woman described as having extreme sexual urges would be called a:",
+  "options": [
+   "kleptomaniac",
+   "megalomaniac",
+   "nymphomaniac",
+   "pyromaniac"
+  ],
+  "correct": "C",
+  "explanation": "nymphomaniac: A woman with uncontrollable sexual desire.",
+  "reasons": {
+   "A": "Wrong: A person with a compulsion to steal.",
+   "B": "Wrong: A person with delusions of greatness.",
+   "C": "Correct: A woman with uncontrollable sexual desire.",
+   "D": "Wrong: A person who sets fires for pleasure."
+  }
+ },
+ {
+  "word": "nymphomaniacal",
+  "question": "The compulsive, uncontrollable sexual desire in her behaviour was:",
+  "options": [
+   "pyromaniacal",
+   "megalomaniacal",
+   "kleptomaniacal",
+   "nymphomaniacal"
+  ],
+  "correct": "D",
+  "explanation": "nymphomaniacal: Relating to uncontrollable sexual desire.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to set fires.",
+   "B": "Wrong: Relating to delusions of greatness.",
+   "C": "Wrong: Relating to a compulsion to steal.",
+   "D": "Correct: Relating to uncontrollable sexual desire."
+  }
+ }
+]

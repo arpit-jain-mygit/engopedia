@@ -1,0 +1,56 @@
+[
+ {
+  "word": "militancy",
+  "question": "The group's aggressive, combative attitude toward its cause grew stronger. This aggressiveness is:",
+  "options": [
+   "ambivalence",
+   "benignity",
+   "militancy",
+   "equanimity"
+  ],
+  "correct": "C",
+  "explanation": "militancy: An aggressive attitude toward a cause.",
+  "reasons": {
+   "A": "Wrong: Having mixed or conflicting feelings.",
+   "B": "Wrong: Kindness and gentleness of nature.",
+   "C": "Correct: An aggressive attitude toward a cause.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "militant",
+  "question": "The protesters were aggressive and combative in fighting for their cause. They were:",
+  "options": [
+   "ambivalent",
+   "placid",
+   "benign",
+   "militant"
+  ],
+  "correct": "D",
+  "explanation": "militant: Aggressive in fighting for a cause.",
+  "reasons": {
+   "A": "Wrong: Having conflicting feelings at the same time.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Kindly, good-natured, and harmless.",
+   "D": "Correct: Aggressive in fighting for a cause."
+  }
+ },
+ {
+  "word": "militate",
+  "question": "Her failing health worked against her plans and hindered her success. Her health would:",
+  "options": [
+   "militate",
+   "alleviate",
+   "relieve",
+   "levitate"
+  ],
+  "correct": "A",
+  "explanation": "militate: To work or act against something.",
+  "reasons": {
+   "A": "Correct: To work or act against something.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To ease pain or trouble.",
+   "D": "Wrong: To rise into the air without visible support."
+  }
+ }
+]

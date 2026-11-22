@@ -1,0 +1,164 @@
+[
+ {
+  "word": "carnage",
+  "question": "The battle left the field covered with the dead and great destruction. The scene was one of:",
+  "options": [
+   "euphony",
+   "placidity",
+   "carnage",
+   "regality"
+  ],
+  "correct": "C",
+  "explanation": "carnage: Great destruction of life, especially in war.",
+  "reasons": {
+   "A": "Wrong: Pleasing, harmonious sound.",
+   "B": "Wrong: Calmness; peacefulness.",
+   "C": "Correct: Great destruction of life, especially in war.",
+   "D": "Wrong: Royalty; kingly dignity."
+  }
+ },
+ {
+  "word": "carnal",
+  "question": "His interest was in bodily, sensual pleasures and physical desire. His interests were:",
+  "options": [
+   "ascetic",
+   "chivalrous",
+   "cadaverous",
+   "carnal"
+  ],
+  "correct": "D",
+  "explanation": "carnal: Relating to the body and physical pleasures.",
+  "reasons": {
+   "A": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "B": "Wrong: Courteous and gallant, especially toward women.",
+   "C": "Wrong: Thin, pale, and gaunt, like a corpse.",
+   "D": "Correct: Relating to the body and physical pleasures."
+  }
+ },
+ {
+  "word": "carnality",
+  "question": "Her focus on physical, sensual pleasures showed her:",
+  "options": [
+   "carnality",
+   "asceticism",
+   "altruism",
+   "magnanimity"
+  ],
+  "correct": "A",
+  "explanation": "carnality: Physical or sensual nature.",
+  "reasons": {
+   "A": "Correct: Physical or sensual nature.",
+   "B": "Wrong: A life of strict self-denial and simplicity.",
+   "C": "Wrong: Concern for the welfare of others; selfless giving.",
+   "D": "Wrong: Generosity of spirit; noble forgiveness."
+  }
+ },
+ {
+  "word": "carnelian",
+  "question": "The reddish stone, the colour of flesh, was set in the ring. The stone was:",
+  "options": [
+   "omnibus",
+   "carnelian",
+   "podium",
+   "tripod"
+  ],
+  "correct": "B",
+  "explanation": "carnelian: A reddish stone, the color of flesh.",
+  "reasons": {
+   "A": "Wrong: A book or law covering many things; a bus for all.",
+   "B": "Correct: A reddish stone, the color of flesh.",
+   "C": "Wrong: A speaker's platform.",
+   "D": "Wrong: A three-legged stand for a camera."
+  }
+ },
+ {
+  "word": "carnival",
+  "question": "The town held a festive outdoor event with rides, music, and games. The event was a:",
+  "options": [
+   "cavalcade",
+   "congregation",
+   "carnival",
+   "segregation"
+  ],
+  "correct": "C",
+  "explanation": "carnival: A festive outdoor event with rides and games.",
+  "reasons": {
+   "A": "Wrong: A procession of people on horseback.",
+   "B": "Wrong: A group of people gathered for worship.",
+   "C": "Correct: A festive outdoor event with rides and games.",
+   "D": "Wrong: The act of separating one group from another."
+  }
+ },
+ {
+  "word": "carnivorous",
+  "question": "The lion eats only the flesh of other animals; it is:",
+  "options": [
+   "herbivorous",
+   "omnivorous",
+   "voracious",
+   "carnivorous"
+  ],
+  "correct": "D",
+  "explanation": "carnivorous: Feeding on flesh; meat-eating.",
+  "reasons": {
+   "A": "Wrong: Eating plants only.",
+   "B": "Wrong: Eating everything, both plants and animals.",
+   "C": "Wrong: Greedy; eating or devouring eagerly.",
+   "D": "Correct: Feeding on flesh; meat-eating."
+  }
+ },
+ {
+  "word": "incarnate",
+  "question": "The saint was believed to be a god in human bodily form. He was:",
+  "options": [
+   "incarnate",
+   "cadaverous",
+   "diaphanous",
+   "benign"
+  ],
+  "correct": "A",
+  "explanation": "incarnate: In the flesh; given bodily form.",
+  "reasons": {
+   "A": "Correct: In the flesh; given bodily form.",
+   "B": "Wrong: Thin, pale, and gaunt, like a corpse.",
+   "C": "Wrong: Thin, sheer, and transparent.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ },
+ {
+  "word": "reincarnate",
+  "question": "The priest believed the soul would be given a new bodily form after death. The soul would be:",
+  "options": [
+   "recapitulate",
+   "reincarnate",
+   "revitalize",
+   "dissemble"
+  ],
+  "correct": "B",
+  "explanation": "reincarnate: To bring back into another bodily form.",
+  "reasons": {
+   "A": "Wrong: To summarize; to review the main points.",
+   "B": "Correct: To bring back into another bodily form.",
+   "C": "Wrong: To give new life and vigor to.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "reincarnation",
+  "question": "Rebirth of the soul in another body is called:",
+  "options": [
+   "revitalization",
+   "circumlocution",
+   "reincarnation",
+   "capitulation"
+  ],
+  "correct": "C",
+  "explanation": "reincarnation: Rebirth of the soul in another body.",
+  "reasons": {
+   "A": "Wrong: The act of giving new life or vigor.",
+   "B": "Wrong: A roundabout way of speaking.",
+   "C": "Correct: Rebirth of the soul in another body.",
+   "D": "Wrong: Surrender."
+  }
+ }
+]

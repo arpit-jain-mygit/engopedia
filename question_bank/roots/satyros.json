@@ -1,0 +1,38 @@
+[
+ {
+  "word": "satyromania",
+  "question": "The memoir claims the man was ruled by an uncontrollable sexual compulsion that he could not resist. Such an obsession is called:",
+  "options": [
+   "Satyromania",
+   "Kleptomania",
+   "Pyromania",
+   "Megalomania"
+  ],
+  "correct": "A",
+  "explanation": "Satyros (satyr) + mania: a compulsive obsession.",
+  "reasons": {
+   "A": "Correct: a compulsive, uncontrollable sexual urge.",
+   "B": "Wrong: an urge to steal.",
+   "C": "Wrong: an urge to set fires.",
+   "D": "Wrong: an obsession with power or greatness."
+  }
+ },
+ {
+  "word": "satyriasis",
+  "question": "Clinically, an uncontrollable excess of male sexual desire is called:",
+  "options": [
+   "Kleptomania",
+   "Satyriasis",
+   "Pyromania",
+   "Dipsomania"
+  ],
+  "correct": "B",
+  "explanation": "Satyros (satyr) + -iasis: a condition of excess male sexual desire.",
+  "reasons": {
+   "A": "Wrong: an urge to steal.",
+   "B": "Correct: an excessive, uncontrollable male sexual urge.",
+   "C": "Wrong: an urge to set fires.",
+   "D": "Wrong: a craving for alcohol."
+  }
+ }
+]

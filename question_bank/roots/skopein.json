@@ -1,0 +1,20 @@
+[
+ {
+  "word": "scoptophobia",
+  "question": "A shy man feels intense panic whenever he thinks others are watching him, and he avoids every room with a window. He has a fear of:",
+  "options": [
+   "Spectrophobia",
+   "Scoptophobia",
+   "Autophobia",
+   "Photophobia"
+  ],
+  "correct": "B",
+  "explanation": "Skopein (to view, watch) + phobia = fear of being watched.",
+  "reasons": {
+   "A": "Wrong: fear of mirrors.",
+   "B": "Correct: skopein means to view or watch, so the fear is of being watched.",
+   "C": "Wrong: fear of solitude.",
+   "D": "Wrong: fear of light."
+  }
+ }
+]

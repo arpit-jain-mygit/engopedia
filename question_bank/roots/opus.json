@@ -1,0 +1,20 @@
+[
+ {
+  "word": "magnum opus",
+  "question": "After twenty years of labour, her final novel is the crowning achievement of her career, the work by which she will be remembered. This is her:",
+  "options": [
+   "Status quo",
+   "Magnum opus",
+   "Persona non grata",
+   "Ad hoc"
+  ],
+  "correct": "B",
+  "explanation": "Magnum (great) + opus (work): a great work.",
+  "reasons": {
+   "A": "Wrong: the existing state of affairs.",
+   "B": "Correct: a great work; a masterpiece.",
+   "C": "Wrong: an unwelcome person.",
+   "D": "Wrong: formed for one specific purpose."
+  }
+ }
+]

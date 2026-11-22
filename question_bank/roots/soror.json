@@ -1,0 +1,56 @@
+[
+ {
+  "word": "sororicidal",
+  "question": "A court heard of a crime in which a woman killed her own sister. The crime was:",
+  "options": [
+   "sororicidal",
+   "matricidal",
+   "fratricidal",
+   "uxoricidal"
+  ],
+  "correct": "A",
+  "explanation": "sororicidal: Relating to killing one's sister.",
+  "reasons": {
+   "A": "Correct: Relating to killing one's sister.",
+   "B": "Wrong: Relating to the killing of one's mother.",
+   "C": "Wrong: Relating to killing one's brother.",
+   "D": "Wrong: Relating to killing one's wife."
+  }
+ },
+ {
+  "word": "sororicide",
+  "question": "The killing of one's sister is called:",
+  "options": [
+   "fratricide",
+   "sororicide",
+   "matricide",
+   "regicide"
+  ],
+  "correct": "B",
+  "explanation": "sororicide: The killing of one's sister.",
+  "reasons": {
+   "A": "Wrong: The killing of one's brother.",
+   "B": "Correct: The killing of one's sister.",
+   "C": "Wrong: The killing of one's mother.",
+   "D": "Wrong: The killing of a king or ruler."
+  }
+ },
+ {
+  "word": "sorority",
+  "question": "The women's club organized as a sisterhood on campus is a:",
+  "options": [
+   "fraternity",
+   "paternity",
+   "sorority",
+   "maternity"
+  ],
+  "correct": "C",
+  "explanation": "sorority: A women's club or sisterhood.",
+  "reasons": {
+   "A": "Wrong: A men's club or brotherhood.",
+   "B": "Wrong: Fatherhood.",
+   "C": "Correct: A women's club or sisterhood.",
+   "D": "Wrong: Motherhood."
+  }
+ }
+]

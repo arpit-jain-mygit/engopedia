@@ -1,0 +1,38 @@
+[
+ {
+  "word": "barometer",
+  "question": "A sailor taps a glass dial each morning to see whether the air pressure is falling before a storm. The instrument he uses is a:",
+  "options": [
+   "Barometer",
+   "Thermometer",
+   "Hygrometer",
+   "Anemometer"
+  ],
+  "correct": "A",
+  "explanation": "Baros (weight, pressure) + metron (measure): an instrument for air pressure.",
+  "reasons": {
+   "A": "Correct: a device that measures air pressure.",
+   "B": "Wrong: a device for measuring temperature.",
+   "C": "Wrong: a device for measuring humidity.",
+   "D": "Wrong: a device for measuring wind speed."
+  }
+ },
+ {
+  "word": "barometric",
+  "question": "Forecasters watch the changes in the pressure of the air on their weather charts. These changes are called:",
+  "options": [
+   "Thermal",
+   "Barometric",
+   "Hygroscopic",
+   "Meteoric"
+  ],
+  "correct": "B",
+  "explanation": "Baros (pressure) + -ic: relating to air pressure.",
+  "reasons": {
+   "A": "Wrong: relating to heat.",
+   "B": "Correct: relating to air pressure.",
+   "C": "Wrong: absorbing moisture from the air.",
+   "D": "Wrong: rapid, like a shooting star."
+  }
+ }
+]

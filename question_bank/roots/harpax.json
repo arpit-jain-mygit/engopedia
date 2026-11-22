@@ -1,0 +1,20 @@
+[
+ {
+  "word": "harpaxophobia",
+  "question": "A shopkeeper double-locks his door every night, convinced that a masked intruder will break in and seize his takings. He fears:",
+  "options": [
+   "Xenophobia",
+   "Harpaxophobia",
+   "Ochlophobia",
+   "Anemophobia"
+  ],
+  "correct": "B",
+  "explanation": "Harpax (robber) + phobia = fear of robbers.",
+  "reasons": {
+   "A": "Wrong: fear of foreigners or strangers.",
+   "B": "Correct: harpax means robber, so the fear is of robbers.",
+   "C": "Wrong: fear of crowds.",
+   "D": "Wrong: fear of wind."
+  }
+ }
+]

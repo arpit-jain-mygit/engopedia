@@ -1,0 +1,164 @@
+[
+ {
+  "word": "alleviate",
+  "question": "The medicine eased the patient's pain and made her feel better. It helped to:",
+  "options": [
+   "elevate",
+   "levitate",
+   "alleviate",
+   "malign"
+  ],
+  "correct": "C",
+  "explanation": "alleviate: To lighten or relieve pain or trouble.",
+  "reasons": {
+   "A": "Wrong: To raise up to a higher position or level.",
+   "B": "Wrong: To rise into the air without visible support.",
+   "C": "Correct: To lighten or relieve pain or trouble.",
+   "D": "Wrong: To speak evil of someone; to slander."
+  }
+ },
+ {
+  "word": "alleviation",
+  "question": "The relief from the pain was welcome. This relief is:",
+  "options": [
+   "levitation",
+   "intimation",
+   "malignancy",
+   "alleviation"
+  ],
+  "correct": "D",
+  "explanation": "alleviation: Relief from pain or trouble.",
+  "reasons": {
+   "A": "Wrong: Rising into the air without visible support.",
+   "B": "Wrong: A hint; an indirect suggestion.",
+   "C": "Wrong: A cancerous growth; harmfulness.",
+   "D": "Correct: Relief from pain or trouble."
+  }
+ },
+ {
+  "word": "alleviative",
+  "question": "The cream had a soothing effect that eased pain. It was:",
+  "options": [
+   "alleviative",
+   "benignant",
+   "malignant",
+   "placid"
+  ],
+  "correct": "A",
+  "explanation": "alleviative: Easing pain or relieving trouble.",
+  "reasons": {
+   "A": "Correct: Easing pain or relieving trouble.",
+   "B": "Wrong: Kind and gracious; not cancerous.",
+   "C": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "elevate",
+  "question": "The crane lifted the heavy beam up into the air to a higher level. It raised the beam, meaning it:",
+  "options": [
+   "levitate",
+   "elevate",
+   "relieve",
+   "alleviate"
+  ],
+  "correct": "B",
+  "explanation": "elevate: To raise up to a higher position or level.",
+  "reasons": {
+   "A": "Wrong: To rise into the air without visible support.",
+   "B": "Correct: To raise up to a higher position or level.",
+   "C": "Wrong: To ease pain or trouble.",
+   "D": "Wrong: To lighten or relieve pain or trouble."
+  }
+ },
+ {
+  "word": "elevator",
+  "question": "In the tall building, people rode a machine that lifted them between floors. The machine is an:",
+  "options": [
+   "barometer",
+   "thermometer",
+   "elevator",
+   "metronome"
+  ],
+  "correct": "C",
+  "explanation": "elevator: A machine that lifts people between floors.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures atmospheric pressure.",
+   "B": "Wrong: An instrument that measures heat.",
+   "C": "Correct: A machine that lifts people between floors.",
+   "D": "Wrong: A device that ticks to keep a steady beat for music."
+  }
+ },
+ {
+  "word": "levitate",
+  "question": "The magician made the table rise into the air without visible support. He made it:",
+  "options": [
+   "alleviate",
+   "relieve",
+   "intimate",
+   "levitate"
+  ],
+  "correct": "D",
+  "explanation": "levitate: To rise into the air without visible support.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Wrong: To ease pain or trouble.",
+   "C": "Wrong: To hint or suggest indirectly.",
+   "D": "Correct: To rise into the air without visible support."
+  }
+ },
+ {
+  "word": "levitation",
+  "question": "The floating of a body in the air, seemingly without support, is called:",
+  "options": [
+   "levitation",
+   "alleviation",
+   "intimation",
+   "trepidation"
+  ],
+  "correct": "A",
+  "explanation": "levitation: Rising into the air without visible support.",
+  "reasons": {
+   "A": "Correct: Rising into the air without visible support.",
+   "B": "Wrong: Relief from pain or trouble.",
+   "C": "Wrong: A hint; an indirect suggestion.",
+   "D": "Wrong: Fear, nervousness, or alarm."
+  }
+ },
+ {
+  "word": "levity",
+  "question": "The jokes and light-hearted mood in the meeting lifted the tension. This lightness of mood is:",
+  "options": [
+   "ennui",
+   "levity",
+   "apathy",
+   "pathetic"
+  ],
+  "correct": "B",
+  "explanation": "levity: Lightness; humor; lack of seriousness.",
+  "reasons": {
+   "A": "Wrong: Boredom and weariness from having too little to do.",
+   "B": "Correct: Lightness; humor; lack of seriousness.",
+   "C": "Wrong: A lack of feeling, interest, or concern.",
+   "D": "Wrong: Arousing sorrow or pity; suffering."
+  }
+ },
+ {
+  "word": "relieve",
+  "question": "The cool breeze was welcome because it would ease the tension of the hot day. It would:",
+  "options": [
+   "elevate",
+   "levitate",
+   "relieve",
+   "intimate"
+  ],
+  "correct": "C",
+  "explanation": "relieve: To ease pain or trouble.",
+  "reasons": {
+   "A": "Wrong: To raise up to a higher position or level.",
+   "B": "Wrong: To rise into the air without visible support.",
+   "C": "Correct: To ease pain or trouble.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ }
+]

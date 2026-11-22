@@ -1,0 +1,74 @@
+[
+ {
+  "word": "uxorial",
+  "question": "Relating to a wife, the duties of a wife in the household were her:",
+  "options": [
+   "maternal",
+   "uxorial",
+   "paternal",
+   "fraternal"
+  ],
+  "correct": "B",
+  "explanation": "uxorial: Relating to a wife.",
+  "reasons": {
+   "A": "Wrong: Motherly; relating to a mother.",
+   "B": "Correct: Relating to a wife.",
+   "C": "Wrong: Fatherly; relating to a father.",
+   "D": "Wrong: Brotherly; relating to brothers."
+  }
+ },
+ {
+  "word": "uxoricidal",
+  "question": "The murder of a wife by her husband was a crime of killing a wife. The crime was:",
+  "options": [
+   "mariticidal",
+   "matricidal",
+   "uxoricidal",
+   "sororicidal"
+  ],
+  "correct": "C",
+  "explanation": "uxoricidal: Relating to killing one's wife.",
+  "reasons": {
+   "A": "Wrong: Relating to killing one's husband.",
+   "B": "Wrong: Relating to the killing of one's mother.",
+   "C": "Correct: Relating to killing one's wife.",
+   "D": "Wrong: Relating to killing one's sister."
+  }
+ },
+ {
+  "word": "uxoricide",
+  "question": "The killing of one's wife is called:",
+  "options": [
+   "mariticide",
+   "matricide",
+   "sororicide",
+   "uxoricide"
+  ],
+  "correct": "D",
+  "explanation": "uxoricide: The killing of one's wife.",
+  "reasons": {
+   "A": "Wrong: The killing of one's husband.",
+   "B": "Wrong: The killing of one's mother.",
+   "C": "Wrong: The killing of one's sister.",
+   "D": "Correct: The killing of one's wife."
+  }
+ },
+ {
+  "word": "uxorious",
+  "question": "He was excessively devoted to his wife and constantly submissive to her. He was:",
+  "options": [
+   "uxorious",
+   "misogamous",
+   "misogynistic",
+   "monogamous"
+  ],
+  "correct": "A",
+  "explanation": "uxorious: Excessively devoted to and dominated by one's wife.",
+  "reasons": {
+   "A": "Correct: Excessively devoted to and dominated by one's wife.",
+   "B": "Wrong: Opposed to marriage.",
+   "C": "Wrong: Showing hatred of women.",
+   "D": "Wrong: Married to only one person."
+  }
+ }
+]

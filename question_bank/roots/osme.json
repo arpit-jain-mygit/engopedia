@@ -1,0 +1,20 @@
+[
+ {
+  "word": "osmophobia",
+  "question": "A diner leaves the restaurant the moment a strong perfume or a cooking spice drifts toward her nose. Her fear is of these scents:",
+  "options": [
+   "Osmophobia",
+   "Geumophobia",
+   "Cibophobia",
+   "Acousticophobia"
+  ],
+  "correct": "A",
+  "explanation": "Osme (smell, odour) + phobia = fear of odours.",
+  "reasons": {
+   "A": "Correct: osme means smell or odour, so the fear is of odours.",
+   "B": "Wrong: fear of taste.",
+   "C": "Wrong: fear of food itself.",
+   "D": "Wrong: fear of sounds."
+  }
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "word": "obstetric",
+  "question": "The hospital's ward handled the care of mothers giving birth. Its care was:",
+  "options": [
+   "obstetric",
+   "geriatric",
+   "pediatric",
+   "podiatric"
+  ],
+  "correct": "A",
+  "explanation": "obstetric: Relating to childbirth.",
+  "reasons": {
+   "A": "Correct: Relating to childbirth.",
+   "B": "Wrong: Relating to the medical care of the elderly.",
+   "C": "Wrong: Relating to children's medicine.",
+   "D": "Wrong: Relating to foot care."
+  }
+ },
+ {
+  "word": "obstetrical",
+  "question": "The doctor specialized in the medical care of childbirth. The care was:",
+  "options": [
+   "gynecological",
+   "obstetrical",
+   "pediatric",
+   "cardiological"
+  ],
+  "correct": "B",
+  "explanation": "obstetrical: Relating to obstetrics.",
+  "reasons": {
+   "A": "Wrong: Relating to women's health.",
+   "B": "Correct: Relating to obstetrics.",
+   "C": "Wrong: Relating to children's medicine.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "obstetrician",
+  "question": "The doctor who delivers babies and cares for mothers through childbirth is an:",
+  "options": [
+   "pediatrician",
+   "geriatrician",
+   "obstetrician",
+   "podiatrist"
+  ],
+  "correct": "C",
+  "explanation": "obstetrician: A doctor who delivers babies and cares for mothers.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Wrong: A doctor who specializes in the elderly.",
+   "C": "Correct: A doctor who delivers babies and cares for mothers.",
+   "D": "Wrong: A practitioner who treats minor foot ailments."
+  }
+ },
+ {
+  "word": "obstetrics",
+  "question": "The medical specialty of childbirth is called:",
+  "options": [
+   "gynecology",
+   "pediatrics",
+   "geriatrics",
+   "obstetrics"
+  ],
+  "correct": "D",
+  "explanation": "obstetrics: The medical specialty of childbirth.",
+  "reasons": {
+   "A": "Wrong: The medical study of women's health.",
+   "B": "Wrong: The medical care of children.",
+   "C": "Wrong: The medical care of the elderly.",
+   "D": "Correct: The medical specialty of childbirth."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "vegetate",
+  "question": "After retiring, he sat at home all day watching television and doing nothing. He was content to:",
+  "options": [
+   "Invigorate",
+   "Ruminate",
+   "Vegetate",
+   "Agitate"
+  ],
+  "correct": "C",
+  "explanation": "Vegetare (to grow, to live): to live passively, like a plant.",
+  "reasons": {
+   "A": "Wrong: give energy or life; the opposite idea.",
+   "B": "Wrong: think deeply and slowly about something.",
+   "C": "Correct: to live a dull, inactive life.",
+   "D": "Wrong: make someone anxious or upset."
+  }
+ }
+]

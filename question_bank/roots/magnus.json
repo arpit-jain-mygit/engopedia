@@ -1,0 +1,164 @@
+[
+ {
+  "word": "magnanimity",
+  "question": "After losing, she forgave her opponent and offered him help with great-hearted generosity. This noble generosity is:",
+  "options": [
+   "magnanimity",
+   "pusillanimity",
+   "animosity",
+   "malignity"
+  ],
+  "correct": "A",
+  "explanation": "magnanimity: Generosity of spirit; noble forgiveness.",
+  "reasons": {
+   "A": "Correct: Generosity of spirit; noble forgiveness.",
+   "B": "Wrong: Cowardice; lack of courage.",
+   "C": "Wrong: Strong dislike; hostility.",
+   "D": "Wrong: Deep hatred or harmfulness."
+  }
+ },
+ {
+  "word": "magnanimous",
+  "question": "Though wronged, he forgave his rival with great-hearted generosity. He was:",
+  "options": [
+   "pusillanimous",
+   "magnanimous",
+   "malevolent",
+   "parsimonious"
+  ],
+  "correct": "B",
+  "explanation": "magnanimous: Generous and forgiving; great-minded.",
+  "reasons": {
+   "A": "Wrong: Timid and cowardly; lacking courage.",
+   "B": "Correct: Generous and forgiving; great-minded.",
+   "C": "Wrong: Wishing evil or harm to others.",
+   "D": "Wrong: Very sparing with money; stingy."
+  }
+ },
+ {
+  "word": "magnate",
+  "question": "The tycoon controlled several large companies and held great power in business. He was a:",
+  "options": [
+   "potentate",
+   "martinet",
+   "magnate",
+   "demagogue"
+  ],
+  "correct": "C",
+  "explanation": "magnate: A person of great power or influence.",
+  "reasons": {
+   "A": "Wrong: A powerful ruler.",
+   "B": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "C": "Correct: A person of great power or influence.",
+   "D": "Wrong: A leader who stirs up discontent to win power."
+  }
+ },
+ {
+  "word": "magnificent",
+  "question": "The palace's grand halls and gleaming gold made it splendid to see. The palace was:",
+  "options": [
+   "miserable",
+   "rustic",
+   "penurious",
+   "magnificent"
+  ],
+  "correct": "D",
+  "explanation": "magnificent: Splendid; very grand.",
+  "reasons": {
+   "A": "Wrong: Very unhappy; wretched.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Wrong: Very poor; also stingy and grasping.",
+   "D": "Correct: Splendid; very grand."
+  }
+ },
+ {
+  "word": "magnify",
+  "question": "The microscope made the tiny insect look much larger. The lens would:",
+  "options": [
+   "magnify",
+   "alleviate",
+   "relieve",
+   "levitate"
+  ],
+  "correct": "A",
+  "explanation": "magnify: To make larger or greater.",
+  "reasons": {
+   "A": "Correct: To make larger or greater.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To ease pain or trouble.",
+   "D": "Wrong: To rise into the air without visible support."
+  }
+ },
+ {
+  "word": "magniloquence",
+  "question": "The speaker's grand and inflated language impressed the crowd. Such lofty speech is:",
+  "options": [
+   "laconicism",
+   "magniloquence",
+   "colloquialism",
+   "circumlocution"
+  ],
+  "correct": "B",
+  "explanation": "magniloquence: Lofty, grand, and pompous speech.",
+  "reasons": {
+   "A": "Wrong: A habit of using few words.",
+   "B": "Correct: Lofty, grand, and pompous speech.",
+   "C": "Wrong: An informal expression used in everyday speech.",
+   "D": "Wrong: A roundabout way of speaking."
+  }
+ },
+ {
+  "word": "magniloquent",
+  "question": "A lofty and grand style of speaking marked the wedding speech. The speech was:",
+  "options": [
+   "laconic",
+   "colloquial",
+   "magniloquent",
+   "circumspect"
+  ],
+  "correct": "C",
+  "explanation": "magniloquent: Speaking in a lofty, grand way.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Wrong: Suitable for informal speech.",
+   "C": "Correct: Speaking in a lofty, grand way.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "magnitude",
+  "question": "The earthquake's great size and force shocked the whole country. Its size was its:",
+  "options": [
+   "vitality",
+   "penury",
+   "parity",
+   "magnitude"
+  ],
+  "correct": "D",
+  "explanation": "magnitude: Great size or importance.",
+  "reasons": {
+   "A": "Wrong: Energy and strength for life.",
+   "B": "Wrong: Extreme poverty; lack of necessities.",
+   "C": "Wrong: Equality of rank, pay, or status.",
+   "D": "Correct: Great size or importance."
+  }
+ },
+ {
+  "word": "magnum opus",
+  "question": "The composer's greatest masterpiece, his finest and largest work, was the symphony. It was his:",
+  "options": [
+   "magnum opus",
+   "alma mater",
+   "bona fide",
+   "sequel"
+  ],
+  "correct": "A",
+  "explanation": "magnum opus: A great work; a masterpiece.",
+  "reasons": {
+   "A": "Correct: A great work; a masterpiece.",
+   "B": "Wrong: The school or college one attended.",
+   "C": "Wrong: Genuine; made in good faith.",
+   "D": "Wrong: A later story or event that follows an earlier one."
+  }
+ }
+]

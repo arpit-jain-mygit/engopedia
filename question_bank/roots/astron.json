@@ -1,0 +1,200 @@
+[
+ {
+  "word": "aster",
+  "question": "The daisy-like flower with petals shaped like a star is called an:",
+  "options": [
+   "aster",
+   "disaster",
+   "astrology",
+   "astronomy"
+  ],
+  "correct": "A",
+  "explanation": "aster: A star-shaped flower.",
+  "reasons": {
+   "A": "Correct: A star-shaped flower.",
+   "B": "Wrong: A sudden event that causes great harm or loss.",
+   "C": "Wrong: The belief that the stars and planets affect human events.",
+   "D": "Wrong: The science of the stars and other heavenly bodies."
+  }
+ },
+ {
+  "word": "asterisk",
+  "question": "The printed star symbol (*) pointed the reader to a note at the bottom of the page. This symbol is an:",
+  "options": [
+   "aster",
+   "asterisk",
+   "disaster",
+   "astronomy"
+  ],
+  "correct": "B",
+  "explanation": "asterisk: A star-shaped symbol (*) used to point to a footnote.",
+  "reasons": {
+   "A": "Wrong: A star-shaped flower.",
+   "B": "Correct: A star-shaped symbol (*) used to point to a footnote.",
+   "C": "Wrong: A sudden event that causes great harm or loss.",
+   "D": "Wrong: The science of the stars and other heavenly bodies."
+  }
+ },
+ {
+  "word": "astrologer",
+  "question": "The fortune teller read star charts to predict people's futures. She was an:",
+  "options": [
+   "astronomer",
+   "astronaut",
+   "astrologer",
+   "geometrician"
+  ],
+  "correct": "C",
+  "explanation": "astrologer: A person who studies the stars to predict human events.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the heavens and celestial bodies.",
+   "B": "Wrong: A sailor among the stars; a space traveler.",
+   "C": "Correct: A person who studies the stars to predict human events.",
+   "D": "Wrong: An expert in geometry."
+  }
+ },
+ {
+  "word": "astrological",
+  "question": "The horoscope in the paper was based on the positions of the planets. Its basis was:",
+  "options": [
+   "astronomical",
+   "nautical",
+   "geological",
+   "astrological"
+  ],
+  "correct": "D",
+  "explanation": "astrological: Relating to astrology.",
+  "reasons": {
+   "A": "Wrong: Relating to astronomy; very large in size or number.",
+   "B": "Wrong: Relating to ships, sailing, or navigation.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Correct: Relating to astrology."
+  }
+ },
+ {
+  "word": "astrology",
+  "question": "The belief that the stars shape human events is called:",
+  "options": [
+   "astrology",
+   "astronomy",
+   "geology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "astrology: The belief that the stars and planets affect human events.",
+  "reasons": {
+   "A": "Correct: The belief that the stars and planets affect human events.",
+   "B": "Wrong: The science of the stars and other heavenly bodies.",
+   "C": "Wrong: The science of the earth's composition and history.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "astronaut",
+  "question": "The traveller trained for months to fly into orbit in a spacecraft. She became an:",
+  "options": [
+   "astrologer",
+   "astronaut",
+   "geometrician",
+   "tyro"
+  ],
+  "correct": "B",
+  "explanation": "astronaut: A sailor among the stars; a space traveler.",
+  "reasons": {
+   "A": "Wrong: A person who studies the stars to predict human events.",
+   "B": "Correct: A sailor among the stars; a space traveler.",
+   "C": "Wrong: An expert in geometry.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "astronomer",
+  "question": "The scientist who maps and studies the stars through a telescope is an:",
+  "options": [
+   "astrologer",
+   "geometrician",
+   "astronomer",
+   "tyro"
+  ],
+  "correct": "C",
+  "explanation": "astronomer: A scientist who studies the heavens and celestial bodies.",
+  "reasons": {
+   "A": "Wrong: A person who studies the stars to predict human events.",
+   "B": "Wrong: An expert in geometry.",
+   "C": "Correct: A scientist who studies the heavens and celestial bodies.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "astronomical",
+  "question": "The distance between the two stars was so vast that it was beyond measure. The distance was:",
+  "options": [
+   "astrological",
+   "nautical",
+   "cardiological",
+   "astronomical"
+  ],
+  "correct": "D",
+  "explanation": "astronomical: Relating to astronomy; very large in size or number.",
+  "reasons": {
+   "A": "Wrong: Relating to astrology.",
+   "B": "Wrong: Relating to ships, sailing, or navigation.",
+   "C": "Wrong: Relating to the study of the heart.",
+   "D": "Correct: Relating to astronomy; very large in size or number."
+  }
+ },
+ {
+  "word": "astronomy",
+  "question": "The science of the stars and heavenly bodies is called:",
+  "options": [
+   "astronomy",
+   "astrology",
+   "geology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "astronomy: The science of the stars and other heavenly bodies.",
+  "reasons": {
+   "A": "Correct: The science of the stars and other heavenly bodies.",
+   "B": "Wrong: The belief that the stars and planets affect human events.",
+   "C": "Wrong: The science of the earth's composition and history.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "disaster",
+  "question": "A flood that destroyed homes and killed many people was a sudden catastrophe. It was a:",
+  "options": [
+   "tome",
+   "disaster",
+   "omnibus",
+   "podium"
+  ],
+  "correct": "B",
+  "explanation": "disaster: A sudden event that causes great harm or loss.",
+  "reasons": {
+   "A": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "B": "Correct: A sudden event that causes great harm or loss.",
+   "C": "Wrong: A book or law covering many things; a bus for all.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "disastrous",
+  "question": "The earthquake caused great harm and destruction across the region. The results were:",
+  "options": [
+   "beneficial",
+   "benign",
+   "disastrous",
+   "innocuous"
+  ],
+  "correct": "C",
+  "explanation": "disastrous: Causing great harm or loss.",
+  "reasons": {
+   "A": "Wrong: Helpful and good for someone.",
+   "B": "Wrong: Kindly, good-natured, and harmless.",
+   "C": "Correct: Causing great harm or loss.",
+   "D": "Wrong: Harmless; not likely to cause injury."
+  }
+ }
+]

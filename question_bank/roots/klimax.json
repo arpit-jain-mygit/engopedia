@@ -1,0 +1,20 @@
+[
+ {
+  "word": "climacophobia",
+  "question": "A woman takes the lift everywhere and refuses even two steps up a short flight, dreading the rising treads. Her fear is of:",
+  "options": [
+   "Basiphobia",
+   "Bathophobia",
+   "Climacophobia",
+   "Hodophobia"
+  ],
+  "correct": "C",
+  "explanation": "Klimax (ladder, stairs) + phobia = fear of stairs.",
+  "reasons": {
+   "A": "Wrong: fear of walking.",
+   "B": "Wrong: fear of depths.",
+   "C": "Correct: klimax means ladder or stairs, so the fear is of stairs.",
+   "D": "Wrong: fear of travel."
+  }
+ }
+]

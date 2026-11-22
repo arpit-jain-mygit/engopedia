@@ -1,0 +1,38 @@
+[
+ {
+  "word": "indefatigable",
+  "question": "The marathon runner kept going mile after mile with endless energy, while the others dropped out one by one. He was:",
+  "options": [
+   "Impecunious",
+   "Incorrigible",
+   "Ambivalent",
+   "Indefatigable"
+  ],
+  "correct": "D",
+  "explanation": "In- (not) + fatigare (to tire) + -able: not able to be tired out.",
+  "reasons": {
+   "A": "Wrong: having little or no money.",
+   "B": "Wrong: impossible to reform.",
+   "C": "Wrong: having mixed feelings.",
+   "D": "Correct: never tiring, with untiring energy."
+  }
+ },
+ {
+  "word": "indefatigability",
+  "question": "Her untiring energy in the campaign, working every night without rest, was the source of her:",
+  "options": [
+   "Indefatigability",
+   "Impecuniosity",
+   "Incorrigibility",
+   "Ambivalence"
+  ],
+  "correct": "A",
+  "explanation": "Indefatigability: the state of never tiring.",
+  "reasons": {
+   "A": "Correct: the quality of never tiring.",
+   "B": "Wrong: lack of money.",
+   "C": "Wrong: being impossible to reform.",
+   "D": "Wrong: mixed or conflicting feelings."
+  }
+ }
+]

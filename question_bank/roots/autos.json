@@ -1,0 +1,128 @@
+[
+ {
+  "word": "autobiographer",
+  "question": "He sat down to write an account of his own life and experiences. He became an:",
+  "options": [
+   "biographer",
+   "cacographer",
+   "calligrapher",
+   "autobiographer"
+  ],
+  "correct": "D",
+  "explanation": "autobiographer: A person who writes his or her own life story.",
+  "reasons": {
+   "A": "Wrong: A person who writes the story of someone's life.",
+   "B": "Wrong: A person who writes badly or illegibly.",
+   "C": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "D": "Correct: A person who writes his or her own life story."
+  }
+ },
+ {
+  "word": "autobiographical",
+  "question": "The memoir described her own experiences and her early years. It was:",
+  "options": [
+   "autobiographical",
+   "biographical",
+   "graphological",
+   "calligraphic"
+  ],
+  "correct": "A",
+  "explanation": "autobiographical: Relating to a person's own life story.",
+  "reasons": {
+   "A": "Correct: Relating to a person's own life story.",
+   "B": "Wrong: Relating to the story of a person's life.",
+   "C": "Wrong: Relating to the study of handwriting.",
+   "D": "Wrong: Relating to beautiful handwriting."
+  }
+ },
+ {
+  "word": "autobiography",
+  "question": "His memoir of his life, written by himself, was a bestseller. It was an:",
+  "options": [
+   "biography",
+   "autobiography",
+   "chirography",
+   "cacography"
+  ],
+  "correct": "B",
+  "explanation": "autobiography: A life story written by the person it describes.",
+  "reasons": {
+   "A": "Wrong: A written account of a person's life.",
+   "B": "Correct: A life story written by the person it describes.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Wrong: Bad, ugly, or illegible handwriting."
+  }
+ },
+ {
+  "word": "autonomous",
+  "question": "The province made its own laws and decisions without the central government. It was:",
+  "options": [
+   "dictatorial",
+   "egregious",
+   "autonomous",
+   "sycophantic"
+  ],
+  "correct": "C",
+  "explanation": "autonomous: Self-governing; independent.",
+  "reasons": {
+   "A": "Wrong: Giving orders in a bossy, forceful manner.",
+   "B": "Wrong: Outstandingly bad or vicious.",
+   "C": "Correct: Self-governing; independent.",
+   "D": "Wrong: Fawning; flattering to gain favor."
+  }
+ },
+ {
+  "word": "autonomy",
+  "question": "The region demanded freedom to rule itself. It wanted:",
+  "options": [
+   "asceticism",
+   "sycophancy",
+   "parity",
+   "autonomy"
+  ],
+  "correct": "D",
+  "explanation": "autonomy: Self-rule; the right to govern oneself.",
+  "reasons": {
+   "A": "Wrong: A life of strict self-denial and simplicity.",
+   "B": "Wrong: Fawning behavior toward the powerful.",
+   "C": "Wrong: Equality of rank, pay, or status.",
+   "D": "Correct: Self-rule; the right to govern oneself."
+  }
+ },
+ {
+  "word": "autophobia",
+  "question": "He could not bear to be alone and dreaded solitude. His fear is:",
+  "options": [
+   "autophobia",
+   "claustrophobia",
+   "agoraphobia",
+   "xenophobia"
+  ],
+  "correct": "A",
+  "explanation": "autophobia: Fear of solitude.",
+  "reasons": {
+   "A": "Correct: Fear of solitude.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of open spaces or crowds.",
+   "D": "Wrong: Fear of foreigners or strangers."
+  }
+ },
+ {
+  "word": "autopsy",
+  "question": "The doctor examined the body after death to find out what caused it. This examination is an:",
+  "options": [
+   "biopsy",
+   "autopsy",
+   "diagnosis",
+   "prognosis"
+  ],
+  "correct": "B",
+  "explanation": "autopsy: An examination of a dead body to find the cause of death.",
+  "reasons": {
+   "A": "Wrong: The removal and study of a small piece of living tissue.",
+   "B": "Correct: An examination of a dead body to find the cause of death.",
+   "C": "Wrong: A determination of the nature of a disease or problem.",
+   "D": "Wrong: A forecast of the course of a disease."
+  }
+ }
+]

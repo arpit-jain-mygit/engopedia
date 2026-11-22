@@ -1,0 +1,92 @@
+[
+ {
+  "word": "obsequies",
+  "question": "The funeral rites and ceremonies honouring the dead were held at dawn. These rites are:",
+  "options": [
+   "obsequies",
+   "sequel",
+   "sequence",
+   "benediction"
+  ],
+  "correct": "A",
+  "explanation": "obsequies: Funeral rites and ceremonies.",
+  "reasons": {
+   "A": "Correct: Funeral rites and ceremonies.",
+   "B": "Wrong: A later story or event that follows an earlier one.",
+   "C": "Wrong: A series of things following in order.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "obsequious",
+  "question": "The servant bowed and fawned over the rich guests, eager to please. He was:",
+  "options": [
+   "iconoclastic",
+   "obsequious",
+   "ascetic",
+   "placid"
+  ],
+  "correct": "B",
+  "explanation": "obsequious: Overly eager to please; fawning and servile.",
+  "reasons": {
+   "A": "Wrong: Attacking traditions and beliefs.",
+   "B": "Correct: Overly eager to please; fawning and servile.",
+   "C": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "sequel",
+  "question": "The second novel continued the story where the first had left off. It was the book's:",
+  "options": [
+   "epitome",
+   "tome",
+   "sequel",
+   "omnibus"
+  ],
+  "correct": "C",
+  "explanation": "sequel: A later story or event that follows an earlier one.",
+  "reasons": {
+   "A": "Wrong: A perfect example; a short summary.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: A later story or event that follows an earlier one.",
+   "D": "Wrong: A book or law covering many things; a bus for all."
+  }
+ },
+ {
+  "word": "sequence",
+  "question": "The events happened in an orderly series, one after the other. This order is a:",
+  "options": [
+   "epitome",
+   "tome",
+   "omnibus",
+   "sequence"
+  ],
+  "correct": "D",
+  "explanation": "sequence: A series of things following in order.",
+  "reasons": {
+   "A": "Wrong: A perfect example; a short summary.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Wrong: A book or law covering many things; a bus for all.",
+   "D": "Correct: A series of things following in order."
+  }
+ },
+ {
+  "word": "subsequent",
+  "question": "The events that came after the first accident were all linked. They were:",
+  "options": [
+   "subsequent",
+   "cogent",
+   "placid",
+   "laconic"
+  ],
+  "correct": "A",
+  "explanation": "subsequent: Coming after; following in time.",
+  "reasons": {
+   "A": "Correct: Coming after; following in time.",
+   "B": "Wrong: Powerful, convincing, and logical.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "word": "animosity",
+  "question": "The two neighbours had a strong, long-running dislike for each other that showed in every meeting. Their hostility is:",
+  "options": [
+   "equanimity",
+   "ambivalence",
+   "benevolence",
+   "animosity"
+  ],
+  "correct": "D",
+  "explanation": "animosity: Strong dislike; hostility.",
+  "reasons": {
+   "A": "Wrong: Calm and even temper, especially under stress.",
+   "B": "Wrong: Having mixed or conflicting feelings.",
+   "C": "Wrong: A wish to do good for others.",
+   "D": "Correct: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "equanimity",
+  "question": "Even when the flight was delayed for hours, she stayed calm and even-tempered. Her calm under pressure is her:",
+  "options": [
+   "equanimity",
+   "animosity",
+   "pusillanimity",
+   "parsimony"
+  ],
+  "correct": "A",
+  "explanation": "equanimity: Calm and even temper, especially under stress.",
+  "reasons": {
+   "A": "Correct: Calm and even temper, especially under stress.",
+   "B": "Wrong: Strong dislike; hostility.",
+   "C": "Wrong: Cowardice; lack of courage.",
+   "D": "Wrong: Extreme care in spending; stinginess."
+  }
+ },
+ {
+  "word": "magnanimity",
+  "question": "After losing the election, she praised her rival and forgave the insults with generous spirit. Her noble generosity is:",
+  "options": [
+   "pusillanimity",
+   "magnanimity",
+   "animosity",
+   "parsimony"
+  ],
+  "correct": "B",
+  "explanation": "magnanimity: Generosity of spirit; noble forgiveness.",
+  "reasons": {
+   "A": "Wrong: Cowardice; lack of courage.",
+   "B": "Correct: Generosity of spirit; noble forgiveness.",
+   "C": "Wrong: Strong dislike; hostility.",
+   "D": "Wrong: Extreme care in spending; stinginess."
+  }
+ },
+ {
+  "word": "magnanimous",
+  "question": "Though he had been wronged, he forgave his enemy and offered him help, showing great-minded generosity. He was:",
+  "options": [
+   "pusillanimous",
+   "malevolent",
+   "magnanimous",
+   "parsimonious"
+  ],
+  "correct": "C",
+  "explanation": "magnanimous: Generous and forgiving; great-minded.",
+  "reasons": {
+   "A": "Wrong: Timid and cowardly; lacking courage.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Correct: Generous and forgiving; great-minded.",
+   "D": "Wrong: Very sparing with money; stingy."
+  }
+ },
+ {
+  "word": "pusillanimity",
+  "question": "He refused to speak up in the meeting, always backing away from any risk. This lack of courage is his:",
+  "options": [
+   "magnanimity",
+   "equanimity",
+   "animosity",
+   "pusillanimity"
+  ],
+  "correct": "D",
+  "explanation": "pusillanimity: Cowardice; lack of courage.",
+  "reasons": {
+   "A": "Wrong: Generosity of spirit; noble forgiveness.",
+   "B": "Wrong: Calm and even temper, especially under stress.",
+   "C": "Wrong: Strong dislike; hostility.",
+   "D": "Correct: Cowardice; lack of courage."
+  }
+ },
+ {
+  "word": "pusillanimous",
+  "question": "The timid manager never dared to challenge the board, and always gave way. His behaviour was:",
+  "options": [
+   "pusillanimous",
+   "magnanimous",
+   "intrepid",
+   "stoical"
+  ],
+  "correct": "A",
+  "explanation": "pusillanimous: Timid and cowardly; lacking courage.",
+  "reasons": {
+   "A": "Correct: Timid and cowardly; lacking courage.",
+   "B": "Wrong: Generous and forgiving; great-minded.",
+   "C": "Wrong: Fearless and bold; not afraid of danger.",
+   "D": "Wrong: Bearing pain and trouble calmly, without complaint."
+  }
+ },
+ {
+  "word": "unanimity",
+  "question": "Every member of the jury agreed on the verdict, with no one dissenting. Their complete agreement is:",
+  "options": [
+   "ambivalence",
+   "unanimity",
+   "equivocation",
+   "altercation"
+  ],
+  "correct": "B",
+  "explanation": "unanimity: Complete agreement.",
+  "reasons": {
+   "A": "Wrong: Having mixed or conflicting feelings.",
+   "B": "Correct: Complete agreement.",
+   "C": "Wrong: A deliberately vague or misleading statement.",
+   "D": "Wrong: A heated argument or dispute."
+  }
+ },
+ {
+  "word": "unanimous",
+  "question": "The council voted, and all twelve members raised their hands in agreement. The vote was:",
+  "options": [
+   "ambivalent",
+   "equivocal",
+   "unanimous",
+   "militant"
+  ],
+  "correct": "C",
+  "explanation": "unanimous: Agreed by everyone; of one mind.",
+  "reasons": {
+   "A": "Wrong: Having conflicting feelings at the same time.",
+   "B": "Wrong: Deliberately vague; open to two meanings.",
+   "C": "Correct: Agreed by everyone; of one mind.",
+   "D": "Wrong: Aggressive in fighting for a cause."
+  }
+ }
+]

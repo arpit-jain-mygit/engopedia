@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pnigerophobia",
+  "question": "A man wakes from a dream panicking that a heavy blanket is pressing on his face, unable to breathe. He has a fear of:",
+  "options": [
+   "Hypnophobia",
+   "Pnigerophobia",
+   "Ombrophobia",
+   "Asthenophobia"
+  ],
+  "correct": "B",
+  "explanation": "Pnigo (to choke, smother) + phobia = fear of smothering.",
+  "reasons": {
+   "A": "Wrong: fear of sleep.",
+   "B": "Correct: pnigo means to choke or smother, so the fear is of smothering.",
+   "C": "Wrong: fear of rain.",
+   "D": "Wrong: fear of weakness."
+  }
+ }
+]

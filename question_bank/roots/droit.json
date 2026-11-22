@@ -1,0 +1,74 @@
+[
+ {
+  "word": "adroit",
+  "question": "The skilled magician performed a clever trick with quick, nimble hands. He was:",
+  "options": [
+   "maladroit",
+   "gauche",
+   "egregious",
+   "adroit"
+  ],
+  "correct": "D",
+  "explanation": "adroit: Skillful and quick-witted.",
+  "reasons": {
+   "A": "Wrong: Clumsy and awkward.",
+   "B": "Wrong: Awkward and socially clumsy.",
+   "C": "Wrong: Outstandingly bad or vicious.",
+   "D": "Correct: Skillful and quick-witted."
+  }
+ },
+ {
+  "word": "adroitness",
+  "question": "Her skill and cleverness in handling the difficult guest impressed everyone. This skill is:",
+  "options": [
+   "adroitness",
+   "maladroitness",
+   "gaucherie",
+   "gullibility"
+  ],
+  "correct": "A",
+  "explanation": "adroitness: Skill and cleverness in handling situations.",
+  "reasons": {
+   "A": "Correct: Skill and cleverness in handling situations.",
+   "B": "Wrong: Clumsiness; lack of skill.",
+   "C": "Wrong: Awkwardness; a clumsy or tactless act.",
+   "D": "Wrong: Willingness to be easily tricked."
+  }
+ },
+ {
+  "word": "maladroit",
+  "question": "The clumsy waiter knocked over the glass and stumbled over the rug. He was:",
+  "options": [
+   "adroit",
+   "maladroit",
+   "dexterous",
+   "ambidextrous"
+  ],
+  "correct": "B",
+  "explanation": "maladroit: Clumsy and awkward.",
+  "reasons": {
+   "A": "Wrong: Skillful and quick-witted.",
+   "B": "Correct: Clumsy and awkward.",
+   "C": "Wrong: Skillful, especially with the hands.",
+   "D": "Wrong: Able to use both hands with equal skill."
+  }
+ },
+ {
+  "word": "maladroitness",
+  "question": "His clumsy handling of the delicate vase showed his lack of skill. This clumsiness is his:",
+  "options": [
+   "adroitness",
+   "dexterity",
+   "maladroitness",
+   "ambidexterity"
+  ],
+  "correct": "C",
+  "explanation": "maladroitness: Clumsiness; lack of skill.",
+  "reasons": {
+   "A": "Wrong: Skill and cleverness in handling situations.",
+   "B": "Wrong: Skill in using the hands or mind.",
+   "C": "Correct: Clumsiness; lack of skill.",
+   "D": "Wrong: The skill of using both hands equally well."
+  }
+ }
+]

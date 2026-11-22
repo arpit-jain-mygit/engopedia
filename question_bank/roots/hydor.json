@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hydrophobia",
+  "question": "A patient bitten by a rabid animal panics at any drink, shrinking from a cup of liquid and gasping. The condition is called:",
+  "options": [
+   "Aerophobia",
+   "Pyrophobia",
+   "Hydrophobia",
+   "Ombrophobia"
+  ],
+  "correct": "C",
+  "explanation": "Hydor (water) + phobia = fear of water.",
+  "reasons": {
+   "A": "Wrong: fear of air.",
+   "B": "Wrong: fear of fire.",
+   "C": "Correct: hydor means water, so the fear is of water.",
+   "D": "Wrong: fear of rain."
+  }
+ }
+]

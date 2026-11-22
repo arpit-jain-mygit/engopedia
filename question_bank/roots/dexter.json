@@ -1,0 +1,74 @@
+[
+ {
+  "word": "ambidexterity",
+  "question": "The surgeon's skill with both hands, equally good, was remarkable. This two-handed skill is:",
+  "options": [
+   "ambidexterity",
+   "maladroitness",
+   "gaucherie",
+   "garrulity"
+  ],
+  "correct": "A",
+  "explanation": "ambidexterity: The skill of using both hands equally well.",
+  "reasons": {
+   "A": "Correct: The skill of using both hands equally well.",
+   "B": "Wrong: Clumsiness; lack of skill.",
+   "C": "Wrong: Awkwardness; a clumsy or tactless act.",
+   "D": "Wrong: Constant chatter about trifles."
+  }
+ },
+ {
+  "word": "ambidextrous",
+  "question": "The pianist could play equally well with either hand. She was:",
+  "options": [
+   "maladroit",
+   "ambidextrous",
+   "gauche",
+   "laconic"
+  ],
+  "correct": "B",
+  "explanation": "ambidextrous: Able to use both hands with equal skill.",
+  "reasons": {
+   "A": "Wrong: Clumsy and awkward.",
+   "B": "Correct: Able to use both hands with equal skill.",
+   "C": "Wrong: Awkward and socially clumsy.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "dexterity",
+  "question": "Her skill in using her hands to thread the needle was impressive. This skill is:",
+  "options": [
+   "gaucherie",
+   "maladroitness",
+   "dexterity",
+   "garrulity"
+  ],
+  "correct": "C",
+  "explanation": "dexterity: Skill in using the hands or mind.",
+  "reasons": {
+   "A": "Wrong: Awkwardness; a clumsy or tactless act.",
+   "B": "Wrong: Clumsiness; lack of skill.",
+   "C": "Correct: Skill in using the hands or mind.",
+   "D": "Wrong: Constant chatter about trifles."
+  }
+ },
+ {
+  "word": "dexterous",
+  "question": "He skilfully and quickly assembled the delicate watch with nimble fingers. He was:",
+  "options": [
+   "maladroit",
+   "gauche",
+   "laconic",
+   "dexterous"
+  ],
+  "correct": "D",
+  "explanation": "dexterous: Skillful, especially with the hands.",
+  "reasons": {
+   "A": "Wrong: Clumsy and awkward.",
+   "B": "Wrong: Awkward and socially clumsy.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Correct: Skillful, especially with the hands."
+  }
+ }
+]

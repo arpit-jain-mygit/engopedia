@@ -1,0 +1,74 @@
+[
+ {
+  "word": "bona fide",
+  "question": "The offer was made in good faith and was genuine. It was:",
+  "options": [
+   "disingenuous",
+   "malign",
+   "credulous",
+   "bona fide"
+  ],
+  "correct": "D",
+  "explanation": "bona fide: Genuine; made in good faith.",
+  "reasons": {
+   "A": "Wrong: Not frank; crafty and insincere.",
+   "B": "Wrong: To speak evil of someone; to slander.",
+   "C": "Wrong: Willing to believe almost anything.",
+   "D": "Correct: Genuine; made in good faith."
+  }
+ },
+ {
+  "word": "fidelity",
+  "question": "Her loyalty to her husband never wavered over the years. This faithfulness is her:",
+  "options": [
+   "fidelity",
+   "infidelity",
+   "incredulity",
+   "credulity"
+  ],
+  "correct": "A",
+  "explanation": "fidelity: Faithfulness; loyalty.",
+  "reasons": {
+   "A": "Correct: Faithfulness; loyalty.",
+   "B": "Wrong: Unfaithfulness, especially in marriage.",
+   "C": "Wrong: Unwillingness to believe.",
+   "D": "Wrong: A tendency to believe too easily."
+  }
+ },
+ {
+  "word": "infidel",
+  "question": "The person who has no faith or religion was called an:",
+  "options": [
+   "sycophant",
+   "infidel",
+   "philanthropist",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "infidel: A person without faith or religion.",
+  "reasons": {
+   "A": "Wrong: A person who flatters the powerful to gain favor.",
+   "B": "Correct: A person without faith or religion.",
+   "C": "Wrong: A person who gives money and time to help others.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "infidelity",
+  "question": "Unfaithfulness in marriage broke her trust and made her angry. This unfaithfulness is:",
+  "options": [
+   "fidelity",
+   "credibility",
+   "infidelity",
+   "credulity"
+  ],
+  "correct": "C",
+  "explanation": "infidelity: Unfaithfulness, especially in marriage.",
+  "reasons": {
+   "A": "Wrong: Faithfulness; loyalty.",
+   "B": "Wrong: The quality of being believable.",
+   "C": "Correct: Unfaithfulness, especially in marriage.",
+   "D": "Wrong: A tendency to believe too easily."
+  }
+ }
+]

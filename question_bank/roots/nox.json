@@ -1,0 +1,74 @@
+[
+ {
+  "word": "equinoctial",
+  "question": "The storm arrived on the day when day and night were exactly equal in length. The day was:",
+  "options": [
+   "nocturnal",
+   "equinoctial",
+   "cardiac",
+   "astronomical"
+  ],
+  "correct": "B",
+  "explanation": "equinoctial: Relating to the equinox.",
+  "reasons": {
+   "A": "Wrong: Active at night.",
+   "B": "Correct: Relating to the equinox.",
+   "C": "Wrong: Relating to the heart.",
+   "D": "Wrong: Relating to astronomy; very large in size or number."
+  }
+ },
+ {
+  "word": "equinox",
+  "question": "The day when day and night are of equal length is called the:",
+  "options": [
+   "equilibrium",
+   "equity",
+   "equinox",
+   "equanimity"
+  ],
+  "correct": "C",
+  "explanation": "equinox: The time when day and night are of equal length.",
+  "reasons": {
+   "A": "Wrong: A state of balance between opposing forces.",
+   "B": "Wrong: Justice and fairness; equal treatment.",
+   "C": "Correct: The time when day and night are of equal length.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "nocturnal",
+  "question": "Owls are active at night and sleep during the day. They are:",
+  "options": [
+   "ambulatory",
+   "lupine",
+   "feline",
+   "nocturnal"
+  ],
+  "correct": "D",
+  "explanation": "nocturnal: Active at night.",
+  "reasons": {
+   "A": "Wrong: Able to walk around; able to walk.",
+   "B": "Wrong: Wolf-like.",
+   "C": "Wrong: Like a cat; cat-like grace or temperament.",
+   "D": "Correct: Active at night."
+  }
+ },
+ {
+  "word": "nocturne",
+  "question": "The pianist played a dreamy, quiet piece often inspired by the night. The piece was a:",
+  "options": [
+   "nocturne",
+   "cacophony",
+   "euphony",
+   "philharmonic"
+  ],
+  "correct": "A",
+  "explanation": "nocturne: A dreamy musical piece, often at night.",
+  "reasons": {
+   "A": "Correct: A dreamy musical piece, often at night.",
+   "B": "Wrong: A harsh, jarring mixture of sounds.",
+   "C": "Wrong: Pleasing, harmonious sound.",
+   "D": "Wrong: Loving music or harmony; the name of an orchestra."
+  }
+ }
+]

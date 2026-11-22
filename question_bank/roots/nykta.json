@@ -1,0 +1,20 @@
+[
+ {
+  "word": "nyctophobia",
+  "question": "A boy will not sleep unless every lamp stays lit, certain that monsters hide wherever the light is absent. He fears:",
+  "options": [
+   "Nyctophobia",
+   "Photophobia",
+   "Heliophobia",
+   "Hypnophobia"
+  ],
+  "correct": "A",
+  "explanation": "Nykta (night, darkness) + phobia = fear of darkness.",
+  "reasons": {
+   "A": "Correct: nykta means night or darkness, so the fear is of darkness.",
+   "B": "Wrong: fear of light; the boy fears its absence.",
+   "C": "Wrong: fear of sunlight.",
+   "D": "Wrong: fear of sleep."
+  }
+ }
+]

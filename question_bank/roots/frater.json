@@ -1,0 +1,110 @@
+[
+ {
+  "word": "fraternal",
+  "question": "The two boys had a brotherly bond, close like brothers. Their bond was:",
+  "options": [
+   "maternal",
+   "fraternal",
+   "paternal",
+   "matrimonial"
+  ],
+  "correct": "B",
+  "explanation": "fraternal: Brotherly; relating to brothers.",
+  "reasons": {
+   "A": "Wrong: Motherly; relating to a mother.",
+   "B": "Correct: Brotherly; relating to brothers.",
+   "C": "Wrong: Fatherly; relating to a father.",
+   "D": "Wrong: Relating to marriage."
+  }
+ },
+ {
+  "word": "fraternity",
+  "question": "The students formed a brotherhood club for men who shared their goals. This club is a:",
+  "options": [
+   "sorority",
+   "paternity",
+   "fraternity",
+   "maternity"
+  ],
+  "correct": "C",
+  "explanation": "fraternity: A men's club or brotherhood.",
+  "reasons": {
+   "A": "Wrong: A women's club or sisterhood.",
+   "B": "Wrong: Fatherhood.",
+   "C": "Correct: A men's club or brotherhood.",
+   "D": "Wrong: Motherhood."
+  }
+ },
+ {
+  "word": "fraternization",
+  "question": "The soldiers from both sides began to mix and associate in friendship. This mixing is:",
+  "options": [
+   "segregation",
+   "congregation",
+   "aggregation",
+   "fraternization"
+  ],
+  "correct": "D",
+  "explanation": "fraternization: The act of associating closely with others.",
+  "reasons": {
+   "A": "Wrong: The act of separating one group from another.",
+   "B": "Wrong: A group of people gathered for worship.",
+   "C": "Wrong: A total whole or mass formed by joining parts.",
+   "D": "Correct: The act of associating closely with others."
+  }
+ },
+ {
+  "word": "fraternize",
+  "question": "The rival soldiers began to socialize and mix like brothers. They began to:",
+  "options": [
+   "fraternize",
+   "segregate",
+   "congregate",
+   "aggregate"
+  ],
+  "correct": "A",
+  "explanation": "fraternize: To associate closely with others, like brothers.",
+  "reasons": {
+   "A": "Correct: To associate closely with others, like brothers.",
+   "B": "Wrong: To separate from the rest.",
+   "C": "Wrong: To come together into a group or crowd.",
+   "D": "Wrong: A total or mass of individuals or items together."
+  }
+ },
+ {
+  "word": "fratricidal",
+  "question": "The civil war was a conflict in which brothers killed each other. The conflict was:",
+  "options": [
+   "matricidal",
+   "fratricidal",
+   "uxoricidal",
+   "sororicidal"
+  ],
+  "correct": "B",
+  "explanation": "fratricidal: Relating to killing one's brother.",
+  "reasons": {
+   "A": "Wrong: Relating to the killing of one's mother.",
+   "B": "Correct: Relating to killing one's brother.",
+   "C": "Wrong: Relating to killing one's wife.",
+   "D": "Wrong: Relating to killing one's sister."
+  }
+ },
+ {
+  "word": "fratricide",
+  "question": "The killing of one's brother is called:",
+  "options": [
+   "matricide",
+   "patricide",
+   "fratricide",
+   "uxoricide"
+  ],
+  "correct": "C",
+  "explanation": "fratricide: The killing of one's brother.",
+  "reasons": {
+   "A": "Wrong: The killing of one's mother.",
+   "B": "Wrong: The killing of one's father.",
+   "C": "Correct: The killing of one's brother.",
+   "D": "Wrong: The killing of one's wife."
+  }
+ }
+]

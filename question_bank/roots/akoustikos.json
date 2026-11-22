@@ -1,0 +1,20 @@
+[
+ {
+  "word": "acousticophobia",
+  "question": "A woman cannot bear the tick of a clock or a child's shrill whistle, and covers her ears whenever such sounds begin. Her fear is of:",
+  "options": [
+   "Lalophobia",
+   "Ophthalmophobia",
+   "Odontophobia",
+   "Acousticophobia"
+  ],
+  "correct": "D",
+  "explanation": "Akoustikos (hearing) + phobia = fear of sounds.",
+  "reasons": {
+   "A": "Wrong: fear of speaking.",
+   "B": "Wrong: fear of eyes.",
+   "C": "Wrong: fear of teeth or dental work.",
+   "D": "Correct: akoustikos means hearing, so the fear is of sounds."
+  }
+ }
+]

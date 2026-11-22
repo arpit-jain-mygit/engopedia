@@ -1,0 +1,200 @@
+[
+ {
+  "word": "complacence",
+  "question": "He felt smug satisfaction after his win, convinced he had done enough. This smugness is his:",
+  "options": [
+   "animosity",
+   "pusillanimity",
+   "malignity",
+   "complacence"
+  ],
+  "correct": "D",
+  "explanation": "complacence: Smugness; satisfaction with oneself.",
+  "reasons": {
+   "A": "Wrong: Strong dislike; hostility.",
+   "B": "Wrong: Cowardice; lack of courage.",
+   "C": "Wrong: Deep hatred or harmfulness.",
+   "D": "Correct: Smugness; satisfaction with oneself."
+  }
+ },
+ {
+  "word": "complacency",
+  "question": "The team grew too pleased with itself and stopped trying. This excessive self-satisfaction is:",
+  "options": [
+   "complacency",
+   "animosity",
+   "sycophancy",
+   "asceticism"
+  ],
+  "correct": "A",
+  "explanation": "complacency: Smugness; too much satisfaction with oneself.",
+  "reasons": {
+   "A": "Correct: Smugness; too much satisfaction with oneself.",
+   "B": "Wrong: Strong dislike; hostility.",
+   "C": "Wrong: Fawning behavior toward the powerful.",
+   "D": "Wrong: A life of strict self-denial and simplicity."
+  }
+ },
+ {
+  "word": "complacent",
+  "question": "She was too pleased with herself and felt no need to improve. She was:",
+  "options": [
+   "implacable",
+   "complacent",
+   "militant",
+   "intrepid"
+  ],
+  "correct": "B",
+  "explanation": "complacent: Smug; pleased with oneself.",
+  "reasons": {
+   "A": "Wrong: Unyielding; not able to be calmed.",
+   "B": "Correct: Smug; pleased with oneself.",
+   "C": "Wrong: Aggressive in fighting for a cause.",
+   "D": "Wrong: Fearless and bold; not afraid of danger."
+  }
+ },
+ {
+  "word": "implacability",
+  "question": "The enemy's unyielding harshness and refusal to forgive was clear. This harshness is their:",
+  "options": [
+   "placability",
+   "complacence",
+   "implacability",
+   "placation"
+  ],
+  "correct": "C",
+  "explanation": "implacability: Unyielding harshness.",
+  "reasons": {
+   "A": "Wrong: The ability to be calmed.",
+   "B": "Wrong: Smugness; satisfaction with oneself.",
+   "C": "Correct: Unyielding harshness.",
+   "D": "Wrong: The act of calming someone down."
+  }
+ },
+ {
+  "word": "implacable",
+  "question": "The enemy would not be calmed or softened by any plea. He was:",
+  "options": [
+   "placable",
+   "placid",
+   "placatory",
+   "implacable"
+  ],
+  "correct": "D",
+  "explanation": "implacable: Unyielding; not able to be calmed.",
+  "reasons": {
+   "A": "Wrong: Able to be soothed or pacified.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Calming or soothing.",
+   "D": "Correct: Unyielding; not able to be calmed."
+  }
+ },
+ {
+  "word": "placability",
+  "question": "The mother's ability to be calmed and soothed ended the argument quickly. This is her:",
+  "options": [
+   "placability",
+   "implacability",
+   "complacency",
+   "placidity"
+  ],
+  "correct": "A",
+  "explanation": "placability: The ability to be calmed.",
+  "reasons": {
+   "A": "Correct: The ability to be calmed.",
+   "B": "Wrong: Unyielding harshness.",
+   "C": "Wrong: Smugness; too much satisfaction with oneself.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ },
+ {
+  "word": "placable",
+  "question": "The angry customer could be calmed with a simple apology. He was:",
+  "options": [
+   "implacable",
+   "placable",
+   "complacent",
+   "militant"
+  ],
+  "correct": "B",
+  "explanation": "placable: Able to be soothed or pacified.",
+  "reasons": {
+   "A": "Wrong: Unyielding; not able to be calmed.",
+   "B": "Correct: Able to be soothed or pacified.",
+   "C": "Wrong: Smug; pleased with oneself.",
+   "D": "Wrong: Aggressive in fighting for a cause."
+  }
+ },
+ {
+  "word": "placation",
+  "question": "The manager's apology was an act of calming the angry crowd. Such an act is:",
+  "options": [
+   "implacability",
+   "complacency",
+   "placation",
+   "animosity"
+  ],
+  "correct": "C",
+  "explanation": "placation: The act of calming someone down.",
+  "reasons": {
+   "A": "Wrong: Unyielding harshness.",
+   "B": "Wrong: Smugness; too much satisfaction with oneself.",
+   "C": "Correct: The act of calming someone down.",
+   "D": "Wrong: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "placatory",
+  "question": "Her soothing words were meant to calm and pacify the angry guests. Her words were:",
+  "options": [
+   "militant",
+   "vociferous",
+   "implacable",
+   "placatory"
+  ],
+  "correct": "D",
+  "explanation": "placatory: Calming or soothing.",
+  "reasons": {
+   "A": "Wrong: Aggressive in fighting for a cause.",
+   "B": "Wrong: Loud, noisy, and clamorous.",
+   "C": "Wrong: Unyielding; not able to be calmed.",
+   "D": "Correct: Calming or soothing."
+  }
+ },
+ {
+  "word": "placid",
+  "question": "The lake was calm and undisturbed on the still morning. It was:",
+  "options": [
+   "placid",
+   "militant",
+   "vociferous",
+   "intrepid"
+  ],
+  "correct": "A",
+  "explanation": "placid: Calm, easygoing, and undisturbed.",
+  "reasons": {
+   "A": "Correct: Calm, easygoing, and undisturbed.",
+   "B": "Wrong: Aggressive in fighting for a cause.",
+   "C": "Wrong: Loud, noisy, and clamorous.",
+   "D": "Wrong: Fearless and bold; not afraid of danger."
+  }
+ },
+ {
+  "word": "placidity",
+  "question": "The calmness of the old man's face showed peace and tranquility. This calmness is:",
+  "options": [
+   "animosity",
+   "placidity",
+   "trepidation",
+   "militancy"
+  ],
+  "correct": "B",
+  "explanation": "placidity: Calmness; peacefulness.",
+  "reasons": {
+   "A": "Wrong: Strong dislike; hostility.",
+   "B": "Correct: Calmness; peacefulness.",
+   "C": "Wrong: Fear, nervousness, or alarm.",
+   "D": "Wrong: An aggressive attitude toward a cause."
+  }
+ }
+]

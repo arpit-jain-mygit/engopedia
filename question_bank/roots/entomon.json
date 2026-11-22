@@ -1,0 +1,20 @@
+[
+ {
+  "word": "entomophobia",
+  "question": "A camper will not leave her tent, because every beetle, bee and ant on the grass makes her shriek. Her fear is of these six-legged creatures:",
+  "options": [
+   "Arachnephobia",
+   "Ophidiophobia",
+   "Ichthyophobia",
+   "Entomophobia"
+  ],
+  "correct": "D",
+  "explanation": "Entomon (insect) + phobia = fear of insects.",
+  "reasons": {
+   "A": "Wrong: fear of spiders, which have eight legs and are not six-legged.",
+   "B": "Wrong: fear of snakes.",
+   "C": "Wrong: fear of fish.",
+   "D": "Correct: entomon means insect, so the fear is of insects."
+  }
+ }
+]

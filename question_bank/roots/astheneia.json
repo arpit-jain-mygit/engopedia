@@ -1,0 +1,20 @@
+[
+ {
+  "word": "asthenophobia",
+  "question": "A woman dreads feeling weak after even light exercise, so she avoids every activity that might leave her drained. Her fear is of:",
+  "options": [
+   "Sthenophobia",
+   "Kinesiophobia",
+   "Algophobia",
+   "Asthenophobia"
+  ],
+  "correct": "D",
+  "explanation": "Astheneia (weakness) + phobia = fear of weakness.",
+  "reasons": {
+   "A": "Wrong: fear of strength, the opposite fear.",
+   "B": "Wrong: fear of motion in general.",
+   "C": "Wrong: fear of pain.",
+   "D": "Correct: astheneia means weakness, so the fear is of weakness."
+  }
+ }
+]

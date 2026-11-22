@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pachyderm",
+  "question": "A zookeeper names the large grey giant of the savanna, with tough, wrinkled hide and a long trunk. This animal is a:",
+  "options": [
+   "Ungulate",
+   "Pachyderm",
+   "Mammoth",
+   "Chelonian"
+  ],
+  "correct": "B",
+  "explanation": "Pachys (thick) + derma (skin): thick-skinned animal.",
+  "reasons": {
+   "A": "Wrong: any hoofed animal; the term does not describe thick skin.",
+   "B": "Correct: a thick-skinned animal, such as an elephant.",
+   "C": "Wrong: an extinct elephant relative.",
+   "D": "Wrong: a turtle or tortoise."
+  }
+ }
+]

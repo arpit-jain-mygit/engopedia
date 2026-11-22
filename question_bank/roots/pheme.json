@@ -1,0 +1,38 @@
+[
+ {
+  "word": "euphemism",
+  "question": "Instead of saying that someone died, the family says he 'passed away'. This softer, gentler phrase is called a:",
+  "options": [
+   "Hyperbole",
+   "Euphemism",
+   "Litotes",
+   "Idiom"
+  ],
+  "correct": "B",
+  "explanation": "Eu- (well) + pheme (speech) + -ism: speaking well, a gentle phrase.",
+  "reasons": {
+   "A": "Wrong: deliberate exaggeration for effect.",
+   "B": "Correct: a mild word used in place of a harsh one.",
+   "C": "Wrong: understatement by denying the opposite.",
+   "D": "Wrong: a phrase whose meaning is not literal."
+  }
+ },
+ {
+  "word": "euphemistic",
+  "question": "The phrase 'let go of the job' was used to avoid the harsher word 'fired'. The phrasing is:",
+  "options": [
+   "Hyperbolic",
+   "Pejorative",
+   "Euphemistic",
+   "Blunt"
+  ],
+  "correct": "C",
+  "explanation": "Euphemistic: softened, gentle wording.",
+  "reasons": {
+   "A": "Wrong: exaggerated for effect.",
+   "B": "Wrong: expressing contempt.",
+   "C": "Correct: using a mild word in place of a harsh one.",
+   "D": "Wrong: direct and harsh in manner."
+  }
+ }
+]

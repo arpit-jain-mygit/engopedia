@@ -1,0 +1,38 @@
+[
+ {
+  "word": "omnipresent",
+  "question": "Smartphones seem to be in every shop, on every street and in every pocket, as if they are everywhere at once. The devices are:",
+  "options": [
+   "Ephemeral",
+   "Clandestine",
+   "Notorious",
+   "Omnipresent"
+  ],
+  "correct": "D",
+  "explanation": "Omni (all) + praesens (present) + -ent: present everywhere.",
+  "reasons": {
+   "A": "Wrong: lasting only a short time.",
+   "B": "Wrong: done in secret.",
+   "C": "Wrong: famous for a bad quality.",
+   "D": "Correct: present everywhere at the same time."
+  }
+ },
+ {
+  "word": "omnipresence",
+  "question": "The sense that the government's cameras were in every corner of the city gave citizens a feeling of its:",
+  "options": [
+   "Omnipresence",
+   "Ephemerality",
+   "Clandestinity",
+   "Notoriety"
+  ],
+  "correct": "A",
+  "explanation": "Omnipresence: the state of being present everywhere.",
+  "reasons": {
+   "A": "Correct: the quality of being present everywhere.",
+   "B": "Wrong: brevity; lasting only a short time.",
+   "C": "Wrong: secrecy.",
+   "D": "Wrong: fame for a bad quality."
+  }
+ }
+]

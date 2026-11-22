@@ -1,0 +1,128 @@
+[
+ {
+  "word": "neuralgia",
+  "question": "The patient suffered sudden, severe pain along the nerves of her face. The condition is called:",
+  "options": [
+   "neurosis",
+   "neuralgia",
+   "psychosis",
+   "dermatitis"
+  ],
+  "correct": "B",
+  "explanation": "neuralgia: Acute pain along the nerves.",
+  "reasons": {
+   "A": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "B": "Correct: Acute pain along the nerves.",
+   "C": "Wrong: A serious mental disorder that loses contact with reality.",
+   "D": "Wrong: Inflammation of the skin."
+  }
+ },
+ {
+  "word": "neuritis",
+  "question": "The inflammation of the nerves caused a burning pain in his arm. The condition is:",
+  "options": [
+   "neurosis",
+   "psychosis",
+   "neuritis",
+   "dermatitis"
+  ],
+  "correct": "C",
+  "explanation": "neuritis: Inflammation of the nerves.",
+  "reasons": {
+   "A": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "B": "Wrong: A serious mental disorder that loses contact with reality.",
+   "C": "Correct: Inflammation of the nerves.",
+   "D": "Wrong: Inflammation of the skin."
+  }
+ },
+ {
+  "word": "neurological",
+  "question": "The medical team tested the patient's nervous system and reflexes. Their tests were:",
+  "options": [
+   "cardiological",
+   "dermatological",
+   "gynecological",
+   "neurological"
+  ],
+  "correct": "D",
+  "explanation": "neurological: Relating to the nervous system.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of the heart.",
+   "B": "Wrong: Relating to skin medicine.",
+   "C": "Wrong: Relating to women's health.",
+   "D": "Correct: Relating to the nervous system."
+  }
+ },
+ {
+  "word": "neurologist",
+  "question": "The doctor who treats the nervous system and its disorders is a:",
+  "options": [
+   "neurologist",
+   "psychiatrist",
+   "dermatologist",
+   "cardiologist"
+  ],
+  "correct": "A",
+  "explanation": "neurologist: A doctor who treats the nervous system.",
+  "reasons": {
+   "A": "Correct: A doctor who treats the nervous system.",
+   "B": "Wrong: A doctor who treats mental and emotional disorders.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Wrong: A doctor who treats heart diseases."
+  }
+ },
+ {
+  "word": "neurology",
+  "question": "The study of the nervous system is called:",
+  "options": [
+   "psychology",
+   "neurology",
+   "cardiology",
+   "dermatology"
+  ],
+  "correct": "B",
+  "explanation": "neurology: The study of the nervous system.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Correct: The study of the nervous system.",
+   "C": "Wrong: The study of the heart and its diseases.",
+   "D": "Wrong: The study of skin and its diseases."
+  }
+ },
+ {
+  "word": "neurosis",
+  "question": "An emotional disturbance that is not a full mental breakdown is called:",
+  "options": [
+   "psychosis",
+   "neuralgia",
+   "neurosis",
+   "neuritis"
+  ],
+  "correct": "C",
+  "explanation": "neurosis: An emotional disturbance that is not a full mental disorder.",
+  "reasons": {
+   "A": "Wrong: A serious mental disorder that loses contact with reality.",
+   "B": "Wrong: Acute pain along the nerves.",
+   "C": "Correct: An emotional disturbance that is not a full mental disorder.",
+   "D": "Wrong: Inflammation of the nerves."
+  }
+ },
+ {
+  "word": "neurotic",
+  "question": "He suffered from anxiety and emotional disturbance but was not out of touch with reality. He was:",
+  "options": [
+   "psychotic",
+   "psychopathic",
+   "pathological",
+   "neurotic"
+  ],
+  "correct": "D",
+  "explanation": "neurotic: Suffering from a neurosis; a person with one.",
+  "reasons": {
+   "A": "Wrong: Having a psychosis; out of touch with reality.",
+   "B": "Wrong: Lacking an inner moral censor; describing a psychopath.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Suffering from a neurosis; a person with one."
+  }
+ }
+]

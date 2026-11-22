@@ -1,0 +1,74 @@
+[
+ {
+  "word": "benedictory",
+  "question": "The minister's closing prayer was a blessing spoken aloud. The prayer was:",
+  "options": [
+   "benedictory",
+   "malevolent",
+   "maleficent",
+   "malign"
+  ],
+  "correct": "A",
+  "explanation": "benedictory: Giving a blessing.",
+  "reasons": {
+   "A": "Correct: Giving a blessing.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: Doing evil or harm.",
+   "D": "Wrong: To speak evil of someone; to slander."
+  }
+ },
+ {
+  "word": "benediction",
+  "question": "The minister's closing words asked God's blessing on the congregation. This blessing is a:",
+  "options": [
+   "malediction",
+   "benediction",
+   "malefaction",
+   "benefaction"
+  ],
+  "correct": "B",
+  "explanation": "benediction: A blessing; a saying of good.",
+  "reasons": {
+   "A": "Wrong: A curse; an evil saying.",
+   "B": "Correct: A blessing; a saying of good.",
+   "C": "Wrong: An evil deed; a crime.",
+   "D": "Wrong: A gift or act of kindness."
+  }
+ },
+ {
+  "word": "dictatorial",
+  "question": "The boss gave orders in a bossy, forceful tone and refused to listen. His manner was:",
+  "options": [
+   "autonomous",
+   "benevolent",
+   "dictatorial",
+   "placid"
+  ],
+  "correct": "C",
+  "explanation": "dictatorial: Giving orders in a bossy, forceful manner.",
+  "reasons": {
+   "A": "Wrong: Self-governing; independent.",
+   "B": "Wrong: Kind, well disposed, and wishing good for others.",
+   "C": "Correct: Giving orders in a bossy, forceful manner.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "malediction",
+  "question": "The angry old woman spoke an evil curse at the thief. Her curse is a:",
+  "options": [
+   "benediction",
+   "benefaction",
+   "beneficence",
+   "malediction"
+  ],
+  "correct": "D",
+  "explanation": "malediction: A curse; an evil saying.",
+  "reasons": {
+   "A": "Wrong: A blessing; a saying of good.",
+   "B": "Wrong: A gift or act of kindness.",
+   "C": "Wrong: The doing of good deeds.",
+   "D": "Correct: A curse; an evil saying."
+  }
+ }
+]

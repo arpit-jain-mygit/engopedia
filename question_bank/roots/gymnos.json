@@ -1,0 +1,20 @@
+[
+ {
+  "word": "gymnophobia",
+  "question": "A woman dreads being seen in her underwear or without covering, even by her doctor, and avoids every changing room. Her fear is of:",
+  "options": [
+   "Gynephobia",
+   "Androphobia",
+   "Gymnophobia",
+   "Gerontophobia"
+  ],
+  "correct": "C",
+  "explanation": "Gymnos (naked) + phobia = fear of nakedness.",
+  "reasons": {
+   "A": "Wrong: fear of women.",
+   "B": "Wrong: fear of males.",
+   "C": "Correct: gymnos means naked, so the fear is of nakedness.",
+   "D": "Wrong: fear of old men."
+  }
+ }
+]

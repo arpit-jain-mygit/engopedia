@@ -1,0 +1,20 @@
+[
+ {
+  "word": "carnival",
+  "question": "The town square filled with rides, games, music and food for a week-long festive gathering outdoors. The event is a:",
+  "options": [
+   "Vigil",
+   "Carnival",
+   "Funeral",
+   "Symposium"
+  ],
+  "correct": "B",
+  "explanation": "The workbook lists vale as the root of carnival; the word names a festive outdoor event.",
+  "reasons": {
+   "A": "Wrong: a quiet night of watching or prayer.",
+   "B": "Correct: a festive outdoor event with rides and games.",
+   "C": "Wrong: a ceremony for the dead.",
+   "D": "Wrong: a formal conference or discussion meeting."
+  }
+ }
+]

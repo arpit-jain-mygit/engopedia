@@ -1,0 +1,74 @@
+[
+ {
+  "word": "neuralgia",
+  "question": "A sharp pain shot along the nerve in her face every time she spoke, and the doctor named the condition. The pain is called:",
+  "options": [
+   "neurosis",
+   "neuralgia",
+   "psychosis",
+   "dermatitis"
+  ],
+  "correct": "B",
+  "explanation": "neuralgia: Acute pain along the nerves.",
+  "reasons": {
+   "A": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "B": "Correct: Acute pain along the nerves.",
+   "C": "Wrong: A serious mental disorder that loses contact with reality.",
+   "D": "Wrong: Inflammation of the skin."
+  }
+ },
+ {
+  "word": "nostalgia",
+  "question": "Old photographs of her childhood home filled her with a warm longing for the happy past. The feeling is:",
+  "options": [
+   "euphoria",
+   "ennui",
+   "nostalgia",
+   "apathy"
+  ],
+  "correct": "C",
+  "explanation": "nostalgia: A longing for the happy past.",
+  "reasons": {
+   "A": "Wrong: A strong feeling of happiness and well-being.",
+   "B": "Wrong: Boredom and weariness from having too little to do.",
+   "C": "Correct: A longing for the happy past.",
+   "D": "Wrong: A lack of feeling, interest, or concern."
+  }
+ },
+ {
+  "word": "nostalgic",
+  "question": "As she walked past her old school, she felt a wistful longing for the good old days. She felt:",
+  "options": [
+   "euphoric",
+   "apathetic",
+   "stoical",
+   "nostalgic"
+  ],
+  "correct": "D",
+  "explanation": "nostalgic: Longing for the happy past.",
+  "reasons": {
+   "A": "Wrong: Feeling great joy and excitement.",
+   "B": "Wrong: Showing no interest or feeling.",
+   "C": "Wrong: Bearing pain and trouble calmly, without complaint.",
+   "D": "Correct: Longing for the happy past."
+  }
+ },
+ {
+  "word": "algophobia",
+  "question": "He trembled at the thought of sharp pain and avoided anything that might hurt him. He has an intense fear of:",
+  "options": [
+   "algophobia",
+   "claustrophobia",
+   "acrophobia",
+   "hydrophobia"
+  ],
+  "correct": "A",
+  "explanation": "algophobia: Fear of pain.",
+  "reasons": {
+   "A": "Correct: Fear of pain.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of heights.",
+   "D": "Wrong: Fear of water."
+  }
+ }
+]

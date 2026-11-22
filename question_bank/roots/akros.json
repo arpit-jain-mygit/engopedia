@@ -1,0 +1,56 @@
+[
+ {
+  "word": "acrophobia",
+  "question": "He would not climb the ladder because he feared heights so strongly. His fear is called:",
+  "options": [
+   "agoraphobia",
+   "claustrophobia",
+   "acrophobia",
+   "hydrophobia"
+  ],
+  "correct": "C",
+  "explanation": "acrophobia: Morbid dread of heights.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of open spaces or crowds.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Correct: Morbid dread of heights.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "acrophobe",
+  "question": "The man who dreaded high places refused every balcony and every ladder. He is an:",
+  "options": [
+   "agoraphobe",
+   "claustrophobe",
+   "pyromaniac",
+   "acrophobe"
+  ],
+  "correct": "D",
+  "explanation": "acrophobe: A person who fears heights.",
+  "reasons": {
+   "A": "Wrong: A person who fears open spaces.",
+   "B": "Wrong: A person who fears small, closed places.",
+   "C": "Wrong: A person who sets fires for pleasure.",
+   "D": "Correct: A person who fears heights."
+  }
+ },
+ {
+  "word": "acrophobic",
+  "question": "The mountain climber went cold with fear at the edge of the cliff. She was:",
+  "options": [
+   "acrophobic",
+   "agoraphobic",
+   "claustrophobic",
+   "monotheistic"
+  ],
+  "correct": "A",
+  "explanation": "acrophobic: Fearful of heights.",
+  "reasons": {
+   "A": "Correct: Fearful of heights.",
+   "B": "Wrong: Fearful of open spaces.",
+   "C": "Wrong: Fearful of enclosed spaces.",
+   "D": "Wrong: Believing in one God."
+  }
+ }
+]

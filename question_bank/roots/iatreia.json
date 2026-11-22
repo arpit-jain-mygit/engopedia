@@ -1,0 +1,218 @@
+[
+ {
+  "word": "geriatric",
+  "question": "The clinic's medical care focused on elderly patients. The clinic was:",
+  "options": [
+   "geriatric",
+   "pediatric",
+   "podiatric",
+   "psychiatric"
+  ],
+  "correct": "A",
+  "explanation": "geriatric: Relating to the medical care of the elderly.",
+  "reasons": {
+   "A": "Correct: Relating to the medical care of the elderly.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to foot care.",
+   "D": "Wrong: Relating to the treatment of mental disorders."
+  }
+ },
+ {
+  "word": "geriatrician",
+  "question": "The doctor who specializes in caring for the elderly is a:",
+  "options": [
+   "pediatrician",
+   "geriatrician",
+   "podiatrist",
+   "psychiatrist"
+  ],
+  "correct": "B",
+  "explanation": "geriatrician: A doctor who specializes in the elderly.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Correct: A doctor who specializes in the elderly.",
+   "C": "Wrong: A practitioner who treats minor foot ailments.",
+   "D": "Wrong: A doctor who treats mental and emotional disorders."
+  }
+ },
+ {
+  "word": "geriatrics",
+  "question": "The medical care of the elderly is called:",
+  "options": [
+   "pediatrics",
+   "podiatry",
+   "geriatrics",
+   "psychiatry"
+  ],
+  "correct": "C",
+  "explanation": "geriatrics: The medical care of the elderly.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The treatment of minor foot ailments.",
+   "C": "Correct: The medical care of the elderly.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "pediatric",
+  "question": "The hospital's children's medicine ward treats babies and young kids. Its care is:",
+  "options": [
+   "geriatric",
+   "podiatric",
+   "psychiatric",
+   "pediatric"
+  ],
+  "correct": "D",
+  "explanation": "pediatric: Relating to children's medicine.",
+  "reasons": {
+   "A": "Wrong: Relating to the medical care of the elderly.",
+   "B": "Wrong: Relating to foot care.",
+   "C": "Wrong: Relating to the treatment of mental disorders.",
+   "D": "Correct: Relating to children's medicine."
+  }
+ },
+ {
+  "word": "pediatrician",
+  "question": "She took her baby to a doctor who treats children. The doctor is a:",
+  "options": [
+   "pediatrician",
+   "geriatrician",
+   "podiatrist",
+   "psychiatrist"
+  ],
+  "correct": "A",
+  "explanation": "pediatrician: A doctor who treats children.",
+  "reasons": {
+   "A": "Correct: A doctor who treats children.",
+   "B": "Wrong: A doctor who specializes in the elderly.",
+   "C": "Wrong: A practitioner who treats minor foot ailments.",
+   "D": "Wrong: A doctor who treats mental and emotional disorders."
+  }
+ },
+ {
+  "word": "pediatrics",
+  "question": "The medical care of children is called:",
+  "options": [
+   "geriatrics",
+   "pediatrics",
+   "podiatry",
+   "psychiatry"
+  ],
+  "correct": "B",
+  "explanation": "pediatrics: The medical care of children.",
+  "reasons": {
+   "A": "Wrong: The medical care of the elderly.",
+   "B": "Correct: The medical care of children.",
+   "C": "Wrong: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "podiatric",
+  "question": "The clinic's focus was foot care and treating minor foot ailments. Its care was:",
+  "options": [
+   "pediatric",
+   "geriatric",
+   "podiatric",
+   "psychiatric"
+  ],
+  "correct": "C",
+  "explanation": "podiatric: Relating to foot care.",
+  "reasons": {
+   "A": "Wrong: Relating to children's medicine.",
+   "B": "Wrong: Relating to the medical care of the elderly.",
+   "C": "Correct: Relating to foot care.",
+   "D": "Wrong: Relating to the treatment of mental disorders."
+  }
+ },
+ {
+  "word": "podiatrist",
+  "question": "A specialist in foot pain and minor foot problems is a:",
+  "options": [
+   "pediatrician",
+   "geriatrician",
+   "psychiatrist",
+   "podiatrist"
+  ],
+  "correct": "D",
+  "explanation": "podiatrist: A practitioner who treats minor foot ailments.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Wrong: A doctor who specializes in the elderly.",
+   "C": "Wrong: A doctor who treats mental and emotional disorders.",
+   "D": "Correct: A practitioner who treats minor foot ailments."
+  }
+ },
+ {
+  "word": "podiatry",
+  "question": "The treatment of minor foot ailments is called:",
+  "options": [
+   "podiatry",
+   "pediatrics",
+   "geriatrics",
+   "psychiatry"
+  ],
+  "correct": "A",
+  "explanation": "podiatry: The treatment of minor foot ailments.",
+  "reasons": {
+   "A": "Correct: The treatment of minor foot ailments.",
+   "B": "Wrong: The medical care of children.",
+   "C": "Wrong: The medical care of the elderly.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "psychiatric",
+  "question": "The ward was set up to treat mental and emotional disorders. The ward was:",
+  "options": [
+   "pediatric",
+   "psychiatric",
+   "geriatric",
+   "podiatric"
+  ],
+  "correct": "B",
+  "explanation": "psychiatric: Relating to the treatment of mental disorders.",
+  "reasons": {
+   "A": "Wrong: Relating to children's medicine.",
+   "B": "Correct: Relating to the treatment of mental disorders.",
+   "C": "Wrong: Relating to the medical care of the elderly.",
+   "D": "Wrong: Relating to foot care."
+  }
+ },
+ {
+  "word": "psychiatrist",
+  "question": "A doctor who treats mental and emotional disorders is a:",
+  "options": [
+   "psychologist",
+   "podiatrist",
+   "psychiatrist",
+   "pediatrician"
+  ],
+  "correct": "C",
+  "explanation": "psychiatrist: A doctor who treats mental and emotional disorders.",
+  "reasons": {
+   "A": "Wrong: A specialist who studies human behavior.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Correct: A doctor who treats mental and emotional disorders.",
+   "D": "Wrong: A doctor who treats children."
+  }
+ },
+ {
+  "word": "psychiatry",
+  "question": "The medical treatment of mental disorders is called:",
+  "options": [
+   "psychology",
+   "podiatry",
+   "pediatrics",
+   "psychiatry"
+  ],
+  "correct": "D",
+  "explanation": "psychiatry: The medical treatment of mental disorders.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Wrong: The treatment of minor foot ailments.",
+   "C": "Wrong: The medical care of children.",
+   "D": "Correct: The medical treatment of mental disorders."
+  }
+ }
+]

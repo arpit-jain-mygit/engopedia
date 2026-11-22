@@ -1,0 +1,20 @@
+[
+ {
+  "word": "kenophobia",
+  "question": "A visitor to a vast hall with no furniture or people trembles, as though the void itself threatens him. He fears:",
+  "options": [
+   "Eremiophobia",
+   "Kenophobia",
+   "Acousticophobia",
+   "Bathophobia"
+  ],
+  "correct": "B",
+  "explanation": "Kenos (empty) + phobia = fear of emptiness.",
+  "reasons": {
+   "A": "Wrong: fear of stillness.",
+   "B": "Correct: kenos means empty, so the fear is of emptiness.",
+   "C": "Wrong: fear of sounds.",
+   "D": "Wrong: fear of depths."
+  }
+ }
+]

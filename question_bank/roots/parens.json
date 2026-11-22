@@ -1,0 +1,38 @@
+[
+ {
+  "word": "parricide",
+  "question": "A man is charged with killing his own father, the person who raised him. The crime is called:",
+  "options": [
+   "Homicide",
+   "Regicide",
+   "Parricide",
+   "Suicide"
+  ],
+  "correct": "C",
+  "explanation": "Parens (parent) + -cide (killing): killing a parent.",
+  "reasons": {
+   "A": "Wrong: the killing of any person.",
+   "B": "Wrong: killing a king or queen.",
+   "C": "Correct: the killing of one's own parent.",
+   "D": "Wrong: killing oneself."
+  }
+ },
+ {
+  "word": "parricidal",
+  "question": "A character whose plan is to murder the one who raised her is described as:",
+  "options": [
+   "Homicidal",
+   "Suicidal",
+   "Regicidal",
+   "Parricidal"
+  ],
+  "correct": "D",
+  "explanation": "Parens (parent) + -cide + -al: inclined to kill a parent.",
+  "reasons": {
+   "A": "Wrong: willing to kill any person.",
+   "B": "Wrong: wanting to kill oneself.",
+   "C": "Wrong: wanting to kill a king.",
+   "D": "Correct: inclined to kill one's parent."
+  }
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "word": "lubricious",
+  "question": "The scandalous novel was full of suggestive, indecent scenes meant to excite its readers. Such a novel is:",
+  "options": [
+   "Demure",
+   "Austere",
+   "Frugal",
+   "Lubricious"
+  ],
+  "correct": "D",
+  "explanation": "Lubricus (slippery, wanton) + -ous: slippery, lewd.",
+  "reasons": {
+   "A": "Wrong: modest and reserved.",
+   "B": "Wrong: severe and strictly plain.",
+   "C": "Wrong: thrifty and careful with money.",
+   "D": "Correct: lewd and suggestive in a way meant to arouse."
+  }
+ },
+ {
+  "word": "lubricity",
+  "question": "The novel's indecent suggestiveness and wanton sensuality, which many found distasteful, is called its:",
+  "options": [
+   "Lubricity",
+   "Asceticism",
+   "Equanimity",
+   "Garrulity"
+  ],
+  "correct": "A",
+  "explanation": "Lubricus (slippery) + -ity: the quality of being slippery or lewd.",
+  "reasons": {
+   "A": "Correct: a lewd, suggestive quality.",
+   "B": "Wrong: strict self-denial.",
+   "C": "Wrong: calm, even temper.",
+   "D": "Wrong: talking too much."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "poinophobia",
+  "question": "A child confesses to small mistakes she never made, terrified of the penalty that might follow. Her fear is of:",
+  "options": [
+   "Nosophobia",
+   "Hypnophobia",
+   "Poinophobia",
+   "Chronophobia"
+  ],
+  "correct": "C",
+  "explanation": "Poine (penalty, punishment) + phobia = fear of punishment.",
+  "reasons": {
+   "A": "Wrong: fear of illness.",
+   "B": "Wrong: fear of sleep.",
+   "C": "Correct: poine means penalty or punishment, so the fear is of punishment.",
+   "D": "Wrong: fear of time."
+  }
+ }
+]

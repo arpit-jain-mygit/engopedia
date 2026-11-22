@@ -1,0 +1,56 @@
+[
+ {
+  "word": "intrepid",
+  "question": "The fearless climber faced the storm without flinching. She was:",
+  "options": [
+   "intrepid",
+   "pusillanimous",
+   "placid",
+   "cogent"
+  ],
+  "correct": "A",
+  "explanation": "intrepid: Fearless and bold; not afraid of danger.",
+  "reasons": {
+   "A": "Correct: Fearless and bold; not afraid of danger.",
+   "B": "Wrong: Timid and cowardly; lacking courage.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "intrepidity",
+  "question": "Her bravery in facing danger without fear was admirable. This fearlessness is:",
+  "options": [
+   "pusillanimity",
+   "intrepidity",
+   "trepidation",
+   "animosity"
+  ],
+  "correct": "B",
+  "explanation": "intrepidity: Fearlessness; courage.",
+  "reasons": {
+   "A": "Wrong: Cowardice; lack of courage.",
+   "B": "Correct: Fearlessness; courage.",
+   "C": "Wrong: Fear, nervousness, or alarm.",
+   "D": "Wrong: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "trepidation",
+  "question": "He approached the interview with fear and nervousness. His feeling is:",
+  "options": [
+   "intrepidity",
+   "equanimity",
+   "trepidation",
+   "placidity"
+  ],
+  "correct": "C",
+  "explanation": "trepidation: Fear, nervousness, or alarm.",
+  "reasons": {
+   "A": "Wrong: Fearlessness; courage.",
+   "B": "Wrong: Calm and even temper, especially under stress.",
+   "C": "Correct: Fear, nervousness, or alarm.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ }
+]

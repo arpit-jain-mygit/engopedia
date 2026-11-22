@@ -1,0 +1,20 @@
+[
+ {
+  "word": "teratophobia",
+  "question": "A young child screams at every clown and hides from circus performers in strange costumes, sure they are monsters. Her fear is of:",
+  "options": [
+   "Coulrophobia",
+   "Teratophobia",
+   "Phobophobia",
+   "Anthropophobia"
+  ],
+  "correct": "B",
+  "explanation": "Teras (monster, freak) + phobia = fear of freaks.",
+  "reasons": {
+   "A": "Wrong: fear of clowns only.",
+   "B": "Correct: teras means monster or freak, so the fear is of freaks.",
+   "C": "Wrong: fear of fear itself.",
+   "D": "Wrong: fear of people."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "musophobia",
+  "question": "A woman climbs onto a chair and screams the moment a tiny grey creature with a long tail scuttles across the kitchen floor. She fears:",
+  "options": [
+   "Musophobia",
+   "Ailurophobia",
+   "Cynophobia",
+   "Entomophobia"
+  ],
+  "correct": "A",
+  "explanation": "Mys (mouse) + phobia = fear of mice.",
+  "reasons": {
+   "A": "Correct: mys means mouse, so the fear is of mice.",
+   "B": "Wrong: fear of cats.",
+   "C": "Wrong: fear of dogs.",
+   "D": "Wrong: fear of insects."
+  }
+ }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "word": "orthodontia",
+  "question": "Dentistry that corrects crooked teeth and bite is called:",
+  "options": [
+   "endodontia",
+   "orthodontia",
+   "exodontia",
+   "periodontia"
+  ],
+  "correct": "B",
+  "explanation": "orthodontia: The straightening of teeth.",
+  "reasons": {
+   "A": "Wrong: The specialty of treating the pulp and root canals.",
+   "B": "Correct: The straightening of teeth.",
+   "C": "Wrong: The specialty of tooth extraction.",
+   "D": "Wrong: The specialty of treating the gums."
+  }
+ },
+ {
+  "word": "orthodontic",
+  "question": "The corrective work the dentist did on the crooked teeth was:",
+  "options": [
+   "endodontic",
+   "exodontic",
+   "orthodontic",
+   "periodontic"
+  ],
+  "correct": "C",
+  "explanation": "orthodontic: Relating to the straightening of teeth.",
+  "reasons": {
+   "A": "Wrong: Relating to root-canal treatment.",
+   "B": "Wrong: Relating to tooth extraction.",
+   "C": "Correct: Relating to the straightening of teeth.",
+   "D": "Wrong: Relating to the treatment of the gums."
+  }
+ },
+ {
+  "word": "orthodontist",
+  "question": "The specialist who corrects crooked teeth with braces is an:",
+  "options": [
+   "endodontist",
+   "periodontist",
+   "pedodontist",
+   "orthodontist"
+  ],
+  "correct": "D",
+  "explanation": "orthodontist: A specialist who straightens teeth.",
+  "reasons": {
+   "A": "Wrong: A dentist who treats the pulp of the tooth.",
+   "B": "Wrong: A specialist in the gums around the teeth.",
+   "C": "Wrong: A dentist who specializes in children's teeth.",
+   "D": "Correct: A specialist who straightens teeth."
+  }
+ },
+ {
+  "word": "orthopedic",
+  "question": "The surgeon treated the broken bones and joints in the knee. The treatment was:",
+  "options": [
+   "orthopedic",
+   "pediatric",
+   "podiatric",
+   "cardiac"
+  ],
+  "correct": "A",
+  "explanation": "orthopedic: Relating to the treatment of bones and joints.",
+  "reasons": {
+   "A": "Correct: Relating to the treatment of bones and joints.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to foot care.",
+   "D": "Wrong: Relating to the heart."
+  }
+ },
+ {
+  "word": "orthopedics",
+  "question": "The medical specialty dealing with bones, joints, and muscles is called:",
+  "options": [
+   "pediatrics",
+   "orthopedics",
+   "podiatry",
+   "geriatrics"
+  ],
+  "correct": "B",
+  "explanation": "orthopedics: The specialty dealing with bones, joints, and deformities.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Correct: The specialty dealing with bones, joints, and deformities.",
+   "C": "Wrong: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical care of the elderly."
+  }
+ },
+ {
+  "word": "orthopedist",
+  "question": "A doctor who treats bones and joints is an:",
+  "options": [
+   "pediatrician",
+   "podiatrist",
+   "orthopedist",
+   "geriatrician"
+  ],
+  "correct": "C",
+  "explanation": "orthopedist: A doctor who treats bones and joints.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Correct: A doctor who treats bones and joints.",
+   "D": "Wrong: A doctor who specializes in the elderly."
+  }
+ }
+]

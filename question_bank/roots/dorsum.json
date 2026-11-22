@@ -1,0 +1,56 @@
+[
+ {
+  "word": "dorsal",
+  "question": "The fin on the back of the shark is its:",
+  "options": [
+   "dorsal",
+   "ventral",
+   "ventricular",
+   "vocal"
+  ],
+  "correct": "A",
+  "explanation": "dorsal: Relating to the back side.",
+  "reasons": {
+   "A": "Correct: Relating to the back side.",
+   "B": "Wrong: Relating to the front or belly side.",
+   "C": "Wrong: Relating to a ventricle.",
+   "D": "Wrong: Relating to the voice; spoken aloud."
+  }
+ },
+ {
+  "word": "endorse",
+  "question": "The senator signed the back of the bill to approve it. He chose to:",
+  "options": [
+   "dissimulate",
+   "endorse",
+   "vacillate",
+   "condone"
+  ],
+  "correct": "B",
+  "explanation": "endorse: To sign on the back; to approve or support.",
+  "reasons": {
+   "A": "Wrong: To hide your true feelings by pretending.",
+   "B": "Correct: To sign on the back; to approve or support.",
+   "C": "Wrong: To waver or keep changing your mind.",
+   "D": "Wrong: To overlook or forgive a wrong."
+  }
+ },
+ {
+  "word": "endorsement",
+  "question": "His public approval of the candidate was a written support. This support is called:",
+  "options": [
+   "condonation",
+   "dissemblance",
+   "endorsement",
+   "dissimulation"
+  ],
+  "correct": "C",
+  "explanation": "endorsement: Approval or support.",
+  "reasons": {
+   "A": "Wrong: The act of forgiving or overlooking a wrong.",
+   "B": "Wrong: Pretense; hiding of true feelings.",
+   "C": "Correct: Approval or support.",
+   "D": "Wrong: Pretending; hiding true feelings."
+  }
+ }
+]

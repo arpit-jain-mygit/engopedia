@@ -1,0 +1,38 @@
+[
+ {
+  "word": "ambivalence",
+  "question": "She felt both excited and afraid about moving to a new city. Her feeling was:",
+  "options": [
+   "Ambivalence",
+   "Unanimity",
+   "Equanimity",
+   "Pusillanimity"
+  ],
+  "correct": "A",
+  "explanation": "Ambi- (both) + valens (strong, having power): strong feelings in both directions.",
+  "reasons": {
+   "A": "Correct: having mixed or conflicting feelings.",
+   "B": "Wrong: complete agreement.",
+   "C": "Wrong: calm, even temper; she was not calm.",
+   "D": "Wrong: cowardice."
+  }
+ },
+ {
+  "word": "ambivalent",
+  "question": "He could not decide about the job offer, because he both wanted and did not want it. He was:",
+  "options": [
+   "Unanimous",
+   "Ambivalent",
+   "Equable",
+   "Stoical"
+  ],
+  "correct": "B",
+  "explanation": "Ambi- (both) + valens: holding two strong feelings at once.",
+  "reasons": {
+   "A": "Wrong: agreed by everyone.",
+   "B": "Correct: having conflicting feelings at the same time.",
+   "C": "Wrong: calm and even-tempered.",
+   "D": "Wrong: calmly bears pain without complaint."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "gaucherie",
+  "question": "At the formal dinner he knocked over his glass, made a tactless joke at the host's expense and misused the cutlery. This awkward behaviour is an example of:",
+  "options": [
+   "Gaucherie",
+   "Grandiloquence",
+   "Euphemism",
+   "Perspicuity"
+  ],
+  "correct": "A",
+  "explanation": "Gauche (awkward, left-handed) + -rie: an awkward act.",
+  "reasons": {
+   "A": "Correct: awkwardness, a clumsy or tactless act.",
+   "B": "Wrong: pompous, lofty speech.",
+   "C": "Wrong: a mild word used in place of a harsh one.",
+   "D": "Wrong: clearness of language."
+  }
+ }
+]

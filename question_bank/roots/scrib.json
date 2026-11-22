@@ -1,0 +1,182 @@
+[
+ {
+  "word": "describe",
+  "question": "She wrote a detailed account of the scene in her diary. She would describe it, meaning to:",
+  "options": [
+   "prescribe",
+   "inscribe",
+   "proscribe",
+   "describe"
+  ],
+  "correct": "D",
+  "explanation": "describe: To write or tell about something in detail.",
+  "reasons": {
+   "A": "Wrong: To advise or order a medicine or treatment.",
+   "B": "Wrong: To write or carve words into or on something.",
+   "C": "Wrong: To forbid or prohibit something.",
+   "D": "Correct: To write or tell about something in detail."
+  }
+ },
+ {
+  "word": "inscribe",
+  "question": "The jeweller carved the owner's name into the gold ring. He would:",
+  "options": [
+   "inscribe",
+   "describe",
+   "prescribe",
+   "subscribe"
+  ],
+  "correct": "A",
+  "explanation": "inscribe: To write or carve words into or on something.",
+  "reasons": {
+   "A": "Correct: To write or carve words into or on something.",
+   "B": "Wrong: To write or tell about something in detail.",
+   "C": "Wrong: To advise or order a medicine or treatment.",
+   "D": "Wrong: To sign up or write one's name under an order; to agree to a belief."
+  }
+ },
+ {
+  "word": "prescribe",
+  "question": "The doctor wrote an order for the medicine the patient needed. He would:",
+  "options": [
+   "describe",
+   "prescribe",
+   "proscribe",
+   "subscribe"
+  ],
+  "correct": "B",
+  "explanation": "prescribe: To advise or order a medicine or treatment.",
+  "reasons": {
+   "A": "Wrong: To write or tell about something in detail.",
+   "B": "Correct: To advise or order a medicine or treatment.",
+   "C": "Wrong: To forbid or prohibit something.",
+   "D": "Wrong: To sign up or write one's name under an order; to agree to a belief."
+  }
+ },
+ {
+  "word": "prescription",
+  "question": "The written order for medicine that the pharmacist filled was a:",
+  "options": [
+   "subscription",
+   "proscription",
+   "prescription",
+   "sequence"
+  ],
+  "correct": "C",
+  "explanation": "prescription: A written order for medicine or a rule.",
+  "reasons": {
+   "A": "Wrong: An order or agreement to receive a regular service.",
+   "B": "Wrong: A prohibition against something harmful.",
+   "C": "Correct: A written order for medicine or a rule.",
+   "D": "Wrong: A series of things following in order."
+  }
+ },
+ {
+  "word": "prescriptive",
+  "question": "The rules laid down clear directions for everyone to follow. The rules were:",
+  "options": [
+   "proscriptive",
+   "tacit",
+   "taciturn",
+   "prescriptive"
+  ],
+  "correct": "D",
+  "explanation": "prescriptive: Laying down rules or directions.",
+  "reasons": {
+   "A": "Wrong: Forbidding or prohibiting something.",
+   "B": "Wrong: Understood without being spoken.",
+   "C": "Wrong: Silent, unwilling to talk.",
+   "D": "Correct: Laying down rules or directions."
+  }
+ },
+ {
+  "word": "proscribe",
+  "question": "The government forbade the sale of the harmful drug. It decided to:",
+  "options": [
+   "proscribe",
+   "prescribe",
+   "subscribe",
+   "describe"
+  ],
+  "correct": "A",
+  "explanation": "proscribe: To forbid or prohibit something.",
+  "reasons": {
+   "A": "Correct: To forbid or prohibit something.",
+   "B": "Wrong: To advise or order a medicine or treatment.",
+   "C": "Wrong: To sign up or write one's name under an order; to agree to a belief.",
+   "D": "Wrong: To write or tell about something in detail."
+  }
+ },
+ {
+  "word": "proscription",
+  "question": "The ban on the harmful drug was a formal prohibition. This prohibition is a:",
+  "options": [
+   "prescription",
+   "proscription",
+   "subscription",
+   "sequence"
+  ],
+  "correct": "B",
+  "explanation": "proscription: A prohibition against something harmful.",
+  "reasons": {
+   "A": "Wrong: A written order for medicine or a rule.",
+   "B": "Correct: A prohibition against something harmful.",
+   "C": "Wrong: An order or agreement to receive a regular service.",
+   "D": "Wrong: A series of things following in order."
+  }
+ },
+ {
+  "word": "proscriptive",
+  "question": "The new rules forbade and prohibited certain behaviour. The rules were:",
+  "options": [
+   "prescriptive",
+   "tacit",
+   "proscriptive",
+   "taciturn"
+  ],
+  "correct": "C",
+  "explanation": "proscriptive: Forbidding or prohibiting something.",
+  "reasons": {
+   "A": "Wrong: Laying down rules or directions.",
+   "B": "Wrong: Understood without being spoken.",
+   "C": "Correct: Forbidding or prohibiting something.",
+   "D": "Wrong: Silent, unwilling to talk."
+  }
+ },
+ {
+  "word": "subscribe",
+  "question": "Readers signed up to receive the magazine every month. They chose to:",
+  "options": [
+   "describe",
+   "prescribe",
+   "proscribe",
+   "subscribe"
+  ],
+  "correct": "D",
+  "explanation": "subscribe: To sign up or write one's name under an order; to agree to a belief.",
+  "reasons": {
+   "A": "Wrong: To write or tell about something in detail.",
+   "B": "Wrong: To advise or order a medicine or treatment.",
+   "C": "Wrong: To forbid or prohibit something.",
+   "D": "Correct: To sign up or write one's name under an order; to agree to a belief."
+  }
+ },
+ {
+  "word": "subscription",
+  "question": "The reader's regular order to receive the magazine is a:",
+  "options": [
+   "subscription",
+   "prescription",
+   "proscription",
+   "sequence"
+  ],
+  "correct": "A",
+  "explanation": "subscription: An order or agreement to receive a regular service.",
+  "reasons": {
+   "A": "Correct: An order or agreement to receive a regular service.",
+   "B": "Wrong: A written order for medicine or a rule.",
+   "C": "Wrong: A prohibition against something harmful.",
+   "D": "Wrong: A series of things following in order."
+  }
+ }
+]

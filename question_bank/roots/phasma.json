@@ -1,0 +1,20 @@
+[
+ {
+  "word": "phasmophobia",
+  "question": "A caretaker refuses to enter the old mansion after dark, convinced that the pale figures of the dead roam its halls. He fears:",
+  "options": [
+   "Phasmophobia",
+   "Stygiophobia",
+   "Thanatophobia",
+   "Demophobia"
+  ],
+  "correct": "A",
+  "explanation": "Phasma (ghost, apparition) + phobia = fear of ghosts.",
+  "reasons": {
+   "A": "Correct: phasma means ghost or apparition, so the fear is of ghosts.",
+   "B": "Wrong: fear of hell.",
+   "C": "Wrong: fear of death itself.",
+   "D": "Wrong: fear of people."
+  }
+ }
+]

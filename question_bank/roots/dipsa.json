@@ -1,0 +1,74 @@
+[
+ {
+  "word": "dipsomania",
+  "question": "The craving for alcohol that he could not control was called:",
+  "options": [
+   "kleptomania",
+   "pyromania",
+   "megalomania",
+   "dipsomania"
+  ],
+  "correct": "D",
+  "explanation": "dipsomania: A morbid craving for alcohol.",
+  "reasons": {
+   "A": "Wrong: A compulsion to steal, often without need.",
+   "B": "Wrong: A compulsion to set fires.",
+   "C": "Wrong: Morbid delusions of grandeur or power.",
+   "D": "Correct: A morbid craving for alcohol."
+  }
+ },
+ {
+  "word": "dipsomaniac",
+  "question": "The man with a craving for alcohol that he could not control was a:",
+  "options": [
+   "dipsomaniac",
+   "kleptomaniac",
+   "pyromaniac",
+   "megalomaniac"
+  ],
+  "correct": "A",
+  "explanation": "dipsomaniac: A person with a craving for alcohol.",
+  "reasons": {
+   "A": "Correct: A person with a craving for alcohol.",
+   "B": "Wrong: A person with a compulsion to steal.",
+   "C": "Wrong: A person who sets fires for pleasure.",
+   "D": "Wrong: A person with delusions of greatness."
+  }
+ },
+ {
+  "word": "dipsomaniacal",
+  "question": "His uncontrolled urge for drink was:",
+  "options": [
+   "kleptomaniacal",
+   "dipsomaniacal",
+   "pyromaniacal",
+   "megalomaniacal"
+  ],
+  "correct": "B",
+  "explanation": "dipsomaniacal: Relating to a craving for alcohol.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to steal.",
+   "B": "Correct: Relating to a craving for alcohol.",
+   "C": "Wrong: Relating to a compulsion to set fires.",
+   "D": "Wrong: Relating to delusions of greatness."
+  }
+ },
+ {
+  "word": "dipsophobia",
+  "question": "She dreaded thirst and was afraid of going without a drink. Her fear is:",
+  "options": [
+   "hydrophobia",
+   "hypnophobia",
+   "dipsophobia",
+   "cibophobia"
+  ],
+  "correct": "C",
+  "explanation": "dipsophobia: Fear of thirst.",
+  "reasons": {
+   "A": "Wrong: Fear of water.",
+   "B": "Wrong: Fear of sleep.",
+   "C": "Correct: Fear of thirst.",
+   "D": "Wrong: Fear of food."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "eremiophobia",
+  "question": "A man panics when the house falls completely silent and nothing moves, as though stillness itself is a threat. His fear is of:",
+  "options": [
+   "Eremiophobia",
+   "Kenophobia",
+   "Acousticophobia",
+   "Kinesiophobia"
+  ],
+  "correct": "A",
+  "explanation": "Eremia (stillness, solitude) + phobia = fear of stillness.",
+  "reasons": {
+   "A": "Correct: eremia means stillness or solitude, so the fear is of stillness.",
+   "B": "Wrong: fear of empty space, not of stillness.",
+   "C": "Wrong: fear of sounds.",
+   "D": "Wrong: fear of motion; he fears the stillness."
+  }
+ }
+]

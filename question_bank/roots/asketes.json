@@ -1,0 +1,38 @@
+[
+ {
+  "word": "ascetic",
+  "question": "A monk eats only bread and water, sleeps on a stone floor, and owns almost nothing. He lives as a strict:",
+  "options": [
+   "Bon vivant",
+   "Ascetic",
+   "Hedonist",
+   "Libertine"
+  ],
+  "correct": "B",
+  "explanation": "Asketes (one who practises discipline): a person who denies themselves comforts.",
+  "reasons": {
+   "A": "Wrong: a person who enjoys fine food and luxury; the monk is the opposite.",
+   "B": "Correct: a person who lives with strict self-denial and avoids luxury.",
+   "C": "Wrong: a person who pursues pleasure above all.",
+   "D": "Wrong: a person who ignores moral restraint."
+  }
+ },
+ {
+  "word": "asceticism",
+  "question": "The monk's way of life, built on strict self-denial and the refusal of every luxury, is called:",
+  "options": [
+   "Hedonism",
+   "Altruism",
+   "Asceticism",
+   "Fanaticism"
+  ],
+  "correct": "C",
+  "explanation": "Asketes (discipline) + -ism: the practice of self-denial.",
+  "reasons": {
+   "A": "Wrong: the pursuit of pleasure as the main aim of life.",
+   "B": "Wrong: concern for the welfare of others.",
+   "C": "Correct: the practice of strict self-denial and avoiding luxuries.",
+   "D": "Wrong: excessive zeal for a cause."
+  }
+ }
+]

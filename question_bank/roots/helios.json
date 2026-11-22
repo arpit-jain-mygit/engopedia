@@ -1,0 +1,20 @@
+[
+ {
+  "word": "heliophobia",
+  "question": "A woman keeps every curtain drawn in summer and walks only under umbrellas, dreading the bright disc in the sky. She fears:",
+  "options": [
+   "Photophobia",
+   "Thermophobia",
+   "Astrophobia",
+   "Heliophobia"
+  ],
+  "correct": "D",
+  "explanation": "Helios (sun) + phobia = fear of sunlight.",
+  "reasons": {
+   "A": "Wrong: fear of light in general, not of the sun in particular.",
+   "B": "Wrong: fear of heat.",
+   "C": "Wrong: fear of lightning.",
+   "D": "Correct: helios means sun, so the fear is of sunlight."
+  }
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "word": "psychoanalysis",
+  "question": "The doctor asked her to lie on a couch and speak freely, so he could probe her unconscious for the root of her fears. This method is:",
+  "options": [
+   "psychosis",
+   "psychoanalysis",
+   "acupuncture",
+   "telepathy"
+  ],
+  "correct": "B",
+  "explanation": "psychoanalysis: Freud's method of probing the unconscious to reach the cause of problems.",
+  "reasons": {
+   "A": "Wrong: A serious mental disorder that loses contact with reality.",
+   "B": "Correct: Freud's method of probing the unconscious to reach the cause of problems.",
+   "C": "Wrong: Treatment using thin needles inserted into the body.",
+   "D": "Wrong: Communication of thoughts from a distance without the senses."
+  }
+ },
+ {
+  "word": "psychoanalyst",
+  "question": "The practitioner followed Freud's method and probed her patient's unconscious mind. He is a:",
+  "options": [
+   "psychopath",
+   "neurologist",
+   "psychoanalyst",
+   "theologian"
+  ],
+  "correct": "C",
+  "explanation": "psychoanalyst: A practitioner who probes the unconscious, following Freud.",
+  "reasons": {
+   "A": "Wrong: A person who lacks social conscience and often acts antisocially.",
+   "B": "Wrong: A doctor who treats the nervous system.",
+   "C": "Correct: A practitioner who probes the unconscious, following Freud.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "psychoanalytic",
+  "question": "The therapist's approach to the dream drew on Freud's method of probing the unconscious. Her approach was:",
+  "options": [
+   "neurotic",
+   "psychotic",
+   "pathological",
+   "psychoanalytic"
+  ],
+  "correct": "D",
+  "explanation": "psychoanalytic: Relating to psychoanalysis.",
+  "reasons": {
+   "A": "Wrong: Suffering from a neurosis; a person with one.",
+   "B": "Wrong: Having a psychosis; out of touch with reality.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Relating to psychoanalysis."
+  }
+ }
+]

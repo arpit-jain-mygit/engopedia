@@ -1,0 +1,200 @@
+[
+ {
+  "word": "gynecological",
+  "question": "The clinic's work focused on women's health and reproductive care. Its work was:",
+  "options": [
+   "gynecological",
+   "geriatric",
+   "pediatric",
+   "podiatric"
+  ],
+  "correct": "A",
+  "explanation": "gynecological: Relating to women's health.",
+  "reasons": {
+   "A": "Correct: Relating to women's health.",
+   "B": "Wrong: Relating to the medical care of the elderly.",
+   "C": "Wrong: Relating to children's medicine.",
+   "D": "Wrong: Relating to foot care."
+  }
+ },
+ {
+  "word": "gynecologist",
+  "question": "She visited a doctor who treats women's diseases and reproductive health. Her doctor was a:",
+  "options": [
+   "pediatrician",
+   "gynecologist",
+   "geriatrician",
+   "podiatrist"
+  ],
+  "correct": "B",
+  "explanation": "gynecologist: A doctor who treats women's diseases.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Correct: A doctor who treats women's diseases.",
+   "C": "Wrong: A doctor who specializes in the elderly.",
+   "D": "Wrong: A practitioner who treats minor foot ailments."
+  }
+ },
+ {
+  "word": "gynecology",
+  "question": "The medical study of women's health is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "gynecology",
+   "podiatry"
+  ],
+  "correct": "C",
+  "explanation": "gynecology: The medical study of women's health.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Correct: The medical study of women's health.",
+   "D": "Wrong: The treatment of minor foot ailments."
+  }
+ },
+ {
+  "word": "gynephobia",
+  "question": "He feared women so deeply that he avoided them entirely. His fear is called:",
+  "options": [
+   "androphobia",
+   "homophobia",
+   "cynophobia",
+   "gynephobia"
+  ],
+  "correct": "D",
+  "explanation": "gynephobia: Fear of women.",
+  "reasons": {
+   "A": "Wrong: Fear of males.",
+   "B": "Wrong: Fear of sameness.",
+   "C": "Wrong: Fear of dogs.",
+   "D": "Correct: Fear of women."
+  }
+ },
+ {
+  "word": "misogynist",
+  "question": "He treated women as inferior and openly hated them. He is a:",
+  "options": [
+   "misogynist",
+   "misanthrope",
+   "misogamist",
+   "monogamist"
+  ],
+  "correct": "A",
+  "explanation": "misogynist: One who hates women.",
+  "reasons": {
+   "A": "Correct: One who hates women.",
+   "B": "Wrong: One who hates the human race.",
+   "C": "Wrong: One who hates marriage.",
+   "D": "Wrong: A person married to only one spouse."
+  }
+ },
+ {
+  "word": "misogynistic",
+  "question": "His comments showed a deep hatred of women. His comments were:",
+  "options": [
+   "misanthropic",
+   "misogynistic",
+   "misogamous",
+   "monogamous"
+  ],
+  "correct": "B",
+  "explanation": "misogynistic: Showing hatred of women.",
+  "reasons": {
+   "A": "Wrong: Hating mankind.",
+   "B": "Correct: Showing hatred of women.",
+   "C": "Wrong: Opposed to marriage.",
+   "D": "Wrong: Married to only one person."
+  }
+ },
+ {
+  "word": "misogynous",
+  "question": "The writer's attitude was hostile and full of hatred toward women. His attitude was:",
+  "options": [
+   "misogamous",
+   "misanthropic",
+   "misogynous",
+   "monotheistic"
+  ],
+  "correct": "C",
+  "explanation": "misogynous: Hating women.",
+  "reasons": {
+   "A": "Wrong: Opposed to marriage.",
+   "B": "Wrong: Hating mankind.",
+   "C": "Correct: Hating women.",
+   "D": "Wrong: Believing in one God."
+  }
+ },
+ {
+  "word": "misogyny",
+  "question": "The article was full of hatred toward women, which the editor condemned. That hatred is:",
+  "options": [
+   "misogamy",
+   "misanthropy",
+   "monogamy",
+   "misogyny"
+  ],
+  "correct": "D",
+  "explanation": "misogyny: Hatred of women.",
+  "reasons": {
+   "A": "Wrong: Hatred of marriage.",
+   "B": "Wrong: Hatred of the human race.",
+   "C": "Wrong: Marriage to only one spouse at a time.",
+   "D": "Correct: Hatred of women."
+  }
+ },
+ {
+  "word": "polygynist",
+  "question": "The man kept several wives at once in his household. He was a:",
+  "options": [
+   "polygynist",
+   "polyandrist",
+   "polygamist",
+   "monogamist"
+  ],
+  "correct": "A",
+  "explanation": "polygynist: A man with more than one wife.",
+  "reasons": {
+   "A": "Correct: A man with more than one wife.",
+   "B": "Wrong: A woman with more than one husband.",
+   "C": "Wrong: A person with more than one spouse.",
+   "D": "Wrong: A person married to only one spouse."
+  }
+ },
+ {
+  "word": "polygynous",
+  "question": "The village allowed a man to have several wives at the same time. The custom was:",
+  "options": [
+   "polyandrous",
+   "polygynous",
+   "polygamous",
+   "monogamous"
+  ],
+  "correct": "B",
+  "explanation": "polygynous: Relating to a man with several wives.",
+  "reasons": {
+   "A": "Wrong: Relating to a woman with several husbands.",
+   "B": "Correct: Relating to a man with several wives.",
+   "C": "Wrong: Having many spouses at the same time.",
+   "D": "Wrong: Married to only one person."
+  }
+ },
+ {
+  "word": "polygyny",
+  "question": "The practice of a man having several wives at once is called:",
+  "options": [
+   "polyandry",
+   "polygamy",
+   "polygyny",
+   "monogamy"
+  ],
+  "correct": "C",
+  "explanation": "polygyny: The practice of a man having several wives.",
+  "reasons": {
+   "A": "Wrong: The practice of a woman having several husbands.",
+   "B": "Wrong: Marriage with many spouses at once.",
+   "C": "Correct: The practice of a man having several wives.",
+   "D": "Wrong: Marriage to only one spouse at a time."
+  }
+ }
+]

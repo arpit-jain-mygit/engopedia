@@ -1,0 +1,110 @@
+[
+ {
+  "word": "cacographer",
+  "question": "The man was famous for writing badly, with ugly and poorly spelled notes. He is a:",
+  "options": [
+   "calligrapher",
+   "chirographer",
+   "geographer",
+   "cacographer"
+  ],
+  "correct": "D",
+  "explanation": "cacographer: A person who writes badly or illegibly.",
+  "reasons": {
+   "A": "Wrong: A person who writes beautiful script for announcements and cards.",
+   "B": "Wrong: An expert in handwriting or penmanship.",
+   "C": "Wrong: A scientist who studies and maps the earth's surface.",
+   "D": "Correct: A person who writes badly or illegibly."
+  }
+ },
+ {
+  "word": "cacographic",
+  "question": "Her badly spelled and ugly writing made the page look messy. This writing is:",
+  "options": [
+   "cacographic",
+   "calligraphic",
+   "chirographic",
+   "geographical"
+  ],
+  "correct": "A",
+  "explanation": "cacographic: Pertaining to bad or illegible handwriting.",
+  "reasons": {
+   "A": "Correct: Pertaining to bad or illegible handwriting.",
+   "B": "Wrong: Relating to beautiful handwriting.",
+   "C": "Wrong: Relating to handwriting.",
+   "D": "Wrong: Relating to geography."
+  }
+ },
+ {
+  "word": "cacography",
+  "question": "Badly written, ugly spelling in the report was a true example of its kind. This ugliness of writing is:",
+  "options": [
+   "calligraphy",
+   "cacography",
+   "chirography",
+   "graphology"
+  ],
+  "correct": "B",
+  "explanation": "cacography: Bad, ugly, or illegible handwriting.",
+  "reasons": {
+   "A": "Wrong: Beautiful handwriting, practiced as an art.",
+   "B": "Correct: Bad, ugly, or illegible handwriting.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "cacophobia",
+  "question": "She could not bear ugly sounds and ugly things; her fear is of ugliness itself. Her fear is called:",
+  "options": [
+   "callophobia",
+   "ailurophobia",
+   "cacophobia",
+   "acrophobia"
+  ],
+  "correct": "C",
+  "explanation": "cacophobia: Fear of ugliness.",
+  "reasons": {
+   "A": "Wrong: Fear of beauty.",
+   "B": "Wrong: Fear of cats.",
+   "C": "Correct: Fear of ugliness.",
+   "D": "Wrong: Morbid dread of heights."
+  }
+ },
+ {
+  "word": "cacophonous",
+  "question": "The orchestra tuned badly, and the harsh noise from the instruments jarred everyone. The sound was:",
+  "options": [
+   "euphonious",
+   "vivid",
+   "placid",
+   "cacophonous"
+  ],
+  "correct": "D",
+  "explanation": "cacophonous: Harsh and jarring in sound.",
+  "reasons": {
+   "A": "Wrong: Pleasant in sound; harmonious.",
+   "B": "Wrong: Full of life and freshness; bright or sharp.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Harsh and jarring in sound."
+  }
+ },
+ {
+  "word": "cacophony",
+  "question": "The street filled with a harsh, jarring mixture of horns and shouting. Such a mixture of sounds is a:",
+  "options": [
+   "cacophony",
+   "euphony",
+   "synergy",
+   "placidity"
+  ],
+  "correct": "A",
+  "explanation": "cacophony: A harsh, jarring mixture of sounds.",
+  "reasons": {
+   "A": "Correct: A harsh, jarring mixture of sounds.",
+   "B": "Wrong: Pleasing, harmonious sound.",
+   "C": "Wrong: A combined effect greater than the sum of separate effects.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ }
+]

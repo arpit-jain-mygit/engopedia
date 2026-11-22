@@ -1,0 +1,38 @@
+[
+ {
+  "word": "thermometer",
+  "question": "A nurse places an instrument under a child's tongue to measure body heat. What is it?",
+  "options": [
+   "Thermometer",
+   "Barometer",
+   "Auricle",
+   "Taxidermist"
+  ],
+  "correct": "A",
+  "explanation": "Therme (heat) + metron (measure): measures heat.",
+  "reasons": {
+   "A": "Correct: an instrument that measures heat.",
+   "B": "Wrong: an instrument that measures air pressure.",
+   "C": "Wrong: an upper chamber of the heart.",
+   "D": "Wrong: a person who stuffs animal skins."
+  }
+ },
+ {
+  "word": "thermophobia",
+  "question": "Which word means an intense fear of heat?",
+  "options": [
+   "Pyrophobia",
+   "Thermophobia",
+   "Photophobia",
+   "Aerophobia"
+  ],
+  "correct": "B",
+  "explanation": "Therme (heat) + phobia = fear of heat.",
+  "reasons": {
+   "A": "Wrong: fear of fire, which is close to heat but a different fear.",
+   "B": "Correct: therme means heat, so the fear is of heat.",
+   "C": "Wrong: fear of light.",
+   "D": "Wrong: fear of air."
+  }
+ }
+]

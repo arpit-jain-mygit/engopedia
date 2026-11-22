@@ -1,0 +1,164 @@
+[
+ {
+  "word": "gnosiophobia",
+  "question": "She had a deep dread of learning and knowing things, so she avoided books and questions. Her fear is called:",
+  "options": [
+   "gnosiophobia",
+   "acrophobia",
+   "hydrophobia",
+   "nyctophobia"
+  ],
+  "correct": "A",
+  "explanation": "gnosiophobia: Fear of knowledge.",
+  "reasons": {
+   "A": "Correct: Fear of knowledge.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Wrong: Fear of water.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "prognosis",
+  "question": "The doctor predicted how the disease would progress and what outcome to expect. Her forecast is a:",
+  "options": [
+   "diagnosis",
+   "prognosis",
+   "prescription",
+   "pathology"
+  ],
+  "correct": "B",
+  "explanation": "prognosis: A forecast of the course of a disease.",
+  "reasons": {
+   "A": "Wrong: A determination of the nature of a disease or problem.",
+   "B": "Correct: A forecast of the course of a disease.",
+   "C": "Wrong: A written order for medicine or a rule.",
+   "D": "Wrong: The study of disease, its nature, and its cause."
+  }
+ },
+ {
+  "word": "prognostic",
+  "question": "The sign was a forecast of how the illness would likely develop. It was:",
+  "options": [
+   "diagnostic",
+   "prescriptive",
+   "prognostic",
+   "pathological"
+  ],
+  "correct": "C",
+  "explanation": "prognostic: Relating to a forecast.",
+  "reasons": {
+   "A": "Wrong: Relating to identifying a problem.",
+   "B": "Wrong: Laying down rules or directions.",
+   "C": "Correct: Relating to a forecast.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "prognosticate",
+  "question": "The fortune teller claimed she could foretell the future of the village. She could:",
+  "options": [
+   "diagnose",
+   "prescribe",
+   "describe",
+   "prognosticate"
+  ],
+  "correct": "D",
+  "explanation": "prognosticate: To foretell or forecast.",
+  "reasons": {
+   "A": "Wrong: To identify a disease or problem.",
+   "B": "Wrong: To advise or order a medicine or treatment.",
+   "C": "Wrong: To write or tell about something in detail.",
+   "D": "Correct: To foretell or forecast."
+  }
+ },
+ {
+  "word": "prognostication",
+  "question": "The economist's bold forecast of next year's economy was a prediction of future events. Such a forecast is a:",
+  "options": [
+   "prognostication",
+   "diagnosis",
+   "prescription",
+   "pathology"
+  ],
+  "correct": "A",
+  "explanation": "prognostication: A forecast of future events.",
+  "reasons": {
+   "A": "Correct: A forecast of future events.",
+   "B": "Wrong: A determination of the nature of a disease or problem.",
+   "C": "Wrong: A written order for medicine or a rule.",
+   "D": "Wrong: The study of disease, its nature, and its cause."
+  }
+ },
+ {
+  "word": "diagnose",
+  "question": "The doctor identified the illness from the symptoms she observed. She would:",
+  "options": [
+   "prognosticate",
+   "prescribe",
+   "diagnose",
+   "describe"
+  ],
+  "correct": "C",
+  "explanation": "diagnose: To identify a disease or problem.",
+  "reasons": {
+   "A": "Wrong: To foretell or forecast.",
+   "B": "Wrong: To advise or order a medicine or treatment.",
+   "C": "Correct: To identify a disease or problem.",
+   "D": "Wrong: To write or tell about something in detail."
+  }
+ },
+ {
+  "word": "diagnosis",
+  "question": "The doctor's identification of an illness from its symptoms is called:",
+  "options": [
+   "prognosis",
+   "prescription",
+   "pathology",
+   "diagnosis"
+  ],
+  "correct": "D",
+  "explanation": "diagnosis: A determination of the nature of a disease or problem.",
+  "reasons": {
+   "A": "Wrong: A forecast of the course of a disease.",
+   "B": "Wrong: A written order for medicine or a rule.",
+   "C": "Wrong: The study of disease, its nature, and its cause.",
+   "D": "Correct: A determination of the nature of a disease or problem."
+  }
+ },
+ {
+  "word": "diagnostic",
+  "question": "The test was used to identify and determine the illness. The test was:",
+  "options": [
+   "diagnostic",
+   "prognostic",
+   "prescriptive",
+   "pathological"
+  ],
+  "correct": "A",
+  "explanation": "diagnostic: Relating to identifying a problem.",
+  "reasons": {
+   "A": "Correct: Relating to identifying a problem.",
+   "B": "Wrong: Relating to a forecast.",
+   "C": "Wrong: Laying down rules or directions.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "diagnostician",
+  "question": "The specialist who identifies diseases from their symptoms is a:",
+  "options": [
+   "geriatrician",
+   "diagnostician",
+   "psychologist",
+   "cardiologist"
+  ],
+  "correct": "B",
+  "explanation": "diagnostician: A specialist who identifies diseases.",
+  "reasons": {
+   "A": "Wrong: A doctor who specializes in the elderly.",
+   "B": "Correct: A specialist who identifies diseases.",
+   "C": "Wrong: A specialist who studies human behavior.",
+   "D": "Wrong: A doctor who treats heart diseases."
+  }
+ }
+]

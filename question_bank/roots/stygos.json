@@ -1,0 +1,20 @@
+[
+ {
+  "word": "stygiophobia",
+  "question": "A devout man is terrified of eternal torment and refuses to read any text describing the underworld. His fear is of:",
+  "options": [
+   "Thanatophobia",
+   "Stygiophobia",
+   "Eremiophobia",
+   "Hypnophobia"
+  ],
+  "correct": "B",
+  "explanation": "Stygos (hell, the river Styx) + phobia = fear of hell.",
+  "reasons": {
+   "A": "Wrong: fear of death in general.",
+   "B": "Correct: stygos refers to hell, the Styx, so the fear is of hell.",
+   "C": "Wrong: fear of stillness.",
+   "D": "Wrong: fear of sleep."
+  }
+ }
+]

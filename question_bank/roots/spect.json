@@ -1,0 +1,236 @@
+[
+ {
+  "word": "circumspect",
+  "question": "The cautious negotiator weighed every word and every risk before acting. He was:",
+  "options": [
+   "vivacious",
+   "garrulous",
+   "laconic",
+   "circumspect"
+  ],
+  "correct": "D",
+  "explanation": "circumspect: Cautious and careful; watchful.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Wrong: Talking too much, often about small things.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Correct: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "circumspection",
+  "question": "The careful way he judged every risk showed his wariness. This caution is:",
+  "options": [
+   "circumspection",
+   "loquacity",
+   "trepidation",
+   "vivacity"
+  ],
+  "correct": "A",
+  "explanation": "circumspection: Caution and care in judgment.",
+  "reasons": {
+   "A": "Correct: Caution and care in judgment.",
+   "B": "Wrong: Talkativeness.",
+   "C": "Wrong: Fear, nervousness, or alarm.",
+   "D": "Wrong: Liveliness; high spirits."
+  }
+ },
+ {
+  "word": "introspect",
+  "question": "She sat quietly examining her own thoughts and feelings. She began to:",
+  "options": [
+   "vacillate",
+   "introspect",
+   "vegetate",
+   "dissemble"
+  ],
+  "correct": "B",
+  "explanation": "introspect: To examine one's own thoughts and feelings.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Correct: To examine one's own thoughts and feelings.",
+   "C": "Wrong: To live a dull, inactive life.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "introspection",
+  "question": "Her long habit of looking inward at her own mind is called:",
+  "options": [
+   "perspicacity",
+   "reticence",
+   "introspection",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "introspection: The act of examining one's own mind.",
+  "reasons": {
+   "A": "Wrong: Keenness of mind; sharp insight.",
+   "B": "Wrong: Unwillingness to speak openly.",
+   "C": "Correct: The act of examining one's own mind.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "introspective",
+  "question": "The quiet, thoughtful writer tended to look inward at his own feelings. He was:",
+  "options": [
+   "extrovert",
+   "gregarious",
+   "sociable",
+   "introspective"
+  ],
+  "correct": "D",
+  "explanation": "introspective: Inclined to look inward at one's own feelings.",
+  "reasons": {
+   "A": "Wrong: A person whose interests are turned outward; outgoing and sociable.",
+   "B": "Wrong: Enjoying the company of others; sociable in groups.",
+   "C": "Wrong: Friendly; enjoying the company of others.",
+   "D": "Correct: Inclined to look inward at one's own feelings."
+  }
+ },
+ {
+  "word": "perspicacious",
+  "question": "The sharp-minded detective noticed the small clues no one else saw. He was:",
+  "options": [
+   "perspicacious",
+   "laconic",
+   "placid",
+   "garrulous"
+  ],
+  "correct": "A",
+  "explanation": "perspicacious: Keen-minded; mentally sharp and quick to understand.",
+  "reasons": {
+   "A": "Correct: Keen-minded; mentally sharp and quick to understand.",
+   "B": "Wrong: Using very few words; brief and to the point.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Talking too much, often about small things."
+  }
+ },
+ {
+  "word": "perspicacity",
+  "question": "Her keen insight and sharp understanding solved the case quickly. This keenness of mind is her:",
+  "options": [
+   "vacillation",
+   "perspicacity",
+   "reticence",
+   "placidity"
+  ],
+  "correct": "B",
+  "explanation": "perspicacity: Keenness of mind; sharp insight.",
+  "reasons": {
+   "A": "Wrong: Wavering between opinions or choices.",
+   "B": "Correct: Keenness of mind; sharp insight.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ },
+ {
+  "word": "prospect",
+  "question": "The look ahead to the future showed a promising opportunity. This future possibility is a:",
+  "options": [
+   "retrospect",
+   "introspection",
+   "prospect",
+   "sequel"
+  ],
+  "correct": "C",
+  "explanation": "prospect: A look forward; an expected future event.",
+  "reasons": {
+   "A": "Wrong: A look back at past events.",
+   "B": "Wrong: The act of examining one's own mind.",
+   "C": "Correct: A look forward; an expected future event.",
+   "D": "Wrong: A later story or event that follows an earlier one."
+  }
+ },
+ {
+  "word": "prospective",
+  "question": "The buyers who were expected in the future were the house's:",
+  "options": [
+   "retrospective",
+   "introspective",
+   "circumspect",
+   "prospective"
+  ],
+  "correct": "D",
+  "explanation": "prospective: Expected to be or happen in the future.",
+  "reasons": {
+   "A": "Wrong: Looking back on the past.",
+   "B": "Wrong: Inclined to look inward at one's own feelings.",
+   "C": "Wrong: Cautious and careful; watchful.",
+   "D": "Correct: Expected to be or happen in the future."
+  }
+ },
+ {
+  "word": "retrospect",
+  "question": "In looking back at the year, she saw what had happened. This looking back is:",
+  "options": [
+   "retrospect",
+   "prospect",
+   "sequel",
+   "epitome"
+  ],
+  "correct": "A",
+  "explanation": "retrospect: A look back at past events.",
+  "reasons": {
+   "A": "Correct: A look back at past events.",
+   "B": "Wrong: A look forward; an expected future event.",
+   "C": "Wrong: A later story or event that follows an earlier one.",
+   "D": "Wrong: A perfect example; a short summary."
+  }
+ },
+ {
+  "word": "retrospective",
+  "question": "The art exhibition looked back over the artist's entire career. It was a:",
+  "options": [
+   "prospective",
+   "retrospective",
+   "introspective",
+   "circumspect"
+  ],
+  "correct": "B",
+  "explanation": "retrospective: Looking back on the past.",
+  "reasons": {
+   "A": "Wrong: Expected to be or happen in the future.",
+   "B": "Correct: Looking back on the past.",
+   "C": "Wrong: Inclined to look inward at one's own feelings.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "specious",
+  "question": "The argument looked right on the surface but was actually false and misleading. It was:",
+  "options": [
+   "cogent",
+   "placid",
+   "specious",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "specious: Seeming right but actually false or misleading.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Correct: Seeming right but actually false or misleading.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "speciousness",
+  "question": "The false, misleading charm of the argument was clear to the judge. This quality is its:",
+  "options": [
+   "cogency",
+   "eloquence",
+   "perspicacity",
+   "speciousness"
+  ],
+  "correct": "D",
+  "explanation": "speciousness: The quality of seeming true but being false.",
+  "reasons": {
+   "A": "Wrong: The power to convince by logic.",
+   "B": "Wrong: Persuasive, fluent speech.",
+   "C": "Wrong: Keenness of mind; sharp insight.",
+   "D": "Correct: The quality of seeming true but being false."
+  }
+ }
+]

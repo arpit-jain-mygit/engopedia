@@ -1,0 +1,20 @@
+[
+ {
+  "word": "phronemophobia",
+  "question": "A student panics whenever she is asked to reason through a hard problem, feeling her mind freeze at the very idea of thinking. Her fear is of:",
+  "options": [
+   "Lalophobia",
+   "Logophobia",
+   "Phronemophobia",
+   "Gnosiophobia"
+  ],
+  "correct": "C",
+  "explanation": "Phren (mind) + phobia = fear of thinking.",
+  "reasons": {
+   "A": "Wrong: fear of speaking.",
+   "B": "Wrong: fear of words or speech.",
+   "C": "Correct: phren means mind, so the fear is of thinking.",
+   "D": "Wrong: fear of knowledge."
+  }
+ }
+]

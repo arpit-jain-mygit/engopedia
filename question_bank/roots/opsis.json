@@ -1,0 +1,164 @@
+[
+ {
+  "word": "autopsy",
+  "question": "After the death, the doctor examined the body to find the cause. This examination is an:",
+  "options": [
+   "autopsy",
+   "biopsy",
+   "diagnosis",
+   "prognosis"
+  ],
+  "correct": "A",
+  "explanation": "autopsy: An examination of a dead body to find the cause of death.",
+  "reasons": {
+   "A": "Correct: An examination of a dead body to find the cause of death.",
+   "B": "Wrong: The removal and study of a small piece of living tissue.",
+   "C": "Wrong: A determination of the nature of a disease or problem.",
+   "D": "Wrong: A forecast of the course of a disease."
+  }
+ },
+ {
+  "word": "biopsy",
+  "question": "The doctor removed a small piece of living tissue to examine it for disease. This is a:",
+  "options": [
+   "autopsy",
+   "biopsy",
+   "diagnosis",
+   "prognosis"
+  ],
+  "correct": "B",
+  "explanation": "biopsy: The removal and study of a small piece of living tissue.",
+  "reasons": {
+   "A": "Wrong: An examination of a dead body to find the cause of death.",
+   "B": "Correct: The removal and study of a small piece of living tissue.",
+   "C": "Wrong: A determination of the nature of a disease or problem.",
+   "D": "Wrong: A forecast of the course of a disease."
+  }
+ },
+ {
+  "word": "optical",
+  "question": "The lenses in the glasses worked by bending light. These lenses were:",
+  "options": [
+   "ocular",
+   "auricular",
+   "optical",
+   "phonetic"
+  ],
+  "correct": "C",
+  "explanation": "optical: Relating to sight or to optics.",
+  "reasons": {
+   "A": "Wrong: Relating to the eye.",
+   "B": "Wrong: Relating to the ear or an auricle.",
+   "C": "Correct: Relating to sight or to optics.",
+   "D": "Wrong: Relating to the sounds of speech."
+  }
+ },
+ {
+  "word": "optician",
+  "question": "The shop assistant ground the lenses and fitted the glasses for the customer. He is an:",
+  "options": [
+   "psychiatrist",
+   "pediatrician",
+   "podiatrist",
+   "optician"
+  ],
+  "correct": "D",
+  "explanation": "optician: A person who grinds lenses and fits glasses.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats mental and emotional disorders.",
+   "B": "Wrong: A doctor who treats children.",
+   "C": "Wrong: A practitioner who treats minor foot ailments.",
+   "D": "Correct: A person who grinds lenses and fits glasses."
+  }
+ },
+ {
+  "word": "optics",
+  "question": "The science of light and vision, including lenses and mirrors, is called:",
+  "options": [
+   "optics",
+   "phonetics",
+   "astronomy",
+   "geometry"
+  ],
+  "correct": "A",
+  "explanation": "optics: The science of light and vision.",
+  "reasons": {
+   "A": "Correct: The science of light and vision.",
+   "B": "Wrong: The science of speech sounds.",
+   "C": "Wrong: The science of the stars and other heavenly bodies.",
+   "D": "Wrong: The branch of mathematics about shapes, angles, and measurement."
+  }
+ },
+ {
+  "word": "optometric",
+  "question": "The clinic's eye-measuring tests were used to check vision. The tests were:",
+  "options": [
+   "geometric",
+   "optometric",
+   "barometric",
+   "chronometric"
+  ],
+  "correct": "B",
+  "explanation": "optometric: Relating to the measurement of vision.",
+  "reasons": {
+   "A": "Wrong: Relating to geometry; made of regular lines and shapes.",
+   "B": "Correct: Relating to the measurement of vision.",
+   "C": "Wrong: Relating to the barometer or to air pressure.",
+   "D": "Wrong: Relating to the measurement of time."
+  }
+ },
+ {
+  "word": "optometrical",
+  "question": "The eye-measuring work at the clinic was called:",
+  "options": [
+   "chronological",
+   "geological",
+   "optometrical",
+   "theological"
+  ],
+  "correct": "C",
+  "explanation": "optometrical: Relating to optometry.",
+  "reasons": {
+   "A": "Wrong: In correct time order.",
+   "B": "Wrong: Relating to geology.",
+   "C": "Correct: Relating to optometry.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "optometrist",
+  "question": "The professional who measures vision and prescribes corrective lenses is an:",
+  "options": [
+   "psychiatrist",
+   "podiatrist",
+   "dermatologist",
+   "optometrist"
+  ],
+  "correct": "D",
+  "explanation": "optometrist: A person who measures vision and prescribes glasses.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats mental and emotional disorders.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Correct: A person who measures vision and prescribes glasses."
+  }
+ },
+ {
+  "word": "optometry",
+  "question": "The profession of measuring vision and prescribing glasses is called:",
+  "options": [
+   "optometry",
+   "phonetics",
+   "geometry",
+   "astronomy"
+  ],
+  "correct": "A",
+  "explanation": "optometry: The profession of measuring vision.",
+  "reasons": {
+   "A": "Correct: The profession of measuring vision.",
+   "B": "Wrong: The science of speech sounds.",
+   "C": "Wrong: The branch of mathematics about shapes, angles, and measurement.",
+   "D": "Wrong: The science of the stars and other heavenly bodies."
+  }
+ }
+]

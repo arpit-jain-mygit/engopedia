@@ -1,0 +1,128 @@
+[
+ {
+  "word": "nescience",
+  "question": "The student's complete ignorance of the subject was obvious. This lack of knowledge is:",
+  "options": [
+   "omniscience",
+   "nescience",
+   "prescience",
+   "laconicism"
+  ],
+  "correct": "B",
+  "explanation": "nescience: Lack of knowledge; ignorance.",
+  "reasons": {
+   "A": "Wrong: Complete knowledge of everything.",
+   "B": "Correct: Lack of knowledge; ignorance.",
+   "C": "Wrong: Knowledge of events before they occur.",
+   "D": "Wrong: A habit of using few words."
+  }
+ },
+ {
+  "word": "nescient",
+  "question": "Being ignorant of the facts, he could not answer the question. He was:",
+  "options": [
+   "omniscient",
+   "prescient",
+   "nescient",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "nescient: Not knowing; ignorant.",
+  "reasons": {
+   "A": "Wrong: Knowing everything; all-knowing.",
+   "B": "Wrong: Knowing about events before they occur.",
+   "C": "Correct: Not knowing; ignorant.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "omniscience",
+  "question": "Knowing everything without limit is a power the deity was thought to have. That power is:",
+  "options": [
+   "omnipotence",
+   "omnipresence",
+   "nescience",
+   "omniscience"
+  ],
+  "correct": "D",
+  "explanation": "omniscience: Complete knowledge of everything.",
+  "reasons": {
+   "A": "Wrong: Unlimited power.",
+   "B": "Wrong: The quality of being everywhere at once.",
+   "C": "Wrong: Lack of knowledge; ignorance.",
+   "D": "Correct: Complete knowledge of everything."
+  }
+ },
+ {
+  "word": "omniscient",
+  "question": "The all-knowing deity saw every thought of the people. The deity was:",
+  "options": [
+   "omniscient",
+   "nescient",
+   "omnipotent",
+   "omnipresent"
+  ],
+  "correct": "A",
+  "explanation": "omniscient: Knowing everything; all-knowing.",
+  "reasons": {
+   "A": "Correct: Knowing everything; all-knowing.",
+   "B": "Wrong: Not knowing; ignorant.",
+   "C": "Wrong: All-powerful.",
+   "D": "Wrong: Present everywhere at once."
+  }
+ },
+ {
+  "word": "prescience",
+  "question": "She sensed the crisis before anyone else and knew it would happen. Her foreknowledge is:",
+  "options": [
+   "nescience",
+   "prescience",
+   "omniscience",
+   "laconicism"
+  ],
+  "correct": "B",
+  "explanation": "prescience: Knowledge of events before they occur.",
+  "reasons": {
+   "A": "Wrong: Lack of knowledge; ignorance.",
+   "B": "Correct: Knowledge of events before they occur.",
+   "C": "Wrong: Complete knowledge of everything.",
+   "D": "Wrong: A habit of using few words."
+  }
+ },
+ {
+  "word": "prescient",
+  "question": "The investor knew about the crash before it happened. He was:",
+  "options": [
+   "nescient",
+   "omniscient",
+   "prescient",
+   "ambivalent"
+  ],
+  "correct": "C",
+  "explanation": "prescient: Knowing about events before they occur.",
+  "reasons": {
+   "A": "Wrong: Not knowing; ignorant.",
+   "B": "Wrong: Knowing everything; all-knowing.",
+   "C": "Correct: Knowing about events before they occur.",
+   "D": "Wrong: Having conflicting feelings at the same time."
+  }
+ },
+ {
+  "word": "science",
+  "question": "The systematic study of the natural world through tested knowledge is called:",
+  "options": [
+   "philology",
+   "theology",
+   "sociology",
+   "science"
+  ],
+  "correct": "D",
+  "explanation": "science: Knowledge that is organized and tested by facts.",
+  "reasons": {
+   "A": "Wrong: The study of language and its history.",
+   "B": "Wrong: The study of God and religion.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Correct: Knowledge that is organized and tested by facts."
+  }
+ }
+]

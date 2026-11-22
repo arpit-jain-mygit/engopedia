@@ -1,0 +1,182 @@
+[
+ {
+  "word": "congenital",
+  "question": "The heart defect was present from birth and not acquired later. It was:",
+  "options": [
+   "fetal",
+   "congenital",
+   "obstetric",
+   "chronological"
+  ],
+  "correct": "B",
+  "explanation": "congenital: Present at or from birth.",
+  "reasons": {
+   "A": "Wrong: Relating to a fetus.",
+   "B": "Correct: Present at or from birth.",
+   "C": "Wrong: Relating to childbirth.",
+   "D": "Wrong: In correct time order."
+  }
+ },
+ {
+  "word": "gene",
+  "question": "The tiny unit of heredity that carries traits from parent to child is a:",
+  "options": [
+   "atom",
+   "tome",
+   "gene",
+   "podium"
+  ],
+  "correct": "C",
+  "explanation": "gene: A unit in the chromosome that carries a hereditary trait.",
+  "reasons": {
+   "A": "Wrong: The smallest particle of an element; originally 'not cut further'.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: A unit in the chromosome that carries a hereditary trait.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "genealogical",
+  "question": "The archivist's records traced the family's ancestry. The records were:",
+  "options": [
+   "geological",
+   "zoological",
+   "chronological",
+   "genealogical"
+  ],
+  "correct": "D",
+  "explanation": "genealogical: Relating to family history.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Wrong: In correct time order.",
+   "D": "Correct: Relating to family history."
+  }
+ },
+ {
+  "word": "genealogist",
+  "question": "The expert who builds family trees from old records is a:",
+  "options": [
+   "genealogist",
+   "geologist",
+   "chronologist",
+   "zoologist"
+  ],
+  "correct": "A",
+  "explanation": "genealogist: A person who studies family trees.",
+  "reasons": {
+   "A": "Correct: A person who studies family trees.",
+   "B": "Wrong: A scientist who studies the earth and its rocks.",
+   "C": "Wrong: A person who arranges events in time order.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "genealogy",
+  "question": "The study of family ancestry and descent is called:",
+  "options": [
+   "geology",
+   "genealogy",
+   "chronology",
+   "zoology"
+  ],
+  "correct": "B",
+  "explanation": "genealogy: The study of family history and ancestry.",
+  "reasons": {
+   "A": "Wrong: The science of the earth's composition and history.",
+   "B": "Correct: The study of family history and ancestry.",
+   "C": "Wrong: The science of arranging events in time order.",
+   "D": "Wrong: The science of animal life."
+  }
+ },
+ {
+  "word": "genetic",
+  "question": "The traits passed from parents to children through genes are:",
+  "options": [
+   "fetal",
+   "obstetric",
+   "genetic",
+   "chronological"
+  ],
+  "correct": "C",
+  "explanation": "genetic: Relating to heredity or genes.",
+  "reasons": {
+   "A": "Wrong: Relating to a fetus.",
+   "B": "Wrong: Relating to childbirth.",
+   "C": "Correct: Relating to heredity or genes.",
+   "D": "Wrong: In correct time order."
+  }
+ },
+ {
+  "word": "geneticist",
+  "question": "The scientist who studies heredity and genes is a:",
+  "options": [
+   "geologist",
+   "sociologist",
+   "psychologist",
+   "geneticist"
+  ],
+  "correct": "D",
+  "explanation": "geneticist: A scientist who studies heredity.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies human society and social groups.",
+   "C": "Wrong: A specialist who studies human behavior.",
+   "D": "Correct: A scientist who studies heredity."
+  }
+ },
+ {
+  "word": "genetics",
+  "question": "The branch of biology that studies heredity is called:",
+  "options": [
+   "genetics",
+   "geology",
+   "sociology",
+   "psychology"
+  ],
+  "correct": "A",
+  "explanation": "genetics: The science of heredity.",
+  "reasons": {
+   "A": "Correct: The science of heredity.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "genital",
+  "question": "Relating to the reproductive organs of the body is:",
+  "options": [
+   "fetal",
+   "genital",
+   "congenital",
+   "obstetric"
+  ],
+  "correct": "B",
+  "explanation": "genital: Relating to reproduction or the reproductive organs.",
+  "reasons": {
+   "A": "Wrong: Relating to a fetus.",
+   "B": "Correct: Relating to reproduction or the reproductive organs.",
+   "C": "Wrong: Present at or from birth.",
+   "D": "Wrong: Relating to childbirth."
+  }
+ },
+ {
+  "word": "psychogenic",
+  "question": "The illness had its origin in the mind rather than the body. Its origin was:",
+  "options": [
+   "psychotic",
+   "neurotic",
+   "psychogenic",
+   "pathological"
+  ],
+  "correct": "C",
+  "explanation": "psychogenic: Originating in the mind.",
+  "reasons": {
+   "A": "Wrong: Having a psychosis; out of touch with reality.",
+   "B": "Wrong: Suffering from a neurosis; a person with one.",
+   "C": "Correct: Originating in the mind.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ }
+]

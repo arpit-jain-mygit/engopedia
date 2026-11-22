@@ -1,0 +1,20 @@
+[
+ {
+  "word": "philharmonic",
+  "question": "A society is named for its devotion to beautiful music played together in tune. Such a society, or an orchestra named after one, is called:",
+  "options": [
+   "Philharmonic",
+   "Anglophile",
+   "Bibliophile",
+   "Francophile"
+  ],
+  "correct": "A",
+  "explanation": "Philein (to love) + harmonia (harmony): loving harmony.",
+  "reasons": {
+   "A": "Correct: loving music and harmony; the name of an orchestra.",
+   "B": "Wrong: a lover of English culture.",
+   "C": "Wrong: a lover of books.",
+   "D": "Wrong: a lover of France and French culture."
+  }
+ }
+]

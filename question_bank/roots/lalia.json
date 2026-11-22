@@ -1,0 +1,20 @@
+[
+ {
+  "word": "lalophobia",
+  "question": "A shy teenager freezes whenever the class asks her to answer, her throat tight and her voice gone, even though she knows the answer. She fears:",
+  "options": [
+   "Logophobia",
+   "Phonophobia",
+   "Gerontophobia",
+   "Lalophobia"
+  ],
+  "correct": "D",
+  "explanation": "Lalia (talk, speech) + phobia = fear of speaking.",
+  "reasons": {
+   "A": "Wrong: fear of words or written text.",
+   "B": "Wrong: fear of loud sounds or voices.",
+   "C": "Wrong: fear of old people.",
+   "D": "Correct: lalia means talk or speech, so the fear is of speaking."
+  }
+ }
+]

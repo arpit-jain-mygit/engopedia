@@ -1,0 +1,20 @@
+[
+ {
+  "word": "sthenophobia",
+  "question": "A boy trembles at the thought of lifting heavy weights and dreads any test of physical power. His fear is of:",
+  "options": [
+   "Asthenophobia",
+   "Sthenophobia",
+   "Kinesiophobia",
+   "Algophobia"
+  ],
+  "correct": "B",
+  "explanation": "Sthenos (strength) + phobia = fear of strength.",
+  "reasons": {
+   "A": "Wrong: fear of weakness, the opposite fear.",
+   "B": "Correct: sthenos means strength, so the fear is of strength.",
+   "C": "Wrong: fear of motion.",
+   "D": "Wrong: fear of pain."
+  }
+ }
+]

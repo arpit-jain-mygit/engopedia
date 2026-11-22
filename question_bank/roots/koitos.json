@@ -1,0 +1,20 @@
+[
+ {
+  "word": "coitophobia",
+  "question": "A woman's dread of physical intimacy is so extreme that she avoids every close relationship. The clinical term for this intense fear is:",
+  "options": [
+   "Gamophobia",
+   "Gynephobia",
+   "Androphobia",
+   "Coitophobia"
+  ],
+  "correct": "D",
+  "explanation": "Koitos (bed, sexual intercourse) + phobia = fear of sexual intercourse.",
+  "reasons": {
+   "A": "Wrong: fear of marriage.",
+   "B": "Wrong: fear of women.",
+   "C": "Wrong: fear of men.",
+   "D": "Correct: koitos means bed or sexual intercourse, so the fear is of it."
+  }
+ }
+]

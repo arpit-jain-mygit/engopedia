@@ -1,0 +1,74 @@
+[
+ {
+  "word": "hypertension",
+  "question": "The doctor found the patient's blood pressure was dangerously high. This high pressure is:",
+  "options": [
+   "hypotension",
+   "levity",
+   "hypertension",
+   "intimation"
+  ],
+  "correct": "C",
+  "explanation": "hypertension: High blood pressure.",
+  "reasons": {
+   "A": "Wrong: Abnormally low blood pressure.",
+   "B": "Wrong: Lightness; humor; lack of seriousness.",
+   "C": "Correct: High blood pressure.",
+   "D": "Wrong: A hint; an indirect suggestion."
+  }
+ },
+ {
+  "word": "hypertensive",
+  "question": "The patient had high blood pressure and was treated for it. He was:",
+  "options": [
+   "hypotensive",
+   "placid",
+   "benign",
+   "hypertensive"
+  ],
+  "correct": "D",
+  "explanation": "hypertensive: Having high blood pressure.",
+  "reasons": {
+   "A": "Wrong: Having low blood pressure.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Kindly, good-natured, and harmless.",
+   "D": "Correct: Having high blood pressure."
+  }
+ },
+ {
+  "word": "hypotension",
+  "question": "The patient felt faint and had abnormally low blood pressure. This low pressure is:",
+  "options": [
+   "hypotension",
+   "hypertension",
+   "levity",
+   "alleviation"
+  ],
+  "correct": "A",
+  "explanation": "hypotension: Abnormally low blood pressure.",
+  "reasons": {
+   "A": "Correct: Abnormally low blood pressure.",
+   "B": "Wrong: High blood pressure.",
+   "C": "Wrong: Lightness; humor; lack of seriousness.",
+   "D": "Wrong: Relief from pain or trouble."
+  }
+ },
+ {
+  "word": "hypotensive",
+  "question": "After the fall, the patient's blood pressure was dangerously low. He was:",
+  "options": [
+   "hypertensive",
+   "hypotensive",
+   "placid",
+   "benign"
+  ],
+  "correct": "B",
+  "explanation": "hypotensive: Having low blood pressure.",
+  "reasons": {
+   "A": "Wrong: Having high blood pressure.",
+   "B": "Correct: Having low blood pressure.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ }
+]

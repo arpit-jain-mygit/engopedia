@@ -1,0 +1,20 @@
+[
+ {
+  "word": "leonine",
+  "question": "The old statesman had a great silver mane and a proud, commanding bearing, as if the court itself belonged to him. His bearing was:",
+  "options": [
+   "Vulpine",
+   "Leonine",
+   "Ursine",
+   "Lupine"
+  ],
+  "correct": "B",
+  "explanation": "Leo (lion) + -ine: lion-like.",
+  "reasons": {
+   "A": "Wrong: sly and fox-like, not proud.",
+   "B": "Correct: lion-like in appearance or temperament.",
+   "C": "Wrong: bear-like and heavy.",
+   "D": "Wrong: wolf-like and fierce."
+  }
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "word": "opulent",
+  "question": "The hotel lobby glittered with gold leaf, marble and crystal chandeliers, every detail lavish and extravagant. The lobby was:",
+  "options": [
+   "Impecunious",
+   "Pungent",
+   "Ambivalent",
+   "Opulent"
+  ],
+  "correct": "D",
+  "explanation": "Opulentus (wealthy) + -ent: lavishly rich.",
+  "reasons": {
+   "A": "Wrong: having little or no money.",
+   "B": "Wrong: sharp in smell or taste.",
+   "C": "Wrong: having mixed feelings.",
+   "D": "Correct: luxurious, rich and lavish."
+  }
+ },
+ {
+  "word": "opulence",
+  "question": "The hotel's sheer lavish display of gold and marble showed off its:",
+  "options": [
+   "Opulence",
+   "Impecuniosity",
+   "Pungency",
+   "Ambivalence"
+  ],
+  "correct": "A",
+  "explanation": "Opulence: lavish wealth and luxury.",
+  "reasons": {
+   "A": "Correct: great wealth and luxury, shown in rich display.",
+   "B": "Wrong: lack of money.",
+   "C": "Wrong: sharpness of smell or taste.",
+   "D": "Wrong: mixed or conflicting feelings."
+  }
+ }
+]

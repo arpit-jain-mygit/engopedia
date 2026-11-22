@@ -1,0 +1,146 @@
+[
+ {
+  "word": "devitalization",
+  "question": "The loss of energy and life from the plants after the drought was severe. This draining is:",
+  "options": [
+   "revitalization",
+   "devitalization",
+   "vitality",
+   "evanescence"
+  ],
+  "correct": "B",
+  "explanation": "devitalization: The loss of life or vigor.",
+  "reasons": {
+   "A": "Wrong: The act of giving new life or vigor.",
+   "B": "Correct: The loss of life or vigor.",
+   "C": "Wrong: Energy and strength for life.",
+   "D": "Wrong: The quality of quickly vanishing."
+  }
+ },
+ {
+  "word": "devitalize",
+  "question": "The harsh weather drained the strength and energy from the crops. It began to:",
+  "options": [
+   "rusticate",
+   "vacillate",
+   "devitalize",
+   "evanesce"
+  ],
+  "correct": "C",
+  "explanation": "devitalize: To drain life or energy from.",
+  "reasons": {
+   "A": "Wrong: To go to live in the country.",
+   "B": "Wrong: To waver or keep changing your mind.",
+   "C": "Correct: To drain life or energy from.",
+   "D": "Wrong: To vanish gradually from sight."
+  }
+ },
+ {
+  "word": "revitalization",
+  "question": "The city's new programmes gave fresh life and vigour to the neighbourhood. This renewal is:",
+  "options": [
+   "devitalization",
+   "decadence",
+   "senescence",
+   "revitalization"
+  ],
+  "correct": "D",
+  "explanation": "revitalization: The act of giving new life or vigor.",
+  "reasons": {
+   "A": "Wrong: The loss of life or vigor.",
+   "B": "Wrong: Moral or physical decay.",
+   "C": "Wrong: The process of growing old.",
+   "D": "Correct: The act of giving new life or vigor."
+  }
+ },
+ {
+  "word": "revitalize",
+  "question": "The new management gave fresh energy to the struggling company. It set out to:",
+  "options": [
+   "revitalize",
+   "devitalize",
+   "evanesce",
+   "rusticate"
+  ],
+  "correct": "A",
+  "explanation": "revitalize: To give new life and vigor to.",
+  "reasons": {
+   "A": "Correct: To give new life and vigor to.",
+   "B": "Wrong: To drain life or energy from.",
+   "C": "Wrong: To vanish gradually from sight.",
+   "D": "Wrong: To go to live in the country."
+  }
+ },
+ {
+  "word": "vital",
+  "question": "The heart is essential to life and of crucial importance. It is:",
+  "options": [
+   "trivial",
+   "vital",
+   "decadent",
+   "senile"
+  ],
+  "correct": "B",
+  "explanation": "vital: Essential to life; very important.",
+  "reasons": {
+   "A": "Wrong: Unimportant; of little value.",
+   "B": "Correct: Essential to life; very important.",
+   "C": "Wrong: Falling into decay; corrupt.",
+   "D": "Wrong: Showing the physical or mental decline of very old age."
+  }
+ },
+ {
+  "word": "vitality",
+  "question": "The energy and strength of the young athlete were remarkable. This energy is her:",
+  "options": [
+   "senility",
+   "decadence",
+   "vitality",
+   "trivialities"
+  ],
+  "correct": "C",
+  "explanation": "vitality: Energy and strength for life.",
+  "reasons": {
+   "A": "Wrong: The decline of body or mind that comes with very old age.",
+   "B": "Wrong: Moral or physical decay.",
+   "C": "Correct: Energy and strength for life.",
+   "D": "Wrong: Unimportant matters or small things."
+  }
+ },
+ {
+  "word": "vitalize",
+  "question": "The fresh paint and new plants gave the room life and energy. They would:",
+  "options": [
+   "devitalize",
+   "evanesce",
+   "vacillate",
+   "vitalize"
+  ],
+  "correct": "D",
+  "explanation": "vitalize: To give life and energy to.",
+  "reasons": {
+   "A": "Wrong: To drain life or energy from.",
+   "B": "Wrong: To vanish gradually from sight.",
+   "C": "Wrong: To waver or keep changing your mind.",
+   "D": "Correct: To give life and energy to."
+  }
+ },
+ {
+  "word": "vitamin",
+  "question": "The nutrient needed in small amounts for health, found in fruit, is a:",
+  "options": [
+   "vitamin",
+   "tome",
+   "podium",
+   "omnibus"
+  ],
+  "correct": "A",
+  "explanation": "vitamin: A nutrient needed for life and health.",
+  "reasons": {
+   "A": "Correct: A nutrient needed for life and health.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Wrong: A speaker's platform.",
+   "D": "Wrong: A book or law covering many things; a bus for all."
+  }
+ }
+]

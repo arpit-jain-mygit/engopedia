@@ -1,0 +1,20 @@
+[
+ {
+  "word": "lascivious",
+  "question": "The director's film is criticised for lingering on its suggestive, wanton scenes. Such a film is:",
+  "options": [
+   "Lascivious",
+   "Demure",
+   "Austere",
+   "Frugal"
+  ],
+  "correct": "A",
+  "explanation": "Lascivia (wantonness) + -ous: full of wanton desire.",
+  "reasons": {
+   "A": "Correct: full of wanton, sexually suggestive desire.",
+   "B": "Wrong: modest and reserved.",
+   "C": "Wrong: severe and strictly plain.",
+   "D": "Wrong: thrifty and careful with money."
+  }
+ }
+]

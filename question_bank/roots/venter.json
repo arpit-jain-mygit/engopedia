@@ -1,0 +1,128 @@
+[
+ {
+  "word": "ventral",
+  "question": "The part of the fish facing the belly is its:",
+  "options": [
+   "dorsal",
+   "vocal",
+   "cardiac",
+   "ventral"
+  ],
+  "correct": "D",
+  "explanation": "ventral: Relating to the front or belly side.",
+  "reasons": {
+   "A": "Wrong: Relating to the back side.",
+   "B": "Wrong: Relating to the voice; spoken aloud.",
+   "C": "Wrong: Relating to the heart.",
+   "D": "Correct: Relating to the front or belly side."
+  }
+ },
+ {
+  "word": "ventricle",
+  "question": "A hollow chamber of the heart or brain that pumps blood is called a:",
+  "options": [
+   "ventricle",
+   "auricle",
+   "epidermis",
+   "ovary"
+  ],
+  "correct": "A",
+  "explanation": "ventricle: A hollow chamber of the heart or brain.",
+  "reasons": {
+   "A": "Correct: A hollow chamber of the heart or brain.",
+   "B": "Wrong: An upper chamber of the heart.",
+   "C": "Wrong: The outer layer of skin.",
+   "D": "Wrong: The organ that produces eggs."
+  }
+ },
+ {
+  "word": "ventricular",
+  "question": "Relating to the heart's pumping chambers, the disorder was:",
+  "options": [
+   "auricular",
+   "ventricular",
+   "cardiac",
+   "dorsal"
+  ],
+  "correct": "B",
+  "explanation": "ventricular: Relating to a ventricle.",
+  "reasons": {
+   "A": "Wrong: Relating to the ear or an auricle.",
+   "B": "Correct: Relating to a ventricle.",
+   "C": "Wrong: Relating to the heart.",
+   "D": "Wrong: Relating to the back side."
+  }
+ },
+ {
+  "word": "ventriloquism",
+  "question": "The comedian's act relied on the skill of throwing his voice into a dummy. This skill is:",
+  "options": [
+   "calligraphy",
+   "chirography",
+   "ventriloquism",
+   "graphology"
+  ],
+  "correct": "C",
+  "explanation": "ventriloquism: The art of speaking without moving the lips so the voice seems to come from elsewhere.",
+  "reasons": {
+   "A": "Wrong: Beautiful handwriting, practiced as an art.",
+   "B": "Wrong: Handwriting or penmanship.",
+   "C": "Correct: The art of speaking without moving the lips so the voice seems to come from elsewhere.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "ventriloquist",
+  "question": "The performer who throws his voice to make a dummy talk is a:",
+  "options": [
+   "soliloquist",
+   "somnambulist",
+   "tyro",
+   "ventriloquist"
+  ],
+  "correct": "D",
+  "explanation": "ventriloquist: A performer who throws the voice.",
+  "reasons": {
+   "A": "Wrong: A person who speaks alone.",
+   "B": "Wrong: A sleepwalker.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Correct: A performer who throws the voice."
+  }
+ },
+ {
+  "word": "ventriloquistic",
+  "question": "The comic act that relied on voice-throwing used a technique that was:",
+  "options": [
+   "ventriloquistic",
+   "colloquial",
+   "laconic",
+   "eloquent"
+  ],
+  "correct": "A",
+  "explanation": "ventriloquistic: Relating to the art of ventriloquism.",
+  "reasons": {
+   "A": "Correct: Relating to the art of ventriloquism.",
+   "B": "Wrong: Suitable for informal speech.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Fluent, forceful, and persuasive in speech."
+  }
+ },
+ {
+  "word": "ventriloquize",
+  "question": "The performer threw his voice so the puppet appeared to speak. He would ventriloquize, meaning to:",
+  "options": [
+   "soliloquize",
+   "ventriloquize",
+   "vociferate",
+   "dissemble"
+  ],
+  "correct": "B",
+  "explanation": "ventriloquize: To throw the voice.",
+  "reasons": {
+   "A": "Wrong: To talk to oneself.",
+   "B": "Correct: To throw the voice.",
+   "C": "Wrong: To shout loudly.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ }
+]

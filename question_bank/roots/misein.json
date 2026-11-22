@@ -1,0 +1,200 @@
+[
+ {
+  "word": "misanthrope",
+  "question": "The man who disliked people so much he avoided everyone was a:",
+  "options": [
+   "philanthropist",
+   "misanthrope",
+   "altruist",
+   "benefactor"
+  ],
+  "correct": "B",
+  "explanation": "misanthrope: One who hates the human race.",
+  "reasons": {
+   "A": "Wrong: A person who gives money and time to help others.",
+   "B": "Correct: One who hates the human race.",
+   "C": "Wrong: One who is interested in the welfare of others more than his own.",
+   "D": "Wrong: A person who gives money or help to others."
+  }
+ },
+ {
+  "word": "misanthropic",
+  "question": "The gloomy old man's hatred of mankind made him bitter. His attitude was:",
+  "options": [
+   "philanthropic",
+   "altruistic",
+   "misanthropic",
+   "benevolent"
+  ],
+  "correct": "C",
+  "explanation": "misanthropic: Hating mankind.",
+  "reasons": {
+   "A": "Wrong: Generous in helping people.",
+   "B": "Wrong: Showing concern for others; unselfish.",
+   "C": "Correct: Hating mankind.",
+   "D": "Wrong: Kind, well disposed, and wishing good for others."
+  }
+ },
+ {
+  "word": "misanthropist",
+  "question": "The writer openly hated humanity and was called a:",
+  "options": [
+   "philanthropist",
+   "benefactor",
+   "altruist",
+   "misanthropist"
+  ],
+  "correct": "D",
+  "explanation": "misanthropist: A person who hates mankind.",
+  "reasons": {
+   "A": "Wrong: A person who gives money and time to help others.",
+   "B": "Wrong: A person who gives money or help to others.",
+   "C": "Wrong: One who is interested in the welfare of others more than his own.",
+   "D": "Correct: A person who hates mankind."
+  }
+ },
+ {
+  "word": "misanthropy",
+  "question": "Her deep hatred of human beings was called:",
+  "options": [
+   "misanthropy",
+   "philanthropy",
+   "benevolence",
+   "altruism"
+  ],
+  "correct": "A",
+  "explanation": "misanthropy: Hatred of the human race.",
+  "reasons": {
+   "A": "Correct: Hatred of the human race.",
+   "B": "Wrong: Love of mankind shown through giving.",
+   "C": "Wrong: A wish to do good for others.",
+   "D": "Wrong: Concern for the welfare of others; selfless giving."
+  }
+ },
+ {
+  "word": "misogamist",
+  "question": "The man who strongly opposed marriage and refused to wed was a:",
+  "options": [
+   "bigamist",
+   "misogamist",
+   "monogamist",
+   "philanderer"
+  ],
+  "correct": "B",
+  "explanation": "misogamist: One who hates marriage.",
+  "reasons": {
+   "A": "Wrong: A person who marries while already married.",
+   "B": "Correct: One who hates marriage.",
+   "C": "Wrong: A person married to only one spouse.",
+   "D": "Wrong: A person who flirts or has casual love affairs."
+  }
+ },
+ {
+  "word": "misogamous",
+  "question": "The writer's view was that marriage was wrong and should be opposed. His view was:",
+  "options": [
+   "bigamous",
+   "monogamous",
+   "misogamous",
+   "polygamous"
+  ],
+  "correct": "C",
+  "explanation": "misogamous: Opposed to marriage.",
+  "reasons": {
+   "A": "Wrong: Having two spouses at the same time.",
+   "B": "Wrong: Married to only one person.",
+   "C": "Correct: Opposed to marriage.",
+   "D": "Wrong: Having many spouses at the same time."
+  }
+ },
+ {
+  "word": "misogamy",
+  "question": "His hatred of marriage made him reject every proposal. This hatred is called:",
+  "options": [
+   "bigamy",
+   "monogamy",
+   "polygamy",
+   "misogamy"
+  ],
+  "correct": "D",
+  "explanation": "misogamy: Hatred of marriage.",
+  "reasons": {
+   "A": "Wrong: The crime of having two spouses at once.",
+   "B": "Wrong: Marriage to only one spouse at a time.",
+   "C": "Wrong: Marriage with many spouses at once.",
+   "D": "Correct: Hatred of marriage."
+  }
+ },
+ {
+  "word": "misogynist",
+  "question": "The critic spoke openly with hatred of women. He was a:",
+  "options": [
+   "misogynist",
+   "philanderer",
+   "misanthrope",
+   "bigamist"
+  ],
+  "correct": "A",
+  "explanation": "misogynist: One who hates women.",
+  "reasons": {
+   "A": "Correct: One who hates women.",
+   "B": "Wrong: A person who flirts or has casual love affairs.",
+   "C": "Wrong: One who hates the human race.",
+   "D": "Wrong: A person who marries while already married."
+  }
+ },
+ {
+  "word": "misogynistic",
+  "question": "His remarks reflected a deep hatred of women. They were:",
+  "options": [
+   "misanthropic",
+   "misogynistic",
+   "misogamous",
+   "monogamous"
+  ],
+  "correct": "B",
+  "explanation": "misogynistic: Showing hatred of women.",
+  "reasons": {
+   "A": "Wrong: Hating mankind.",
+   "B": "Correct: Showing hatred of women.",
+   "C": "Wrong: Opposed to marriage.",
+   "D": "Wrong: Married to only one person."
+  }
+ },
+ {
+  "word": "misogynous",
+  "question": "The author was hostile and full of hatred toward women. He was:",
+  "options": [
+   "misogamous",
+   "misanthropic",
+   "misogynous",
+   "monotheistic"
+  ],
+  "correct": "C",
+  "explanation": "misogynous: Hating women.",
+  "reasons": {
+   "A": "Wrong: Opposed to marriage.",
+   "B": "Wrong: Hating mankind.",
+   "C": "Correct: Hating women.",
+   "D": "Wrong: Believing in one God."
+  }
+ },
+ {
+  "word": "misogyny",
+  "question": "Hatred of women, a deep-rooted prejudice, is called:",
+  "options": [
+   "misogamy",
+   "misanthropy",
+   "monogamy",
+   "misogyny"
+  ],
+  "correct": "D",
+  "explanation": "misogyny: Hatred of women.",
+  "reasons": {
+   "A": "Wrong: Hatred of marriage.",
+   "B": "Wrong: Hatred of the human race.",
+   "C": "Wrong: Marriage to only one spouse at a time.",
+   "D": "Correct: Hatred of women."
+  }
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "word": "philanthropic",
+  "question": "The donor gave large sums to help poor families in the city. His gifts were:",
+  "options": [
+   "misanthropic",
+   "malevolent",
+   "philanthropic",
+   "parsimonious"
+  ],
+  "correct": "C",
+  "explanation": "philanthropic: Generous in helping people.",
+  "reasons": {
+   "A": "Wrong: Hating mankind.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Correct: Generous in helping people.",
+   "D": "Wrong: Very sparing with money; stingy."
+  }
+ },
+ {
+  "word": "philanthropist",
+  "question": "The rich benefactor set up a fund to help children and gave generously of his time. He was a:",
+  "options": [
+   "misanthrope",
+   "miser",
+   "martinet",
+   "philanthropist"
+  ],
+  "correct": "D",
+  "explanation": "philanthropist: A person who gives money and time to help others.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: A person who hoards money and spends very little.",
+   "C": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "D": "Correct: A person who gives money and time to help others."
+  }
+ },
+ {
+  "word": "philanthropy",
+  "question": "Their family's generous giving to good causes was called:",
+  "options": [
+   "philanthropy",
+   "misanthropy",
+   "parsimony",
+   "penury"
+  ],
+  "correct": "A",
+  "explanation": "philanthropy: Love of mankind shown through giving.",
+  "reasons": {
+   "A": "Correct: Love of mankind shown through giving.",
+   "B": "Wrong: Hatred of the human race.",
+   "C": "Wrong: Extreme care in spending; stinginess.",
+   "D": "Wrong: Extreme poverty; lack of necessities."
+  }
+ }
+]

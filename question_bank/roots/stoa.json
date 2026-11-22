@@ -1,0 +1,38 @@
+[
+ {
+  "word": "stoical",
+  "question": "He accepted the loss of his home and savings without a single complaint, bearing the hardship with calm endurance. He was:",
+  "options": [
+   "Querulous",
+   "Garrulous",
+   "Stoical",
+   "Ebullient"
+  ],
+  "correct": "C",
+  "explanation": "Stoa (porch, school of Zeno) + -ical: a calm, enduring attitude.",
+  "reasons": {
+   "A": "Wrong: complaining and whining.",
+   "B": "Wrong: talking too much.",
+   "C": "Correct: bearing pain or hardship without showing feeling.",
+   "D": "Wrong: overflowing with cheerful excitement."
+  }
+ },
+ {
+  "word": "stoicism",
+  "question": "His steady, uncomplaining endurance of every hardship, showing no emotion, is an example of:",
+  "options": [
+   "Hedonism",
+   "Asceticism",
+   "Exuberance",
+   "Stoicism"
+  ],
+  "correct": "D",
+  "explanation": "Stoicism: the calm, unemotional endurance of hardship.",
+  "reasons": {
+   "A": "Wrong: the pursuit of pleasure as the main aim.",
+   "B": "Wrong: strict self-denial of comforts.",
+   "C": "Wrong: cheerful, lively energy.",
+   "D": "Correct: calm endurance of hardship without complaint."
+  }
+ }
+]

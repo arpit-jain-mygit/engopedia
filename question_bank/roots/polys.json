@@ -1,0 +1,218 @@
+[
+ {
+  "word": "polyandrist",
+  "question": "The woman in the tale had many husbands in her life. She was a:",
+  "options": [
+   "polygynist",
+   "monogamist",
+   "polyandrist",
+   "bigamist"
+  ],
+  "correct": "C",
+  "explanation": "polyandrist: A woman with more than one husband.",
+  "reasons": {
+   "A": "Wrong: A man with more than one wife.",
+   "B": "Wrong: A person married to only one spouse.",
+   "C": "Correct: A woman with more than one husband.",
+   "D": "Wrong: A person who marries while already married."
+  }
+ },
+ {
+  "word": "polyandrous",
+  "question": "The custom in the village let a woman have several husbands. The custom was:",
+  "options": [
+   "monogamous",
+   "polygynous",
+   "bigamous",
+   "polyandrous"
+  ],
+  "correct": "D",
+  "explanation": "polyandrous: Relating to a woman with several husbands.",
+  "reasons": {
+   "A": "Wrong: Married to only one person.",
+   "B": "Wrong: Relating to a man with several wives.",
+   "C": "Wrong: Having two spouses at the same time.",
+   "D": "Correct: Relating to a woman with several husbands."
+  }
+ },
+ {
+  "word": "polyandry",
+  "question": "The practice of a woman having several husbands is called:",
+  "options": [
+   "polyandry",
+   "polygyny",
+   "monogamy",
+   "bigamy"
+  ],
+  "correct": "A",
+  "explanation": "polyandry: The practice of a woman having several husbands.",
+  "reasons": {
+   "A": "Correct: The practice of a woman having several husbands.",
+   "B": "Wrong: The practice of a man having several wives.",
+   "C": "Wrong: Marriage to only one spouse at a time.",
+   "D": "Wrong: The crime of having two spouses at once."
+  }
+ },
+ {
+  "word": "polygamist",
+  "question": "The man with more than one spouse, a practice in some cultures, is a:",
+  "options": [
+   "monogamist",
+   "polygamist",
+   "bigamist",
+   "misogamist"
+  ],
+  "correct": "B",
+  "explanation": "polygamist: A person with more than one spouse.",
+  "reasons": {
+   "A": "Wrong: A person married to only one spouse.",
+   "B": "Correct: A person with more than one spouse.",
+   "C": "Wrong: A person who marries while already married.",
+   "D": "Wrong: One who hates marriage."
+  }
+ },
+ {
+  "word": "polygamous",
+  "question": "The tribe allowed people to have more than one spouse at once. Their custom was:",
+  "options": [
+   "monogamous",
+   "bigamous",
+   "polygamous",
+   "misogamous"
+  ],
+  "correct": "C",
+  "explanation": "polygamous: Having many spouses at the same time.",
+  "reasons": {
+   "A": "Wrong: Married to only one person.",
+   "B": "Wrong: Having two spouses at the same time.",
+   "C": "Correct: Having many spouses at the same time.",
+   "D": "Wrong: Opposed to marriage."
+  }
+ },
+ {
+  "word": "polygamy",
+  "question": "Marriage with many spouses at once is called:",
+  "options": [
+   "monogamy",
+   "bigamy",
+   "misogamy",
+   "polygamy"
+  ],
+  "correct": "D",
+  "explanation": "polygamy: Marriage with many spouses at once.",
+  "reasons": {
+   "A": "Wrong: Marriage to only one spouse at a time.",
+   "B": "Wrong: The crime of having two spouses at once.",
+   "C": "Wrong: Hatred of marriage.",
+   "D": "Correct: Marriage with many spouses at once."
+  }
+ },
+ {
+  "word": "polygynist",
+  "question": "The chief had several wives in his household. He was a:",
+  "options": [
+   "polygynist",
+   "polyandrist",
+   "monogamist",
+   "bigamist"
+  ],
+  "correct": "A",
+  "explanation": "polygynist: A man with more than one wife.",
+  "reasons": {
+   "A": "Correct: A man with more than one wife.",
+   "B": "Wrong: A woman with more than one husband.",
+   "C": "Wrong: A person married to only one spouse.",
+   "D": "Wrong: A person who marries while already married."
+  }
+ },
+ {
+  "word": "polygynous",
+  "question": "The tribe permitted a man to have several wives. The custom was:",
+  "options": [
+   "polyandrous",
+   "polygynous",
+   "monogamous",
+   "bigamous"
+  ],
+  "correct": "B",
+  "explanation": "polygynous: Relating to a man with several wives.",
+  "reasons": {
+   "A": "Wrong: Relating to a woman with several husbands.",
+   "B": "Correct: Relating to a man with several wives.",
+   "C": "Wrong: Married to only one person.",
+   "D": "Wrong: Having two spouses at the same time."
+  }
+ },
+ {
+  "word": "polygyny",
+  "question": "The practice of a man having several wives is called:",
+  "options": [
+   "polyandry",
+   "monogamy",
+   "polygyny",
+   "bigamy"
+  ],
+  "correct": "C",
+  "explanation": "polygyny: The practice of a man having several wives.",
+  "reasons": {
+   "A": "Wrong: The practice of a woman having several husbands.",
+   "B": "Wrong: Marriage to only one spouse at a time.",
+   "C": "Correct: The practice of a man having several wives.",
+   "D": "Wrong: The crime of having two spouses at once."
+  }
+ },
+ {
+  "word": "polytheism",
+  "question": "The belief in many gods is called:",
+  "options": [
+   "monotheism",
+   "pantheism",
+   "atheism",
+   "polytheism"
+  ],
+  "correct": "D",
+  "explanation": "polytheism: Belief in many gods.",
+  "reasons": {
+   "A": "Wrong: The belief in one God.",
+   "B": "Wrong: The belief that God is in all of nature.",
+   "C": "Wrong: The belief that there is no God.",
+   "D": "Correct: Belief in many gods."
+  }
+ },
+ {
+  "word": "polytheist",
+  "question": "A person who believes in many gods is a:",
+  "options": [
+   "polytheist",
+   "monotheist",
+   "pantheist",
+   "atheist"
+  ],
+  "correct": "A",
+  "explanation": "polytheist: A person who believes in many gods.",
+  "reasons": {
+   "A": "Correct: A person who believes in many gods.",
+   "B": "Wrong: A person who believes in one God.",
+   "C": "Wrong: A person who believes God is in nature.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "polytheistic",
+  "question": "The ancient religion worshipped many gods. Its belief was:",
+  "options": [
+   "monotheistic",
+   "polytheistic",
+   "pantheistic",
+   "atheistic"
+  ],
+  "correct": "B",
+  "explanation": "polytheistic: Believing in many gods.",
+  "reasons": {
+   "A": "Wrong: Believing in one God.",
+   "B": "Correct: Believing in many gods.",
+   "C": "Wrong: Believing God is in nature.",
+   "D": "Wrong: Relating to the belief that there is no God."
+  }
+ }
+]

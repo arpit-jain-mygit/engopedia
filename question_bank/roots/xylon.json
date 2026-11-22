@@ -1,0 +1,20 @@
+[
+ {
+  "word": "xylophone",
+  "question": "A child strikes a row of wooden bars with a mallet, producing bright notes. The instrument is a:",
+  "options": [
+   "Xylophone",
+   "Glockenspiel",
+   "Accordion",
+   "Harmonica"
+  ],
+  "correct": "A",
+  "explanation": "Xylon (wood) + phone (sound): wooden sound.",
+  "reasons": {
+   "A": "Correct: a musical instrument of wooden bars that sound when struck.",
+   "B": "Wrong: a percussion instrument with metal bars, not wood.",
+   "C": "Wrong: a bellows-driven instrument with keys, not struck wooden bars.",
+   "D": "Wrong: a small reed instrument played by the mouth."
+  }
+ }
+]

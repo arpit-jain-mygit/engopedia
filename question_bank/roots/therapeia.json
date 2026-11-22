@@ -1,0 +1,56 @@
+[
+ {
+  "word": "psychotherapeutic",
+  "question": "The therapy session used counselling methods to ease the patient's emotional suffering. The methods were:",
+  "options": [
+   "neurological",
+   "psychotherapeutic",
+   "dermatological",
+   "cardiological"
+  ],
+  "correct": "B",
+  "explanation": "psychotherapeutic: Relating to psychotherapy.",
+  "reasons": {
+   "A": "Wrong: Relating to the nervous system.",
+   "B": "Correct: Relating to psychotherapy.",
+   "C": "Wrong: Relating to skin medicine.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "psychotherapist",
+  "question": "The professional who helps people heal emotional problems through talk is a:",
+  "options": [
+   "neurologist",
+   "theologian",
+   "psychotherapist",
+   "podiatrist"
+  ],
+  "correct": "C",
+  "explanation": "psychotherapist: A person who practices psychotherapy.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats the nervous system.",
+   "B": "Wrong: A student or expert of God and religion.",
+   "C": "Correct: A person who practices psychotherapy.",
+   "D": "Wrong: A practitioner who treats minor foot ailments."
+  }
+ },
+ {
+  "word": "psychotherapy",
+  "question": "Treatment of emotional problems through regular conversation is called:",
+  "options": [
+   "acupuncture",
+   "telepathy",
+   "psychosis",
+   "psychotherapy"
+  ],
+  "correct": "D",
+  "explanation": "psychotherapy: Treatment of mental or emotional problems by talking and counseling.",
+  "reasons": {
+   "A": "Wrong: Treatment using thin needles inserted into the body.",
+   "B": "Wrong: Communication of thoughts from a distance without the senses.",
+   "C": "Wrong: A serious mental disorder that loses contact with reality.",
+   "D": "Correct: Treatment of mental or emotional problems by talking and counseling."
+  }
+ }
+]

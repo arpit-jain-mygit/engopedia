@@ -1,0 +1,20 @@
+[
+ {
+  "word": "maieusiophobia",
+  "question": "A woman dreads giving birth and cannot think about the delivery room without panic, though she is calm about everything else. Her fear is of:",
+  "options": [
+   "Genophobia",
+   "Metrophobia",
+   "Maieusiophobia",
+   "Pedophobia"
+  ],
+  "correct": "C",
+  "explanation": "Maieusis (midwifery, childbirth) + phobia = fear of childbirth.",
+  "reasons": {
+   "A": "Wrong: fear of birth in the broad sense, not of the delivery room.",
+   "B": "Wrong: fear of motherhood as a role.",
+   "C": "Correct: maieusis means childbirth, so the fear is of childbirth.",
+   "D": "Wrong: fear of children."
+  }
+ }
+]

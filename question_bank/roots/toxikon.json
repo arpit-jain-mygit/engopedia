@@ -1,0 +1,20 @@
+[
+ {
+  "word": "toxicophobia",
+  "question": "A gardener will not use any spray or weedkiller and wears a mask whenever he goes near the garden shed, fearing being poisoned. He has a fear of:",
+  "options": [
+   "Pharmacophobia",
+   "Toxicophobia",
+   "Pathophobia",
+   "Mysophobia"
+  ],
+  "correct": "B",
+  "explanation": "Toxikon (poison) + phobia = fear of poison.",
+  "reasons": {
+   "A": "Wrong: fear of medicine.",
+   "B": "Correct: toxikon means poison, so the fear is of poison.",
+   "C": "Wrong: fear of disease.",
+   "D": "Wrong: fear of filth."
+  }
+ }
+]

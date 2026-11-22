@@ -1,0 +1,20 @@
+[
+ {
+  "word": "mysophobia",
+  "question": "A woman washes her hands dozens of times a day and will not touch a door handle without gloves, convinced that grime is everywhere. She fears:",
+  "options": [
+   "Coprophobia",
+   "Mysophobia",
+   "Pathophobia",
+   "Hematophobia"
+  ],
+  "correct": "B",
+  "explanation": "Mysos (filth) + phobia = fear of filth.",
+  "reasons": {
+   "A": "Wrong: fear of faeces.",
+   "B": "Correct: mysos means filth, so the fear is of filth or dirt.",
+   "C": "Wrong: fear of disease in general.",
+   "D": "Wrong: fear of blood."
+  }
+ }
+]

@@ -1,0 +1,236 @@
+[
+ {
+  "word": "orthopedic",
+  "question": "The surgeon set the broken bones and joints in the arm. The surgery was:",
+  "options": [
+   "orthopedic",
+   "pediatric",
+   "podiatric",
+   "cardiac"
+  ],
+  "correct": "A",
+  "explanation": "orthopedic: Relating to the treatment of bones and joints.",
+  "reasons": {
+   "A": "Correct: Relating to the treatment of bones and joints.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to foot care.",
+   "D": "Wrong: Relating to the heart."
+  }
+ },
+ {
+  "word": "orthopedics",
+  "question": "The specialty that deals with bones, joints, and muscles is called:",
+  "options": [
+   "pediatrics",
+   "orthopedics",
+   "podiatry",
+   "geriatrics"
+  ],
+  "correct": "B",
+  "explanation": "orthopedics: The specialty dealing with bones, joints, and deformities.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Correct: The specialty dealing with bones, joints, and deformities.",
+   "C": "Wrong: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical care of the elderly."
+  }
+ },
+ {
+  "word": "orthopedist",
+  "question": "The doctor who treats bones and joints and fixes fractures is an:",
+  "options": [
+   "pediatrician",
+   "podiatrist",
+   "orthopedist",
+   "geriatrician"
+  ],
+  "correct": "C",
+  "explanation": "orthopedist: A doctor who treats bones and joints.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Correct: A doctor who treats bones and joints.",
+   "D": "Wrong: A doctor who specializes in the elderly."
+  }
+ },
+ {
+  "word": "pedagogical",
+  "question": "The method was built on the principles of good teaching and learning. Its method was:",
+  "options": [
+   "theological",
+   "philological",
+   "anthropological",
+   "pedagogical"
+  ],
+  "correct": "D",
+  "explanation": "pedagogical: Relating to teaching.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of God and religion.",
+   "B": "Wrong: Relating to the study of language.",
+   "C": "Wrong: Relating to the study of human development.",
+   "D": "Correct: Relating to teaching."
+  }
+ },
+ {
+  "word": "pedagogue",
+  "question": "The teacher insisted on rigid, old-fashioned methods and lectured without any play. He was a:",
+  "options": [
+   "pedagogue",
+   "martinet",
+   "tyro",
+   "iconoclast"
+  ],
+  "correct": "A",
+  "explanation": "pedagogue: A teacher, often narrow-minded and old-fashioned.",
+  "reasons": {
+   "A": "Correct: A teacher, often narrow-minded and old-fashioned.",
+   "B": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Wrong: A person who attacks established beliefs and traditions."
+  }
+ },
+ {
+  "word": "pedagogy",
+  "question": "The principles and methods of teaching are called:",
+  "options": [
+   "theology",
+   "pedagogy",
+   "philology",
+   "anthropology"
+  ],
+  "correct": "B",
+  "explanation": "pedagogy: The principles and methods of teaching.",
+  "reasons": {
+   "A": "Wrong: The study of God and religion.",
+   "B": "Correct: The principles and methods of teaching.",
+   "C": "Wrong: The study of language and its history.",
+   "D": "Wrong: The study of human development and culture."
+  }
+ },
+ {
+  "word": "pediatric",
+  "question": "The hospital's children's medicine unit treated sick kids. Its care was:",
+  "options": [
+   "geriatric",
+   "podiatric",
+   "pediatric",
+   "psychiatric"
+  ],
+  "correct": "C",
+  "explanation": "pediatric: Relating to children's medicine.",
+  "reasons": {
+   "A": "Wrong: Relating to the medical care of the elderly.",
+   "B": "Wrong: Relating to foot care.",
+   "C": "Correct: Relating to children's medicine.",
+   "D": "Wrong: Relating to the treatment of mental disorders."
+  }
+ },
+ {
+  "word": "pediatrician",
+  "question": "The doctor who treats children and their illnesses is a:",
+  "options": [
+   "geriatrician",
+   "podiatrist",
+   "psychiatrist",
+   "pediatrician"
+  ],
+  "correct": "D",
+  "explanation": "pediatrician: A doctor who treats children.",
+  "reasons": {
+   "A": "Wrong: A doctor who specializes in the elderly.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Wrong: A doctor who treats mental and emotional disorders.",
+   "D": "Correct: A doctor who treats children."
+  }
+ },
+ {
+  "word": "pediatrics",
+  "question": "The medical care of children is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "podiatry",
+   "psychiatry"
+  ],
+  "correct": "A",
+  "explanation": "pediatrics: The medical care of children.",
+  "reasons": {
+   "A": "Correct: The medical care of children.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Wrong: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "pedodontia",
+  "question": "The dentistry for young children's teeth and gums is called:",
+  "options": [
+   "orthodontia",
+   "pedodontia",
+   "endodontia",
+   "periodontia"
+  ],
+  "correct": "B",
+  "explanation": "pedodontia: The specialty of children's dentistry.",
+  "reasons": {
+   "A": "Wrong: The straightening of teeth.",
+   "B": "Correct: The specialty of children's dentistry.",
+   "C": "Wrong: The specialty of treating the pulp and root canals.",
+   "D": "Wrong: The specialty of treating the gums."
+  }
+ },
+ {
+  "word": "pedodontic",
+  "question": "The dental care for children's teeth was:",
+  "options": [
+   "orthodontic",
+   "endodontic",
+   "pedodontic",
+   "periodontic"
+  ],
+  "correct": "C",
+  "explanation": "pedodontic: Relating to children's dentistry.",
+  "reasons": {
+   "A": "Wrong: Relating to the straightening of teeth.",
+   "B": "Wrong: Relating to root-canal treatment.",
+   "C": "Correct: Relating to children's dentistry.",
+   "D": "Wrong: Relating to the treatment of the gums."
+  }
+ },
+ {
+  "word": "pedodontist",
+  "question": "The dentist who specializes in children's teeth is a:",
+  "options": [
+   "orthodontist",
+   "endodontist",
+   "periodontist",
+   "pedodontist"
+  ],
+  "correct": "D",
+  "explanation": "pedodontist: A dentist who specializes in children's teeth.",
+  "reasons": {
+   "A": "Wrong: A specialist who straightens teeth.",
+   "B": "Wrong: A dentist who treats the pulp of the tooth.",
+   "C": "Wrong: A specialist in the gums around the teeth.",
+   "D": "Correct: A dentist who specializes in children's teeth."
+  }
+ },
+ {
+  "word": "pedophobia",
+  "question": "Her intense fear of children made her avoid every school and playground. Her fear is called:",
+  "options": [
+   "pedophobia",
+   "gynephobia",
+   "homophobia",
+   "cynophobia"
+  ],
+  "correct": "A",
+  "explanation": "pedophobia: Fear of children.",
+  "reasons": {
+   "A": "Correct: Fear of children.",
+   "B": "Wrong: Fear of women.",
+   "C": "Wrong: Fear of sameness.",
+   "D": "Wrong: Fear of dogs."
+  }
+ }
+]

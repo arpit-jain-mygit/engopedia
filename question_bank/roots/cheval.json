@@ -1,0 +1,110 @@
+[
+ {
+  "word": "cavalcade",
+  "question": "A long procession of riders on horseback moved through the town. The parade was a:",
+  "options": [
+   "cavalcade",
+   "carnival",
+   "congregation",
+   "segregation"
+  ],
+  "correct": "A",
+  "explanation": "cavalcade: A procession of people on horseback.",
+  "reasons": {
+   "A": "Correct: A procession of people on horseback.",
+   "B": "Wrong: A festive outdoor event with rides and games.",
+   "C": "Wrong: A group of people gathered for worship.",
+   "D": "Wrong: The act of separating one group from another."
+  }
+ },
+ {
+  "word": "cavalier",
+  "question": "The officer rode in with a haughty, careless manner toward the people. His manner was:",
+  "options": [
+   "benevolent",
+   "cavalier",
+   "placid",
+   "pusillanimous"
+  ],
+  "correct": "B",
+  "explanation": "cavalier: Haughty and careless of others' feelings; a mounted soldier.",
+  "reasons": {
+   "A": "Wrong: Kind, well disposed, and wishing good for others.",
+   "B": "Correct: Haughty and careless of others' feelings; a mounted soldier.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Timid and cowardly; lacking courage."
+  }
+ },
+ {
+  "word": "cavalry",
+  "question": "The mounted soldiers charged across the field at full gallop. They were the:",
+  "options": [
+   "regalia",
+   "carnival",
+   "cavalry",
+   "podium"
+  ],
+  "correct": "C",
+  "explanation": "cavalry: The mounted part of an army.",
+  "reasons": {
+   "A": "Wrong: Badges and insignia of rank or office.",
+   "B": "Wrong: A festive outdoor event with rides and games.",
+   "C": "Correct: The mounted part of an army.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "chivalric",
+  "question": "The knights followed a code of honour and courtesy toward ladies. The code was:",
+  "options": [
+   "dictatorial",
+   "egregious",
+   "sycophantic",
+   "chivalric"
+  ],
+  "correct": "D",
+  "explanation": "chivalric: Relating to chivalry.",
+  "reasons": {
+   "A": "Wrong: Giving orders in a bossy, forceful manner.",
+   "B": "Wrong: Outstandingly bad or vicious.",
+   "C": "Wrong: Fawning; flattering to gain favor.",
+   "D": "Correct: Relating to chivalry."
+  }
+ },
+ {
+  "word": "chivalrous",
+  "question": "He opened the door for her and offered his seat, courteous and gallant. He was:",
+  "options": [
+   "chivalrous",
+   "cavalier",
+   "sycophantic",
+   "egregious"
+  ],
+  "correct": "A",
+  "explanation": "chivalrous: Courteous and gallant, especially toward women.",
+  "reasons": {
+   "A": "Correct: Courteous and gallant, especially toward women.",
+   "B": "Wrong: Haughty and careless of others' feelings; a mounted soldier.",
+   "C": "Wrong: Fawning; flattering to gain favor.",
+   "D": "Wrong: Outstandingly bad or vicious."
+  }
+ },
+ {
+  "word": "chivalry",
+  "question": "The old code of courtesy and honour toward women was called:",
+  "options": [
+   "asceticism",
+   "chivalry",
+   "sycophancy",
+   "chauvinism"
+  ],
+  "correct": "B",
+  "explanation": "chivalry: Courteous and honorable behavior, especially toward women.",
+  "reasons": {
+   "A": "Wrong: A life of strict self-denial and simplicity.",
+   "B": "Correct: Courteous and honorable behavior, especially toward women.",
+   "C": "Wrong: Fawning behavior toward the powerful.",
+   "D": "Wrong: Excessive, blind devotion to one's group or country."
+  }
+ }
+]

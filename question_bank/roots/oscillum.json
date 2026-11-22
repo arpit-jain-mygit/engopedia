@@ -1,0 +1,38 @@
+[
+ {
+  "word": "oscillate",
+  "question": "The metronome's arm kept swinging to and fro, never settling on one side. The arm was seen to:",
+  "options": [
+   "Castigate",
+   "Imbibe",
+   "Oscillate",
+   "Equivocate"
+  ],
+  "correct": "C",
+  "explanation": "Oscillum (swing) + -ate: to swing back and forth.",
+  "reasons": {
+   "A": "Wrong: to scold harshly.",
+   "B": "Wrong: to take in or absorb.",
+   "C": "Correct: to swing back and forth.",
+   "D": "Wrong: to speak in vague terms."
+  }
+ },
+ {
+  "word": "oscillation",
+  "question": "The steady back-and-forth swing of the pendulum, repeated again and again, is called its:",
+  "options": [
+   "Castigation",
+   "Inebriation",
+   "Condonation",
+   "Oscillation"
+  ],
+  "correct": "D",
+  "explanation": "Oscillation: the act of swinging back and forth.",
+  "reasons": {
+   "A": "Wrong: severe criticism or scolding.",
+   "B": "Wrong: drunkenness.",
+   "C": "Wrong: the overlooking of wrongdoing.",
+   "D": "Correct: a regular swinging back and forth."
+  }
+ }
+]

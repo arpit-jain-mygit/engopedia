@@ -1,0 +1,110 @@
+[
+ {
+  "word": "astronomer",
+  "question": "The scientist observed the stars and planets through a telescope every night. She was an:",
+  "options": [
+   "geometrician",
+   "chronologist",
+   "entomologist",
+   "astronomer"
+  ],
+  "correct": "D",
+  "explanation": "astronomer: A scientist who studies the heavens and celestial bodies.",
+  "reasons": {
+   "A": "Wrong: An expert in geometry.",
+   "B": "Wrong: A person who arranges events in time order.",
+   "C": "Wrong: A scientist who studies insects.",
+   "D": "Correct: A scientist who studies the heavens and celestial bodies."
+  }
+ },
+ {
+  "word": "astronomical",
+  "question": "The price of the house was enormously large, almost beyond imagining. The price was:",
+  "options": [
+   "astronomical",
+   "astrological",
+   "nautical",
+   "cardiological"
+  ],
+  "correct": "A",
+  "explanation": "astronomical: Relating to astronomy; very large in size or number.",
+  "reasons": {
+   "A": "Correct: Relating to astronomy; very large in size or number.",
+   "B": "Wrong: Relating to astrology.",
+   "C": "Wrong: Relating to ships, sailing, or navigation.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "astronomy",
+  "question": "The science of the stars and other heavenly bodies is called:",
+  "options": [
+   "astrology",
+   "astronomy",
+   "theology",
+   "zoology"
+  ],
+  "correct": "B",
+  "explanation": "astronomy: The science of the stars and other heavenly bodies.",
+  "reasons": {
+   "A": "Wrong: The belief that the stars and planets affect human events.",
+   "B": "Correct: The science of the stars and other heavenly bodies.",
+   "C": "Wrong: The study of God and religion.",
+   "D": "Wrong: The science of animal life."
+  }
+ },
+ {
+  "word": "autonomous",
+  "question": "The region governed itself and made its own decisions, independent of the central state. It was:",
+  "options": [
+   "dictatorial",
+   "egregious",
+   "autonomous",
+   "sycophantic"
+  ],
+  "correct": "C",
+  "explanation": "autonomous: Self-governing; independent.",
+  "reasons": {
+   "A": "Wrong: Giving orders in a bossy, forceful manner.",
+   "B": "Wrong: Outstandingly bad or vicious.",
+   "C": "Correct: Self-governing; independent.",
+   "D": "Wrong: Fawning; flattering to gain favor."
+  }
+ },
+ {
+  "word": "autonomy",
+  "question": "The region wanted the right to govern its own affairs without outside control. This self-rule is its:",
+  "options": [
+   "sycophancy",
+   "asceticism",
+   "parity",
+   "autonomy"
+  ],
+  "correct": "D",
+  "explanation": "autonomy: Self-rule; the right to govern oneself.",
+  "reasons": {
+   "A": "Wrong: Fawning behavior toward the powerful.",
+   "B": "Wrong: A life of strict self-denial and simplicity.",
+   "C": "Wrong: Equality of rank, pay, or status.",
+   "D": "Correct: Self-rule; the right to govern oneself."
+  }
+ },
+ {
+  "word": "metronome",
+  "question": "The teacher's device kept a steady, measured beat for the class. It was a:",
+  "options": [
+   "metronome",
+   "barometer",
+   "thermometer",
+   "chronometer"
+  ],
+  "correct": "A",
+  "explanation": "metronome: A device that ticks to keep a steady beat for music.",
+  "reasons": {
+   "A": "Correct: A device that ticks to keep a steady beat for music.",
+   "B": "Wrong: An instrument that measures atmospheric pressure.",
+   "C": "Wrong: An instrument that measures heat.",
+   "D": "Wrong: A very accurate timepiece."
+  }
+ }
+]

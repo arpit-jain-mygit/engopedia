@@ -1,0 +1,20 @@
+[
+ {
+  "word": "polyphobia",
+  "question": "A shopper cannot face a supermarket aisle, where a jumble of countless products on every shelf makes her panic. Her fear is of:",
+  "options": [
+   "Ochlophobia",
+   "Megalophobia",
+   "Microphobia",
+   "Polyphobia"
+  ],
+  "correct": "D",
+  "explanation": "Poly (many) + phobia = fear of many things.",
+  "reasons": {
+   "A": "Wrong: fear of crowds of people.",
+   "B": "Wrong: fear of large things.",
+   "C": "Wrong: fear of small things.",
+   "D": "Correct: poly means many, so the fear is of many things."
+  }
+ }
+]

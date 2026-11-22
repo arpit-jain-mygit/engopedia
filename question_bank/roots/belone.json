@@ -1,0 +1,20 @@
+[
+ {
+  "word": "belonophobia",
+  "question": "A patient refuses every blood test and vaccine, terrified of the thin, hollow, sharp tube that pierces the skin. He fears:",
+  "options": [
+   "Belonophobia",
+   "Aichmophobia",
+   "Hematophobia",
+   "Trichophobia"
+  ],
+  "correct": "A",
+  "explanation": "Belone (needle) + phobia = fear of needles.",
+  "reasons": {
+   "A": "Correct: belone means needle, so the fear is of needles.",
+   "B": "Wrong: fear of pointed objects in general, a wider class than this tube.",
+   "C": "Wrong: fear of blood itself.",
+   "D": "Wrong: fear of hair."
+  }
+ }
+]

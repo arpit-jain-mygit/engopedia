@@ -1,0 +1,56 @@
+[
+ {
+  "word": "penurious",
+  "question": "The miser refused to spend a penny and lived in very poor, stingy conditions. He was:",
+  "options": [
+   "affluent",
+   "opulent",
+   "magnanimous",
+   "penurious"
+  ],
+  "correct": "D",
+  "explanation": "penurious: Very poor; also stingy and grasping.",
+  "reasons": {
+   "A": "Wrong: Wealthy; having plenty of money.",
+   "B": "Wrong: Luxurious and very rich.",
+   "C": "Wrong: Generous and forgiving; great-minded.",
+   "D": "Correct: Very poor; also stingy and grasping."
+  }
+ },
+ {
+  "word": "penuriousness",
+  "question": "The family lived in extreme poverty and stingy hardship. This poverty and stinginess is their:",
+  "options": [
+   "penuriousness",
+   "affluence",
+   "opulence",
+   "magnanimity"
+  ],
+  "correct": "A",
+  "explanation": "penuriousness: Extreme poverty or stinginess.",
+  "reasons": {
+   "A": "Correct: Extreme poverty or stinginess.",
+   "B": "Wrong: Wealth; abundance of money.",
+   "C": "Wrong: Great wealth shown in luxurious living.",
+   "D": "Wrong: Generosity of spirit; noble forgiveness."
+  }
+ },
+ {
+  "word": "penury",
+  "question": "The family had no food, no money, and no means of survival. They lived in:",
+  "options": [
+   "affluence",
+   "penury",
+   "opulence",
+   "magnitude"
+  ],
+  "correct": "B",
+  "explanation": "penury: Extreme poverty; lack of necessities.",
+  "reasons": {
+   "A": "Wrong: Wealth; abundance of money.",
+   "B": "Correct: Extreme poverty; lack of necessities.",
+   "C": "Wrong: Great wealth shown in luxurious living.",
+   "D": "Wrong: Great size or importance."
+  }
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "word": "incorrigible",
+  "question": "No warning, detention or scolding has ever changed his habits; he steals, lies and breaks rules, and nothing reforms him. He is:",
+  "options": [
+   "Impecunious",
+   "Indefatigable",
+   "Incorrigible",
+   "Ambivalent"
+  ],
+  "correct": "C",
+  "explanation": "In- (not) + corrigo (correct, reform) + -ible: cannot be reformed.",
+  "reasons": {
+   "A": "Wrong: having no money.",
+   "B": "Wrong: tireless; not unwilling to change.",
+   "C": "Correct: too set in bad habits to be reformed.",
+   "D": "Wrong: having mixed feelings."
+  }
+ },
+ {
+  "word": "incorrigibility",
+  "question": "Despite endless warnings, his stubborn refusal to change his ways is the clearest sign of his:",
+  "options": [
+   "Indefatigability",
+   "Impecuniosity",
+   "Ambivalence",
+   "Incorrigibility"
+  ],
+  "correct": "D",
+  "explanation": "Incorrigibility: the state of being impossible to reform.",
+  "reasons": {
+   "A": "Wrong: tireless energy.",
+   "B": "Wrong: lack of money.",
+   "C": "Wrong: mixed or conflicting feelings.",
+   "D": "Correct: the quality of being impossible to reform."
+  }
+ }
+]

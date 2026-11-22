@@ -1,0 +1,56 @@
+[
+ {
+  "word": "astronaut",
+  "question": "The space traveller floated in the shuttle, orbiting the earth. He was an:",
+  "options": [
+   "astronaut",
+   "astronomer",
+   "astrologer",
+   "geometrician"
+  ],
+  "correct": "A",
+  "explanation": "astronaut: A sailor among the stars; a space traveler.",
+  "reasons": {
+   "A": "Correct: A sailor among the stars; a space traveler.",
+   "B": "Wrong: A scientist who studies the heavens and celestial bodies.",
+   "C": "Wrong: A person who studies the stars to predict human events.",
+   "D": "Wrong: An expert in geometry."
+  }
+ },
+ {
+  "word": "cosmonaut",
+  "question": "The Russian space traveller spent months aboard the orbiting station. He was a:",
+  "options": [
+   "astrologer",
+   "cosmonaut",
+   "geometrician",
+   "tyro"
+  ],
+  "correct": "B",
+  "explanation": "cosmonaut: A Russian space traveler; a sailor of the universe.",
+  "reasons": {
+   "A": "Wrong: A person who studies the stars to predict human events.",
+   "B": "Correct: A Russian space traveler; a sailor of the universe.",
+   "C": "Wrong: An expert in geometry.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "nautical",
+  "question": "The sailors used charts, compasses, and knots to navigate their ship at sea. These skills are:",
+  "options": [
+   "astronomical",
+   "astrological",
+   "nautical",
+   "cardiological"
+  ],
+  "correct": "C",
+  "explanation": "nautical: Relating to ships, sailing, or navigation.",
+  "reasons": {
+   "A": "Wrong: Relating to astronomy; very large in size or number.",
+   "B": "Wrong: Relating to astrology.",
+   "C": "Correct: Relating to ships, sailing, or navigation.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ }
+]

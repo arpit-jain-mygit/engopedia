@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ephemeral",
+  "question": "A pop craze fades within weeks, and its fans forget it almost at once. Such a craze is:",
+  "options": [
+   "Ephemeral",
+   "Omnipresent",
+   "Clandestine",
+   "Notorious"
+  ],
+  "correct": "A",
+  "explanation": "Ephemera (things lasting a day) + -al: short-lived.",
+  "reasons": {
+   "A": "Correct: lasting only a very short time.",
+   "B": "Wrong: present everywhere, a different idea.",
+   "C": "Wrong: done in secret.",
+   "D": "Wrong: famous for a bad quality."
+  }
+ }
+]

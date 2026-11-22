@@ -1,0 +1,20 @@
+[
+ {
+  "word": "metrophobia",
+  "question": "A young woman refuses to consider having children, dreading the role of a parent who nurtures a child. Her fear is of:",
+  "options": [
+   "Maieusiophobia",
+   "Metrophobia",
+   "Pedophobia",
+   "Gynephobia"
+  ],
+  "correct": "B",
+  "explanation": "Metros (mother) + phobia = fear of motherhood.",
+  "reasons": {
+   "A": "Wrong: fear of childbirth itself.",
+   "B": "Correct: metros means mother, so the fear is of motherhood.",
+   "C": "Wrong: fear of children.",
+   "D": "Wrong: fear of women."
+  }
+ }
+]

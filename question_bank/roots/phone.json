@@ -1,0 +1,272 @@
+[
+ {
+  "word": "cacophonous",
+  "question": "The jarring noise of the car horns made the street unbearable. It was:",
+  "options": [
+   "cacophonous",
+   "euphonious",
+   "placid",
+   "vivid"
+  ],
+  "correct": "A",
+  "explanation": "cacophonous: Harsh and jarring in sound.",
+  "reasons": {
+   "A": "Correct: Harsh and jarring in sound.",
+   "B": "Wrong: Pleasant in sound; harmonious.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "cacophony",
+  "question": "The chaotic mix of clanging pans and shouting children was a painful jumble. This mix of sounds is:",
+  "options": [
+   "euphony",
+   "cacophony",
+   "synergy",
+   "placidity"
+  ],
+  "correct": "B",
+  "explanation": "cacophony: A harsh, jarring mixture of sounds.",
+  "reasons": {
+   "A": "Wrong: Pleasing, harmonious sound.",
+   "B": "Correct: A harsh, jarring mixture of sounds.",
+   "C": "Wrong: A combined effect greater than the sum of separate effects.",
+   "D": "Wrong: Calmness; peacefulness."
+  }
+ },
+ {
+  "word": "euphonic",
+  "question": "The poem's sounds flowed in a pleasing, musical way. The sounds were:",
+  "options": [
+   "cacophonous",
+   "vociferous",
+   "euphonic",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "euphonic: Pleasing to the ear.",
+  "reasons": {
+   "A": "Wrong: Harsh and jarring in sound.",
+   "B": "Wrong: Loud, noisy, and clamorous.",
+   "C": "Correct: Pleasing to the ear.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "euphonious",
+  "question": "The singer's voice was pleasant and harmonious to hear. Her voice was:",
+  "options": [
+   "cacophonous",
+   "vociferous",
+   "garrulous",
+   "euphonious"
+  ],
+  "correct": "D",
+  "explanation": "euphonious: Pleasant in sound; harmonious.",
+  "reasons": {
+   "A": "Wrong: Harsh and jarring in sound.",
+   "B": "Wrong: Loud, noisy, and clamorous.",
+   "C": "Wrong: Talking too much, often about small things.",
+   "D": "Correct: Pleasant in sound; harmonious."
+  }
+ },
+ {
+  "word": "euphony",
+  "question": "The pleasing, harmonious sound of the choir filled the hall. This sound is called:",
+  "options": [
+   "euphony",
+   "cacophony",
+   "synergy",
+   "philharmonic"
+  ],
+  "correct": "A",
+  "explanation": "euphony: Pleasing, harmonious sound.",
+  "reasons": {
+   "A": "Correct: Pleasing, harmonious sound.",
+   "B": "Wrong: A harsh, jarring mixture of sounds.",
+   "C": "Wrong: A combined effect greater than the sum of separate effects.",
+   "D": "Wrong: Loving music or harmony; the name of an orchestra."
+  }
+ },
+ {
+  "word": "homophone",
+  "question": "The words 'sea' and 'see' sound the same but mean different things. Each is a:",
+  "options": [
+   "antonym",
+   "homophone",
+   "synonym",
+   "homonym"
+  ],
+  "correct": "B",
+  "explanation": "homophone: A word that sounds the same as another but is spelled differently.",
+  "reasons": {
+   "A": "Wrong: A word with the opposite meaning.",
+   "B": "Correct: A word that sounds the same as another but is spelled differently.",
+   "C": "Wrong: A word with the same meaning as another.",
+   "D": "Wrong: A word that sounds like another but has a different meaning."
+  }
+ },
+ {
+  "word": "homophonous",
+  "question": "The two words sounded alike even though their spellings differed. They were:",
+  "options": [
+   "synonymous",
+   "antonymous",
+   "homophonous",
+   "monogamous"
+  ],
+  "correct": "C",
+  "explanation": "homophonous: Sounding alike but spelled differently.",
+  "reasons": {
+   "A": "Wrong: Having the same meaning.",
+   "B": "Wrong: Having the opposite meaning.",
+   "C": "Correct: Sounding alike but spelled differently.",
+   "D": "Wrong: Married to only one person."
+  }
+ },
+ {
+  "word": "phonetic",
+  "question": "The alphabet chart showed how each speech sound is pronounced. The chart was:",
+  "options": [
+   "optical",
+   "ocular",
+   "auricular",
+   "phonetic"
+  ],
+  "correct": "D",
+  "explanation": "phonetic: Relating to the sounds of speech.",
+  "reasons": {
+   "A": "Wrong: Relating to sight or to optics.",
+   "B": "Wrong: Relating to the eye.",
+   "C": "Wrong: Relating to the ear or an auricle.",
+   "D": "Correct: Relating to the sounds of speech."
+  }
+ },
+ {
+  "word": "phonetician",
+  "question": "The expert who studies the sounds of speech is a:",
+  "options": [
+   "phonetician",
+   "semanticist",
+   "philologist",
+   "geneticist"
+  ],
+  "correct": "A",
+  "explanation": "phonetician: An expert in the sounds of speech.",
+  "reasons": {
+   "A": "Correct: An expert in the sounds of speech.",
+   "B": "Wrong: A scientist who studies the meaning of words.",
+   "C": "Wrong: A scientist who studies language and its history.",
+   "D": "Wrong: A scientist who studies heredity."
+  }
+ },
+ {
+  "word": "phonetics",
+  "question": "The science of speech sounds is called:",
+  "options": [
+   "semantics",
+   "phonetics",
+   "optics",
+   "geometry"
+  ],
+  "correct": "B",
+  "explanation": "phonetics: The science of speech sounds.",
+  "reasons": {
+   "A": "Wrong: The study of the meaning of words.",
+   "B": "Correct: The science of speech sounds.",
+   "C": "Wrong: The science of light and vision.",
+   "D": "Wrong: The branch of mathematics about shapes, angles, and measurement."
+  }
+ },
+ {
+  "word": "phonics",
+  "question": "The method of teaching children to read by linking letters to sounds is called:",
+  "options": [
+   "semantics",
+   "optics",
+   "phonics",
+   "geometry"
+  ],
+  "correct": "C",
+  "explanation": "phonics: The method of teaching reading by sounds.",
+  "reasons": {
+   "A": "Wrong: The study of the meaning of words.",
+   "B": "Wrong: The science of light and vision.",
+   "C": "Correct: The method of teaching reading by sounds.",
+   "D": "Wrong: The branch of mathematics about shapes, angles, and measurement."
+  }
+ },
+ {
+  "word": "phonograph",
+  "question": "The record player that played cylinders of recorded music was a:",
+  "options": [
+   "telegraph",
+   "photograph",
+   "xylophone",
+   "phonograph"
+  ],
+  "correct": "D",
+  "explanation": "phonograph: An early machine that records and plays sound; a sound writer.",
+  "reasons": {
+   "A": "Wrong: A system that sends written messages over a distance by wire.",
+   "B": "Wrong: A picture made by light on film or a sensor; written by light.",
+   "C": "Wrong: A musical instrument of wooden bars that sound when struck.",
+   "D": "Correct: An early machine that records and plays sound; a sound writer."
+  }
+ },
+ {
+  "word": "phonophobia",
+  "question": "Her dread of speaking aloud was really a fear of the sound of her own voice. Her fear is:",
+  "options": [
+   "phonophobia",
+   "phobophobia",
+   "photophobia",
+   "phasmophobia"
+  ],
+  "correct": "A",
+  "explanation": "phonophobia: Fear of speaking aloud.",
+  "reasons": {
+   "A": "Correct: Fear of speaking aloud.",
+   "B": "Wrong: Fear of fear itself.",
+   "C": "Wrong: Fear of light.",
+   "D": "Wrong: Fear of ghosts."
+  }
+ },
+ {
+  "word": "telephone",
+  "question": "The device that carries voices over a distance by wire was invented as a:",
+  "options": [
+   "telegraph",
+   "telephone",
+   "xylophone",
+   "photograph"
+  ],
+  "correct": "B",
+  "explanation": "telephone: A device that carries sound over a distance.",
+  "reasons": {
+   "A": "Wrong: A system that sends written messages over a distance by wire.",
+   "B": "Correct: A device that carries sound over a distance.",
+   "C": "Wrong: A musical instrument of wooden bars that sound when struck.",
+   "D": "Wrong: A picture made by light on film or a sensor; written by light."
+  }
+ },
+ {
+  "word": "xylophone",
+  "question": "The musical instrument with wooden bars struck with mallets is a:",
+  "options": [
+   "telephone",
+   "phonograph",
+   "xylophone",
+   "telegraph"
+  ],
+  "correct": "C",
+  "explanation": "xylophone: A musical instrument of wooden bars that sound when struck.",
+  "reasons": {
+   "A": "Wrong: A device that carries sound over a distance.",
+   "B": "Wrong: An early machine that records and plays sound; a sound writer.",
+   "C": "Correct: A musical instrument of wooden bars that sound when struck.",
+   "D": "Wrong: A system that sends written messages over a distance by wire."
+  }
+ }
+]

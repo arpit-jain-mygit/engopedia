@@ -1,0 +1,38 @@
+[
+ {
+  "word": "condone",
+  "question": "The headmaster let the bullying pass without a word, treating the bully's cruelty as if it did not matter. He chose to ___ it.",
+  "options": [
+   "Condone",
+   "Castigate",
+   "Imbibe",
+   "Oscillate"
+  ],
+  "correct": "A",
+  "explanation": "Con- (completely) + dono (give, forgive): to forgive or overlook.",
+  "reasons": {
+   "A": "Correct: to overlook or excuse wrongdoing.",
+   "B": "Wrong: to scold harshly; the headmaster did not scold.",
+   "C": "Wrong: to take in or absorb.",
+   "D": "Wrong: to swing back and forth."
+  }
+ },
+ {
+  "word": "condonation",
+  "question": "The public was angry that the government's silence amounted to a quiet overlooking of the fraud. This silence was a form of:",
+  "options": [
+   "Castigation",
+   "Condonation",
+   "Oscillation",
+   "Inebriation"
+  ],
+  "correct": "B",
+  "explanation": "Condonation: the act of overlooking or excusing wrongdoing.",
+  "reasons": {
+   "A": "Wrong: severe criticism or scolding.",
+   "B": "Correct: the overlooking or excusing of wrongdoing.",
+   "C": "Wrong: a swinging back and forth.",
+   "D": "Wrong: drunkenness."
+  }
+ }
+]

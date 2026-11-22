@@ -1,0 +1,38 @@
+[
+ {
+  "word": "viviparous",
+  "question": "A snake gives birth to fully formed young, while a hen lays eggs. An animal that gives birth to live young is:",
+  "options": [
+   "Viviparous",
+   "Oviparous",
+   "Herbivorous",
+   "Carnivorous"
+  ],
+  "correct": "A",
+  "explanation": "Vivus (alive) + pareo (bring forth) + -ous: bringing forth live young.",
+  "reasons": {
+   "A": "Correct: giving birth to live young.",
+   "B": "Wrong: an animal that lays eggs.",
+   "C": "Wrong: eating only plants.",
+   "D": "Wrong: eating meat."
+  }
+ },
+ {
+  "word": "oviparous",
+  "question": "A hen lays eggs that hatch outside her body. Animals that reproduce this way are called:",
+  "options": [
+   "Viviparous",
+   "Oviparous",
+   "Omnivorous",
+   "Herbivorous"
+  ],
+  "correct": "B",
+  "explanation": "Ovum (egg) + pareo (bring forth) + -ous: bringing forth eggs.",
+  "reasons": {
+   "A": "Wrong: giving birth to live young.",
+   "B": "Correct: laying eggs.",
+   "C": "Wrong: eating both plants and meat.",
+   "D": "Wrong: eating only plants."
+  }
+ }
+]

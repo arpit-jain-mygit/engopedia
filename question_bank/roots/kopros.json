@@ -1,0 +1,20 @@
+[
+ {
+  "word": "coprophobia",
+  "question": "A hiker refuses to walk near farm fields, panicking at the sight of animal waste on the path. Her fear is of:",
+  "options": [
+   "Coprophobia",
+   "Mysophobia",
+   "Zoophobia",
+   "Bacteriophobia"
+  ],
+  "correct": "A",
+  "explanation": "Kopros (dung, faeces) + phobia = fear of faeces.",
+  "reasons": {
+   "A": "Correct: kopros means dung or faeces, so the fear is of faeces.",
+   "B": "Wrong: fear of dirt or filth in general.",
+   "C": "Wrong: fear of animals in general.",
+   "D": "Wrong: fear of germs."
+  }
+ }
+]

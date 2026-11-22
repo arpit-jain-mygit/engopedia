@@ -1,0 +1,164 @@
+[
+ {
+  "word": "geographer",
+  "question": "The expert who charts the regions and features of the earth's surface is a:",
+  "options": [
+   "geographer",
+   "geologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "A",
+  "explanation": "geographer: A scientist who studies and maps the earth's surface.",
+  "reasons": {
+   "A": "Correct: A scientist who studies and maps the earth's surface.",
+   "B": "Wrong: A scientist who studies the earth and its rocks.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "geographical",
+  "question": "The map displayed the physical features of the land's regions. These features are:",
+  "options": [
+   "geological",
+   "geographical",
+   "biological",
+   "zoological"
+  ],
+  "correct": "B",
+  "explanation": "geographical: Relating to geography.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Correct: Relating to geography.",
+   "C": "Wrong: Relating to living things.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "geography",
+  "question": "The lesson covered the physical features of the earth's surface and its places. The subject is:",
+  "options": [
+   "geology",
+   "biology",
+   "geography",
+   "theology"
+  ],
+  "correct": "C",
+  "explanation": "geography: The study of the earth's surface and of places on it.",
+  "reasons": {
+   "A": "Wrong: The science of the earth's composition and history.",
+   "B": "Wrong: The science of living things.",
+   "C": "Correct: The study of the earth's surface and of places on it.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "geological",
+  "question": "The rock layers of the mountain told the story of the earth's history. The study is:",
+  "options": [
+   "biological",
+   "zoological",
+   "theological",
+   "geological"
+  ],
+  "correct": "D",
+  "explanation": "geological: Relating to geology.",
+  "reasons": {
+   "A": "Wrong: Relating to living things.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Wrong: Relating to the study of God and religion.",
+   "D": "Correct: Relating to geology."
+  }
+ },
+ {
+  "word": "geologist",
+  "question": "The scientist who studies the earth's rocks, layers and history is a:",
+  "options": [
+   "geologist",
+   "biologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "A",
+  "explanation": "geologist: A scientist who studies the earth and its rocks.",
+  "reasons": {
+   "A": "Correct: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies all living matter.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "geology",
+  "question": "The science of rocks and the earth's history is called:",
+  "options": [
+   "biology",
+   "geology",
+   "zoology",
+   "theology"
+  ],
+  "correct": "B",
+  "explanation": "geology: The science of the earth's composition and history.",
+  "reasons": {
+   "A": "Wrong: The science of living things.",
+   "B": "Correct: The science of the earth's composition and history.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "geometric",
+  "question": "The quilt's pattern used regular triangles and squares. Its design was:",
+  "options": [
+   "barometric",
+   "optometric",
+   "geometric",
+   "chronometric"
+  ],
+  "correct": "C",
+  "explanation": "geometric: Relating to geometry; made of regular lines and shapes.",
+  "reasons": {
+   "A": "Wrong: Relating to the barometer or to air pressure.",
+   "B": "Wrong: Relating to the measurement of vision.",
+   "C": "Correct: Relating to geometry; made of regular lines and shapes.",
+   "D": "Wrong: Relating to the measurement of time."
+  }
+ },
+ {
+  "word": "geometrician",
+  "question": "The engineer, an expert in lines and shapes, designed the building. He was a:",
+  "options": [
+   "optometrist",
+   "chronologist",
+   "entomologist",
+   "geometrician"
+  ],
+  "correct": "D",
+  "explanation": "geometrician: An expert in geometry.",
+  "reasons": {
+   "A": "Wrong: A person who measures vision and prescribes glasses.",
+   "B": "Wrong: A person who arranges events in time order.",
+   "C": "Wrong: A scientist who studies insects.",
+   "D": "Correct: An expert in geometry."
+  }
+ },
+ {
+  "word": "geometry",
+  "question": "A student learned to prove theorems about triangles and circles in class. The subject is:",
+  "options": [
+   "geometry",
+   "optometry",
+   "chronometry",
+   "entomology"
+  ],
+  "correct": "A",
+  "explanation": "geometry: The branch of mathematics about shapes, angles, and measurement.",
+  "reasons": {
+   "A": "Correct: The branch of mathematics about shapes, angles, and measurement.",
+   "B": "Wrong: The profession of measuring vision.",
+   "C": "Wrong: The measurement of time.",
+   "D": "Wrong: The science of insects."
+  }
+ }
+]

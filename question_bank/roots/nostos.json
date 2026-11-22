@@ -1,0 +1,38 @@
+[
+ {
+  "word": "nostalgia",
+  "question": "She sighed over old photos of her childhood town, wistfully longing for the golden days that are long gone. Her feeling is:",
+  "options": [
+   "Apathy",
+   "Nostalgia",
+   "Ennui",
+   "Anxiety"
+  ],
+  "correct": "B",
+  "explanation": "Nostos (return home) + algos (pain): a painful longing for home or the past.",
+  "reasons": {
+   "A": "Wrong: lack of interest or concern.",
+   "B": "Correct: a wistful longing for a past time or place.",
+   "C": "Wrong: weary boredom with life.",
+   "D": "Wrong: worry about the future."
+  }
+ },
+ {
+  "word": "nostalgic",
+  "question": "Looking through old letters, he felt a wistful longing for the years long gone. He was in a ___ mood.",
+  "options": [
+   "Apathetic",
+   "Anxious",
+   "Nostalgic",
+   "Jubilant"
+  ],
+  "correct": "C",
+  "explanation": "Nostos (return) + -ic: longing for the past.",
+  "reasons": {
+   "A": "Wrong: showing no interest or feeling.",
+   "B": "Wrong: worried about the future.",
+   "C": "Correct: longing wistfully for the past.",
+   "D": "Wrong: triumphantly joyful."
+  }
+ }
+]

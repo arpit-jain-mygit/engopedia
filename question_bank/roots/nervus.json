@@ -1,0 +1,38 @@
+[
+ {
+  "word": "enervate",
+  "question": "The long, exhausting heat drained every ounce of energy from the marchers, leaving them weak and limp. The heat ___ them.",
+  "options": [
+   "Invigorate",
+   "Ameliorate",
+   "Agitate",
+   "Enervate"
+  ],
+  "correct": "D",
+  "explanation": "E- (out) + nervus (sinew, strength) + -ate: to drain strength.",
+  "reasons": {
+   "A": "Wrong: give energy and strength; the heat did the opposite.",
+   "B": "Wrong: make better or improve.",
+   "C": "Wrong: make someone anxious or upset.",
+   "D": "Correct: to weaken or drain energy from someone."
+  }
+ },
+ {
+  "word": "enervation",
+  "question": "The long march left the soldiers in a state of weakness and limpness, with all their strength drained away. This loss of strength is called:",
+  "options": [
+   "Enervation",
+   "Invigoration",
+   "Amelioration",
+   "Agitation"
+  ],
+  "correct": "A",
+  "explanation": "Enervation: the state of being weakened.",
+  "reasons": {
+   "A": "Correct: the state of being drained of strength.",
+   "B": "Wrong: the giving of energy and strength.",
+   "C": "Wrong: improvement.",
+   "D": "Wrong: anxiety or disturbance."
+  }
+ }
+]

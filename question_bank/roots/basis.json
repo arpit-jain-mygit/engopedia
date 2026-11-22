@@ -1,0 +1,20 @@
+[
+ {
+  "word": "basiphobia",
+  "question": "A woman has crossed her own living room on hands and knees for years, because putting one foot in front of the other fills her with dread. She fears:",
+  "options": [
+   "Hodophobia",
+   "Kinesiophobia",
+   "Basiphobia",
+   "Bathophobia"
+  ],
+  "correct": "C",
+  "explanation": "Basis (walking, step) + phobia = fear of walking.",
+  "reasons": {
+   "A": "Wrong: fear of travel, not of the act of walking.",
+   "B": "Wrong: fear of motion in general.",
+   "C": "Correct: basis means walking or a step, so the fear is of walking.",
+   "D": "Wrong: fear of depths."
+  }
+ }
+]

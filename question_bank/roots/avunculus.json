@@ -1,0 +1,20 @@
+[
+ {
+  "word": "avuncular",
+  "question": "The old family friend treats the boy with the warm, protective kindness of a favourite older relation, though they share no blood ties. He is:",
+  "options": [
+   "Ambivalent",
+   "Garrulous",
+   "Pusillanimous",
+   "Avuncular"
+  ],
+  "correct": "D",
+  "explanation": "Avunculus (maternal uncle) + -ar: like an uncle.",
+  "reasons": {
+   "A": "Wrong: having mixed or conflicting feelings.",
+   "B": "Wrong: talking too much.",
+   "C": "Wrong: timid and cowardly.",
+   "D": "Correct: kindly and protective, like a favourite uncle."
+  }
+ }
+]

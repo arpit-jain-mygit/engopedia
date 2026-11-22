@@ -1,0 +1,362 @@
+[
+ {
+  "word": "circumlocution",
+  "question": "Instead of saying he died, she went on about his passing in roundabout phrases. That roundabout way of speaking is:",
+  "options": [
+   "circumlocution",
+   "colloquialism",
+   "soliloquy",
+   "eloquence"
+  ],
+  "correct": "A",
+  "explanation": "circumlocution: A roundabout way of speaking.",
+  "reasons": {
+   "A": "Correct: A roundabout way of speaking.",
+   "B": "Wrong: An informal expression used in everyday speech.",
+   "C": "Wrong: A speech a person makes to himself or herself.",
+   "D": "Wrong: Persuasive, fluent speech."
+  }
+ },
+ {
+  "word": "circumlocutory",
+  "question": "His answer wandered around the point in long roundabout phrases. His speech was:",
+  "options": [
+   "eloquent",
+   "circumlocutory",
+   "colloquial",
+   "laconic"
+  ],
+  "correct": "B",
+  "explanation": "circumlocutory: Speaking in a roundabout way.",
+  "reasons": {
+   "A": "Wrong: Fluent, forceful, and persuasive in speech.",
+   "B": "Correct: Speaking in a roundabout way.",
+   "C": "Wrong: Suitable for informal speech.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "colloquial",
+  "question": "The slang word she used was suitable for casual talk with friends. Her word was:",
+  "options": [
+   "grandiloquent",
+   "loquacious",
+   "colloquial",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "colloquial: Suitable for informal speech.",
+  "reasons": {
+   "A": "Wrong: Using grand, pompous language.",
+   "B": "Wrong: Talkative; tending to talk a lot.",
+   "C": "Correct: Suitable for informal speech.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "colloquialism",
+  "question": "The phrase 'hang in there' is an informal expression used in everyday speech. Such an expression is a:",
+  "options": [
+   "soliloquy",
+   "grandiloquence",
+   "circumlocution",
+   "colloquialism"
+  ],
+  "correct": "D",
+  "explanation": "colloquialism: An informal expression used in everyday speech.",
+  "reasons": {
+   "A": "Wrong: A speech a person makes to himself or herself.",
+   "B": "Wrong: Pompous, lofty speech.",
+   "C": "Wrong: A roundabout way of speaking.",
+   "D": "Correct: An informal expression used in everyday speech."
+  }
+ },
+ {
+  "word": "eloquence",
+  "question": "The speaker moved the crowd with his fluent, persuasive words. His persuasive speech shows his:",
+  "options": [
+   "eloquence",
+   "loquacity",
+   "garrulity",
+   "magniloquence"
+  ],
+  "correct": "A",
+  "explanation": "eloquence: Persuasive, fluent speech.",
+  "reasons": {
+   "A": "Correct: Persuasive, fluent speech.",
+   "B": "Wrong: Talkativeness.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Wrong: Lofty, grand, and pompous speech."
+  }
+ },
+ {
+  "word": "eloquent",
+  "question": "The lawyer's closing speech was fluent, forceful and deeply persuasive. The speech was:",
+  "options": [
+   "laconic",
+   "eloquent",
+   "taciturn",
+   "inarticulate"
+  ],
+  "correct": "B",
+  "explanation": "eloquent: Fluent, forceful, and persuasive in speech.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Correct: Fluent, forceful, and persuasive in speech.",
+   "C": "Wrong: Silent, unwilling to talk.",
+   "D": "Wrong: Unable to speak clearly or express feelings."
+  }
+ },
+ {
+  "word": "grandiloquence",
+  "question": "He spoke in pompous, lofty words to impress the crowd. His lofty speech is:",
+  "options": [
+   "colloquialism",
+   "laconicism",
+   "grandiloquence",
+   "circumlocution"
+  ],
+  "correct": "C",
+  "explanation": "grandiloquence: Pompous, lofty speech.",
+  "reasons": {
+   "A": "Wrong: An informal expression used in everyday speech.",
+   "B": "Wrong: A habit of using few words.",
+   "C": "Correct: Pompous, lofty speech.",
+   "D": "Wrong: A roundabout way of speaking."
+  }
+ },
+ {
+  "word": "grandiloquent",
+  "question": "The minister gave an inflated speech full of grand, pompous language. He was:",
+  "options": [
+   "laconic",
+   "colloquial",
+   "taciturn",
+   "grandiloquent"
+  ],
+  "correct": "D",
+  "explanation": "grandiloquent: Using grand, pompous language.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Wrong: Suitable for informal speech.",
+   "C": "Wrong: Silent, unwilling to talk.",
+   "D": "Correct: Using grand, pompous language."
+  }
+ },
+ {
+  "word": "loquacious",
+  "question": "The talkative guest chatted endlessly and never stopped talking. She was:",
+  "options": [
+   "loquacious",
+   "taciturn",
+   "laconic",
+   "reticent"
+  ],
+  "correct": "A",
+  "explanation": "loquacious: Talkative; tending to talk a lot.",
+  "reasons": {
+   "A": "Correct: Talkative; tending to talk a lot.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "loquaciousness",
+  "question": "Her constant chatter at dinner showed her great talkativeness. This quality of talking a great deal is her:",
+  "options": [
+   "taciturnity",
+   "loquaciousness",
+   "laconicism",
+   "reticence"
+  ],
+  "correct": "B",
+  "explanation": "loquaciousness: The quality of talking a great deal.",
+  "reasons": {
+   "A": "Wrong: Habitual silence; unwillingness to talk.",
+   "B": "Correct: The quality of talking a great deal.",
+   "C": "Wrong: A habit of using few words.",
+   "D": "Wrong: Unwillingness to speak openly."
+  }
+ },
+ {
+  "word": "loquacity",
+  "question": "The storyteller's endless talking tired the listeners. Such talkativeness is:",
+  "options": [
+   "taciturnity",
+   "laconicism",
+   "loquacity",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "loquacity: Talkativeness.",
+  "reasons": {
+   "A": "Wrong: Habitual silence; unwillingness to talk.",
+   "B": "Wrong: A habit of using few words.",
+   "C": "Correct: Talkativeness.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "magniloquence",
+  "question": "The speaker used lofty, grand, and pompous words that few people understood. This grand speech is:",
+  "options": [
+   "colloquialism",
+   "laconicism",
+   "soliloquy",
+   "magniloquence"
+  ],
+  "correct": "D",
+  "explanation": "magniloquence: Lofty, grand, and pompous speech.",
+  "reasons": {
+   "A": "Wrong: An informal expression used in everyday speech.",
+   "B": "Wrong: A habit of using few words.",
+   "C": "Wrong: A speech a person makes to himself or herself.",
+   "D": "Correct: Lofty, grand, and pompous speech."
+  }
+ },
+ {
+  "word": "magniloquent",
+  "question": "The politician spoke in a lofty, grand and bombastic way, full of inflated language. He was:",
+  "options": [
+   "magniloquent",
+   "laconic",
+   "colloquial",
+   "circumspect"
+  ],
+  "correct": "A",
+  "explanation": "magniloquent: Speaking in a lofty, grand way.",
+  "reasons": {
+   "A": "Correct: Speaking in a lofty, grand way.",
+   "B": "Wrong: Using very few words; brief and to the point.",
+   "C": "Wrong: Suitable for informal speech.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "soliloquist",
+  "question": "On the empty stage, the actor spoke alone, telling his thoughts aloud. He was a:",
+  "options": [
+   "ventriloquist",
+   "soliloquist",
+   "somnambulist",
+   "tyro"
+  ],
+  "correct": "B",
+  "explanation": "soliloquist: A person who speaks alone.",
+  "reasons": {
+   "A": "Wrong: A performer who throws the voice.",
+   "B": "Correct: A person who speaks alone.",
+   "C": "Wrong: A sleepwalker.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "soliloquize",
+  "question": "Alone in the garden, he talked aloud to himself about his troubles. He began to:",
+  "options": [
+   "ventriloquize",
+   "vociferate",
+   "soliloquize",
+   "dissemble"
+  ],
+  "correct": "C",
+  "explanation": "soliloquize: To talk to oneself.",
+  "reasons": {
+   "A": "Wrong: To throw the voice.",
+   "B": "Wrong: To shout loudly.",
+   "C": "Correct: To talk to oneself.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "soliloquy",
+  "question": "In the play, the hero spoke his thoughts aloud while alone on the stage. The speech is called a:",
+  "options": [
+   "colloquialism",
+   "circumlocution",
+   "epitome",
+   "soliloquy"
+  ],
+  "correct": "D",
+  "explanation": "soliloquy: A speech a person makes to himself or herself.",
+  "reasons": {
+   "A": "Wrong: An informal expression used in everyday speech.",
+   "B": "Wrong: A roundabout way of speaking.",
+   "C": "Wrong: A perfect example; a short summary.",
+   "D": "Correct: A speech a person makes to himself or herself."
+  }
+ },
+ {
+  "word": "ventriloquism",
+  "question": "The performer threw his voice so that the puppet seemed to speak. This art of speaking without moving the lips is:",
+  "options": [
+   "ventriloquism",
+   "calligraphy",
+   "chirography",
+   "graphology"
+  ],
+  "correct": "A",
+  "explanation": "ventriloquism: The art of speaking without moving the lips so the voice seems to come from elsewhere.",
+  "reasons": {
+   "A": "Correct: The art of speaking without moving the lips so the voice seems to come from elsewhere.",
+   "B": "Wrong: Beautiful handwriting, practiced as an art.",
+   "C": "Wrong: Handwriting or penmanship.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "ventriloquist",
+  "question": "The entertainer spoke through a doll without moving his lips. He is a:",
+  "options": [
+   "soliloquist",
+   "ventriloquist",
+   "somnambulist",
+   "chiromancer"
+  ],
+  "correct": "B",
+  "explanation": "ventriloquist: A performer who throws the voice.",
+  "reasons": {
+   "A": "Wrong: A person who speaks alone.",
+   "B": "Correct: A performer who throws the voice.",
+   "C": "Wrong: A sleepwalker.",
+   "D": "Wrong: A person who reads palms."
+  }
+ },
+ {
+  "word": "ventriloquistic",
+  "question": "The puppet show used a clever technique in which the voice seemed to come from the doll. The technique was:",
+  "options": [
+   "colloquial",
+   "laconic",
+   "ventriloquistic",
+   "eloquent"
+  ],
+  "correct": "C",
+  "explanation": "ventriloquistic: Relating to the art of ventriloquism.",
+  "reasons": {
+   "A": "Wrong: Suitable for informal speech.",
+   "B": "Wrong: Using very few words; brief and to the point.",
+   "C": "Correct: Relating to the art of ventriloquism.",
+   "D": "Wrong: Fluent, forceful, and persuasive in speech."
+  }
+ },
+ {
+  "word": "ventriloquize",
+  "question": "The performer threw his voice to make the doll seem to talk. He would ventriloquize, which means to:",
+  "options": [
+   "soliloquize",
+   "vociferate",
+   "dissemble",
+   "ventriloquize"
+  ],
+  "correct": "D",
+  "explanation": "ventriloquize: To throw the voice.",
+  "reasons": {
+   "A": "Wrong: To talk to oneself.",
+   "B": "Wrong: To shout loudly.",
+   "C": "Wrong: To hide true feelings or intentions by pretending.",
+   "D": "Correct: To throw the voice."
+  }
+ }
+]

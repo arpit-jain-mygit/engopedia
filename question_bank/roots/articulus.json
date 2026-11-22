@@ -1,0 +1,56 @@
+[
+ {
+  "word": "articulate",
+  "question": "The speaker expressed her thoughts clearly and joined her words so that everyone understood her. She was:",
+  "options": [
+   "inarticulate",
+   "taciturn",
+   "reticent",
+   "articulate"
+  ],
+  "correct": "D",
+  "explanation": "articulate: Able to express thoughts clearly; to join words clearly.",
+  "reasons": {
+   "A": "Wrong: Unable to speak clearly or express feelings.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "D": "Correct: Able to express thoughts clearly; to join words clearly."
+  }
+ },
+ {
+  "word": "inarticulate",
+  "question": "The shocked boy stammered and could not say clearly what he felt. He was:",
+  "options": [
+   "inarticulate",
+   "articulate",
+   "eloquent",
+   "fluent"
+  ],
+  "correct": "A",
+  "explanation": "inarticulate: Unable to speak clearly or express feelings.",
+  "reasons": {
+   "A": "Correct: Unable to speak clearly or express feelings.",
+   "B": "Wrong: Able to express thoughts clearly; to join words clearly.",
+   "C": "Wrong: Fluent, forceful, and persuasive in speech.",
+   "D": "Wrong: Speaking or writing smoothly and easily."
+  }
+ },
+ {
+  "word": "inarticulateness",
+  "question": "The witness's failure to speak clearly made his story hard for the court to follow. This state of being unable to speak clearly is:",
+  "options": [
+   "eloquence",
+   "inarticulateness",
+   "volubility",
+   "garrulity"
+  ],
+  "correct": "B",
+  "explanation": "inarticulateness: The state of being unable to speak clearly.",
+  "reasons": {
+   "A": "Wrong: Persuasive, fluent speech.",
+   "B": "Correct: The state of being unable to speak clearly.",
+   "C": "Wrong: Speaking rapidly and easily.",
+   "D": "Wrong: Constant chatter about trifles."
+  }
+ }
+]

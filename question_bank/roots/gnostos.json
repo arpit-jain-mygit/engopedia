@@ -1,0 +1,38 @@
+[
+ {
+  "word": "agnostic",
+  "question": "A man says he neither believes nor disbelieves in a god, because he thinks the question cannot be known. He is an:",
+  "options": [
+   "Atheist",
+   "Theist",
+   "Agnostic",
+   "Ascetic"
+  ],
+  "correct": "C",
+  "explanation": "A- (not) + gnostos (known): one who holds that something cannot be known.",
+  "reasons": {
+   "A": "Wrong: a person who denies that any god exists; this man withholds that claim.",
+   "B": "Wrong: a person who believes in a god.",
+   "C": "Correct: a person who holds that the existence of god cannot be known.",
+   "D": "Wrong: a person who lives in strict self-denial."
+  }
+ },
+ {
+  "word": "agnosticism",
+  "question": "His view that the existence of a god cannot be known, so he holds back any judgment, is called:",
+  "options": [
+   "Atheism",
+   "Asceticism",
+   "Fanaticism",
+   "Agnosticism"
+  ],
+  "correct": "D",
+  "explanation": "Agnosticism: the view that the existence of god cannot be known.",
+  "reasons": {
+   "A": "Wrong: the denial that any god exists.",
+   "B": "Wrong: strict self-denial.",
+   "C": "Wrong: excessive zeal for a cause.",
+   "D": "Correct: the view that what cannot be known should be left open."
+  }
+ }
+]

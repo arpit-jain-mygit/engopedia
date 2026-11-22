@@ -1,0 +1,74 @@
+[
+ {
+  "word": "ophthalmological",
+  "question": "The eye-specialist conference covered the latest research on eye disorders. Its subject was:",
+  "options": [
+   "ophthalmological",
+   "neurological",
+   "cardiological",
+   "dermatological"
+  ],
+  "correct": "A",
+  "explanation": "ophthalmological: Relating to eye medicine.",
+  "reasons": {
+   "A": "Correct: Relating to eye medicine.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to the study of the heart.",
+   "D": "Wrong: Relating to skin medicine."
+  }
+ },
+ {
+  "word": "ophthalmologist",
+  "question": "The medical doctor who treats eye disorders and performs eye surgery is an:",
+  "options": [
+   "neurologist",
+   "ophthalmologist",
+   "dermatologist",
+   "cardiologist"
+  ],
+  "correct": "B",
+  "explanation": "ophthalmologist: A medical doctor who treats eye disorders.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats the nervous system.",
+   "B": "Correct: A medical doctor who treats eye disorders.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Wrong: A doctor who treats heart diseases."
+  }
+ },
+ {
+  "word": "ophthalmology",
+  "question": "The medical study of eye diseases is called:",
+  "options": [
+   "neurology",
+   "cardiology",
+   "ophthalmology",
+   "dermatology"
+  ],
+  "correct": "C",
+  "explanation": "ophthalmology: The medical study of eye diseases.",
+  "reasons": {
+   "A": "Wrong: The study of the nervous system.",
+   "B": "Wrong: The study of the heart and its diseases.",
+   "C": "Correct: The medical study of eye diseases.",
+   "D": "Wrong: The study of skin and its diseases."
+  }
+ },
+ {
+  "word": "ophthalmophobia",
+  "question": "Her dread of eyes, and of being looked at, was a fear of eyes. It is:",
+  "options": [
+   "claustrophobia",
+   "hydrophobia",
+   "ophidiophobia",
+   "ophthalmophobia"
+  ],
+  "correct": "D",
+  "explanation": "ophthalmophobia: Fear of eyes.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of being shut in small places.",
+   "B": "Wrong: Fear of water.",
+   "C": "Wrong: Fear of snakes.",
+   "D": "Correct: Fear of eyes."
+  }
+ }
+]

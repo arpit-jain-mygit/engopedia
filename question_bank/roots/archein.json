@@ -1,0 +1,110 @@
+[
+ {
+  "word": "matriarch",
+  "question": "The grandmother ruled the family and made every big decision for her sons and daughters. She was the family's:",
+  "options": [
+   "patriarch",
+   "matriarch",
+   "martinet",
+   "potentate"
+  ],
+  "correct": "B",
+  "explanation": "matriarch: A woman who rules a family or tribe.",
+  "reasons": {
+   "A": "Wrong: An old man who rules a family or tribe.",
+   "B": "Correct: A woman who rules a family or tribe.",
+   "C": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "D": "Wrong: A powerful ruler."
+  }
+ },
+ {
+  "word": "matriarchal",
+  "question": "In that tribe, the mothers and women held the power and made the rules for everyone. The tribe was:",
+  "options": [
+   "patriarchal",
+   "regal",
+   "matriarchal",
+   "matronly"
+  ],
+  "correct": "C",
+  "explanation": "matriarchal: Relating to rule by women or mothers.",
+  "reasons": {
+   "A": "Wrong: Relating to rule by fathers or old men.",
+   "B": "Wrong: Royal; kingly and splendid.",
+   "C": "Correct: Relating to rule by women or mothers.",
+   "D": "Wrong: Like an older, dignified woman."
+  }
+ },
+ {
+  "word": "matriarchy",
+  "question": "The community was run entirely by women, with mothers deciding laws and land. This system of rule is a:",
+  "options": [
+   "patriarchy",
+   "regality",
+   "monotheism",
+   "matriarchy"
+  ],
+  "correct": "D",
+  "explanation": "matriarchy: A system ruled by women or mothers.",
+  "reasons": {
+   "A": "Wrong: A system ruled by men or fathers.",
+   "B": "Wrong: Royalty; kingly dignity.",
+   "C": "Wrong: The belief in one God.",
+   "D": "Correct: A system ruled by women or mothers."
+  }
+ },
+ {
+  "word": "patriarch",
+  "question": "The old man ruled his large family with a firm hand and everyone obeyed his word. He was the family's:",
+  "options": [
+   "patriarch",
+   "matriarch",
+   "potentate",
+   "martinet"
+  ],
+  "correct": "A",
+  "explanation": "patriarch: An old man who rules a family or tribe.",
+  "reasons": {
+   "A": "Correct: An old man who rules a family or tribe.",
+   "B": "Wrong: A woman who rules a family or tribe.",
+   "C": "Wrong: A powerful ruler.",
+   "D": "Wrong: A strict disciplinarian who demands blind obedience."
+  }
+ },
+ {
+  "word": "patriarchal",
+  "question": "The society gave all the power to men and older male leaders. Its rule was:",
+  "options": [
+   "matriarchal",
+   "patriarchal",
+   "regal",
+   "pedagogical"
+  ],
+  "correct": "B",
+  "explanation": "patriarchal: Relating to rule by fathers or old men.",
+  "reasons": {
+   "A": "Wrong: Relating to rule by women or mothers.",
+   "B": "Correct: Relating to rule by fathers or old men.",
+   "C": "Wrong: Royal; kingly and splendid.",
+   "D": "Wrong: Relating to teaching."
+  }
+ },
+ {
+  "word": "patriarchy",
+  "question": "The system placed fathers and older men in charge of every family and the wider society. This system is a:",
+  "options": [
+   "matriarchy",
+   "regality",
+   "patriarchy",
+   "monotheism"
+  ],
+  "correct": "C",
+  "explanation": "patriarchy: A system ruled by men or fathers.",
+  "reasons": {
+   "A": "Wrong: A system ruled by women or mothers.",
+   "B": "Wrong: Royalty; kingly dignity.",
+   "C": "Correct: A system ruled by men or fathers.",
+   "D": "Wrong: The belief in one God."
+  }
+ }
+]

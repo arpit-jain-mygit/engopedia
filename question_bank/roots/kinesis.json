@@ -1,0 +1,20 @@
+[
+ {
+  "word": "kinesiophobia",
+  "question": "A patient refuses to bend her injured knee and avoids any stretch or stir of the leg, convinced that motion will hurt her. She fears:",
+  "options": [
+   "Kinesiophobia",
+   "Eremiophobia",
+   "Hodophobia",
+   "Basiphobia"
+  ],
+  "correct": "A",
+  "explanation": "Kinesis (motion) + phobia = fear of motion.",
+  "reasons": {
+   "A": "Correct: kinesis means motion, so the fear is of motion.",
+   "B": "Wrong: fear of stillness.",
+   "C": "Wrong: fear of travel.",
+   "D": "Wrong: fear of walking specifically."
+  }
+ }
+]

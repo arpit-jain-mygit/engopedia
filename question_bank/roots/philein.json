@@ -1,0 +1,182 @@
+[
+ {
+  "word": "Anglophile",
+  "question": "The woman adored English culture, read English books, and loved everything about England. She was an:",
+  "options": [
+   "bibliophile",
+   "Anglophile",
+   "bon vivant",
+   "philologist"
+  ],
+  "correct": "B",
+  "explanation": "Anglophile: A person who admires England and its culture.",
+  "reasons": {
+   "A": "Wrong: A lover of books; a book collector.",
+   "B": "Correct: A person who admires England and its culture.",
+   "C": "Wrong: A person who lives luxuriously, enjoying good food and wine.",
+   "D": "Wrong: A scientist who studies language and its history."
+  }
+ },
+ {
+  "word": "bibliophile",
+  "question": "The collector loved books so much that he filled his house with them. He was a:",
+  "options": [
+   "Anglophile",
+   "bon vivant",
+   "bibliophile",
+   "philanderer"
+  ],
+  "correct": "C",
+  "explanation": "bibliophile: A lover of books; a book collector.",
+  "reasons": {
+   "A": "Wrong: A person who admires England and its culture.",
+   "B": "Wrong: A person who lives luxuriously, enjoying good food and wine.",
+   "C": "Correct: A lover of books; a book collector.",
+   "D": "Wrong: A person who flirts or has casual love affairs."
+  }
+ },
+ {
+  "word": "philander",
+  "question": "The rake courted many women at once, enjoying casual affairs. He would:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "titillate",
+   "philander"
+  ],
+  "correct": "D",
+  "explanation": "philander: To flirt or play around with casual love affairs.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Wrong: To tickle or stimulate pleasantly.",
+   "D": "Correct: To flirt or play around with casual love affairs."
+  }
+ },
+ {
+  "word": "philanderer",
+  "question": "The charming rogue made love to many women and never settled down. He was a:",
+  "options": [
+   "philanderer",
+   "bigamist",
+   "misogynist",
+   "monogamist"
+  ],
+  "correct": "A",
+  "explanation": "philanderer: A person who flirts or has casual love affairs.",
+  "reasons": {
+   "A": "Correct: A person who flirts or has casual love affairs.",
+   "B": "Wrong: A person who marries while already married.",
+   "C": "Wrong: One who hates women.",
+   "D": "Wrong: A person married to only one spouse."
+  }
+ },
+ {
+  "word": "philharmonic",
+  "question": "The orchestra's name means loving music and harmony. The name was:",
+  "options": [
+   "cacophony",
+   "philharmonic",
+   "euphony",
+   "philology"
+  ],
+  "correct": "B",
+  "explanation": "philharmonic: Loving music or harmony; the name of an orchestra.",
+  "reasons": {
+   "A": "Wrong: A harsh, jarring mixture of sounds.",
+   "B": "Correct: Loving music or harmony; the name of an orchestra.",
+   "C": "Wrong: Pleasing, harmonious sound.",
+   "D": "Wrong: The study of language and its history."
+  }
+ },
+ {
+  "word": "philological",
+  "question": "The professor's study of ancient texts focused on language history and word origins. Her study was:",
+  "options": [
+   "psychological",
+   "sociological",
+   "philological",
+   "theological"
+  ],
+  "correct": "C",
+  "explanation": "philological: Relating to the study of language.",
+  "reasons": {
+   "A": "Wrong: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to the study of society.",
+   "C": "Correct: Relating to the study of language.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "philologist",
+  "question": "The scholar who studies language history and word origins is a:",
+  "options": [
+   "psychologist",
+   "sociologist",
+   "theologian",
+   "philologist"
+  ],
+  "correct": "D",
+  "explanation": "philologist: A scientist who studies language and its history.",
+  "reasons": {
+   "A": "Wrong: A specialist who studies human behavior.",
+   "B": "Wrong: A scientist who studies human society and social groups.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A scientist who studies language and its history."
+  }
+ },
+ {
+  "word": "philology",
+  "question": "The study of language and its history is called:",
+  "options": [
+   "philology",
+   "psychology",
+   "sociology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "philology: The study of language and its history.",
+  "reasons": {
+   "A": "Correct: The study of language and its history.",
+   "B": "Wrong: The study of the mind and behavior.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "philosophy",
+  "question": "The study of wisdom, truth, and the meaning of life is called:",
+  "options": [
+   "psychology",
+   "philosophy",
+   "theology",
+   "sociology"
+  ],
+  "correct": "B",
+  "explanation": "philosophy: The love of wisdom; the study of truth and life.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Correct: The love of wisdom; the study of truth and life.",
+   "C": "Wrong: The study of God and religion.",
+   "D": "Wrong: The study of human society and social groups."
+  }
+ },
+ {
+  "word": "philter",
+  "question": "The witch offered the young lovers a love potion to make them fall in love. The potion was a:",
+  "options": [
+   "tome",
+   "podium",
+   "philter",
+   "tripod"
+  ],
+  "correct": "C",
+  "explanation": "philter: A love potion; a rarely used word.",
+  "reasons": {
+   "A": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "B": "Wrong: A speaker's platform.",
+   "C": "Correct: A love potion; a rarely used word.",
+   "D": "Wrong: A three-legged stand for a camera."
+  }
+ }
+]

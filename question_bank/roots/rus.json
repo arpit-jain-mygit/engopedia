@@ -1,0 +1,74 @@
+[
+ {
+  "word": "rural",
+  "question": "The small village was surrounded by farms and fields, far from the city. It was:",
+  "options": [
+   "urban",
+   "rural",
+   "urbane",
+   "interurban"
+  ],
+  "correct": "B",
+  "explanation": "rural: Relating to the countryside.",
+  "reasons": {
+   "A": "Wrong: Relating to a city.",
+   "B": "Correct: Relating to the countryside.",
+   "C": "Wrong: Polished, courteous, and at ease in any company.",
+   "D": "Wrong: Between cities."
+  }
+ },
+ {
+  "word": "rustic",
+  "question": "The old cottage had simple, plain, rough wooden furniture in the country style. Its style was:",
+  "options": [
+   "urbane",
+   "egregious",
+   "rustic",
+   "placid"
+  ],
+  "correct": "C",
+  "explanation": "rustic: Simple, plain, and rough, in the country style.",
+  "reasons": {
+   "A": "Wrong: Polished, courteous, and at ease in any company.",
+   "B": "Wrong: Outstandingly bad or vicious.",
+   "C": "Correct: Simple, plain, and rough, in the country style.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "rusticate",
+  "question": "The city family decided to leave the city and live in the countryside. They chose to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "evanesce",
+   "rusticate"
+  ],
+  "correct": "D",
+  "explanation": "rusticate: To go to live in the country.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Wrong: To vanish gradually from sight.",
+   "D": "Correct: To go to live in the country."
+  }
+ },
+ {
+  "word": "rusticity",
+  "question": "The simplicity and roughness of country life showed in their plain manners. Their plainness is:",
+  "options": [
+   "rusticity",
+   "urbanity",
+   "garrulity",
+   "penury"
+  ],
+  "correct": "A",
+  "explanation": "rusticity: Simplicity of country life; roughness.",
+  "reasons": {
+   "A": "Correct: Simplicity of country life; roughness.",
+   "B": "Wrong: Polish, courtesy, and sophistication.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Wrong: Extreme poverty; lack of necessities."
+  }
+ }
+]

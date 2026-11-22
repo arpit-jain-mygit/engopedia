@@ -1,0 +1,182 @@
+[
+ {
+  "word": "aggregate",
+  "question": "The total of all the scattered sales figures, combined into one overall figure. The combined total is the:",
+  "options": [
+   "segregation",
+   "aggregate",
+   "congregation",
+   "egregiousness"
+  ],
+  "correct": "B",
+  "explanation": "aggregate: A total or mass of individuals or items together.",
+  "reasons": {
+   "A": "Wrong: The act of separating one group from another.",
+   "B": "Correct: A total or mass of individuals or items together.",
+   "C": "Wrong: A group of people gathered for worship.",
+   "D": "Wrong: The quality of being outstandingly bad."
+  }
+ },
+ {
+  "word": "aggregation",
+  "question": "Adding together the smaller parts into one mass is an act of:",
+  "options": [
+   "segregation",
+   "congregation",
+   "aggregation",
+   "egregiousness"
+  ],
+  "correct": "C",
+  "explanation": "aggregation: A total whole or mass formed by joining parts.",
+  "reasons": {
+   "A": "Wrong: The act of separating one group from another.",
+   "B": "Wrong: A group of people gathered for worship.",
+   "C": "Correct: A total whole or mass formed by joining parts.",
+   "D": "Wrong: The quality of being outstandingly bad."
+  }
+ },
+ {
+  "word": "congregate",
+  "question": "Fans gathered in the square to see the parade. They began to:",
+  "options": [
+   "segregate",
+   "disparage",
+   "dissimulate",
+   "congregate"
+  ],
+  "correct": "D",
+  "explanation": "congregate: To come together into a group or crowd.",
+  "reasons": {
+   "A": "Wrong: To separate from the rest.",
+   "B": "Wrong: To belittle or speak of as less important.",
+   "C": "Wrong: To hide your true feelings by pretending.",
+   "D": "Correct: To come together into a group or crowd."
+  }
+ },
+ {
+  "word": "congregation",
+  "question": "The people gathered in the church for the Sunday service. This group of worshippers is a:",
+  "options": [
+   "congregation",
+   "segregation",
+   "aggregation",
+   "cavalcade"
+  ],
+  "correct": "A",
+  "explanation": "congregation: A group of people gathered for worship.",
+  "reasons": {
+   "A": "Correct: A group of people gathered for worship.",
+   "B": "Wrong: The act of separating one group from another.",
+   "C": "Wrong: A total whole or mass formed by joining parts.",
+   "D": "Wrong: A procession of people on horseback."
+  }
+ },
+ {
+  "word": "egregious",
+  "question": "The company's cheating was so outrageously bad that it shocked the regulators. The behaviour was:",
+  "options": [
+   "benign",
+   "egregious",
+   "innocuous",
+   "circumspect"
+  ],
+  "correct": "B",
+  "explanation": "egregious: Outstandingly bad or vicious.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Correct: Outstandingly bad or vicious.",
+   "C": "Wrong: Harmless; not likely to cause injury.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "egregiousness",
+  "question": "The sheer outrageousness of the fraud shocked everyone. Its quality of being outstandingly bad is its:",
+  "options": [
+   "benignity",
+   "circumspection",
+   "egregiousness",
+   "equanimity"
+  ],
+  "correct": "C",
+  "explanation": "egregiousness: The quality of being outstandingly bad.",
+  "reasons": {
+   "A": "Wrong: Kindness and gentleness of nature.",
+   "B": "Wrong: Caution and care in judgment.",
+   "C": "Correct: The quality of being outstandingly bad.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "gregarious",
+  "question": "She loved parties and always enjoyed being with a crowd of friends. She was:",
+  "options": [
+   "taciturn",
+   "reticent",
+   "misanthropic",
+   "gregarious"
+  ],
+  "correct": "D",
+  "explanation": "gregarious: Enjoying the company of others; sociable in groups.",
+  "reasons": {
+   "A": "Wrong: Silent, unwilling to talk.",
+   "B": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "C": "Wrong: Hating mankind.",
+   "D": "Correct: Enjoying the company of others; sociable in groups."
+  }
+ },
+ {
+  "word": "gregariousness",
+  "question": "His love of company made him the life of every party. This enjoyment of others is his:",
+  "options": [
+   "gregariousness",
+   "taciturnity",
+   "misanthropy",
+   "reticence"
+  ],
+  "correct": "A",
+  "explanation": "gregariousness: Enjoyment of being with other people.",
+  "reasons": {
+   "A": "Correct: Enjoyment of being with other people.",
+   "B": "Wrong: Habitual silence; unwillingness to talk.",
+   "C": "Wrong: Hatred of the human race.",
+   "D": "Wrong: Unwillingness to speak openly."
+  }
+ },
+ {
+  "word": "segregate",
+  "question": "The school kept students apart by separating them into different groups. The school decided to:",
+  "options": [
+   "congregate",
+   "segregate",
+   "aggregate",
+   "dissimulate"
+  ],
+  "correct": "B",
+  "explanation": "segregate: To separate from the rest.",
+  "reasons": {
+   "A": "Wrong: To come together into a group or crowd.",
+   "B": "Correct: To separate from the rest.",
+   "C": "Wrong: A total or mass of individuals or items together.",
+   "D": "Wrong: To hide your true feelings by pretending."
+  }
+ },
+ {
+  "word": "segregation",
+  "question": "The law kept the two groups apart, separating them by race in public places. This separation is:",
+  "options": [
+   "congregation",
+   "aggregation",
+   "segregation",
+   "fraternization"
+  ],
+  "correct": "C",
+  "explanation": "segregation: The act of separating one group from another.",
+  "reasons": {
+   "A": "Wrong: A group of people gathered for worship.",
+   "B": "Wrong: A total whole or mass formed by joining parts.",
+   "C": "Correct: The act of separating one group from another.",
+   "D": "Wrong: The act of associating closely with others."
+  }
+ }
+]

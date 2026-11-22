@@ -1,0 +1,38 @@
+[
+ {
+  "word": "homicide",
+  "question": "A man is charged with deliberately killing another person during a quarrel over money. The crime is called:",
+  "options": [
+   "Homicide",
+   "Suicide",
+   "Regicide",
+   "Parricide"
+  ],
+  "correct": "A",
+  "explanation": "Homo (man, human) + -cide (killing): killing a person.",
+  "reasons": {
+   "A": "Correct: the killing of one person by another.",
+   "B": "Wrong: killing oneself, not another person.",
+   "C": "Wrong: killing a king or queen.",
+   "D": "Wrong: killing one's own parent."
+  }
+ },
+ {
+  "word": "homicidal",
+  "question": "A man who threatens to kill anyone who crosses him, and is ready to act on it, is described as:",
+  "options": [
+   "Suicidal",
+   "Homicidal",
+   "Patricidal",
+   "Regicidal"
+  ],
+  "correct": "B",
+  "explanation": "Homo (human) + -cide (killing) + -al: inclined to kill a person.",
+  "reasons": {
+   "A": "Wrong: wanting to kill oneself.",
+   "B": "Correct: willing or inclined to kill another person.",
+   "C": "Wrong: wanting to kill one's father.",
+   "D": "Wrong: wanting to kill a king."
+  }
+ }
+]

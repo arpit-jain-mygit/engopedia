@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hodophobia",
+  "question": "A man cancels every holiday and day trip, dreading the moment he steps out of his door toward some distant place. His fear is of:",
+  "options": [
+   "Basiphobia",
+   "Kinesiophobia",
+   "Xenophobia",
+   "Hodophobia"
+  ],
+  "correct": "D",
+  "explanation": "Hodos (road, travel) + phobia = fear of travel.",
+  "reasons": {
+   "A": "Wrong: fear of walking.",
+   "B": "Wrong: fear of motion in general.",
+   "C": "Wrong: fear of foreigners.",
+   "D": "Correct: hodos means road or travel, so the fear is of travel."
+  }
+ }
+]

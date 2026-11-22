@@ -1,0 +1,74 @@
+[
+ {
+  "word": "demagogic",
+  "question": "The orator stirred up hatred against the rulers to win the crowd's vote. His speech was:",
+  "options": [
+   "placid",
+   "banal",
+   "demagogic",
+   "cogent"
+  ],
+  "correct": "C",
+  "explanation": "demagogic: Relating to a demagogue.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Wrong: Ordinary, trite, and lacking originality.",
+   "C": "Correct: Relating to a demagogue.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "demagogue",
+  "question": "The leader who stirred up discontent to win power over the people was a:",
+  "options": [
+   "sycophant",
+   "iconoclast",
+   "atheist",
+   "demagogue"
+  ],
+  "correct": "D",
+  "explanation": "demagogue: A leader who stirs up discontent to win power.",
+  "reasons": {
+   "A": "Wrong: A person who flatters the powerful to gain favor.",
+   "B": "Wrong: A person who attacks established beliefs and traditions.",
+   "C": "Wrong: A person who does not believe in God.",
+   "D": "Correct: A leader who stirs up discontent to win power."
+  }
+ },
+ {
+  "word": "demagoguery",
+  "question": "The tactic of stirring up the masses to gain power is called:",
+  "options": [
+   "demagoguery",
+   "sycophancy",
+   "chauvinism",
+   "asceticism"
+  ],
+  "correct": "A",
+  "explanation": "demagoguery: The tactics of a demagogue.",
+  "reasons": {
+   "A": "Correct: The tactics of a demagogue.",
+   "B": "Wrong: Fawning behavior toward the powerful.",
+   "C": "Wrong: Excessive, blind devotion to one's group or country.",
+   "D": "Wrong: A life of strict self-denial and simplicity."
+  }
+ },
+ {
+  "word": "demophobia",
+  "question": "The fear of people in general made him shy and withdrawn. His fear is:",
+  "options": [
+   "ochlophobia",
+   "demophobia",
+   "xenophobia",
+   "androphobia"
+  ],
+  "correct": "B",
+  "explanation": "demophobia: Fear of people.",
+  "reasons": {
+   "A": "Wrong: Fear of mobs or crowds.",
+   "B": "Correct: Fear of people.",
+   "C": "Wrong: Fear of foreigners or strangers.",
+   "D": "Wrong: Fear of males."
+  }
+ }
+]

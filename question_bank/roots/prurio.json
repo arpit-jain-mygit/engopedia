@@ -1,0 +1,74 @@
+[
+ {
+  "word": "prurience",
+  "question": "The film's unhealthy focus on sexual curiosity raised objections. Its quality of unhealthy desire is:",
+  "options": [
+   "prurience",
+   "placidity",
+   "benignity",
+   "vivacity"
+  ],
+  "correct": "A",
+  "explanation": "prurience: Unhealthy curiosity or desire.",
+  "reasons": {
+   "A": "Correct: Unhealthy curiosity or desire.",
+   "B": "Wrong: Calmness; peacefulness.",
+   "C": "Wrong: Kindness and gentleness of nature.",
+   "D": "Wrong: Liveliness; high spirits."
+  }
+ },
+ {
+  "word": "prurient",
+  "question": "The reporter's unhealthy curiosity about the scandal was obvious. His curiosity was:",
+  "options": [
+   "benign",
+   "prurient",
+   "placid",
+   "vivid"
+  ],
+  "correct": "B",
+  "explanation": "prurient: Filled with unhealthy curiosity or desire.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Correct: Filled with unhealthy curiosity or desire.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "pruritic",
+  "question": "The rash made her skin itch constantly. The rash was:",
+  "options": [
+   "benign",
+   "malignant",
+   "pruritic",
+   "noxious"
+  ],
+  "correct": "C",
+  "explanation": "pruritic: Itchy.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "C": "Correct: Itchy.",
+   "D": "Wrong: Harmful, poisonous, or unwholesome."
+  }
+ },
+ {
+  "word": "pruritis",
+  "question": "The doctor treated her itchy skin condition. The condition was:",
+  "options": [
+   "neuritis",
+   "neurosis",
+   "psychosis",
+   "pruritis"
+  ],
+  "correct": "D",
+  "explanation": "pruritis: An itch or skin irritation.",
+  "reasons": {
+   "A": "Wrong: Inflammation of the nerves.",
+   "B": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "C": "Wrong: A serious mental disorder that loses contact with reality.",
+   "D": "Correct: An itch or skin irritation."
+  }
+ }
+]

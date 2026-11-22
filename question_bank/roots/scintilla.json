@@ -1,0 +1,56 @@
+[
+ {
+  "word": "scintillate",
+  "question": "The diamond sparkled brightly in the light. It began to:",
+  "options": [
+   "scintillate",
+   "vacillate",
+   "vegetate",
+   "dissemble"
+  ],
+  "correct": "A",
+  "explanation": "scintillate: To sparkle; to be brilliantly witty.",
+  "reasons": {
+   "A": "Correct: To sparkle; to be brilliantly witty.",
+   "B": "Wrong: To waver or keep changing your mind.",
+   "C": "Wrong: To live a dull, inactive life.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "scintillating",
+  "question": "The speaker was brilliantly witty and sparkling, holding everyone's attention. The talk was:",
+  "options": [
+   "laconic",
+   "scintillating",
+   "taciturn",
+   "reticent"
+  ],
+  "correct": "B",
+  "explanation": "scintillating: Sparkling; witty and brilliantly entertaining.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Correct: Sparkling; witty and brilliantly entertaining.",
+   "C": "Wrong: Silent, unwilling to talk.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "scintillation",
+  "question": "The bright flash of sparkling light from the jewel was dazzling. This sparkle is a:",
+  "options": [
+   "vacillation",
+   "evanescence",
+   "scintillation",
+   "alleviation"
+  ],
+  "correct": "C",
+  "explanation": "scintillation: A sparkling or brilliant flash.",
+  "reasons": {
+   "A": "Wrong: Wavering between opinions or choices.",
+   "B": "Wrong: The quality of quickly vanishing.",
+   "C": "Correct: A sparkling or brilliant flash.",
+   "D": "Wrong: Relief from pain or trouble."
+  }
+ }
+]

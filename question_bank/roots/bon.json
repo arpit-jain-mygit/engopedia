@@ -1,0 +1,20 @@
+[
+ {
+  "word": "bon vivant",
+  "question": "A man who relishes fine dining, travel and the best vintages, living comfortably at every turn, is called a:",
+  "options": [
+   "Ascetic",
+   "Stoic",
+   "Bibliophile",
+   "Bon vivant"
+  ],
+  "correct": "D",
+  "explanation": "Bon (good) + vivo (to live): one who lives well.",
+  "reasons": {
+   "A": "Wrong: a person who lives simply and refuses luxury; the man here seeks luxury.",
+   "B": "Wrong: a person who calmly endures hardship; not a lover of luxury.",
+   "C": "Wrong: a lover of books; the man is drawn to food and wine.",
+   "D": "Correct: a person who lives well and enjoys good food, wine and company."
+  }
+ }
+]

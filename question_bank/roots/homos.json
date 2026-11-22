@@ -1,0 +1,92 @@
+[
+ {
+  "word": "homonym",
+  "question": "Bank (money) and bank (river edge) sound and look alike but differ in meaning. Each is a:",
+  "options": [
+   "synonym",
+   "antonym",
+   "patronymic",
+   "homonym"
+  ],
+  "correct": "D",
+  "explanation": "homonym: A word that sounds like another but has a different meaning.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Wrong: A word with the opposite meaning.",
+   "C": "Wrong: A name formed from the father's name.",
+   "D": "Correct: A word that sounds like another but has a different meaning."
+  }
+ },
+ {
+  "word": "homonymous",
+  "question": "The two words are spelled the same but have different meanings, which makes them:",
+  "options": [
+   "homonymous",
+   "synonymous",
+   "antonymous",
+   "polytheistic"
+  ],
+  "correct": "A",
+  "explanation": "homonymous: Having the same name or sound but a different meaning.",
+  "reasons": {
+   "A": "Correct: Having the same name or sound but a different meaning.",
+   "B": "Wrong: Having the same meaning.",
+   "C": "Wrong: Having the opposite meaning.",
+   "D": "Wrong: Believing in many gods."
+  }
+ },
+ {
+  "word": "homophobia",
+  "question": "Her dread of anything identical or unchanging was a fear of sameness. Her fear is called:",
+  "options": [
+   "acrophobia",
+   "homophobia",
+   "hydrophobia",
+   "nyctophobia"
+  ],
+  "correct": "B",
+  "explanation": "homophobia: Fear of sameness.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of heights.",
+   "B": "Correct: Fear of sameness.",
+   "C": "Wrong: Fear of water.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "homophone",
+  "question": "Pair and pear sound exactly alike but have different spellings and meanings. Each is a:",
+  "options": [
+   "synonym",
+   "antonym",
+   "homophone",
+   "patronymic"
+  ],
+  "correct": "C",
+  "explanation": "homophone: A word that sounds the same as another but is spelled differently.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Wrong: A word with the opposite meaning.",
+   "C": "Correct: A word that sounds the same as another but is spelled differently.",
+   "D": "Wrong: A name formed from the father's name."
+  }
+ },
+ {
+  "word": "homophonous",
+  "question": "Pair and pear are words that sound alike but are spelled differently. They are:",
+  "options": [
+   "synonymous",
+   "antonymous",
+   "polytheistic",
+   "homophonous"
+  ],
+  "correct": "D",
+  "explanation": "homophonous: Sounding alike but spelled differently.",
+  "reasons": {
+   "A": "Wrong: Having the same meaning.",
+   "B": "Wrong: Having the opposite meaning.",
+   "C": "Wrong: Believing in many gods.",
+   "D": "Correct: Sounding alike but spelled differently."
+  }
+ }
+]

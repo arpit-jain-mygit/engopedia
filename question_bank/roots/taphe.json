@@ -1,0 +1,20 @@
+[
+ {
+  "word": "taphephobia",
+  "question": "A man insists on cremation and refuses any coffin, dreading that he might wake up while being buried. He has a fear of:",
+  "options": [
+   "Thanatophobia",
+   "Claustrophobia",
+   "Taphephobia",
+   "Nosophobia"
+  ],
+  "correct": "C",
+  "explanation": "Taphe (burial) + phobia = fear of being buried alive.",
+  "reasons": {
+   "A": "Wrong: fear of death itself.",
+   "B": "Wrong: fear of enclosed spaces in general.",
+   "C": "Correct: taphe means burial, so the fear is of being buried alive.",
+   "D": "Wrong: fear of illness."
+  }
+ }
+]

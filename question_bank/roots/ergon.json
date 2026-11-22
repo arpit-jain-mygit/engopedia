@@ -1,0 +1,74 @@
+[
+ {
+  "word": "ergophobia",
+  "question": "The clerk's dread of any kind of work was intense. His fear is called:",
+  "options": [
+   "claustrophobia",
+   "thanatophobia",
+   "hydrophobia",
+   "ergophobia"
+  ],
+  "correct": "D",
+  "explanation": "ergophobia: Fear of work.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of being shut in small places.",
+   "B": "Wrong: Fear of death.",
+   "C": "Wrong: Fear of water.",
+   "D": "Correct: Fear of work."
+  }
+ },
+ {
+  "word": "synergism",
+  "question": "Two drugs working together gave a stronger effect than either alone. This working together is:",
+  "options": [
+   "synergism",
+   "vociferation",
+   "fratricide",
+   "fraternization"
+  ],
+  "correct": "A",
+  "explanation": "synergism: The working together of substances or people for greater effect.",
+  "reasons": {
+   "A": "Correct: The working together of substances or people for greater effect.",
+   "B": "Wrong: A loud shouting or outcry.",
+   "C": "Wrong: The killing of one's brother.",
+   "D": "Wrong: The act of associating closely with others."
+  }
+ },
+ {
+  "word": "synergistic",
+  "question": "The two teams' combined effort produced results greater than the sum of each. Their effort was:",
+  "options": [
+   "fraternal",
+   "synergistic",
+   "vociferous",
+   "cavalier"
+  ],
+  "correct": "B",
+  "explanation": "synergistic: Working together for a greater effect.",
+  "reasons": {
+   "A": "Wrong: Brotherly; relating to brothers.",
+   "B": "Correct: Working together for a greater effect.",
+   "C": "Wrong: Loud, noisy, and clamorous.",
+   "D": "Wrong: Haughty and careless of others' feelings; a mounted soldier."
+  }
+ },
+ {
+  "word": "synergy",
+  "question": "The partnership's joint effort achieved more than either could alone. This combined effect is:",
+  "options": [
+   "euphony",
+   "cacophony",
+   "synergy",
+   "philology"
+  ],
+  "correct": "C",
+  "explanation": "synergy: A combined effect greater than the sum of separate effects.",
+  "reasons": {
+   "A": "Wrong: Pleasing, harmonious sound.",
+   "B": "Wrong: A harsh, jarring mixture of sounds.",
+   "C": "Correct: A combined effect greater than the sum of separate effects.",
+   "D": "Wrong: The study of language and its history."
+  }
+ }
+]

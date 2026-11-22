@@ -1,0 +1,20 @@
+[
+ {
+  "word": "siderophobia",
+  "question": "A night watchman refuses to look up at the glittering sky, horrified by the countless bright points above him. He fears:",
+  "options": [
+   "Astrophobia",
+   "Siderophobia",
+   "Nyctophobia",
+   "Heliophobia"
+  ],
+  "correct": "B",
+  "explanation": "Sidus (star) + phobia = fear of stars.",
+  "reasons": {
+   "A": "Wrong: fear of lightning.",
+   "B": "Correct: sidus means star, so the fear is of stars.",
+   "C": "Wrong: fear of darkness.",
+   "D": "Wrong: fear of sunlight."
+  }
+ }
+]

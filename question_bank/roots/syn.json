@@ -1,0 +1,20 @@
+[
+ {
+  "word": "synophobia",
+  "question": "A man cannot bear being in any group, always leaving parties early and avoiding every family gathering. He dreads:",
+  "options": [
+   "Synophobia",
+   "Autophobia",
+   "Ochlophobia",
+   "Demophobia"
+  ],
+  "correct": "A",
+  "explanation": "Syn (together) + phobia = fear of togetherness.",
+  "reasons": {
+   "A": "Correct: syn means together, so the fear is of togetherness.",
+   "B": "Wrong: fear of solitude, the opposite idea.",
+   "C": "Wrong: fear of crowds or mobs.",
+   "D": "Wrong: fear of people in general."
+  }
+ }
+]

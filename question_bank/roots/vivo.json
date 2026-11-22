@@ -1,0 +1,236 @@
+[
+ {
+  "word": "antivivisectionist",
+  "question": "A person who opposes experiments on living animals is an:",
+  "options": [
+   "philanthropist",
+   "antivivisectionist",
+   "altruist",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "antivivisectionist: A person who opposes experiments on live animals.",
+  "reasons": {
+   "A": "Wrong: A person who gives money and time to help others.",
+   "B": "Correct: A person who opposes experiments on live animals.",
+   "C": "Wrong: One who is interested in the welfare of others more than his own.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "bon vivant",
+  "question": "The man who lives luxuriously and enjoys good food and wine is a:",
+  "options": [
+   "dilettante",
+   "virtuoso",
+   "bon vivant",
+   "tyro"
+  ],
+  "correct": "C",
+  "explanation": "bon vivant: A person who lives luxuriously, enjoying good food and wine.",
+  "reasons": {
+   "A": "Wrong: A dabbler in the arts; someone who does not work hard at a field.",
+   "B": "Wrong: An accomplished musician or master of an art.",
+   "C": "Correct: A person who lives luxuriously, enjoying good food and wine.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "convivial",
+  "question": "The host was friendly and jovial, making every guest feel welcome at the party. He was:",
+  "options": [
+   "taciturn",
+   "reticent",
+   "laconic",
+   "convivial"
+  ],
+  "correct": "D",
+  "explanation": "convivial: Friendly, jovial, fond of parties and good company.",
+  "reasons": {
+   "A": "Wrong: Silent, unwilling to talk.",
+   "B": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Correct: Friendly, jovial, fond of parties and good company."
+  }
+ },
+ {
+  "word": "conviviality",
+  "question": "The warm, festive good company at the dinner was delightful. This friendly spirit is:",
+  "options": [
+   "conviviality",
+   "taciturnity",
+   "reticence",
+   "animosity"
+  ],
+  "correct": "A",
+  "explanation": "conviviality: Friendly, festive good company.",
+  "reasons": {
+   "A": "Correct: Friendly, festive good company.",
+   "B": "Wrong: Habitual silence; unwillingness to talk.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Wrong: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "joie de vivre",
+  "question": "Her great zest and joy in living was obvious to everyone. Her joy of living is her:",
+  "options": [
+   "ennui",
+   "joie de vivre",
+   "apathy",
+   "animosity"
+  ],
+  "correct": "B",
+  "explanation": "joie de vivre: Joy of living; great zest for life.",
+  "reasons": {
+   "A": "Wrong: Boredom and weariness from having too little to do.",
+   "B": "Correct: Joy of living; great zest for life.",
+   "C": "Wrong: A lack of feeling, interest, or concern.",
+   "D": "Wrong: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "revival",
+  "question": "The return of the old tradition to life brought new interest. This restoring to life is a:",
+  "options": [
+   "devitalization",
+   "decadence",
+   "revival",
+   "senility"
+  ],
+  "correct": "C",
+  "explanation": "revival: A restoring to life or activity.",
+  "reasons": {
+   "A": "Wrong: The loss of life or vigor.",
+   "B": "Wrong: Moral or physical decay.",
+   "C": "Correct: A restoring to life or activity.",
+   "D": "Wrong: The decline of body or mind that comes with very old age."
+  }
+ },
+ {
+  "word": "revive",
+  "question": "The cold water brought the faint runner back to consciousness and strength. It would:",
+  "options": [
+   "devitalize",
+   "rusticate",
+   "evanesce",
+   "revive"
+  ],
+  "correct": "D",
+  "explanation": "revive: To bring back to life or strength.",
+  "reasons": {
+   "A": "Wrong: To drain life or energy from.",
+   "B": "Wrong: To go to live in the country.",
+   "C": "Wrong: To vanish gradually from sight.",
+   "D": "Correct: To bring back to life or strength."
+  }
+ },
+ {
+  "word": "vivacious",
+  "question": "The lively girl was full of energy and high spirits at the party. She was:",
+  "options": [
+   "vivacious",
+   "cadaverous",
+   "decadent",
+   "somnolent"
+  ],
+  "correct": "A",
+  "explanation": "vivacious: Full of life, joy, and energy.",
+  "reasons": {
+   "A": "Correct: Full of life, joy, and energy.",
+   "B": "Wrong: Thin, pale, and gaunt, like a corpse.",
+   "C": "Wrong: Falling into decay; corrupt.",
+   "D": "Wrong: Sleepy and drowsy."
+  }
+ },
+ {
+  "word": "vivacity",
+  "question": "Her sparkling liveliness and high spirits charmed everyone. This liveliness is her:",
+  "options": [
+   "senility",
+   "vivacity",
+   "decadence",
+   "somnolence"
+  ],
+  "correct": "B",
+  "explanation": "vivacity: Liveliness; high spirits.",
+  "reasons": {
+   "A": "Wrong: The decline of body or mind that comes with very old age.",
+   "B": "Correct: Liveliness; high spirits.",
+   "C": "Wrong: Moral or physical decay.",
+   "D": "Wrong: Sleepiness."
+  }
+ },
+ {
+  "word": "vivid",
+  "question": "The painting's bright, sharp colours were full of life. The colours were:",
+  "options": [
+   "cadaverous",
+   "decadent",
+   "vivid",
+   "somnolent"
+  ],
+  "correct": "C",
+  "explanation": "vivid: Full of life and freshness; bright or sharp.",
+  "reasons": {
+   "A": "Wrong: Thin, pale, and gaunt, like a corpse.",
+   "B": "Wrong: Falling into decay; corrupt.",
+   "C": "Correct: Full of life and freshness; bright or sharp.",
+   "D": "Wrong: Sleepy and drowsy."
+  }
+ },
+ {
+  "word": "vividness",
+  "question": "The detailed, bright clarity of her description brought the scene to life. This quality is its:",
+  "options": [
+   "senility",
+   "somnolence",
+   "decadence",
+   "vividness"
+  ],
+  "correct": "D",
+  "explanation": "vividness: The quality of being bright and full of life.",
+  "reasons": {
+   "A": "Wrong: The decline of body or mind that comes with very old age.",
+   "B": "Wrong: Sleepiness.",
+   "C": "Wrong: Moral or physical decay.",
+   "D": "Correct: The quality of being bright and full of life."
+  }
+ },
+ {
+  "word": "viviparous",
+  "question": "The animal gives birth to live young rather than laying eggs. It is:",
+  "options": [
+   "viviparous",
+   "oviparous",
+   "ovoid",
+   "vivid"
+  ],
+  "correct": "A",
+  "explanation": "viviparous: Giving birth to live young.",
+  "reasons": {
+   "A": "Correct: Giving birth to live young.",
+   "B": "Wrong: Laying eggs that hatch outside the body.",
+   "C": "Wrong: Shaped like an egg.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "vivisection",
+  "question": "Experimenting on living animals for scientific research is called:",
+  "options": [
+   "autopsy",
+   "vivisection",
+   "biopsy",
+   "diagnosis"
+  ],
+  "correct": "B",
+  "explanation": "vivisection: Experimenting on live animals.",
+  "reasons": {
+   "A": "Wrong: An examination of a dead body to find the cause of death.",
+   "B": "Correct: Experimenting on live animals.",
+   "C": "Wrong: The removal and study of a small piece of living tissue.",
+   "D": "Wrong: A determination of the nature of a disease or problem."
+  }
+ }
+]

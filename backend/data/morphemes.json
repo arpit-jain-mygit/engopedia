@@ -1,0 +1,1802 @@
+{
+ "a-": {
+  "type": "Prefix",
+  "meaning": "not, negative"
+ },
+ "ab-": {
+  "type": "Prefix",
+  "meaning": "away"
+ },
+ "ad-": {
+  "type": "Prefix",
+  "meaning": "to"
+ },
+ "ambi-": {
+  "type": "Prefix",
+  "meaning": "both"
+ },
+ "an-": {
+  "type": "Prefix",
+  "meaning": "not, without"
+ },
+ "ana-": {
+  "type": "Prefix",
+  "meaning": "up"
+ },
+ "anti-": {
+  "type": "Prefix",
+  "meaning": "against"
+ },
+ "bi-": {
+  "type": "Prefix",
+  "meaning": "two"
+ },
+ "circum-": {
+  "type": "Prefix",
+  "meaning": "around"
+ },
+ "com-": {
+  "type": "Prefix",
+  "meaning": "together, with"
+ },
+ "con-": {
+  "type": "Prefix",
+  "meaning": "together, with"
+ },
+ "de-": {
+  "type": "Prefix",
+  "meaning": "down, away"
+ },
+ "dia-": {
+  "type": "Prefix",
+  "meaning": "through"
+ },
+ "dicha-": {
+  "type": "Prefix",
+  "meaning": "in two"
+ },
+ "dis-": {
+  "type": "Prefix",
+  "meaning": "against"
+ },
+ "e-": {
+  "type": "Prefix",
+  "meaning": "out"
+ },
+ "ec-": {
+  "type": "Prefix",
+  "meaning": "out"
+ },
+ "en-": {
+  "type": "Prefix",
+  "meaning": "in"
+ },
+ "endo-": {
+  "type": "Prefix",
+  "meaning": "inner, within"
+ },
+ "epi-": {
+  "type": "Prefix",
+  "meaning": "upon"
+ },
+ "eu-": {
+  "type": "Prefix",
+  "meaning": "good, well"
+ },
+ "ex-": {
+  "type": "Prefix",
+  "meaning": "out"
+ },
+ "extra-": {
+  "type": "Prefix",
+  "meaning": "outside"
+ },
+ "extro-": {
+  "type": "Prefix",
+  "meaning": "outside"
+ },
+ "hyper-": {
+  "type": "Prefix",
+  "meaning": "over"
+ },
+ "hypo-": {
+  "type": "Prefix",
+  "meaning": "under"
+ },
+ "im-": {
+  "type": "Prefix",
+  "meaning": "not, without; in"
+ },
+ "in-": {
+  "type": "Prefix",
+  "meaning": "into"
+ },
+ "inter-": {
+  "type": "Prefix",
+  "meaning": "between"
+ },
+ "intra-": {
+  "type": "Prefix",
+  "meaning": "within"
+ },
+ "intro-": {
+  "type": "Prefix",
+  "meaning": "inside"
+ },
+ "mal-": {
+  "type": "Prefix",
+  "meaning": "bad (French)"
+ },
+ "mono-": {
+  "type": "Prefix",
+  "meaning": "one"
+ },
+ "ne-": {
+  "type": "Prefix",
+  "meaning": "not, negative"
+ },
+ "ob-": {
+  "type": "Prefix",
+  "meaning": "against; after; toward"
+ },
+ "per-": {
+  "type": "Prefix",
+  "meaning": "through"
+ },
+ "peri-": {
+  "type": "Prefix",
+  "meaning": "around, surrounding"
+ },
+ "pre-": {
+  "type": "Prefix",
+  "meaning": "before"
+ },
+ "pro-": {
+  "type": "Prefix",
+  "meaning": "forward, ahead, before"
+ },
+ "re-": {
+  "type": "Prefix",
+  "meaning": "again, back"
+ },
+ "retro-": {
+  "type": "Prefix",
+  "meaning": "backward"
+ },
+ "se-": {
+  "type": "Prefix",
+  "meaning": "apart"
+ },
+ "sub-": {
+  "type": "Prefix",
+  "meaning": "under"
+ },
+ "super": {
+  "type": "Prefix",
+  "meaning": "above"
+ },
+ "syn-": {
+  "type": "Prefix",
+  "meaning": "with, together"
+ },
+ "tele-": {
+  "type": "Prefix",
+  "meaning": "far, distant"
+ },
+ "tri-": {
+  "type": "Prefix",
+  "meaning": "three"
+ },
+ "un-": {
+  "type": "Prefix",
+  "meaning": "not"
+ },
+ "Anglus": {
+  "type": "Root",
+  "meaning": "English"
+ },
+ "Aphrodite": {
+  "type": "Root",
+  "meaning": "goddess of love and beauty"
+ },
+ "acuo": {
+  "type": "Root",
+  "meaning": "to sharpen"
+ },
+ "aequus": {
+  "type": "Root",
+  "meaning": "equal"
+ },
+ "aer": {
+  "type": "Root",
+  "meaning": "air"
+ },
+ "agere": {
+  "type": "Root",
+  "meaning": "to drive, do"
+ },
+ "agogos": {
+  "type": "Root",
+  "meaning": "leader, leading"
+ },
+ "agora": {
+  "type": "Root",
+  "meaning": "market place"
+ },
+ "aichme": {
+  "type": "Root",
+  "meaning": "spear, point, knife"
+ },
+ "ailouros": {
+  "type": "Root",
+  "meaning": "cat"
+ },
+ "aise": {
+  "type": "Root",
+  "meaning": "ease"
+ },
+ "akoustikos": {
+  "type": "Root",
+  "meaning": "hearing"
+ },
+ "akros": {
+  "type": "Root",
+  "meaning": "highest"
+ },
+ "algos": {
+  "type": "Root",
+  "meaning": "pain"
+ },
+ "alma": {
+  "type": "Root",
+  "meaning": "soul, nourishing"
+ },
+ "ambulo": {
+  "type": "Root",
+  "meaning": "walk"
+ },
+ "analysis": {
+  "type": "Root",
+  "meaning": "loosening up, taking apart"
+ },
+ "andros": {
+  "type": "Root",
+  "meaning": "male"
+ },
+ "anemos": {
+  "type": "Root",
+  "meaning": "wind"
+ },
+ "anima": {
+  "type": "Root",
+  "meaning": "life, soul, spirit"
+ },
+ "animus": {
+  "type": "Root",
+  "meaning": "mind"
+ },
+ "anthropos": {
+  "type": "Root",
+  "meaning": "mankind"
+ },
+ "arachne": {
+  "type": "Root",
+  "meaning": "spider"
+ },
+ "archein": {
+  "type": "Root",
+  "meaning": "rule"
+ },
+ "ardo": {
+  "type": "Root",
+  "meaning": "to burn"
+ },
+ "articulus": {
+  "type": "Root",
+  "meaning": "joint, small part"
+ },
+ "asketes": {
+  "type": "Root",
+  "meaning": "monk"
+ },
+ "astheneia": {
+  "type": "Root",
+  "meaning": "weakness"
+ },
+ "astrape": {
+  "type": "Root",
+  "meaning": "lightning"
+ },
+ "astron": {
+  "type": "Root",
+  "meaning": "star"
+ },
+ "auris": {
+  "type": "Root",
+  "meaning": "ear"
+ },
+ "autos": {
+  "type": "Root",
+  "meaning": "self"
+ },
+ "avunculus": {
+  "type": "Root",
+  "meaning": "uncle"
+ },
+ "baros": {
+  "type": "Root",
+  "meaning": "weight"
+ },
+ "basis": {
+  "type": "Root",
+  "meaning": "walking, step"
+ },
+ "bathos": {
+  "type": "Root",
+  "meaning": "depth"
+ },
+ "belone": {
+  "type": "Root",
+  "meaning": "needle"
+ },
+ "bene": {
+  "type": "Root",
+  "meaning": "well, good"
+ },
+ "biblion": {
+  "type": "Root",
+  "meaning": "book"
+ },
+ "bibo": {
+  "type": "Root",
+  "meaning": "to drink"
+ },
+ "bios": {
+  "type": "Root",
+  "meaning": "life"
+ },
+ "bon": {
+  "type": "Root",
+  "meaning": "good"
+ },
+ "bonus": {
+  "type": "Root",
+  "meaning": "good"
+ },
+ "bos": {
+  "type": "Root",
+  "meaning": "ox, cow"
+ },
+ "botane": {
+  "type": "Root",
+  "meaning": "plant"
+ },
+ "brontos": {
+  "type": "Root",
+  "meaning": "thunder"
+ },
+ "cado": {
+  "type": "Root",
+  "meaning": "to fall"
+ },
+ "canis": {
+  "type": "Root",
+  "meaning": "dog"
+ },
+ "capitulum": {
+  "type": "Root",
+  "meaning": "little head, chapter heading"
+ },
+ "caput": {
+  "type": "Root",
+  "meaning": "head"
+ },
+ "carnis": {
+  "type": "Root",
+  "meaning": "flesh"
+ },
+ "castigo": {
+  "type": "Root",
+  "meaning": "to punish"
+ },
+ "centrum": {
+  "type": "Root",
+  "meaning": "center"
+ },
+ "cheir": {
+  "type": "Root",
+  "meaning": "hand"
+ },
+ "cheval": {
+  "type": "Root",
+  "meaning": "horse"
+ },
+ "chion": {
+  "type": "Root",
+  "meaning": "snow"
+ },
+ "chondros": {
+  "type": "Root",
+  "meaning": "cartilage"
+ },
+ "chroma": {
+  "type": "Root",
+  "meaning": "color"
+ },
+ "chronos": {
+  "type": "Root",
+  "meaning": "time"
+ },
+ "cibus": {
+  "type": "Root",
+  "meaning": "food"
+ },
+ "cilium": {
+  "type": "Root",
+  "meaning": "eyelid"
+ },
+ "clam": {
+  "type": "Root",
+  "meaning": "secretly"
+ },
+ "claustrum": {
+  "type": "Root",
+  "meaning": "enclosed place"
+ },
+ "congruo": {
+  "type": "Root",
+  "meaning": "to agree, correspond"
+ },
+ "corrigo": {
+  "type": "Root",
+  "meaning": "to correct, set straight"
+ },
+ "demos": {
+  "type": "Root",
+  "meaning": "people"
+ },
+ "derma": {
+  "type": "Root",
+  "meaning": "skin"
+ },
+ "dexter": {
+  "type": "Root",
+  "meaning": "right hand"
+ },
+ "dico": {
+  "type": "Root",
+  "meaning": "say, tell"
+ },
+ "dilettare": {
+  "type": "Root",
+  "meaning": "delight"
+ },
+ "dipsa": {
+  "type": "Root",
+  "meaning": "thirst"
+ },
+ "doleo": {
+  "type": "Root",
+  "meaning": "to suffer, grieve"
+ },
+ "dono": {
+  "type": "Root",
+  "meaning": "give"
+ },
+ "dorsum": {
+  "type": "Root",
+  "meaning": "back"
+ },
+ "droit": {
+  "type": "Root",
+  "meaning": "right hand"
+ },
+ "eikon": {
+  "type": "Root",
+  "meaning": "image"
+ },
+ "emesis": {
+  "type": "Root",
+  "meaning": "vomiting"
+ },
+ "entomon": {
+  "type": "Root",
+  "meaning": "insect"
+ },
+ "ephemera": {
+  "type": "Root",
+  "meaning": "dayfly"
+ },
+ "equus": {
+  "type": "Root",
+  "meaning": "horse"
+ },
+ "eremia": {
+  "type": "Root",
+  "meaning": "solitude, stillness"
+ },
+ "ergon": {
+  "type": "Root",
+  "meaning": "work"
+ },
+ "erythros": {
+  "type": "Root",
+  "meaning": "red"
+ },
+ "eurotos": {
+  "type": "Root",
+  "meaning": "female genitals (book's term)"
+ },
+ "facio": {
+  "type": "Root",
+  "meaning": "do, make"
+ },
+ "fatigue": {
+  "type": "Root",
+  "meaning": "weariness, tiredness"
+ },
+ "felis": {
+  "type": "Root",
+  "meaning": "cat"
+ },
+ "fero": {
+  "type": "Root",
+  "meaning": "to bear, carry"
+ },
+ "fides": {
+  "type": "Root",
+  "meaning": "faith, trust"
+ },
+ "fluo": {
+  "type": "Root",
+  "meaning": "to flow"
+ },
+ "frater": {
+  "type": "Root",
+  "meaning": "brother"
+ },
+ "gamos": {
+  "type": "Root",
+  "meaning": "marriage"
+ },
+ "garrio": {
+  "type": "Root",
+  "meaning": "chatter"
+ },
+ "ge": {
+  "type": "Root",
+  "meaning": "earth"
+ },
+ "gen": {
+  "type": "Root",
+  "meaning": "born, produced"
+ },
+ "genos": {
+  "type": "Root",
+  "meaning": "birth, sex, race"
+ },
+ "geras": {
+  "type": "Root",
+  "meaning": "old age"
+ },
+ "geron": {
+  "type": "Root",
+  "meaning": "old man"
+ },
+ "geusis": {
+  "type": "Root",
+  "meaning": "taste"
+ },
+ "gnosis": {
+  "type": "Root",
+  "meaning": "knowledge"
+ },
+ "gnostos": {
+  "type": "Root",
+  "meaning": "known"
+ },
+ "grandis": {
+  "type": "Root",
+  "meaning": "grand"
+ },
+ "graph": {
+  "type": "Root",
+  "meaning": "write, draw"
+ },
+ "grex": {
+  "type": "Root",
+  "meaning": "flock, herd"
+ },
+ "gymnos": {
+  "type": "Root",
+  "meaning": "naked"
+ },
+ "gyne": {
+  "type": "Root",
+  "meaning": "woman"
+ },
+ "haima": {
+  "type": "Root",
+  "meaning": "blood"
+ },
+ "harmonia": {
+  "type": "Root",
+  "meaning": "harmony"
+ },
+ "harpax": {
+  "type": "Root",
+  "meaning": "robber"
+ },
+ "hedone": {
+  "type": "Root",
+  "meaning": "pleasure"
+ },
+ "helios": {
+  "type": "Root",
+  "meaning": "sun"
+ },
+ "herba": {
+  "type": "Root",
+  "meaning": "herb"
+ },
+ "hippos": {
+  "type": "Root",
+  "meaning": "horse"
+ },
+ "hodos": {
+  "type": "Root",
+  "meaning": "road, travel"
+ },
+ "homichle": {
+  "type": "Root",
+  "meaning": "fog, mist"
+ },
+ "homo": {
+  "type": "Root",
+  "meaning": "person, human"
+ },
+ "homos": {
+  "type": "Root",
+  "meaning": "same"
+ },
+ "hydor": {
+  "type": "Root",
+  "meaning": "water"
+ },
+ "hypnos": {
+  "type": "Root",
+  "meaning": "sleep"
+ },
+ "hypos": {
+  "type": "Root",
+  "meaning": "under"
+ },
+ "iatreia": {
+  "type": "Root",
+  "meaning": "medical healing"
+ },
+ "iatros": {
+  "type": "Root",
+  "meaning": "doctor"
+ },
+ "ichthys": {
+  "type": "Root",
+  "meaning": "fish"
+ },
+ "incendo": {
+  "type": "Root",
+  "meaning": "to set fire"
+ },
+ "infans": {
+  "type": "Root",
+  "meaning": "baby"
+ },
+ "internus": {
+  "type": "Root",
+  "meaning": "inside"
+ },
+ "intimus": {
+  "type": "Root",
+  "meaning": "innermost"
+ },
+ "kakos": {
+  "type": "Root",
+  "meaning": "bad, ugly"
+ },
+ "kallos": {
+  "type": "Root",
+  "meaning": "beauty"
+ },
+ "kardia": {
+  "type": "Root",
+  "meaning": "heart"
+ },
+ "kenos": {
+  "type": "Root",
+  "meaning": "empty"
+ },
+ "kentron": {
+  "type": "Root",
+  "meaning": "center"
+ },
+ "kinesis": {
+  "type": "Root",
+  "meaning": "motion"
+ },
+ "klaein": {
+  "type": "Root",
+  "meaning": "break"
+ },
+ "klepte": {
+  "type": "Root",
+  "meaning": "thief"
+ },
+ "kleptes": {
+  "type": "Root",
+  "meaning": "thief"
+ },
+ "klimax": {
+  "type": "Root",
+  "meaning": "ladder, stairs"
+ },
+ "koitos": {
+  "type": "Root",
+  "meaning": "bed, sexual intercourse"
+ },
+ "kopros": {
+  "type": "Root",
+  "meaning": "dung, feces"
+ },
+ "kosmos": {
+  "type": "Root",
+  "meaning": "universe"
+ },
+ "kyon": {
+  "type": "Root",
+  "meaning": "dog"
+ },
+ "lalia": {
+  "type": "Root",
+  "meaning": "talk, speech"
+ },
+ "lascivia": {
+  "type": "Root",
+  "meaning": "wantonness"
+ },
+ "latus": {
+  "type": "Root",
+  "meaning": "side"
+ },
+ "leo": {
+  "type": "Root",
+  "meaning": "lion"
+ },
+ "levis": {
+  "type": "Root",
+  "meaning": "light (not heavy)"
+ },
+ "libido": {
+  "type": "Root",
+  "meaning": "pleasure"
+ },
+ "libra": {
+  "type": "Root",
+  "meaning": "balance, pound"
+ },
+ "licere": {
+  "type": "Root",
+  "meaning": "be permitted"
+ },
+ "lingua": {
+  "type": "Root",
+  "meaning": "tongue"
+ },
+ "logos": {
+  "type": "Root",
+  "meaning": "science, study of"
+ },
+ "loquor": {
+  "type": "Root",
+  "meaning": "speak"
+ },
+ "lubricus": {
+  "type": "Root",
+  "meaning": "slippery"
+ },
+ "lupus": {
+  "type": "Root",
+  "meaning": "wolf"
+ },
+ "magnus": {
+  "type": "Root",
+  "meaning": "big, great"
+ },
+ "maieusis": {
+  "type": "Root",
+  "meaning": "midwifery, childbirth"
+ },
+ "malus": {
+  "type": "Root",
+  "meaning": "bad"
+ },
+ "mancy": {
+  "type": "Root",
+  "meaning": "prediction"
+ },
+ "mania": {
+  "type": "Root",
+  "meaning": "madness"
+ },
+ "maritus": {
+  "type": "Root",
+  "meaning": "husband"
+ },
+ "mastos": {
+  "type": "Root",
+  "meaning": "breast"
+ },
+ "mater": {
+  "type": "Root",
+  "meaning": "mother"
+ },
+ "mega": {
+  "type": "Root",
+  "meaning": "great, large, big"
+ },
+ "megas": {
+  "type": "Root",
+  "meaning": "large, great"
+ },
+ "metron": {
+  "type": "Root",
+  "meaning": "measurement"
+ },
+ "metros": {
+  "type": "Root",
+  "meaning": "mother"
+ },
+ "mikros": {
+  "type": "Root",
+  "meaning": "small"
+ },
+ "miles": {
+  "type": "Root",
+  "meaning": "soldier"
+ },
+ "misein": {
+  "type": "Root",
+  "meaning": "hate"
+ },
+ "moneta": {
+  "type": "Root",
+  "meaning": "money"
+ },
+ "monos": {
+  "type": "Root",
+  "meaning": "one"
+ },
+ "mys": {
+  "type": "Root",
+  "meaning": "mouse"
+ },
+ "mysos": {
+  "type": "Root",
+  "meaning": "filth"
+ },
+ "nautes": {
+  "type": "Root",
+  "meaning": "sailor"
+ },
+ "nego": {
+  "type": "Root",
+  "meaning": "to deny"
+ },
+ "neos": {
+  "type": "Root",
+  "meaning": "new"
+ },
+ "nervus": {
+  "type": "Root",
+  "meaning": "nerve"
+ },
+ "neuron": {
+  "type": "Root",
+  "meaning": "nerve"
+ },
+ "noceo": {
+  "type": "Root",
+  "meaning": "to injure"
+ },
+ "nomos": {
+  "type": "Root",
+  "meaning": "law, arrangement"
+ },
+ "nostos": {
+  "type": "Root",
+  "meaning": "a return"
+ },
+ "notus": {
+  "type": "Root",
+  "meaning": "known"
+ },
+ "nox": {
+  "type": "Root",
+  "meaning": "night"
+ },
+ "nykta": {
+  "type": "Root",
+  "meaning": "night, darkness"
+ },
+ "nymphe": {
+  "type": "Root",
+  "meaning": "bride"
+ },
+ "obstetrix": {
+  "type": "Root",
+  "meaning": "midwife"
+ },
+ "ochlos": {
+  "type": "Root",
+  "meaning": "crowd, mob"
+ },
+ "oculus": {
+  "type": "Root",
+  "meaning": "eye"
+ },
+ "odontos": {
+  "type": "Root",
+  "meaning": "tooth"
+ },
+ "odyne": {
+  "type": "Root",
+  "meaning": "pain"
+ },
+ "okto": {
+  "type": "Root",
+  "meaning": "eight"
+ },
+ "ombros": {
+  "type": "Root",
+  "meaning": "rain"
+ },
+ "omnis": {
+  "type": "Root",
+  "meaning": "all"
+ },
+ "onyma": {
+  "type": "Root",
+  "meaning": "name"
+ },
+ "ophis": {
+  "type": "Root",
+  "meaning": "snake"
+ },
+ "ophthalmos": {
+  "type": "Root",
+  "meaning": "eye"
+ },
+ "opsis": {
+  "type": "Root",
+  "meaning": "vision, sight"
+ },
+ "opulentus": {
+  "type": "Root",
+  "meaning": "wealthy"
+ },
+ "opus": {
+  "type": "Root",
+  "meaning": "work"
+ },
+ "orthos": {
+  "type": "Root",
+  "meaning": "straight, correct"
+ },
+ "oscillum": {
+  "type": "Root",
+  "meaning": "a swing"
+ },
+ "osme": {
+  "type": "Root",
+  "meaning": "smell, odor"
+ },
+ "osteon": {
+  "type": "Root",
+  "meaning": "bone"
+ },
+ "ovum": {
+  "type": "Root",
+  "meaning": "egg"
+ },
+ "pachys": {
+  "type": "Root",
+  "meaning": "thick"
+ },
+ "paidos": {
+  "type": "Root",
+  "meaning": "child"
+ },
+ "pan": {
+  "type": "Root",
+  "meaning": "all, every"
+ },
+ "par": {
+  "type": "Root",
+  "meaning": "equal"
+ },
+ "parens": {
+  "type": "Root",
+  "meaning": "parent"
+ },
+ "pareo": {
+  "type": "Root",
+  "meaning": "to give birth, produce"
+ },
+ "pater": {
+  "type": "Root",
+  "meaning": "father"
+ },
+ "pathos": {
+  "type": "Root",
+  "meaning": "suffering, disease"
+ },
+ "peccatum": {
+  "type": "Root",
+  "meaning": "sin"
+ },
+ "pecus": {
+  "type": "Root",
+  "meaning": "cattle"
+ },
+ "pejor": {
+  "type": "Root",
+  "meaning": "worse"
+ },
+ "penia": {
+  "type": "Root",
+  "meaning": "poverty"
+ },
+ "penuria": {
+  "type": "Root",
+  "meaning": "need, neediness"
+ },
+ "phanein": {
+  "type": "Root",
+  "meaning": "show"
+ },
+ "pharmakon": {
+  "type": "Root",
+  "meaning": "drug, medicine"
+ },
+ "phasma": {
+  "type": "Root",
+  "meaning": "ghost, apparition"
+ },
+ "pheme": {
+  "type": "Root",
+  "meaning": "voice"
+ },
+ "phil": {
+  "type": "Root",
+  "meaning": "love"
+ },
+ "philein": {
+  "type": "Root",
+  "meaning": "to love"
+ },
+ "phobia": {
+  "type": "Root",
+  "meaning": "fear"
+ },
+ "phone": {
+  "type": "Root",
+  "meaning": "sound, voice"
+ },
+ "photos": {
+  "type": "Root",
+  "meaning": "light"
+ },
+ "phren": {
+  "type": "Root",
+  "meaning": "mind"
+ },
+ "piscis": {
+  "type": "Root",
+  "meaning": "fish"
+ },
+ "plac": {
+  "type": "Root",
+  "meaning": "please, soothe"
+ },
+ "platys": {
+  "type": "Root",
+  "meaning": "broad, flat"
+ },
+ "ploutos": {
+  "type": "Root",
+  "meaning": "wealth"
+ },
+ "pnigo": {
+  "type": "Root",
+  "meaning": "to choke, smother"
+ },
+ "podos": {
+  "type": "Root",
+  "meaning": "foot"
+ },
+ "poine": {
+  "type": "Root",
+  "meaning": "penalty, punishment"
+ },
+ "poly": {
+  "type": "Root",
+  "meaning": "many"
+ },
+ "polys": {
+  "type": "Root",
+  "meaning": "many"
+ },
+ "porcus": {
+  "type": "Root",
+  "meaning": "pig"
+ },
+ "porne": {
+  "type": "Root",
+  "meaning": "prostitute"
+ },
+ "potamos": {
+  "type": "Root",
+  "meaning": "river"
+ },
+ "potens": {
+  "type": "Root",
+  "meaning": "powerful"
+ },
+ "praesens": {
+  "type": "Root",
+  "meaning": "present, here"
+ },
+ "prurio": {
+  "type": "Root",
+  "meaning": "to itch"
+ },
+ "punctus": {
+  "type": "Root",
+  "meaning": "point"
+ },
+ "pungo": {
+  "type": "Root",
+  "meaning": "to pierce sharply"
+ },
+ "pusillus": {
+  "type": "Root",
+  "meaning": "tiny"
+ },
+ "pyge": {
+  "type": "Root",
+  "meaning": "buttocks"
+ },
+ "pyr": {
+  "type": "Root",
+  "meaning": "fire"
+ },
+ "pyros": {
+  "type": "Root",
+  "meaning": "fire"
+ },
+ "queror": {
+  "type": "Root",
+  "meaning": "to complain"
+ },
+ "rex": {
+  "type": "Root",
+  "meaning": "king"
+ },
+ "rus": {
+  "type": "Root",
+  "meaning": "country, farmland"
+ },
+ "satyros": {
+  "type": "Root",
+  "meaning": "satyr"
+ },
+ "scelus": {
+  "type": "Root",
+  "meaning": "crime"
+ },
+ "sciens": {
+  "type": "Root",
+  "meaning": "knowing"
+ },
+ "scintilla": {
+  "type": "Root",
+  "meaning": "a spark"
+ },
+ "scio": {
+  "type": "Root",
+  "meaning": "know"
+ },
+ "scrib": {
+  "type": "Root",
+  "meaning": "write"
+ },
+ "sect": {
+  "type": "Root",
+  "meaning": "cut"
+ },
+ "sema": {
+  "type": "Root",
+  "meaning": "sign, meaning"
+ },
+ "senex": {
+  "type": "Root",
+  "meaning": "old"
+ },
+ "sequor": {
+  "type": "Root",
+  "meaning": "to follow"
+ },
+ "sidus": {
+  "type": "Root",
+  "meaning": "star"
+ },
+ "similis": {
+  "type": "Root",
+  "meaning": "like, similar"
+ },
+ "simulo": {
+  "type": "Root",
+  "meaning": "to copy"
+ },
+ "skopein": {
+  "type": "Root",
+  "meaning": "to view, watch"
+ },
+ "socius": {
+  "type": "Root",
+  "meaning": "companion"
+ },
+ "solus": {
+  "type": "Root",
+  "meaning": "alone"
+ },
+ "soma": {
+  "type": "Root",
+  "meaning": "body"
+ },
+ "somnus": {
+  "type": "Root",
+  "meaning": "sleep"
+ },
+ "sophos": {
+  "type": "Root",
+  "meaning": "wise"
+ },
+ "sopor": {
+  "type": "Root",
+  "meaning": "sleep"
+ },
+ "soror": {
+  "type": "Root",
+  "meaning": "sister"
+ },
+ "spect": {
+  "type": "Root",
+  "meaning": "look, see"
+ },
+ "spectron": {
+  "type": "Root",
+  "meaning": "mirror"
+ },
+ "sphygmos": {
+  "type": "Root",
+  "meaning": "pulse"
+ },
+ "spic": {
+  "type": "Root",
+  "meaning": "look, see"
+ },
+ "sthenos": {
+  "type": "Root",
+  "meaning": "strength"
+ },
+ "stoa": {
+  "type": "Root",
+  "meaning": "porch"
+ },
+ "strepo": {
+  "type": "Root",
+  "meaning": "to make a noise"
+ },
+ "stygos": {
+  "type": "Root",
+  "meaning": "hell, the river Styx"
+ },
+ "sui": {
+  "type": "Root",
+  "meaning": "of oneself"
+ },
+ "summus": {
+  "type": "Root",
+  "meaning": "highest"
+ },
+ "sykon": {
+  "type": "Root",
+  "meaning": "fig"
+ },
+ "syn": {
+  "type": "Root",
+  "meaning": "together, with"
+ },
+ "taceo": {
+  "type": "Root",
+  "meaning": "be silent"
+ },
+ "tainia": {
+  "type": "Root",
+  "meaning": "ribbon, tapeworm"
+ },
+ "taphe": {
+  "type": "Root",
+  "meaning": "burial"
+ },
+ "taxis": {
+  "type": "Root",
+  "meaning": "arrangement"
+ },
+ "tensio": {
+  "type": "Root",
+  "meaning": "stretching"
+ },
+ "teras": {
+  "type": "Root",
+  "meaning": "monster, freak"
+ },
+ "thalassa": {
+  "type": "Root",
+  "meaning": "sea"
+ },
+ "thanatos": {
+  "type": "Root",
+  "meaning": "death"
+ },
+ "theos": {
+  "type": "Root",
+  "meaning": "god"
+ },
+ "therapeia": {
+  "type": "Root",
+  "meaning": "treatment, healing"
+ },
+ "therme": {
+  "type": "Root",
+  "meaning": "heat"
+ },
+ "thrix": {
+  "type": "Root",
+  "meaning": "hair"
+ },
+ "toxikon": {
+  "type": "Root",
+  "meaning": "poison"
+ },
+ "trepido": {
+  "type": "Root",
+  "meaning": "to tremble"
+ },
+ "triskaideka": {
+  "type": "Root",
+  "meaning": "thirteen"
+ },
+ "ubique": {
+  "type": "Root",
+  "meaning": "everywhere"
+ },
+ "unus": {
+  "type": "Root",
+  "meaning": "one"
+ },
+ "urbs": {
+  "type": "Root",
+  "meaning": "city"
+ },
+ "ursus": {
+  "type": "Root",
+  "meaning": "bear"
+ },
+ "uxor": {
+  "type": "Root",
+  "meaning": "wife"
+ },
+ "vacillo": {
+  "type": "Root",
+  "meaning": "to sway"
+ },
+ "vale": {
+  "type": "Root",
+  "meaning": "farewell"
+ },
+ "valens": {
+  "type": "Root",
+  "meaning": "strong, having value"
+ },
+ "vanesco": {
+  "type": "Root",
+  "meaning": "to vanish"
+ },
+ "vegeto": {
+  "type": "Root",
+  "meaning": "to live and grow"
+ },
+ "venter": {
+  "type": "Root",
+  "meaning": "belly"
+ },
+ "verbum": {
+  "type": "Root",
+  "meaning": "word"
+ },
+ "vert": {
+  "type": "Root",
+  "meaning": "turn"
+ },
+ "vetus": {
+  "type": "Root",
+  "meaning": "old"
+ },
+ "via": {
+  "type": "Root",
+  "meaning": "way"
+ },
+ "vir": {
+  "type": "Root",
+  "meaning": "man"
+ },
+ "virtus": {
+  "type": "Root",
+  "meaning": "virtue, skill"
+ },
+ "vita": {
+  "type": "Root",
+  "meaning": "life"
+ },
+ "vivo": {
+  "type": "Root",
+  "meaning": "to live"
+ },
+ "volo": {
+  "type": "Root",
+  "meaning": "wish, be willing"
+ },
+ "volvo": {
+  "type": "Root",
+  "meaning": "roll, turn"
+ },
+ "voro": {
+  "type": "Root",
+  "meaning": "to devour"
+ },
+ "vox": {
+  "type": "Root",
+  "meaning": "voice"
+ },
+ "vulpus": {
+  "type": "Root",
+  "meaning": "fox"
+ },
+ "xenos": {
+  "type": "Root",
+  "meaning": "stranger, foreigner"
+ },
+ "xylon": {
+  "type": "Root",
+  "meaning": "wood"
+ },
+ "zoion": {
+  "type": "Root",
+  "meaning": "animal"
+ },
+ "-able": {
+  "type": "Suffix",
+  "meaning": "can be; able to be"
+ },
+ "-ac": {
+  "type": "Suffix",
+  "meaning": "relating to, one who"
+ },
+ "-acy": {
+  "type": "Suffix",
+  "meaning": "state or quality of"
+ },
+ "-age": {
+  "type": "Suffix",
+  "meaning": "result or state of"
+ },
+ "-al": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-an": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ance": {
+  "type": "Suffix",
+  "meaning": "state or action of"
+ },
+ "-ant": {
+  "type": "Suffix",
+  "meaning": "one who, being"
+ },
+ "-ar": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ars": {
+  "type": "Suffix",
+  "meaning": "pair of"
+ },
+ "-ary": {
+  "type": "Suffix",
+  "meaning": "relating to, place for"
+ },
+ "-ate": {
+  "type": "Suffix",
+  "meaning": "to do"
+ },
+ "-ation": {
+  "type": "Suffix",
+  "meaning": "act of"
+ },
+ "-ative": {
+  "type": "Suffix",
+  "meaning": "tending to"
+ },
+ "-ator": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-cation": {
+  "type": "Suffix",
+  "meaning": "act of"
+ },
+ "-cide": {
+  "type": "Suffix",
+  "meaning": "killing"
+ },
+ "-cle": {
+  "type": "Suffix",
+  "meaning": "small thing"
+ },
+ "-cy": {
+  "type": "Suffix",
+  "meaning": "state or quality of"
+ },
+ "-ed": {
+  "type": "Suffix",
+  "meaning": "having the quality of"
+ },
+ "-ence": {
+  "type": "Suffix",
+  "meaning": "state or process of"
+ },
+ "-ency": {
+  "type": "Suffix",
+  "meaning": "state or quality of"
+ },
+ "-ent": {
+  "type": "Suffix",
+  "meaning": "being, state of"
+ },
+ "-er": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-escent": {
+  "type": "Suffix",
+  "meaning": "growing, becoming"
+ },
+ "-ety": {
+  "type": "Suffix",
+  "meaning": "state of"
+ },
+ "-ful": {
+  "type": "Suffix",
+  "meaning": "full of"
+ },
+ "-fy": {
+  "type": "Suffix",
+  "meaning": "to make"
+ },
+ "-gram": {
+  "type": "Suffix",
+  "meaning": "record"
+ },
+ "-graph": {
+  "type": "Suffix",
+  "meaning": "instrument that records"
+ },
+ "-ia": {
+  "type": "Suffix",
+  "meaning": "condition or state"
+ },
+ "-ial": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ian": {
+  "type": "Suffix",
+  "meaning": "relating to, one who"
+ },
+ "-iasis": {
+  "type": "Suffix",
+  "meaning": "abnormal condition"
+ },
+ "-ible": {
+  "type": "Suffix",
+  "meaning": "can be; able to be"
+ },
+ "-ic": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ical": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ician": {
+  "type": "Suffix",
+  "meaning": "expert"
+ },
+ "-ics": {
+  "type": "Suffix",
+  "meaning": "study or practice of"
+ },
+ "-id": {
+  "type": "Suffix",
+  "meaning": "state of, quality of"
+ },
+ "-ier": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-in": {
+  "type": "Suffix",
+  "meaning": "chemical substance"
+ },
+ "-ine": {
+  "type": "Suffix",
+  "meaning": "like, similar; characteristic of"
+ },
+ "-ing": {
+  "type": "Suffix",
+  "meaning": "doing; having the quality of"
+ },
+ "-ion": {
+  "type": "Suffix",
+  "meaning": "act of, state of"
+ },
+ "-is": {
+  "type": "Suffix",
+  "meaning": "thing that"
+ },
+ "-ish": {
+  "type": "Suffix",
+  "meaning": "like, somewhat"
+ },
+ "-ism": {
+  "type": "Suffix",
+  "meaning": "practice or belief"
+ },
+ "-ist": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-istic": {
+  "type": "Suffix",
+  "meaning": "relating to"
+ },
+ "-ite": {
+  "type": "Suffix",
+  "meaning": "one who lives in; follower of"
+ },
+ "-itis": {
+  "type": "Suffix",
+  "meaning": "inflammation"
+ },
+ "-ity": {
+  "type": "Suffix",
+  "meaning": "state of"
+ },
+ "-ium": {
+  "type": "Suffix",
+  "meaning": "place where"
+ },
+ "-ive": {
+  "type": "Suffix",
+  "meaning": "tending to"
+ },
+ "-ize": {
+  "type": "Suffix",
+  "meaning": "to make"
+ },
+ "-le": {
+  "type": "Suffix",
+  "meaning": "thing that"
+ },
+ "-ly": {
+  "type": "Suffix",
+  "meaning": "in a way that is"
+ },
+ "-ment": {
+  "type": "Suffix",
+  "meaning": "result or act of"
+ },
+ "-mony": {
+  "type": "Suffix",
+  "meaning": "state, condition"
+ },
+ "-nate": {
+  "type": "Suffix",
+  "meaning": "to do"
+ },
+ "-ness": {
+  "type": "Suffix",
+  "meaning": "state of"
+ },
+ "-oid": {
+  "type": "Suffix",
+  "meaning": "resembling"
+ },
+ "-or": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-ory": {
+  "type": "Suffix",
+  "meaning": "adjective suffix"
+ },
+ "-ose": {
+  "type": "Suffix",
+  "meaning": "full of"
+ },
+ "-osis": {
+  "type": "Suffix",
+  "meaning": "abnormal or diseased condition"
+ },
+ "-ous": {
+  "type": "Suffix",
+  "meaning": "full of"
+ },
+ "-practor": {
+  "type": "Suffix",
+  "meaning": "one who practices"
+ },
+ "-rie": {
+  "type": "Suffix",
+  "meaning": "quality of"
+ },
+ "-ry": {
+  "type": "Suffix",
+  "meaning": "act, state, or practice of"
+ },
+ "-tion": {
+  "type": "Suffix",
+  "meaning": "act of"
+ },
+ "-tude": {
+  "type": "Suffix",
+  "meaning": "state or quality of"
+ },
+ "-té": {
+  "type": "Suffix",
+  "meaning": "state or quality of"
+ },
+ "-ue": {
+  "type": "Suffix",
+  "meaning": "one who"
+ },
+ "-y": {
+  "type": "Suffix",
+  "meaning": "state or practice of"
+ }
+}

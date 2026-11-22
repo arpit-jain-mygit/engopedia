@@ -1,0 +1,92 @@
+[
+ {
+  "word": "binoculars",
+  "question": "The bird-watcher carried a pair of field glasses to see distant birds. Her glasses are called:",
+  "options": [
+   "binoculars",
+   "monocle",
+   "barometer",
+   "podium"
+  ],
+  "correct": "A",
+  "explanation": "binoculars: A pair of field glasses for both eyes.",
+  "reasons": {
+   "A": "Correct: A pair of field glasses for both eyes.",
+   "B": "Wrong: A lens worn over one eye.",
+   "C": "Wrong: An instrument that measures atmospheric pressure.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "inoculate",
+  "question": "The doctor gave the children an injection of a germ serum to build immunity. He would:",
+  "options": [
+   "alleviate",
+   "inoculate",
+   "levitate",
+   "vacillate"
+  ],
+  "correct": "B",
+  "explanation": "inoculate: To inject a germ or serum to build immunity.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Correct: To inject a germ or serum to build immunity.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To waver or keep changing your mind."
+  }
+ },
+ {
+  "word": "monocle",
+  "question": "The eyeglass that a gentleman sometimes fixed in just one eye is a:",
+  "options": [
+   "binoculars",
+   "tripod",
+   "monocle",
+   "podium"
+  ],
+  "correct": "C",
+  "explanation": "monocle: A lens worn over one eye.",
+  "reasons": {
+   "A": "Wrong: A pair of field glasses for both eyes.",
+   "B": "Wrong: A three-legged stand for a camera.",
+   "C": "Correct: A lens worn over one eye.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "ocular",
+  "question": "The doctor examined the eye and its power of sight. The examination was:",
+  "options": [
+   "auricular",
+   "cardiac",
+   "dermatological",
+   "ocular"
+  ],
+  "correct": "D",
+  "explanation": "ocular: Relating to the eye.",
+  "reasons": {
+   "A": "Wrong: Relating to the ear or an auricle.",
+   "B": "Wrong: Relating to the heart.",
+   "C": "Wrong: Relating to skin medicine.",
+   "D": "Correct: Relating to the eye."
+  }
+ },
+ {
+  "word": "oculist",
+  "question": "The specialist in eye treatment and vision problems is an:",
+  "options": [
+   "oculist",
+   "neurologist",
+   "dermatologist",
+   "gynecologist"
+  ],
+  "correct": "A",
+  "explanation": "oculist: A medical specialist in the eye.",
+  "reasons": {
+   "A": "Correct: A medical specialist in the eye.",
+   "B": "Wrong: A doctor who treats the nervous system.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Wrong: A doctor who treats women's diseases."
+  }
+ }
+]

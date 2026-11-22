@@ -1,0 +1,20 @@
+[
+ {
+  "word": "bibliophile",
+  "question": "A collector fills every room of his house with rare first editions and spends his savings in old bookshops. He is a:",
+  "options": [
+   "Bibliophile",
+   "Bon vivant",
+   "Anglophile",
+   "Francophile"
+  ],
+  "correct": "A",
+  "explanation": "Biblion (book) + philein (to love): a lover of books.",
+  "reasons": {
+   "A": "Correct: a lover and collector of books.",
+   "B": "Wrong: a lover of fine food, wine and luxury; this man spends on books.",
+   "C": "Wrong: a lover of English culture.",
+   "D": "Wrong: a lover of France and French culture."
+  }
+ }
+]

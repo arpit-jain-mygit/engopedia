@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ailurophobia",
+  "question": "A visitor freezes whenever a soft, whiskered, purring pet walks across the room, and asks the host to lock it away. The visitor fears:",
+  "options": [
+   "Cynophobia",
+   "Ailurophobia",
+   "Ophidiophobia",
+   "Hippophobia"
+  ],
+  "correct": "B",
+  "explanation": "Ailouros (cat) + phobia = fear of cats.",
+  "reasons": {
+   "A": "Wrong: fear of dogs.",
+   "B": "Correct: ailouros means cat, so the fear is of cats.",
+   "C": "Wrong: fear of snakes.",
+   "D": "Wrong: fear of horses."
+  }
+ }
+]

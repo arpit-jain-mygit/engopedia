@@ -1,0 +1,272 @@
+[
+ {
+  "word": "barometer",
+  "question": "The instrument at the weather station measures atmospheric pressure. The instrument is a:",
+  "options": [
+   "thermometer",
+   "metronome",
+   "chronometer",
+   "barometer"
+  ],
+  "correct": "D",
+  "explanation": "barometer: An instrument that measures atmospheric pressure.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures heat.",
+   "B": "Wrong: A device that ticks to keep a steady beat for music.",
+   "C": "Wrong: A very accurate timepiece.",
+   "D": "Correct: An instrument that measures atmospheric pressure."
+  }
+ },
+ {
+  "word": "barometric",
+  "question": "The forecaster studied the air pressure readings from the instrument. These readings were:",
+  "options": [
+   "barometric",
+   "chronometric",
+   "geometric",
+   "optometric"
+  ],
+  "correct": "A",
+  "explanation": "barometric: Relating to the barometer or to air pressure.",
+  "reasons": {
+   "A": "Correct: Relating to the barometer or to air pressure.",
+   "B": "Wrong: Relating to the measurement of time.",
+   "C": "Wrong: Relating to geometry; made of regular lines and shapes.",
+   "D": "Wrong: Relating to the measurement of vision."
+  }
+ },
+ {
+  "word": "chronometer",
+  "question": "The sailor carried a very accurate timepiece to measure time at sea. He used a:",
+  "options": [
+   "barometer",
+   "chronometer",
+   "thermometer",
+   "metronome"
+  ],
+  "correct": "B",
+  "explanation": "chronometer: A very accurate timepiece.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures atmospheric pressure.",
+   "B": "Correct: A very accurate timepiece.",
+   "C": "Wrong: An instrument that measures heat.",
+   "D": "Wrong: A device that ticks to keep a steady beat for music."
+  }
+ },
+ {
+  "word": "chronometric",
+  "question": "The clock's precise measurement of time was highly accurate. Its measuring was:",
+  "options": [
+   "barometric",
+   "geometric",
+   "chronometric",
+   "optometric"
+  ],
+  "correct": "C",
+  "explanation": "chronometric: Relating to the measurement of time.",
+  "reasons": {
+   "A": "Wrong: Relating to the barometer or to air pressure.",
+   "B": "Wrong: Relating to geometry; made of regular lines and shapes.",
+   "C": "Correct: Relating to the measurement of time.",
+   "D": "Wrong: Relating to the measurement of vision."
+  }
+ },
+ {
+  "word": "chronometry",
+  "question": "The measurement of time, especially with precise clocks, is called:",
+  "options": [
+   "geometry",
+   "optometry",
+   "metronome",
+   "chronometry"
+  ],
+  "correct": "D",
+  "explanation": "chronometry: The measurement of time.",
+  "reasons": {
+   "A": "Wrong: The branch of mathematics about shapes, angles, and measurement.",
+   "B": "Wrong: The profession of measuring vision.",
+   "C": "Wrong: A device that ticks to keep a steady beat for music.",
+   "D": "Correct: The measurement of time."
+  }
+ },
+ {
+  "word": "geometric",
+  "question": "The artist's design used regular shapes of squares, triangles, and circles. The design was:",
+  "options": [
+   "geometric",
+   "barometric",
+   "optometric",
+   "chronometric"
+  ],
+  "correct": "A",
+  "explanation": "geometric: Relating to geometry; made of regular lines and shapes.",
+  "reasons": {
+   "A": "Correct: Relating to geometry; made of regular lines and shapes.",
+   "B": "Wrong: Relating to the barometer or to air pressure.",
+   "C": "Wrong: Relating to the measurement of vision.",
+   "D": "Wrong: Relating to the measurement of time."
+  }
+ },
+ {
+  "word": "geometrician",
+  "question": "The expert in shapes, angles and lines solved the building's design problem. He is a:",
+  "options": [
+   "optometrist",
+   "geometrician",
+   "chronologist",
+   "entomologist"
+  ],
+  "correct": "B",
+  "explanation": "geometrician: An expert in geometry.",
+  "reasons": {
+   "A": "Wrong: A person who measures vision and prescribes glasses.",
+   "B": "Correct: An expert in geometry.",
+   "C": "Wrong: A person who arranges events in time order.",
+   "D": "Wrong: A scientist who studies insects."
+  }
+ },
+ {
+  "word": "geometry",
+  "question": "The branch of mathematics about shapes and angles is called:",
+  "options": [
+   "optometry",
+   "chronometry",
+   "geometry",
+   "entomology"
+  ],
+  "correct": "C",
+  "explanation": "geometry: The branch of mathematics about shapes, angles, and measurement.",
+  "reasons": {
+   "A": "Wrong: The profession of measuring vision.",
+   "B": "Wrong: The measurement of time.",
+   "C": "Correct: The branch of mathematics about shapes, angles, and measurement.",
+   "D": "Wrong: The science of insects."
+  }
+ },
+ {
+  "word": "metronome",
+  "question": "The musician used a device that ticks to keep a steady beat while practising. The device is a:",
+  "options": [
+   "thermometer",
+   "barometer",
+   "chronometer",
+   "metronome"
+  ],
+  "correct": "D",
+  "explanation": "metronome: A device that ticks to keep a steady beat for music.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures heat.",
+   "B": "Wrong: An instrument that measures atmospheric pressure.",
+   "C": "Wrong: A very accurate timepiece.",
+   "D": "Correct: A device that ticks to keep a steady beat for music."
+  }
+ },
+ {
+  "word": "optometric",
+  "question": "The clinic's tests measured how well the eyes can see. These tests were:",
+  "options": [
+   "optometric",
+   "barometric",
+   "geometric",
+   "chronometric"
+  ],
+  "correct": "A",
+  "explanation": "optometric: Relating to the measurement of vision.",
+  "reasons": {
+   "A": "Correct: Relating to the measurement of vision.",
+   "B": "Wrong: Relating to the barometer or to air pressure.",
+   "C": "Wrong: Relating to geometry; made of regular lines and shapes.",
+   "D": "Wrong: Relating to the measurement of time."
+  }
+ },
+ {
+  "word": "optometrical",
+  "question": "The clinic's eye-measuring work and tests of vision were described as:",
+  "options": [
+   "chronological",
+   "optometrical",
+   "geological",
+   "theological"
+  ],
+  "correct": "B",
+  "explanation": "optometrical: Relating to optometry.",
+  "reasons": {
+   "A": "Wrong: In correct time order.",
+   "B": "Correct: Relating to optometry.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "optometrist",
+  "question": "The person who measures vision and prescribes glasses is a:",
+  "options": [
+   "geometrician",
+   "chronologist",
+   "optometrist",
+   "entomologist"
+  ],
+  "correct": "C",
+  "explanation": "optometrist: A person who measures vision and prescribes glasses.",
+  "reasons": {
+   "A": "Wrong: An expert in geometry.",
+   "B": "Wrong: A person who arranges events in time order.",
+   "C": "Correct: A person who measures vision and prescribes glasses.",
+   "D": "Wrong: A scientist who studies insects."
+  }
+ },
+ {
+  "word": "optometry",
+  "question": "The profession of measuring vision and fitting eyeglasses is called:",
+  "options": [
+   "geometry",
+   "chronometry",
+   "entomology",
+   "optometry"
+  ],
+  "correct": "D",
+  "explanation": "optometry: The profession of measuring vision.",
+  "reasons": {
+   "A": "Wrong: The branch of mathematics about shapes, angles, and measurement.",
+   "B": "Wrong: The measurement of time.",
+   "C": "Wrong: The science of insects.",
+   "D": "Correct: The profession of measuring vision."
+  }
+ },
+ {
+  "word": "sphygmomanometer",
+  "question": "The nurse wrapped a cuff around the arm and read the device that measures blood pressure. The device is a:",
+  "options": [
+   "sphygmomanometer",
+   "thermometer",
+   "barometer",
+   "metronome"
+  ],
+  "correct": "A",
+  "explanation": "sphygmomanometer: A device for measuring blood pressure.",
+  "reasons": {
+   "A": "Correct: A device for measuring blood pressure.",
+   "B": "Wrong: An instrument that measures heat.",
+   "C": "Wrong: An instrument that measures atmospheric pressure.",
+   "D": "Wrong: A device that ticks to keep a steady beat for music."
+  }
+ },
+ {
+  "word": "thermometer",
+  "question": "The device used to measure heat and body temperature is a:",
+  "options": [
+   "barometer",
+   "thermometer",
+   "chronometer",
+   "metronome"
+  ],
+  "correct": "B",
+  "explanation": "thermometer: An instrument that measures heat.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures atmospheric pressure.",
+   "B": "Correct: An instrument that measures heat.",
+   "C": "Wrong: A very accurate timepiece.",
+   "D": "Wrong: A device that ticks to keep a steady beat for music."
+  }
+ }
+]

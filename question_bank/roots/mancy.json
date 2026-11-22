@@ -1,0 +1,56 @@
+[
+ {
+  "word": "chiromancer",
+  "question": "The fortune teller read the lines in people's hands to predict their futures. She is a:",
+  "options": [
+   "chiromancer",
+   "chirographer",
+   "graphologist",
+   "astrologer"
+  ],
+  "correct": "A",
+  "explanation": "chiromancer: A person who reads palms.",
+  "reasons": {
+   "A": "Correct: A person who reads palms.",
+   "B": "Wrong: An expert in handwriting or penmanship.",
+   "C": "Wrong: A person who analyzes handwriting to judge character.",
+   "D": "Wrong: A person who studies the stars to predict human events."
+  }
+ },
+ {
+  "word": "chiromancy",
+  "question": "Foretelling the future by reading the palm of the hand is called:",
+  "options": [
+   "chirography",
+   "chiromancy",
+   "astrology",
+   "graphology"
+  ],
+  "correct": "B",
+  "explanation": "chiromancy: Palm reading; foretelling the future by the hand.",
+  "reasons": {
+   "A": "Wrong: Handwriting or penmanship.",
+   "B": "Correct: Palm reading; foretelling the future by the hand.",
+   "C": "Wrong: The belief that the stars and planets affect human events.",
+   "D": "Wrong: The study of handwriting to judge character."
+  }
+ },
+ {
+  "word": "chiromantic",
+  "question": "Her predictions were based on palm reading and the lines of the hand. Her predictions were:",
+  "options": [
+   "chirographic",
+   "calligraphic",
+   "chiromantic",
+   "astrological"
+  ],
+  "correct": "C",
+  "explanation": "chiromantic: Relating to palm reading.",
+  "reasons": {
+   "A": "Wrong: Relating to handwriting.",
+   "B": "Wrong: Relating to beautiful handwriting.",
+   "C": "Correct: Relating to palm reading.",
+   "D": "Wrong: Relating to astrology."
+  }
+ }
+]

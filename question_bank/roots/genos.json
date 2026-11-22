@@ -1,0 +1,56 @@
+[
+ {
+  "word": "genocidal",
+  "question": "The regime's campaign to kill a whole people was:",
+  "options": [
+   "fratricidal",
+   "matricidal",
+   "suicidal",
+   "genocidal"
+  ],
+  "correct": "D",
+  "explanation": "genocidal: Relating to killing a whole group of people.",
+  "reasons": {
+   "A": "Wrong: Relating to killing one's brother.",
+   "B": "Wrong: Relating to the killing of one's mother.",
+   "C": "Wrong: Relating to killing oneself.",
+   "D": "Correct: Relating to killing a whole group of people."
+  }
+ },
+ {
+  "word": "genocide",
+  "question": "The deliberate destruction of an entire people is called:",
+  "options": [
+   "genocide",
+   "fratricide",
+   "matricide",
+   "homicide"
+  ],
+  "correct": "A",
+  "explanation": "genocide: The killing of a whole race or nation.",
+  "reasons": {
+   "A": "Correct: The killing of a whole race or nation.",
+   "B": "Wrong: The killing of one's brother.",
+   "C": "Wrong: The killing of one's mother.",
+   "D": "Wrong: The killing of a human being."
+  }
+ },
+ {
+  "word": "genophobia",
+  "question": "The clinical term for an intense fear of birth itself is:",
+  "options": [
+   "maieusiophobia",
+   "genophobia",
+   "gamophobia",
+   "metrophobia"
+  ],
+  "correct": "B",
+  "explanation": "genophobia: Fear of birth.",
+  "reasons": {
+   "A": "Wrong: Fear of childbirth.",
+   "B": "Correct: Fear of birth.",
+   "C": "Wrong: Fear of marriage.",
+   "D": "Wrong: Fear of motherhood."
+  }
+ }
+]

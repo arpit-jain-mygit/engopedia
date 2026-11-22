@@ -1,0 +1,128 @@
+[
+ {
+  "word": "carnivorous",
+  "question": "The hunting cat lives on the flesh of the animals it catches. It is:",
+  "options": [
+   "herbivorous",
+   "omnivorous",
+   "voracious",
+   "carnivorous"
+  ],
+  "correct": "D",
+  "explanation": "carnivorous: Feeding on flesh; meat-eating.",
+  "reasons": {
+   "A": "Wrong: Eating plants only.",
+   "B": "Wrong: Eating everything, both plants and animals.",
+   "C": "Wrong: Greedy; eating or devouring eagerly.",
+   "D": "Correct: Feeding on flesh; meat-eating."
+  }
+ },
+ {
+  "word": "herbivore",
+  "question": "The rabbit eats only grass and plants, so it is an:",
+  "options": [
+   "herbivore",
+   "omnivore",
+   "voracious",
+   "vulpine"
+  ],
+  "correct": "A",
+  "explanation": "herbivore: An animal that eats plants.",
+  "reasons": {
+   "A": "Correct: An animal that eats plants.",
+   "B": "Wrong: An animal that eats both plants and meat.",
+   "C": "Wrong: Greedy; eating or devouring eagerly.",
+   "D": "Wrong: Fox-like; sly or cunning."
+  }
+ },
+ {
+  "word": "herbivorous",
+  "question": "The deer feeds only on leaves and grasses. It is:",
+  "options": [
+   "carnivorous",
+   "herbivorous",
+   "omnivorous",
+   "voracious"
+  ],
+  "correct": "B",
+  "explanation": "herbivorous: Eating plants only.",
+  "reasons": {
+   "A": "Wrong: Feeding on flesh; meat-eating.",
+   "B": "Correct: Eating plants only.",
+   "C": "Wrong: Eating everything, both plants and animals.",
+   "D": "Wrong: Greedy; eating or devouring eagerly."
+  }
+ },
+ {
+  "word": "omnivore",
+  "question": "The pig eats almost anything, both plants and scraps of meat. It is an:",
+  "options": [
+   "herbivore",
+   "voracious",
+   "omnivore",
+   "vulpine"
+  ],
+  "correct": "C",
+  "explanation": "omnivore: An animal that eats both plants and meat.",
+  "reasons": {
+   "A": "Wrong: An animal that eats plants.",
+   "B": "Wrong: Greedy; eating or devouring eagerly.",
+   "C": "Correct: An animal that eats both plants and meat.",
+   "D": "Wrong: Fox-like; sly or cunning."
+  }
+ },
+ {
+  "word": "omnivorous",
+  "question": "The hen eats grains, worms and scraps, eating everything. It is:",
+  "options": [
+   "herbivorous",
+   "carnivorous",
+   "voracious",
+   "omnivorous"
+  ],
+  "correct": "D",
+  "explanation": "omnivorous: Eating everything, both plants and animals.",
+  "reasons": {
+   "A": "Wrong: Eating plants only.",
+   "B": "Wrong: Feeding on flesh; meat-eating.",
+   "C": "Wrong: Greedy; eating or devouring eagerly.",
+   "D": "Correct: Eating everything, both plants and animals."
+  }
+ },
+ {
+  "word": "voracious",
+  "question": "The shark attacked its prey with a greedy, devouring appetite. It was:",
+  "options": [
+   "voracious",
+   "laconic",
+   "placid",
+   "vivid"
+  ],
+  "correct": "A",
+  "explanation": "voracious: Greedy; eating or devouring eagerly.",
+  "reasons": {
+   "A": "Correct: Greedy; eating or devouring eagerly.",
+   "B": "Wrong: Using very few words; brief and to the point.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "voracity",
+  "question": "The starving dog wolfed down the food with greedy appetite. Its greediness is:",
+  "options": [
+   "placidity",
+   "voracity",
+   "garrulity",
+   "reticence"
+  ],
+  "correct": "B",
+  "explanation": "voracity: Greediness; eagerness to consume.",
+  "reasons": {
+   "A": "Wrong: Calmness; peacefulness.",
+   "B": "Correct: Greediness; eagerness to consume.",
+   "C": "Wrong: Constant chatter about trifles.",
+   "D": "Wrong: Unwillingness to speak openly."
+  }
+ }
+]

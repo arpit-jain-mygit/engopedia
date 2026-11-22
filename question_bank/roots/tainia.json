@@ -1,0 +1,20 @@
+[
+ {
+  "word": "taeniophobia",
+  "question": "After reading about a parasite in the gut, a woman refuses to eat meat, unable to stop picturing the long segmented worm. Her fear is of:",
+  "options": [
+   "Ophidiophobia",
+   "Taeniophobia",
+   "Entomophobia",
+   "Bacteriophobia"
+  ],
+  "correct": "B",
+  "explanation": "Tainia (ribbon, tapeworm) + phobia = fear of tapeworms.",
+  "reasons": {
+   "A": "Wrong: fear of snakes.",
+   "B": "Correct: tainia means ribbon or tapeworm, so the fear is of tapeworms.",
+   "C": "Wrong: fear of insects.",
+   "D": "Wrong: fear of germs in general."
+  }
+ }
+]

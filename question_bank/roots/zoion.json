@@ -1,0 +1,110 @@
+[
+ {
+  "word": "zodiac",
+  "question": "The circle of twelve star signs that marks the sun's path through the sky is the:",
+  "options": [
+   "omnibus",
+   "tome",
+   "zodiac",
+   "podium"
+  ],
+  "correct": "C",
+  "explanation": "zodiac: A diagram of the paths of the sun, moon, and planets, with signs named for animals.",
+  "reasons": {
+   "A": "Wrong: A book or law covering many things; a bus for all.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: A diagram of the paths of the sun, moon, and planets, with signs named for animals.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "zodiacal",
+  "question": "The star signs and their charts were used in the reading. The sign-related charts were:",
+  "options": [
+   "nautical",
+   "cardiological",
+   "geological",
+   "zodiacal"
+  ],
+  "correct": "D",
+  "explanation": "zodiacal: Relating to the zodiac.",
+  "reasons": {
+   "A": "Wrong: Relating to ships, sailing, or navigation.",
+   "B": "Wrong: Relating to the study of the heart.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Correct: Relating to the zodiac."
+  }
+ },
+ {
+  "word": "zoological",
+  "question": "The museum's department of animal life received a grant. The department was:",
+  "options": [
+   "zoological",
+   "botanical",
+   "geological",
+   "theological"
+  ],
+  "correct": "A",
+  "explanation": "zoological: Relating to animals and their study.",
+  "reasons": {
+   "A": "Correct: Relating to animals and their study.",
+   "B": "Wrong: Relating to plants and their study.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "zoologist",
+  "question": "The scientist who studies animal life in the wild is a:",
+  "options": [
+   "botanist",
+   "zoologist",
+   "geologist",
+   "theologian"
+  ],
+  "correct": "B",
+  "explanation": "zoologist: A scientist who studies animal life.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies plant life.",
+   "B": "Correct: A scientist who studies animal life.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "zoology",
+  "question": "The course on the study of animals and their behaviour is called:",
+  "options": [
+   "botany",
+   "geology",
+   "zoology",
+   "theology"
+  ],
+  "correct": "C",
+  "explanation": "zoology: The science of animal life.",
+  "reasons": {
+   "A": "Wrong: The science of plant life.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Correct: The science of animal life.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "zoophobia",
+  "question": "The fear of animals in general, of all creatures, is called:",
+  "options": [
+   "ichthyophobia",
+   "entomophobia",
+   "ophidiophobia",
+   "zoophobia"
+  ],
+  "correct": "D",
+  "explanation": "zoophobia: Fear of animals.",
+  "reasons": {
+   "A": "Wrong: Fear of fish.",
+   "B": "Wrong: Fear of insects.",
+   "C": "Wrong: Fear of snakes.",
+   "D": "Correct: Fear of animals."
+  }
+ }
+]

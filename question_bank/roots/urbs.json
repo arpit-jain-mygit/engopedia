@@ -1,0 +1,236 @@
+[
+ {
+  "word": "exurb",
+  "question": "The outlying area beyond the suburbs, where wealthy commuters live, is an:",
+  "options": [
+   "exurb",
+   "urbane",
+   "rustic",
+   "rural"
+  ],
+  "correct": "A",
+  "explanation": "exurb: An area far beyond the suburbs, home to wealthy families.",
+  "reasons": {
+   "A": "Correct: An area far beyond the suburbs, home to wealthy families.",
+   "B": "Wrong: Polished, courteous, and at ease in any company.",
+   "C": "Wrong: Simple, plain, and rough, in the country style.",
+   "D": "Wrong: Relating to the countryside."
+  }
+ },
+ {
+  "word": "exurban",
+  "question": "The houses in the area beyond the suburbs were built for commuters. They were:",
+  "options": [
+   "suburban",
+   "exurban",
+   "urban",
+   "rural"
+  ],
+  "correct": "B",
+  "explanation": "exurban: Relating to an exurb.",
+  "reasons": {
+   "A": "Wrong: Relating to a suburb.",
+   "B": "Correct: Relating to an exurb.",
+   "C": "Wrong: Relating to a city.",
+   "D": "Wrong: Relating to the countryside."
+  }
+ },
+ {
+  "word": "exurbanite",
+  "question": "The commuter who lives in the area beyond the suburbs is an:",
+  "options": [
+   "suburbanite",
+   "rustic",
+   "exurbanite",
+   "urbane"
+  ],
+  "correct": "C",
+  "explanation": "exurbanite: A person who lives in an exurb.",
+  "reasons": {
+   "A": "Wrong: A person who lives in a suburb.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Correct: A person who lives in an exurb.",
+   "D": "Wrong: Polished, courteous, and at ease in any company."
+  }
+ },
+ {
+  "word": "exurbia",
+  "question": "The region of outer communities beyond the suburbs is called:",
+  "options": [
+   "suburbia",
+   "urbanity",
+   "rusticity",
+   "exurbia"
+  ],
+  "correct": "D",
+  "explanation": "exurbia: The exurbs as a group.",
+  "reasons": {
+   "A": "Wrong: The suburbs as a group.",
+   "B": "Wrong: Polish, courtesy, and sophistication.",
+   "C": "Wrong: Simplicity of country life; roughness.",
+   "D": "Correct: The exurbs as a group."
+  }
+ },
+ {
+  "word": "interurban",
+  "question": "The highway that links two cities runs between them. It is:",
+  "options": [
+   "interurban",
+   "intraurban",
+   "suburban",
+   "exurban"
+  ],
+  "correct": "A",
+  "explanation": "interurban: Between cities.",
+  "reasons": {
+   "A": "Correct: Between cities.",
+   "B": "Wrong: Within a single city.",
+   "C": "Wrong: Relating to a suburb.",
+   "D": "Wrong: Relating to an exurb."
+  }
+ },
+ {
+  "word": "intraurban",
+  "question": "The bus route that serves only one city runs within it. The route is:",
+  "options": [
+   "interurban",
+   "intraurban",
+   "suburban",
+   "exurban"
+  ],
+  "correct": "B",
+  "explanation": "intraurban: Within a single city.",
+  "reasons": {
+   "A": "Wrong: Between cities.",
+   "B": "Correct: Within a single city.",
+   "C": "Wrong: Relating to a suburb.",
+   "D": "Wrong: Relating to an exurb."
+  }
+ },
+ {
+  "word": "suburb",
+  "question": "The residential area on the edge of a city is a:",
+  "options": [
+   "rustic",
+   "rural",
+   "suburb",
+   "urbane"
+  ],
+  "correct": "C",
+  "explanation": "suburb: A residential area near a city.",
+  "reasons": {
+   "A": "Wrong: Simple, plain, and rough, in the country style.",
+   "B": "Wrong: Relating to the countryside.",
+   "C": "Correct: A residential area near a city.",
+   "D": "Wrong: Polished, courteous, and at ease in any company."
+  }
+ },
+ {
+  "word": "suburban",
+  "question": "The quiet, leafy neighbourhoods near the city centre are:",
+  "options": [
+   "urban",
+   "rustic",
+   "rural",
+   "suburban"
+  ],
+  "correct": "D",
+  "explanation": "suburban: Relating to a suburb.",
+  "reasons": {
+   "A": "Wrong: Relating to a city.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Wrong: Relating to the countryside.",
+   "D": "Correct: Relating to a suburb."
+  }
+ },
+ {
+  "word": "suburbanite",
+  "question": "The family who lives in a residential area on the city's edge is a:",
+  "options": [
+   "suburbanite",
+   "exurbanite",
+   "rustic",
+   "urbane"
+  ],
+  "correct": "A",
+  "explanation": "suburbanite: A person who lives in a suburb.",
+  "reasons": {
+   "A": "Correct: A person who lives in a suburb.",
+   "B": "Wrong: A person who lives in an exurb.",
+   "C": "Wrong: Simple, plain, and rough, in the country style.",
+   "D": "Wrong: Polished, courteous, and at ease in any company."
+  }
+ },
+ {
+  "word": "suburbia",
+  "question": "The residential districts near the city, as a whole, are called:",
+  "options": [
+   "exurbia",
+   "suburbia",
+   "urbanity",
+   "rusticity"
+  ],
+  "correct": "B",
+  "explanation": "suburbia: The suburbs as a group.",
+  "reasons": {
+   "A": "Wrong: The exurbs as a group.",
+   "B": "Correct: The suburbs as a group.",
+   "C": "Wrong: Polish, courtesy, and sophistication.",
+   "D": "Wrong: Simplicity of country life; roughness."
+  }
+ },
+ {
+  "word": "urban",
+  "question": "The busy city centre with tall buildings and crowds was:",
+  "options": [
+   "rural",
+   "rustic",
+   "urban",
+   "suburban"
+  ],
+  "correct": "C",
+  "explanation": "urban: Relating to a city.",
+  "reasons": {
+   "A": "Wrong: Relating to the countryside.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Correct: Relating to a city.",
+   "D": "Wrong: Relating to a suburb."
+  }
+ },
+ {
+  "word": "urbane",
+  "question": "The polished diplomat was courteous, sophisticated and at ease in any company. He was:",
+  "options": [
+   "rustic",
+   "egregious",
+   "placid",
+   "urbane"
+  ],
+  "correct": "D",
+  "explanation": "urbane: Polished, courteous, and at ease in any company.",
+  "reasons": {
+   "A": "Wrong: Simple, plain, and rough, in the country style.",
+   "B": "Wrong: Outstandingly bad or vicious.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Polished, courteous, and at ease in any company."
+  }
+ },
+ {
+  "word": "urbanity",
+  "question": "His polished manners and courtesy made him charming at every party. This sophistication is his:",
+  "options": [
+   "urbanity",
+   "rusticity",
+   "penury",
+   "garrulity"
+  ],
+  "correct": "A",
+  "explanation": "urbanity: Polish, courtesy, and sophistication.",
+  "reasons": {
+   "A": "Correct: Polish, courtesy, and sophistication.",
+   "B": "Wrong: Simplicity of country life; roughness.",
+   "C": "Wrong: Extreme poverty; lack of necessities.",
+   "D": "Wrong: Constant chatter about trifles."
+  }
+ }
+]

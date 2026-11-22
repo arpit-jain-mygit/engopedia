@@ -1,0 +1,74 @@
+[
+ {
+  "word": "geraphobia",
+  "question": "She dreaded the signs of aging and the decline of old age. Her fear is:",
+  "options": [
+   "gerontophobia",
+   "gamophobia",
+   "geraphobia",
+   "geumophobia"
+  ],
+  "correct": "C",
+  "explanation": "geraphobia: Fear of old age.",
+  "reasons": {
+   "A": "Wrong: Fear of old men.",
+   "B": "Wrong: Fear of marriage.",
+   "C": "Correct: Fear of old age.",
+   "D": "Wrong: Fear of taste."
+  }
+ },
+ {
+  "word": "geriatric",
+  "question": "The hospital ward gave medical care to the elderly. Its care was:",
+  "options": [
+   "pediatric",
+   "podiatric",
+   "psychiatric",
+   "geriatric"
+  ],
+  "correct": "D",
+  "explanation": "geriatric: Relating to the medical care of the elderly.",
+  "reasons": {
+   "A": "Wrong: Relating to children's medicine.",
+   "B": "Wrong: Relating to foot care.",
+   "C": "Wrong: Relating to the treatment of mental disorders.",
+   "D": "Correct: Relating to the medical care of the elderly."
+  }
+ },
+ {
+  "word": "geriatrician",
+  "question": "The doctor who specializes in caring for older patients is a:",
+  "options": [
+   "geriatrician",
+   "pediatrician",
+   "podiatrist",
+   "psychiatrist"
+  ],
+  "correct": "A",
+  "explanation": "geriatrician: A doctor who specializes in the elderly.",
+  "reasons": {
+   "A": "Correct: A doctor who specializes in the elderly.",
+   "B": "Wrong: A doctor who treats children.",
+   "C": "Wrong: A practitioner who treats minor foot ailments.",
+   "D": "Wrong: A doctor who treats mental and emotional disorders."
+  }
+ },
+ {
+  "word": "geriatrics",
+  "question": "The medical care of the elderly is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "podiatry",
+   "psychiatry"
+  ],
+  "correct": "B",
+  "explanation": "geriatrics: The medical care of the elderly.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Correct: The medical care of the elderly.",
+   "C": "Wrong: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ }
+]

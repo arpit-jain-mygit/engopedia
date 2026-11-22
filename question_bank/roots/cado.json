@@ -1,0 +1,74 @@
+[
+ {
+  "word": "cadaver",
+  "question": "The corpse was placed on the table for the medical class to study. The body was a:",
+  "options": [
+   "tome",
+   "podium",
+   "cadaver",
+   "tripod"
+  ],
+  "correct": "C",
+  "explanation": "cadaver: A corpse, especially one used for dissection.",
+  "reasons": {
+   "A": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "B": "Wrong: A speaker's platform.",
+   "C": "Correct: A corpse, especially one used for dissection.",
+   "D": "Wrong: A three-legged stand for a camera."
+  }
+ },
+ {
+  "word": "cadaverous",
+  "question": "His face was thin and pale, like a corpse, and his frame was gaunt. His look was:",
+  "options": [
+   "animated",
+   "vivacious",
+   "vital",
+   "cadaverous"
+  ],
+  "correct": "D",
+  "explanation": "cadaverous: Thin, pale, and gaunt, like a corpse.",
+  "reasons": {
+   "A": "Wrong: Full of life and energy.",
+   "B": "Wrong: Full of life, joy, and energy.",
+   "C": "Wrong: Essential to life; very important.",
+   "D": "Correct: Thin, pale, and gaunt, like a corpse."
+  }
+ },
+ {
+  "word": "decadence",
+  "question": "The empire sank into moral and physical decay, its luxury turning corrupt. This decay is:",
+  "options": [
+   "decadence",
+   "vitality",
+   "revitalization",
+   "regality"
+  ],
+  "correct": "A",
+  "explanation": "decadence: Moral or physical decay.",
+  "reasons": {
+   "A": "Correct: Moral or physical decay.",
+   "B": "Wrong: Energy and strength for life.",
+   "C": "Wrong: The act of giving new life or vigor.",
+   "D": "Wrong: Royalty; kingly dignity."
+  }
+ },
+ {
+  "word": "decadent",
+  "question": "The wealthy society was falling into corruption and decay. It was:",
+  "options": [
+   "vital",
+   "decadent",
+   "vivacious",
+   "benevolent"
+  ],
+  "correct": "B",
+  "explanation": "decadent: Falling into decay; corrupt.",
+  "reasons": {
+   "A": "Wrong: Essential to life; very important.",
+   "B": "Correct: Falling into decay; corrupt.",
+   "C": "Wrong: Full of life, joy, and energy.",
+   "D": "Wrong: Kind, well disposed, and wishing good for others."
+  }
+ }
+]

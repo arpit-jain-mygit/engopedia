@@ -1,0 +1,20 @@
+[
+ {
+  "word": "emetophobia",
+  "question": "A nurse feels faint and must leave the ward whenever a patient's stomach heaves at the sight of a bowl. Her fear is of:",
+  "options": [
+   "Hypnophobia",
+   "Hematophobia",
+   "Emetophobia",
+   "Hodophobia"
+  ],
+  "correct": "C",
+  "explanation": "Emesis (vomiting) + phobia = fear of vomiting.",
+  "reasons": {
+   "A": "Wrong: fear of sleep.",
+   "B": "Wrong: fear of blood.",
+   "C": "Correct: emesis means vomiting, so the fear is of vomiting.",
+   "D": "Wrong: fear of travel."
+  }
+ }
+]

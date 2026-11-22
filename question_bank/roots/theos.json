@@ -1,0 +1,272 @@
+[
+ {
+  "word": "atheism",
+  "question": "She did not believe in any god at all and held that view openly. Her belief is:",
+  "options": [
+   "monotheism",
+   "pantheism",
+   "atheism",
+   "polytheism"
+  ],
+  "correct": "C",
+  "explanation": "atheism: The belief that there is no God.",
+  "reasons": {
+   "A": "Wrong: The belief in one God.",
+   "B": "Wrong: The belief that God is in all of nature.",
+   "C": "Correct: The belief that there is no God.",
+   "D": "Wrong: Belief in many gods."
+  }
+ },
+ {
+  "word": "atheist",
+  "question": "A person who denies the existence of any god is an:",
+  "options": [
+   "monotheist",
+   "pantheist",
+   "polytheist",
+   "atheist"
+  ],
+  "correct": "D",
+  "explanation": "atheist: A person who does not believe in God.",
+  "reasons": {
+   "A": "Wrong: A person who believes in one God.",
+   "B": "Wrong: A person who believes God is in nature.",
+   "C": "Wrong: A person who believes in many gods.",
+   "D": "Correct: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "atheistic",
+  "question": "The writer's view was that the universe had no god behind it. His view was:",
+  "options": [
+   "atheistic",
+   "monotheistic",
+   "pantheistic",
+   "polytheistic"
+  ],
+  "correct": "A",
+  "explanation": "atheistic: Relating to the belief that there is no God.",
+  "reasons": {
+   "A": "Correct: Relating to the belief that there is no God.",
+   "B": "Wrong: Believing in one God.",
+   "C": "Wrong: Believing God is in nature.",
+   "D": "Wrong: Believing in many gods."
+  }
+ },
+ {
+  "word": "monotheism",
+  "question": "The faith of Jews, Christians and Muslims centres on the belief in one God. Their faith is:",
+  "options": [
+   "polytheism",
+   "monotheism",
+   "pantheism",
+   "atheism"
+  ],
+  "correct": "B",
+  "explanation": "monotheism: The belief in one God.",
+  "reasons": {
+   "A": "Wrong: Belief in many gods.",
+   "B": "Correct: The belief in one God.",
+   "C": "Wrong: The belief that God is in all of nature.",
+   "D": "Wrong: The belief that there is no God."
+  }
+ },
+ {
+  "word": "monotheist",
+  "question": "A believer in a single God is a:",
+  "options": [
+   "polytheist",
+   "pantheist",
+   "monotheist",
+   "atheist"
+  ],
+  "correct": "C",
+  "explanation": "monotheist: A person who believes in one God.",
+  "reasons": {
+   "A": "Wrong: A person who believes in many gods.",
+   "B": "Wrong: A person who believes God is in nature.",
+   "C": "Correct: A person who believes in one God.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "monotheistic",
+  "question": "The religion holds that there is one God only. Its belief is:",
+  "options": [
+   "polytheistic",
+   "atheistic",
+   "pantheistic",
+   "monotheistic"
+  ],
+  "correct": "D",
+  "explanation": "monotheistic: Believing in one God.",
+  "reasons": {
+   "A": "Wrong: Believing in many gods.",
+   "B": "Wrong: Relating to the belief that there is no God.",
+   "C": "Wrong: Believing God is in nature.",
+   "D": "Correct: Believing in one God."
+  }
+ },
+ {
+  "word": "pantheism",
+  "question": "Her belief that the divine is present throughout the natural world is:",
+  "options": [
+   "pantheism",
+   "monotheism",
+   "polytheism",
+   "atheism"
+  ],
+  "correct": "A",
+  "explanation": "pantheism: The belief that God is in all of nature.",
+  "reasons": {
+   "A": "Correct: The belief that God is in all of nature.",
+   "B": "Wrong: The belief in one God.",
+   "C": "Wrong: Belief in many gods.",
+   "D": "Wrong: The belief that there is no God."
+  }
+ },
+ {
+  "word": "pantheist",
+  "question": "The person who believes God is in every tree and river is a:",
+  "options": [
+   "monotheist",
+   "pantheist",
+   "polytheist",
+   "atheist"
+  ],
+  "correct": "B",
+  "explanation": "pantheist: A person who believes God is in nature.",
+  "reasons": {
+   "A": "Wrong: A person who believes in one God.",
+   "B": "Correct: A person who believes God is in nature.",
+   "C": "Wrong: A person who believes in many gods.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "pantheistic",
+  "question": "Her poetry sees God in every part of nature. Her view is:",
+  "options": [
+   "monotheistic",
+   "polytheistic",
+   "pantheistic",
+   "atheistic"
+  ],
+  "correct": "C",
+  "explanation": "pantheistic: Believing God is in nature.",
+  "reasons": {
+   "A": "Wrong: Believing in one God.",
+   "B": "Wrong: Believing in many gods.",
+   "C": "Correct: Believing God is in nature.",
+   "D": "Wrong: Relating to the belief that there is no God."
+  }
+ },
+ {
+  "word": "polytheism",
+  "question": "The ancient Greeks worshipped many gods and goddesses. Their religion was based on:",
+  "options": [
+   "monotheism",
+   "pantheism",
+   "atheism",
+   "polytheism"
+  ],
+  "correct": "D",
+  "explanation": "polytheism: Belief in many gods.",
+  "reasons": {
+   "A": "Wrong: The belief in one God.",
+   "B": "Wrong: The belief that God is in all of nature.",
+   "C": "Wrong: The belief that there is no God.",
+   "D": "Correct: Belief in many gods."
+  }
+ },
+ {
+  "word": "polytheist",
+  "question": "A person who worships many gods is a:",
+  "options": [
+   "polytheist",
+   "monotheist",
+   "pantheist",
+   "atheist"
+  ],
+  "correct": "A",
+  "explanation": "polytheist: A person who believes in many gods.",
+  "reasons": {
+   "A": "Correct: A person who believes in many gods.",
+   "B": "Wrong: A person who believes in one God.",
+   "C": "Wrong: A person who believes God is in nature.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "polytheistic",
+  "question": "The temple honoured many deities; its religion was:",
+  "options": [
+   "monotheistic",
+   "polytheistic",
+   "pantheistic",
+   "atheistic"
+  ],
+  "correct": "B",
+  "explanation": "polytheistic: Believing in many gods.",
+  "reasons": {
+   "A": "Wrong: Believing in one God.",
+   "B": "Correct: Believing in many gods.",
+   "C": "Wrong: Believing God is in nature.",
+   "D": "Wrong: Relating to the belief that there is no God."
+  }
+ },
+ {
+  "word": "theologian",
+  "question": "The scholar who studies religious questions about God is a:",
+  "options": [
+   "zoologist",
+   "geologist",
+   "theologian",
+   "philologist"
+  ],
+  "correct": "C",
+  "explanation": "theologian: A student or expert of God and religion.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies animal life.",
+   "B": "Wrong: A scientist who studies the earth and its rocks.",
+   "C": "Correct: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies language and its history."
+  }
+ },
+ {
+  "word": "theological",
+  "question": "The debate focused on questions about God and religious belief. The debate was:",
+  "options": [
+   "psychological",
+   "zoological",
+   "geological",
+   "theological"
+  ],
+  "correct": "D",
+  "explanation": "theological: Relating to the study of God and religion.",
+  "reasons": {
+   "A": "Wrong: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Correct: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "theology",
+  "question": "The study of God and religion is called:",
+  "options": [
+   "theology",
+   "zoology",
+   "geology",
+   "sociology"
+  ],
+  "correct": "A",
+  "explanation": "theology: The study of God and religion.",
+  "reasons": {
+   "A": "Correct: The study of God and religion.",
+   "B": "Wrong: The science of animal life.",
+   "C": "Wrong: The science of the earth's composition and history.",
+   "D": "Wrong: The study of human society and social groups."
+  }
+ }
+]

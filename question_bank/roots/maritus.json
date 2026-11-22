@@ -1,0 +1,92 @@
+[
+ {
+  "word": "extramarital",
+  "question": "The affair was outside the marriage and broke its vows. It was:",
+  "options": [
+   "extramarital",
+   "premarital",
+   "paternal",
+   "maternal"
+  ],
+  "correct": "A",
+  "explanation": "extramarital: Outside marriage.",
+  "reasons": {
+   "A": "Correct: Outside marriage.",
+   "B": "Wrong: Before marriage.",
+   "C": "Wrong: Fatherly; relating to a father.",
+   "D": "Wrong: Motherly; relating to a mother."
+  }
+ },
+ {
+  "word": "marital",
+  "question": "The counsellor helped the couple with the problems of their married life. Those problems were:",
+  "options": [
+   "paternal",
+   "marital",
+   "maternal",
+   "premarital"
+  ],
+  "correct": "B",
+  "explanation": "marital: Relating to marriage.",
+  "reasons": {
+   "A": "Wrong: Fatherly; relating to a father.",
+   "B": "Correct: Relating to marriage.",
+   "C": "Wrong: Motherly; relating to a mother.",
+   "D": "Wrong: Before marriage."
+  }
+ },
+ {
+  "word": "mariticidal",
+  "question": "The court examined an act of killing a husband. The act was:",
+  "options": [
+   "uxoricidal",
+   "sororicidal",
+   "mariticidal",
+   "regicidal"
+  ],
+  "correct": "C",
+  "explanation": "mariticidal: Relating to killing one's husband.",
+  "reasons": {
+   "A": "Wrong: Relating to killing one's wife.",
+   "B": "Wrong: Relating to killing one's sister.",
+   "C": "Correct: Relating to killing one's husband.",
+   "D": "Wrong: Relating to killing a king."
+  }
+ },
+ {
+  "word": "mariticide",
+  "question": "The killing of one's husband is called:",
+  "options": [
+   "uxoricide",
+   "sororicide",
+   "regicide",
+   "mariticide"
+  ],
+  "correct": "D",
+  "explanation": "mariticide: The killing of one's husband.",
+  "reasons": {
+   "A": "Wrong: The killing of one's wife.",
+   "B": "Wrong: The killing of one's sister.",
+   "C": "Wrong: The killing of a king or ruler.",
+   "D": "Correct: The killing of one's husband."
+  }
+ },
+ {
+  "word": "premarital",
+  "question": "The counsellor discussed the couple's relationship before they wed. Such a relationship is:",
+  "options": [
+   "premarital",
+   "extramarital",
+   "paternal",
+   "maternal"
+  ],
+  "correct": "A",
+  "explanation": "premarital: Before marriage.",
+  "reasons": {
+   "A": "Correct: Before marriage.",
+   "B": "Wrong: Outside marriage.",
+   "C": "Wrong: Fatherly; relating to a father.",
+   "D": "Wrong: Motherly; relating to a mother."
+  }
+ }
+]

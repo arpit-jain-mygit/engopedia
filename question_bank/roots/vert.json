@@ -1,0 +1,56 @@
+[
+ {
+  "word": "ambivert",
+  "question": "She was neither a shy, inward person nor a loud, outgoing one, but a mix of both. She was an:",
+  "options": [
+   "ambivert",
+   "extrovert",
+   "introvert",
+   "misanthrope"
+  ],
+  "correct": "A",
+  "explanation": "ambivert: A person with both introverted and extroverted tendencies.",
+  "reasons": {
+   "A": "Correct: A person with both introverted and extroverted tendencies.",
+   "B": "Wrong: A person whose interests are turned outward; outgoing and sociable.",
+   "C": "Wrong: A person whose thoughts turn inward; quiet and self-analytical.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "extrovert",
+  "question": "The lively party-goer loved talking to everyone and sought out company. He was an:",
+  "options": [
+   "introvert",
+   "extrovert",
+   "ambivert",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "extrovert: A person whose interests are turned outward; outgoing and sociable.",
+  "reasons": {
+   "A": "Wrong: A person whose thoughts turn inward; quiet and self-analytical.",
+   "B": "Correct: A person whose interests are turned outward; outgoing and sociable.",
+   "C": "Wrong: A person with both introverted and extroverted tendencies.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "introvert",
+  "question": "The quiet reader preferred his own thoughts and time alone to parties. He was an:",
+  "options": [
+   "extrovert",
+   "ambivert",
+   "introvert",
+   "philanthropist"
+  ],
+  "correct": "C",
+  "explanation": "introvert: A person whose thoughts turn inward; quiet and self-analytical.",
+  "reasons": {
+   "A": "Wrong: A person whose interests are turned outward; outgoing and sociable.",
+   "B": "Wrong: A person with both introverted and extroverted tendencies.",
+   "C": "Correct: A person whose thoughts turn inward; quiet and self-analytical.",
+   "D": "Wrong: A person who gives money and time to help others."
+  }
+ }
+]

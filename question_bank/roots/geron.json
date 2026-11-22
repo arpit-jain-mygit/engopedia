@@ -1,0 +1,74 @@
+[
+ {
+  "word": "gerontological",
+  "question": "The research institute studied the problems of aging. Its research was:",
+  "options": [
+   "neurological",
+   "dermatological",
+   "gerontological",
+   "cardiological"
+  ],
+  "correct": "C",
+  "explanation": "gerontological: Relating to the study of aging.",
+  "reasons": {
+   "A": "Wrong: Relating to the nervous system.",
+   "B": "Wrong: Relating to skin medicine.",
+   "C": "Correct: Relating to the study of aging.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "gerontologist",
+  "question": "The scientist who studies the problems of old age is a:",
+  "options": [
+   "geriatrician",
+   "psychologist",
+   "sociologist",
+   "gerontologist"
+  ],
+  "correct": "D",
+  "explanation": "gerontologist: A social scientist who studies the problems of the elderly.",
+  "reasons": {
+   "A": "Wrong: A doctor who specializes in the elderly.",
+   "B": "Wrong: A specialist who studies human behavior.",
+   "C": "Wrong: A scientist who studies human society and social groups.",
+   "D": "Correct: A social scientist who studies the problems of the elderly."
+  }
+ },
+ {
+  "word": "gerontology",
+  "question": "The study of the problems of old age is called:",
+  "options": [
+   "gerontology",
+   "geriatrics",
+   "sociology",
+   "psychology"
+  ],
+  "correct": "A",
+  "explanation": "gerontology: The study of the problems of old age.",
+  "reasons": {
+   "A": "Correct: The study of the problems of old age.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "gerontophobia",
+  "question": "He feared old men and avoided older people. His fear is:",
+  "options": [
+   "geraphobia",
+   "gerontophobia",
+   "gynephobia",
+   "pedophobia"
+  ],
+  "correct": "B",
+  "explanation": "gerontophobia: Fear of old men.",
+  "reasons": {
+   "A": "Wrong: Fear of old age.",
+   "B": "Correct: Fear of old men.",
+   "C": "Wrong: Fear of women.",
+   "D": "Wrong: Fear of children."
+  }
+ }
+]

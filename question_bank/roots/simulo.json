@@ -1,0 +1,146 @@
+[
+ {
+  "word": "dissemblance",
+  "question": "His pretence of calm hid his true anger and fear. This pretence is:",
+  "options": [
+   "ambivalence",
+   "dissemblance",
+   "placidity",
+   "equanimity"
+  ],
+  "correct": "B",
+  "explanation": "dissemblance: Pretense; hiding of true feelings.",
+  "reasons": {
+   "A": "Wrong: Having mixed or conflicting feelings.",
+   "B": "Correct: Pretense; hiding of true feelings.",
+   "C": "Wrong: Calmness; peacefulness.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "dissemble",
+  "question": "He pretended not to care while hiding his true feelings. He would:",
+  "options": [
+   "vociferate",
+   "vacillate",
+   "dissemble",
+   "scintillate"
+  ],
+  "correct": "C",
+  "explanation": "dissemble: To hide true feelings or intentions by pretending.",
+  "reasons": {
+   "A": "Wrong: To shout loudly.",
+   "B": "Wrong: To waver or keep changing your mind.",
+   "C": "Correct: To hide true feelings or intentions by pretending.",
+   "D": "Wrong: To sparkle; to be brilliantly witty."
+  }
+ },
+ {
+  "word": "dissimulate",
+  "question": "She hid her real intentions behind a pleasant smile. She would:",
+  "options": [
+   "alleviate",
+   "levitate",
+   "punctuate",
+   "dissimulate"
+  ],
+  "correct": "D",
+  "explanation": "dissimulate: To hide your true feelings by pretending.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Wrong: To rise into the air without visible support.",
+   "C": "Wrong: To mark with points; to interrupt.",
+   "D": "Correct: To hide your true feelings by pretending."
+  }
+ },
+ {
+  "word": "dissimulation",
+  "question": "Pretending to be calm while furious was a clever act of:",
+  "options": [
+   "dissimulation",
+   "alleviation",
+   "evanescence",
+   "vacillation"
+  ],
+  "correct": "A",
+  "explanation": "dissimulation: Pretending; hiding true feelings.",
+  "reasons": {
+   "A": "Correct: Pretending; hiding true feelings.",
+   "B": "Wrong: Relief from pain or trouble.",
+   "C": "Wrong: The quality of quickly vanishing.",
+   "D": "Wrong: Wavering between opinions or choices."
+  }
+ },
+ {
+  "word": "dissimulator",
+  "question": "The man who hid his feelings behind a cheerful front was a:",
+  "options": [
+   "egomaniac",
+   "dissimulator",
+   "tyro",
+   "sycophant"
+  ],
+  "correct": "B",
+  "explanation": "dissimulator: A person who hides true feelings.",
+  "reasons": {
+   "A": "Wrong: A person with an obsession with his own needs and ambitions.",
+   "B": "Correct: A person who hides true feelings.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Wrong: A person who flatters the powerful to gain favor."
+  }
+ },
+ {
+  "word": "simulate",
+  "question": "The machine copied a real flight to train the pilots. It was made to:",
+  "options": [
+   "alleviate",
+   "levitate",
+   "simulate",
+   "intimate"
+  ],
+  "correct": "C",
+  "explanation": "simulate: To pretend; to imitate or copy.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Wrong: To rise into the air without visible support.",
+   "C": "Correct: To pretend; to imitate or copy.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "simulated",
+  "question": "The artificial flowers looked real but were made to imitate living ones. They were:",
+  "options": [
+   "vivid",
+   "vivacious",
+   "placid",
+   "simulated"
+  ],
+  "correct": "D",
+  "explanation": "simulated: Made to look real; fake.",
+  "reasons": {
+   "A": "Wrong: Full of life and freshness; bright or sharp.",
+   "B": "Wrong: Full of life, joy, and energy.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Made to look real; fake."
+  }
+ },
+ {
+  "word": "simulation",
+  "question": "The flight training used a copy of a real aircraft's controls. This copy is a:",
+  "options": [
+   "simulation",
+   "dissemblance",
+   "dissimulation",
+   "vacillation"
+  ],
+  "correct": "A",
+  "explanation": "simulation: A copy or imitation of something real.",
+  "reasons": {
+   "A": "Correct: A copy or imitation of something real.",
+   "B": "Wrong: Pretense; hiding of true feelings.",
+   "C": "Wrong: Pretending; hiding true feelings.",
+   "D": "Wrong: Wavering between opinions or choices."
+  }
+ }
+]

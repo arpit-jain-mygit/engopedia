@@ -1,0 +1,20 @@
+[
+ {
+  "word": "malaise",
+  "question": "After a long flight she feels a vague unease and tiredness, with no clear illness she can name. This general feeling of being unwell is called:",
+  "options": [
+   "Malady",
+   "Malice",
+   "Malaise",
+   "Maladroit"
+  ],
+  "correct": "C",
+  "explanation": "Mal- (bad) + aise (ease): a feeling of not being at ease.",
+  "reasons": {
+   "A": "Wrong: a specific disease; her feeling is vague and unnamed.",
+   "B": "Wrong: ill will or spite toward someone.",
+   "C": "Correct: a general feeling of unease or discomfort.",
+   "D": "Wrong: clumsy or lacking skill."
+  }
+ }
+]

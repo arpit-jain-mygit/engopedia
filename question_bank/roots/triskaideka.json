@@ -1,0 +1,20 @@
+[
+ {
+  "word": "triskaidekaphobia",
+  "question": "A hotel has no room numbered thirteen, because the manager fears the number itself. The fear is of:",
+  "options": [
+   "Triskaidekaphobia",
+   "Dipsophobia",
+   "Hippophobia",
+   "Ergophobia"
+  ],
+  "correct": "A",
+  "explanation": "Triskaideka (thirteen) + phobia = fear of the number thirteen.",
+  "reasons": {
+   "A": "Correct: triskaideka means thirteen, so the fear is of the number thirteen.",
+   "B": "Wrong: fear of thirst or drinking.",
+   "C": "Wrong: fear of horses.",
+   "D": "Wrong: fear of work."
+  }
+ }
+]

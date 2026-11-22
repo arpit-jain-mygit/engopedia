@@ -1,0 +1,110 @@
+[
+ {
+  "word": "androphobia",
+  "question": "She crossed the street whenever a man approached, because she dreaded all males. Her fear is called:",
+  "options": [
+   "androphobia",
+   "demophobia",
+   "cynophobia",
+   "hydrophobia"
+  ],
+  "correct": "A",
+  "explanation": "androphobia: Fear of males.",
+  "reasons": {
+   "A": "Correct: Fear of males.",
+   "B": "Wrong: Fear of people.",
+   "C": "Wrong: Fear of dogs.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "philander",
+  "question": "He flirted with every woman at the party and had casual love affairs with several of them. He would:",
+  "options": [
+   "vacillate",
+   "philander",
+   "vegetate",
+   "titillate"
+  ],
+  "correct": "B",
+  "explanation": "philander: To flirt or play around with casual love affairs.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Correct: To flirt or play around with casual love affairs.",
+   "C": "Wrong: To live a dull, inactive life.",
+   "D": "Wrong: To tickle or stimulate pleasantly."
+  }
+ },
+ {
+  "word": "philanderer",
+  "question": "The man who flirted and had casual affairs with many women was known as a:",
+  "options": [
+   "bigamist",
+   "polygamist",
+   "philanderer",
+   "misogynist"
+  ],
+  "correct": "C",
+  "explanation": "philanderer: A person who flirts or has casual love affairs.",
+  "reasons": {
+   "A": "Wrong: A person who marries while already married.",
+   "B": "Wrong: A person with more than one spouse.",
+   "C": "Correct: A person who flirts or has casual love affairs.",
+   "D": "Wrong: One who hates women."
+  }
+ },
+ {
+  "word": "polyandrist",
+  "question": "In the ancient tale, the woman had more than one husband at the same time. She was a:",
+  "options": [
+   "monogamist",
+   "bigamist",
+   "matriarch",
+   "polyandrist"
+  ],
+  "correct": "D",
+  "explanation": "polyandrist: A woman with more than one husband.",
+  "reasons": {
+   "A": "Wrong: A person married to only one spouse.",
+   "B": "Wrong: A person who marries while already married.",
+   "C": "Wrong: A woman who rules a family or tribe.",
+   "D": "Correct: A woman with more than one husband."
+  }
+ },
+ {
+  "word": "polyandrous",
+  "question": "In the village, a woman was allowed to have several husbands, which was a custom of the community. The custom was:",
+  "options": [
+   "polyandrous",
+   "monogamous",
+   "monotheistic",
+   "patriarchal"
+  ],
+  "correct": "A",
+  "explanation": "polyandrous: Relating to a woman with several husbands.",
+  "reasons": {
+   "A": "Correct: Relating to a woman with several husbands.",
+   "B": "Wrong: Married to only one person.",
+   "C": "Wrong: Believing in one God.",
+   "D": "Wrong: Relating to rule by fathers or old men."
+  }
+ },
+ {
+  "word": "polyandry",
+  "question": "The anthropologist described the custom where one woman married several brothers. This practice is called:",
+  "options": [
+   "polygyny",
+   "polyandry",
+   "monogamy",
+   "patriarchy"
+  ],
+  "correct": "B",
+  "explanation": "polyandry: The practice of a woman having several husbands.",
+  "reasons": {
+   "A": "Wrong: The practice of a man having several wives.",
+   "B": "Correct: The practice of a woman having several husbands.",
+   "C": "Wrong: Marriage to only one spouse at a time.",
+   "D": "Wrong: A system ruled by men or fathers."
+  }
+ }
+]

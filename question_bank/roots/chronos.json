@@ -1,0 +1,272 @@
+[
+ {
+  "word": "anachronism",
+  "question": "The knight checking a mobile phone in the old film was something out of its proper time period. It was an:",
+  "options": [
+   "chronology",
+   "anachronism",
+   "synchronization",
+   "chronometer"
+  ],
+  "correct": "B",
+  "explanation": "anachronism: Something out of its proper time period.",
+  "reasons": {
+   "A": "Wrong: The science of arranging events in time order.",
+   "B": "Correct: Something out of its proper time period.",
+   "C": "Wrong: The act of happening at the same time.",
+   "D": "Wrong: A very accurate timepiece."
+  }
+ },
+ {
+  "word": "anachronistic",
+  "question": "The telephone in the medieval story was out of its proper era. It was:",
+  "options": [
+   "chronological",
+   "synchronous",
+   "anachronistic",
+   "circumspect"
+  ],
+  "correct": "C",
+  "explanation": "anachronistic: Out of its proper time; from another era.",
+  "reasons": {
+   "A": "Wrong: In correct time order.",
+   "B": "Wrong: Happening at the same time or rate.",
+   "C": "Correct: Out of its proper time; from another era.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "anachronous",
+  "question": "The ancient fashion appearing in the modern play was out of place in time. Its place was:",
+  "options": [
+   "synchronous",
+   "chronological",
+   "cogent",
+   "anachronous"
+  ],
+  "correct": "D",
+  "explanation": "anachronous: Out of place in time; belonging to another era.",
+  "reasons": {
+   "A": "Wrong: Happening at the same time or rate.",
+   "B": "Wrong: In correct time order.",
+   "C": "Wrong: Powerful, convincing, and logical.",
+   "D": "Correct: Out of place in time; belonging to another era."
+  }
+ },
+ {
+  "word": "chronic",
+  "question": "The patient suffered from a long-lasting illness that returned again and again. The illness was:",
+  "options": [
+   "chronic",
+   "acute",
+   "benign",
+   "ephemeral"
+  ],
+  "correct": "A",
+  "explanation": "chronic: Continuing over a long time or occurring again and again.",
+  "reasons": {
+   "A": "Correct: Continuing over a long time or occurring again and again.",
+   "B": "Wrong: Sharp; keenly perceptive; intense.",
+   "C": "Wrong: Kindly, good-natured, and harmless.",
+   "D": "Wrong: Lasting only a very short time."
+  }
+ },
+ {
+  "word": "chronicity",
+  "question": "The illness was long-lasting and repeated, and its persistence worried the doctors. This state is its:",
+  "options": [
+   "evanescence",
+   "chronicity",
+   "ubiquity",
+   "vividness"
+  ],
+  "correct": "B",
+  "explanation": "chronicity: The state of being long lasting or repeated.",
+  "reasons": {
+   "A": "Wrong: The quality of quickly vanishing.",
+   "B": "Correct: The state of being long lasting or repeated.",
+   "C": "Wrong: The state of being everywhere.",
+   "D": "Wrong: The quality of being bright and full of life."
+  }
+ },
+ {
+  "word": "chronological",
+  "question": "The timeline arranged each event by its date in time order. The timeline was:",
+  "options": [
+   "anachronistic",
+   "synchronous",
+   "chronological",
+   "circumspect"
+  ],
+  "correct": "C",
+  "explanation": "chronological: In correct time order.",
+  "reasons": {
+   "A": "Wrong: Out of its proper time; from another era.",
+   "B": "Wrong: Happening at the same time or rate.",
+   "C": "Correct: In correct time order.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "chronologist",
+  "question": "The scholar arranged the dates of the wars in time order. He was a:",
+  "options": [
+   "geologist",
+   "zoologist",
+   "theologian",
+   "chronologist"
+  ],
+  "correct": "D",
+  "explanation": "chronologist: A person who arranges events in time order.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies animal life.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A person who arranges events in time order."
+  }
+ },
+ {
+  "word": "chronology",
+  "question": "The arrangement of events in their proper time order is called:",
+  "options": [
+   "chronology",
+   "anachronism",
+   "synchronization",
+   "chronometry"
+  ],
+  "correct": "A",
+  "explanation": "chronology: The science of arranging events in time order.",
+  "reasons": {
+   "A": "Correct: The science of arranging events in time order.",
+   "B": "Wrong: Something out of its proper time period.",
+   "C": "Wrong: The act of happening at the same time.",
+   "D": "Wrong: The measurement of time."
+  }
+ },
+ {
+  "word": "chronometer",
+  "question": "The ship's navigator relied on a very accurate timepiece. He used a:",
+  "options": [
+   "barometer",
+   "chronometer",
+   "thermometer",
+   "metronome"
+  ],
+  "correct": "B",
+  "explanation": "chronometer: A very accurate timepiece.",
+  "reasons": {
+   "A": "Wrong: An instrument that measures atmospheric pressure.",
+   "B": "Correct: A very accurate timepiece.",
+   "C": "Wrong: An instrument that measures heat.",
+   "D": "Wrong: A device that ticks to keep a steady beat for music."
+  }
+ },
+ {
+  "word": "chronometric",
+  "question": "The precise measurement of time by a clock was exact. The measurement was:",
+  "options": [
+   "barometric",
+   "geometric",
+   "chronometric",
+   "optometric"
+  ],
+  "correct": "C",
+  "explanation": "chronometric: Relating to the measurement of time.",
+  "reasons": {
+   "A": "Wrong: Relating to the barometer or to air pressure.",
+   "B": "Wrong: Relating to geometry; made of regular lines and shapes.",
+   "C": "Correct: Relating to the measurement of time.",
+   "D": "Wrong: Relating to the measurement of vision."
+  }
+ },
+ {
+  "word": "chronometry",
+  "question": "The measurement of time with precise instruments is called:",
+  "options": [
+   "geometry",
+   "optometry",
+   "entomology",
+   "chronometry"
+  ],
+  "correct": "D",
+  "explanation": "chronometry: The measurement of time.",
+  "reasons": {
+   "A": "Wrong: The branch of mathematics about shapes, angles, and measurement.",
+   "B": "Wrong: The profession of measuring vision.",
+   "C": "Wrong: The science of insects.",
+   "D": "Correct: The measurement of time."
+  }
+ },
+ {
+  "word": "chronophobia",
+  "question": "He was terrified of time passing and dreaded every minute. His fear of time is:",
+  "options": [
+   "chronophobia",
+   "claustrophobia",
+   "neophobia",
+   "hypnophobia"
+  ],
+  "correct": "A",
+  "explanation": "chronophobia: Fear of time.",
+  "reasons": {
+   "A": "Correct: Fear of time.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Fear of change.",
+   "D": "Wrong: Fear of sleep."
+  }
+ },
+ {
+  "word": "synchronization",
+  "question": "The dancers moved together with perfect timing; their timing was precisely coordinated. This coordination is called:",
+  "options": [
+   "anachronism",
+   "synchronization",
+   "chronology",
+   "chronometry"
+  ],
+  "correct": "B",
+  "explanation": "synchronization: The act of happening at the same time.",
+  "reasons": {
+   "A": "Wrong: Something out of its proper time period.",
+   "B": "Correct: The act of happening at the same time.",
+   "C": "Wrong: The science of arranging events in time order.",
+   "D": "Wrong: The measurement of time."
+  }
+ },
+ {
+  "word": "synchronize",
+  "question": "The dancers worked to make their steps happen at the same time. They tried to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "synchronize",
+   "evanesce"
+  ],
+  "correct": "C",
+  "explanation": "synchronize: To cause to occur at the same time or rate.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Correct: To cause to occur at the same time or rate.",
+   "D": "Wrong: To vanish gradually from sight."
+  }
+ },
+ {
+  "word": "synchronous",
+  "question": "The two clocks ticked at exactly the same time and rate. They were:",
+  "options": [
+   "anachronous",
+   "chronological",
+   "circumspect",
+   "synchronous"
+  ],
+  "correct": "D",
+  "explanation": "synchronous: Happening at the same time or rate.",
+  "reasons": {
+   "A": "Wrong: Out of place in time; belonging to another era.",
+   "B": "Wrong: In correct time order.",
+   "C": "Wrong: Cautious and careful; watchful.",
+   "D": "Correct: Happening at the same time or rate."
+  }
+ }
+]

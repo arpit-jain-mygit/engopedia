@@ -1,0 +1,128 @@
+[
+ {
+  "word": "impotence",
+  "question": "The politician's lack of power to act left him helpless. This powerlessness is:",
+  "options": [
+   "omnipotence",
+   "impotence",
+   "potentate",
+   "potential"
+  ],
+  "correct": "B",
+  "explanation": "impotence: Lack of power or ability to act.",
+  "reasons": {
+   "A": "Wrong: Unlimited power.",
+   "B": "Correct: Lack of power or ability to act.",
+   "C": "Wrong: A powerful ruler.",
+   "D": "Wrong: Possible, but not yet real; a capacity to develop."
+  }
+ },
+ {
+  "word": "impotent",
+  "question": "The government was powerless and unable to act on the crisis. It was:",
+  "options": [
+   "omnipotent",
+   "potent",
+   "impotent",
+   "omniscient"
+  ],
+  "correct": "C",
+  "explanation": "impotent: Powerless; unable to act.",
+  "reasons": {
+   "A": "Wrong: All-powerful.",
+   "B": "Wrong: Powerful; having great force.",
+   "C": "Correct: Powerless; unable to act.",
+   "D": "Wrong: Knowing everything; all-knowing."
+  }
+ },
+ {
+  "word": "omnipotence",
+  "question": "The emperor's unlimited power over every subject was absolute. Such power is:",
+  "options": [
+   "omniscience",
+   "omnipresence",
+   "impotence",
+   "omnipotence"
+  ],
+  "correct": "D",
+  "explanation": "omnipotence: Unlimited power.",
+  "reasons": {
+   "A": "Wrong: Complete knowledge of everything.",
+   "B": "Wrong: The quality of being everywhere at once.",
+   "C": "Wrong: Lack of power or ability to act.",
+   "D": "Correct: Unlimited power."
+  }
+ },
+ {
+  "word": "omnipotent",
+  "question": "The sovereign had complete, unlimited power over all. He was:",
+  "options": [
+   "omnipotent",
+   "omniscient",
+   "omnipresent",
+   "impotent"
+  ],
+  "correct": "A",
+  "explanation": "omnipotent: All-powerful.",
+  "reasons": {
+   "A": "Correct: All-powerful.",
+   "B": "Wrong: Knowing everything; all-knowing.",
+   "C": "Wrong: Present everywhere at once.",
+   "D": "Wrong: Powerless; unable to act."
+  }
+ },
+ {
+  "word": "potent",
+  "question": "The medicine had strong force and great power to heal. It was:",
+  "options": [
+   "impotent",
+   "potent",
+   "benign",
+   "placid"
+  ],
+  "correct": "B",
+  "explanation": "potent: Powerful; having great force.",
+  "reasons": {
+   "A": "Wrong: Powerless; unable to act.",
+   "B": "Correct: Powerful; having great force.",
+   "C": "Wrong: Kindly, good-natured, and harmless.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "potentate",
+  "question": "The powerful ruler of a large kingdom was a:",
+  "options": [
+   "martinet",
+   "tyro",
+   "potentate",
+   "sycophant"
+  ],
+  "correct": "C",
+  "explanation": "potentate: A powerful ruler.",
+  "reasons": {
+   "A": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "B": "Wrong: A beginner; someone new to a field.",
+   "C": "Correct: A powerful ruler.",
+   "D": "Wrong: A person who flatters the powerful to gain favor."
+  }
+ },
+ {
+  "word": "potential",
+  "question": "The young athlete had great possibilities that were not yet realized. Her possibility was her:",
+  "options": [
+   "impotence",
+   "omnipotence",
+   "sequel",
+   "potential"
+  ],
+  "correct": "D",
+  "explanation": "potential: Possible, but not yet real; a capacity to develop.",
+  "reasons": {
+   "A": "Wrong: Lack of power or ability to act.",
+   "B": "Wrong: Unlimited power.",
+   "C": "Wrong: A later story or event that follows an earlier one.",
+   "D": "Correct: Possible, but not yet real; a capacity to develop."
+  }
+ }
+]

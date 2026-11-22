@@ -1,0 +1,272 @@
+[
+ {
+  "word": "benediction",
+  "question": "The priest ended the service with a blessing for the congregation. This blessing is a:",
+  "options": [
+   "malediction",
+   "malefaction",
+   "benediction",
+   "benefaction"
+  ],
+  "correct": "C",
+  "explanation": "benediction: A blessing; a saying of good.",
+  "reasons": {
+   "A": "Wrong: A curse; an evil saying.",
+   "B": "Wrong: An evil deed; a crime.",
+   "C": "Correct: A blessing; a saying of good.",
+   "D": "Wrong: A gift or act of kindness."
+  }
+ },
+ {
+  "word": "benedictory",
+  "question": "The priest's closing words gave a blessing and good wishes. His words were:",
+  "options": [
+   "malevolent",
+   "malignant",
+   "maleficent",
+   "benedictory"
+  ],
+  "correct": "D",
+  "explanation": "benedictory: Giving a blessing.",
+  "reasons": {
+   "A": "Wrong: Wishing evil or harm to others.",
+   "B": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "C": "Wrong: Doing evil or harm.",
+   "D": "Correct: Giving a blessing."
+  }
+ },
+ {
+  "word": "benefaction",
+  "question": "The rich man gave a large gift to build the new hospital. His gift is a:",
+  "options": [
+   "benefaction",
+   "malefaction",
+   "benediction",
+   "malediction"
+  ],
+  "correct": "A",
+  "explanation": "benefaction: A gift or act of kindness.",
+  "reasons": {
+   "A": "Correct: A gift or act of kindness.",
+   "B": "Wrong: An evil deed; a crime.",
+   "C": "Wrong: A blessing; a saying of good.",
+   "D": "Wrong: A curse; an evil saying."
+  }
+ },
+ {
+  "word": "benefactor",
+  "question": "The wealthy donor paid for the school's new library. He is its:",
+  "options": [
+   "malefactor",
+   "benefactor",
+   "beneficiary",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "benefactor: A person who gives money or help to others.",
+  "reasons": {
+   "A": "Wrong: A wrongdoer; a criminal.",
+   "B": "Correct: A person who gives money or help to others.",
+   "C": "Wrong: The person who receives money or help.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "beneficence",
+  "question": "Her habit of doing good deeds for others was well known. Her good deeds are:",
+  "options": [
+   "maleficence",
+   "malevolence",
+   "beneficence",
+   "benevolence"
+  ],
+  "correct": "C",
+  "explanation": "beneficence: The doing of good deeds.",
+  "reasons": {
+   "A": "Wrong: The doing of evil or harm.",
+   "B": "Wrong: A wish to do harm.",
+   "C": "Correct: The doing of good deeds.",
+   "D": "Wrong: A wish to do good for others."
+  }
+ },
+ {
+  "word": "beneficent",
+  "question": "The queen was kind and generous to her people, always doing good. She was:",
+  "options": [
+   "maleficent",
+   "malevolent",
+   "malign",
+   "beneficent"
+  ],
+  "correct": "D",
+  "explanation": "beneficent: Doing good; generous and kind.",
+  "reasons": {
+   "A": "Wrong: Doing evil or harm.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Correct: Doing good; generous and kind."
+  }
+ },
+ {
+  "word": "beneficial",
+  "question": "The new medicine was helpful and good for the patients. It was:",
+  "options": [
+   "beneficial",
+   "maleficent",
+   "malignant",
+   "noxious"
+  ],
+  "correct": "A",
+  "explanation": "beneficial: Helpful and good for someone.",
+  "reasons": {
+   "A": "Correct: Helpful and good for someone.",
+   "B": "Wrong: Doing evil or harm.",
+   "C": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "D": "Wrong: Harmful, poisonous, or unwholesome."
+  }
+ },
+ {
+  "word": "beneficiary",
+  "question": "She was named in the will as the person who would receive the money. She was the:",
+  "options": [
+   "benefactor",
+   "beneficiary",
+   "malefactor",
+   "eulogist"
+  ],
+  "correct": "B",
+  "explanation": "beneficiary: The person who receives money or help.",
+  "reasons": {
+   "A": "Wrong: A person who gives money or help to others.",
+   "B": "Correct: The person who receives money or help.",
+   "C": "Wrong: A wrongdoer; a criminal.",
+   "D": "Wrong: A person who delivers a eulogy."
+  }
+ },
+ {
+  "word": "benefit",
+  "question": "The new road was a good thing that helped everyone in the village. It was a:",
+  "options": [
+   "malefaction",
+   "malediction",
+   "benefit",
+   "malignity"
+  ],
+  "correct": "C",
+  "explanation": "benefit: Something good done for another; an advantage.",
+  "reasons": {
+   "A": "Wrong: An evil deed; a crime.",
+   "B": "Wrong: A curse; an evil saying.",
+   "C": "Correct: Something good done for another; an advantage.",
+   "D": "Wrong: Deep hatred or harmfulness."
+  }
+ },
+ {
+  "word": "benevolence",
+  "question": "He gave food to the poor out of a kind wish to do good for others. This wish is:",
+  "options": [
+   "malevolence",
+   "malignity",
+   "malignancy",
+   "benevolence"
+  ],
+  "correct": "D",
+  "explanation": "benevolence: A wish to do good for others.",
+  "reasons": {
+   "A": "Wrong: A wish to do harm.",
+   "B": "Wrong: Deep hatred or harmfulness.",
+   "C": "Wrong: A cancerous growth; harmfulness.",
+   "D": "Correct: A wish to do good for others."
+  }
+ },
+ {
+  "word": "benevolent",
+  "question": "The kind old man helped everyone, wishing good for others. He was:",
+  "options": [
+   "benevolent",
+   "malevolent",
+   "malign",
+   "malignant"
+  ],
+  "correct": "A",
+  "explanation": "benevolent: Kind, well disposed, and wishing good for others.",
+  "reasons": {
+   "A": "Correct: Kind, well disposed, and wishing good for others.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Wrong: Harmful and deadly, with deep hatred or evil intent."
+  }
+ },
+ {
+  "word": "benign",
+  "question": "The doctor found the lump was gentle and not harmful. It was:",
+  "options": [
+   "malignant",
+   "benign",
+   "noxious",
+   "pungent"
+  ],
+  "correct": "B",
+  "explanation": "benign: Kindly, good-natured, and harmless.",
+  "reasons": {
+   "A": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "B": "Correct: Kindly, good-natured, and harmless.",
+   "C": "Wrong: Harmful, poisonous, or unwholesome.",
+   "D": "Wrong: Sharp or spicy; piercing to the taste or smell."
+  }
+ },
+ {
+  "word": "benignancy",
+  "question": "The growth was harmless and gentle, not a cancer. Its harmlessness is:",
+  "options": [
+   "malignancy",
+   "malignity",
+   "benignancy",
+   "malevolence"
+  ],
+  "correct": "C",
+  "explanation": "benignancy: Kindness; a harmless condition.",
+  "reasons": {
+   "A": "Wrong: A cancerous growth; harmfulness.",
+   "B": "Wrong: Deep hatred or harmfulness.",
+   "C": "Correct: Kindness; a harmless condition.",
+   "D": "Wrong: A wish to do harm."
+  }
+ },
+ {
+  "word": "benignant",
+  "question": "The grandmother's gentle, gracious smile made her seem kindly. She was:",
+  "options": [
+   "malignant",
+   "malevolent",
+   "malign",
+   "benignant"
+  ],
+  "correct": "D",
+  "explanation": "benignant: Kind and gracious; not cancerous.",
+  "reasons": {
+   "A": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Correct: Kind and gracious; not cancerous."
+  }
+ },
+ {
+  "word": "benignity",
+  "question": "His kindness and gentle nature made everyone feel at ease. This kindness is his:",
+  "options": [
+   "benignity",
+   "malignity",
+   "malevolence",
+   "malignancy"
+  ],
+  "correct": "A",
+  "explanation": "benignity: Kindness and gentleness of nature.",
+  "reasons": {
+   "A": "Correct: Kindness and gentleness of nature.",
+   "B": "Wrong: Deep hatred or harmfulness.",
+   "C": "Wrong: A wish to do harm.",
+   "D": "Wrong: A cancerous growth; harmfulness."
+  }
+ }
+]

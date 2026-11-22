@@ -1,0 +1,20 @@
+[
+ {
+  "word": "querulous",
+  "question": "A customer complains about every detail of a flawless meal, whining at the menu, the chairs and the lighting. He is:",
+  "options": [
+   "Obstreperous",
+   "Magnanimous",
+   "Placid",
+   "Querulous"
+  ],
+  "correct": "D",
+  "explanation": "Queror (to complain) + -ulous: given to complaining.",
+  "reasons": {
+   "A": "Wrong: noisy and unruly.",
+   "B": "Wrong: generous and forgiving.",
+   "C": "Wrong: calm and not easily upset.",
+   "D": "Correct: complaining, whining, always dissatisfied."
+  }
+ }
+]

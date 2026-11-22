@@ -1,0 +1,218 @@
+[
+ {
+  "word": "paternal",
+  "question": "The father's loving, protective behaviour toward his son was:",
+  "options": [
+   "paternal",
+   "maternal",
+   "fraternal",
+   "matrimonial"
+  ],
+  "correct": "A",
+  "explanation": "paternal: Fatherly; relating to a father.",
+  "reasons": {
+   "A": "Correct: Fatherly; relating to a father.",
+   "B": "Wrong: Motherly; relating to a mother.",
+   "C": "Wrong: Brotherly; relating to brothers.",
+   "D": "Wrong: Relating to marriage."
+  }
+ },
+ {
+  "word": "paternalism",
+  "question": "The government controlled every part of its people's lives, as a strong father would. This system is:",
+  "options": [
+   "matriarchy",
+   "paternalism",
+   "regality",
+   "monotheism"
+  ],
+  "correct": "B",
+  "explanation": "paternalism: A system where the powerful look after others as a father would.",
+  "reasons": {
+   "A": "Wrong: A system ruled by women or mothers.",
+   "B": "Correct: A system where the powerful look after others as a father would.",
+   "C": "Wrong: Royalty; kingly dignity.",
+   "D": "Wrong: The belief in one God."
+  }
+ },
+ {
+  "word": "paternalistic",
+  "question": "The manager treated his staff like children and made all their decisions. His attitude was:",
+  "options": [
+   "autonomous",
+   "dictatorial",
+   "paternalistic",
+   "egregious"
+  ],
+  "correct": "C",
+  "explanation": "paternalistic: Looking after others as a father would.",
+  "reasons": {
+   "A": "Wrong: Self-governing; independent.",
+   "B": "Wrong: Giving orders in a bossy, forceful manner.",
+   "C": "Correct: Looking after others as a father would.",
+   "D": "Wrong: Outstandingly bad or vicious."
+  }
+ },
+ {
+  "word": "paternity",
+  "question": "The legal question was whether he was the child's father. This question is about his:",
+  "options": [
+   "maternity",
+   "fraternity",
+   "matrimony",
+   "paternity"
+  ],
+  "correct": "D",
+  "explanation": "paternity: Fatherhood.",
+  "reasons": {
+   "A": "Wrong: Motherhood.",
+   "B": "Wrong: A men's club or brotherhood.",
+   "C": "Wrong: Marriage.",
+   "D": "Correct: Fatherhood."
+  }
+ },
+ {
+  "word": "patriarch",
+  "question": "The old man headed the clan, and the other men deferred to him. He was the clan's:",
+  "options": [
+   "patriarch",
+   "matriarch",
+   "potentate",
+   "martinet"
+  ],
+  "correct": "A",
+  "explanation": "patriarch: An old man who rules a family or tribe.",
+  "reasons": {
+   "A": "Correct: An old man who rules a family or tribe.",
+   "B": "Wrong: A woman who rules a family or tribe.",
+   "C": "Wrong: A powerful ruler.",
+   "D": "Wrong: A strict disciplinarian who demands blind obedience."
+  }
+ },
+ {
+  "word": "patriarchal",
+  "question": "The old tradition gave authority over the household to the oldest male. The tradition was:",
+  "options": [
+   "matriarchal",
+   "patriarchal",
+   "regal",
+   "matronly"
+  ],
+  "correct": "B",
+  "explanation": "patriarchal: Relating to rule by fathers or old men.",
+  "reasons": {
+   "A": "Wrong: Relating to rule by women or mothers.",
+   "B": "Correct: Relating to rule by fathers or old men.",
+   "C": "Wrong: Royal; kingly and splendid.",
+   "D": "Wrong: Like an older, dignified woman."
+  }
+ },
+ {
+  "word": "patriarchy",
+  "question": "A social system in which fathers and older men hold power is called:",
+  "options": [
+   "matriarchy",
+   "regality",
+   "patriarchy",
+   "monotheism"
+  ],
+  "correct": "C",
+  "explanation": "patriarchy: A system ruled by men or fathers.",
+  "reasons": {
+   "A": "Wrong: A system ruled by women or mothers.",
+   "B": "Wrong: Royalty; kingly dignity.",
+   "C": "Correct: A system ruled by men or fathers.",
+   "D": "Wrong: The belief in one God."
+  }
+ },
+ {
+  "word": "patricide",
+  "question": "The murder of one's own father is called:",
+  "options": [
+   "matricide",
+   "fratricide",
+   "uxoricide",
+   "patricide"
+  ],
+  "correct": "D",
+  "explanation": "patricide: The killing of one's father.",
+  "reasons": {
+   "A": "Wrong: The killing of one's mother.",
+   "B": "Wrong: The killing of one's brother.",
+   "C": "Wrong: The killing of one's wife.",
+   "D": "Correct: The killing of one's father."
+  }
+ },
+ {
+  "word": "patrimony",
+  "question": "The family house and land passed from father to son as an inheritance. This inheritance is his:",
+  "options": [
+   "patrimony",
+   "matrimony",
+   "paternity",
+   "maternity"
+  ],
+  "correct": "A",
+  "explanation": "patrimony: An inheritance from one's father.",
+  "reasons": {
+   "A": "Correct: An inheritance from one's father.",
+   "B": "Wrong: Marriage.",
+   "C": "Wrong: Fatherhood.",
+   "D": "Wrong: Motherhood."
+  }
+ },
+ {
+  "word": "patriotic",
+  "question": "The soldiers were proud of their country and devoted to defending it. They were:",
+  "options": [
+   "fraternal",
+   "patriotic",
+   "paternal",
+   "sycophantic"
+  ],
+  "correct": "B",
+  "explanation": "patriotic: Proud of and devoted to one's country.",
+  "reasons": {
+   "A": "Wrong: Brotherly; relating to brothers.",
+   "B": "Correct: Proud of and devoted to one's country.",
+   "C": "Wrong: Fatherly; relating to a father.",
+   "D": "Wrong: Fawning; flattering to gain favor."
+  }
+ },
+ {
+  "word": "patriotism",
+  "question": "Her love and devotion to her country inspired her to serve. This devotion is:",
+  "options": [
+   "fraternity",
+   "paternity",
+   "patriotism",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "patriotism: Devotion to one's country.",
+  "reasons": {
+   "A": "Wrong: A men's club or brotherhood.",
+   "B": "Wrong: Fatherhood.",
+   "C": "Correct: Devotion to one's country.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "patronymic",
+  "question": "A name taken from the father, like 'MacDonald' meaning 'son of Donald', is a:",
+  "options": [
+   "synonym",
+   "antonym",
+   "homonym",
+   "patronymic"
+  ],
+  "correct": "D",
+  "explanation": "patronymic: A name formed from the father's name.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Wrong: A word with the opposite meaning.",
+   "C": "Wrong: A word that sounds like another but has a different meaning.",
+   "D": "Correct: A name formed from the father's name."
+  }
+ }
+]

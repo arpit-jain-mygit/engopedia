@@ -1,0 +1,362 @@
+[
+ {
+  "word": "psychiatric",
+  "question": "The clinic's ward treated patients with mental and emotional disorders. Its care was:",
+  "options": [
+   "psychiatric",
+   "pediatric",
+   "geriatric",
+   "podiatric"
+  ],
+  "correct": "A",
+  "explanation": "psychiatric: Relating to the treatment of mental disorders.",
+  "reasons": {
+   "A": "Correct: Relating to the treatment of mental disorders.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to the medical care of the elderly.",
+   "D": "Wrong: Relating to foot care."
+  }
+ },
+ {
+  "word": "psychiatrist",
+  "question": "A doctor who treats mental disorders with medicine and therapy is a:",
+  "options": [
+   "podiatrist",
+   "psychiatrist",
+   "dermatologist",
+   "cardiologist"
+  ],
+  "correct": "B",
+  "explanation": "psychiatrist: A doctor who treats mental and emotional disorders.",
+  "reasons": {
+   "A": "Wrong: A practitioner who treats minor foot ailments.",
+   "B": "Correct: A doctor who treats mental and emotional disorders.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Wrong: A doctor who treats heart diseases."
+  }
+ },
+ {
+  "word": "psychiatry",
+  "question": "The medical treatment of mental disorders is called:",
+  "options": [
+   "podiatry",
+   "dermatology",
+   "psychiatry",
+   "cardiology"
+  ],
+  "correct": "C",
+  "explanation": "psychiatry: The medical treatment of mental disorders.",
+  "reasons": {
+   "A": "Wrong: The treatment of minor foot ailments.",
+   "B": "Wrong: The study of skin and its diseases.",
+   "C": "Correct: The medical treatment of mental disorders.",
+   "D": "Wrong: The study of the heart and its diseases."
+  }
+ },
+ {
+  "word": "psychic",
+  "question": "The woman claimed her powers were of the mind and spirit, beyond the body. Her powers were:",
+  "options": [
+   "neurotic",
+   "psychotic",
+   "pathological",
+   "psychic"
+  ],
+  "correct": "D",
+  "explanation": "psychic: Relating to the mind rather than the body.",
+  "reasons": {
+   "A": "Wrong: Suffering from a neurosis; a person with one.",
+   "B": "Wrong: Having a psychosis; out of touch with reality.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Relating to the mind rather than the body."
+  }
+ },
+ {
+  "word": "psychoanalysis",
+  "question": "The therapy that uses free talk to explore the unconscious mind is:",
+  "options": [
+   "psychoanalysis",
+   "acupuncture",
+   "telepathy",
+   "chiropractic"
+  ],
+  "correct": "A",
+  "explanation": "psychoanalysis: Freud's method of probing the unconscious to reach the cause of problems.",
+  "reasons": {
+   "A": "Correct: Freud's method of probing the unconscious to reach the cause of problems.",
+   "B": "Wrong: Treatment using thin needles inserted into the body.",
+   "C": "Wrong: Communication of thoughts from a distance without the senses.",
+   "D": "Wrong: Relating to the manipulation of the spine to relieve pressure on nerves."
+  }
+ },
+ {
+  "word": "psychoanalyst",
+  "question": "The therapist who explored a patient's unconscious through free talk is a:",
+  "options": [
+   "psychopath",
+   "psychoanalyst",
+   "neurologist",
+   "theologian"
+  ],
+  "correct": "B",
+  "explanation": "psychoanalyst: A practitioner who probes the unconscious, following Freud.",
+  "reasons": {
+   "A": "Wrong: A person who lacks social conscience and often acts antisocially.",
+   "B": "Correct: A practitioner who probes the unconscious, following Freud.",
+   "C": "Wrong: A doctor who treats the nervous system.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "psychoanalytic",
+  "question": "The therapy relied on a method of probing the patient's unconscious. The method was:",
+  "options": [
+   "neurotic",
+   "psychotic",
+   "psychoanalytic",
+   "pathological"
+  ],
+  "correct": "C",
+  "explanation": "psychoanalytic: Relating to psychoanalysis.",
+  "reasons": {
+   "A": "Wrong: Suffering from a neurosis; a person with one.",
+   "B": "Wrong: Having a psychosis; out of touch with reality.",
+   "C": "Correct: Relating to psychoanalysis.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "psychogenic",
+  "question": "The doctor believed the pain was caused by emotional stress, not by injury. The pain was:",
+  "options": [
+   "psychotic",
+   "neurotic",
+   "pathological",
+   "psychogenic"
+  ],
+  "correct": "D",
+  "explanation": "psychogenic: Originating in the mind.",
+  "reasons": {
+   "A": "Wrong: Having a psychosis; out of touch with reality.",
+   "B": "Wrong: Suffering from a neurosis; a person with one.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Originating in the mind."
+  }
+ },
+ {
+  "word": "psychological",
+  "question": "The book explored the mind, emotions and motives of its characters. Its study was:",
+  "options": [
+   "psychological",
+   "theological",
+   "biological",
+   "zoological"
+  ],
+  "correct": "A",
+  "explanation": "psychological: Relating to the mind or to psychology.",
+  "reasons": {
+   "A": "Correct: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to the study of God and religion.",
+   "C": "Wrong: Relating to living things.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "psychologist",
+  "question": "The specialist who studies human behaviour and thought is a:",
+  "options": [
+   "sociologist",
+   "psychologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "B",
+  "explanation": "psychologist: A specialist who studies human behavior.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies human society and social groups.",
+   "B": "Correct: A specialist who studies human behavior.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "psychology",
+  "question": "A university course teaches the mind and how people think and act. The course is:",
+  "options": [
+   "sociology",
+   "theology",
+   "psychology",
+   "zoology"
+  ],
+  "correct": "C",
+  "explanation": "psychology: The study of the mind and behavior.",
+  "reasons": {
+   "A": "Wrong: The study of human society and social groups.",
+   "B": "Wrong: The study of God and religion.",
+   "C": "Correct: The study of the mind and behavior.",
+   "D": "Wrong: The science of animal life."
+  }
+ },
+ {
+  "word": "psychopath",
+  "question": "The criminal showed no guilt and cared nothing for others' suffering. He was a:",
+  "options": [
+   "misanthrope",
+   "sycophant",
+   "egoist",
+   "psychopath"
+  ],
+  "correct": "D",
+  "explanation": "psychopath: A person who lacks social conscience and often acts antisocially.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: A person who flatters the powerful to gain favor.",
+   "C": "Wrong: One who is excessively concerned with his own desires and needs.",
+   "D": "Correct: A person who lacks social conscience and often acts antisocially."
+  }
+ },
+ {
+  "word": "psychopathic",
+  "question": "His cold, conscienceless plan showed a personality with no moral sense. His plan was:",
+  "options": [
+   "psychopathic",
+   "benevolent",
+   "altruistic",
+   "pathetic"
+  ],
+  "correct": "A",
+  "explanation": "psychopathic: Lacking an inner moral censor; describing a psychopath.",
+  "reasons": {
+   "A": "Correct: Lacking an inner moral censor; describing a psychopath.",
+   "B": "Wrong: Kind, well disposed, and wishing good for others.",
+   "C": "Wrong: Showing concern for others; unselfish.",
+   "D": "Wrong: Arousing sorrow or pity; suffering."
+  }
+ },
+ {
+  "word": "psychopathy",
+  "question": "The personality that lacks any conscience or empathy is called:",
+  "options": [
+   "apathy",
+   "psychopathy",
+   "empathy",
+   "sympathy"
+  ],
+  "correct": "B",
+  "explanation": "psychopathy: A personality that lacks a conscience.",
+  "reasons": {
+   "A": "Wrong: A lack of feeling, interest, or concern.",
+   "B": "Correct: A personality that lacks a conscience.",
+   "C": "Wrong: Identification with another's feelings, as if they were your own.",
+   "D": "Wrong: A feeling of pity or of sharing another's feelings."
+  }
+ },
+ {
+  "word": "psychosis",
+  "question": "A serious mental illness that breaks contact with reality is called:",
+  "options": [
+   "neurosis",
+   "neuralgia",
+   "psychosis",
+   "neuritis"
+  ],
+  "correct": "C",
+  "explanation": "psychosis: A serious mental disorder that loses contact with reality.",
+  "reasons": {
+   "A": "Wrong: An emotional disturbance that is not a full mental disorder.",
+   "B": "Wrong: Acute pain along the nerves.",
+   "C": "Correct: A serious mental disorder that loses contact with reality.",
+   "D": "Wrong: Inflammation of the nerves."
+  }
+ },
+ {
+  "word": "psychosomatic",
+  "question": "The headache was real, but it was caused by stress in the mind. It was:",
+  "options": [
+   "telepathic",
+   "psychotic",
+   "neurotic",
+   "psychosomatic"
+  ],
+  "correct": "D",
+  "explanation": "psychosomatic: A physical illness caused by the mind.",
+  "reasons": {
+   "A": "Wrong: Relating to communication of thoughts at a distance.",
+   "B": "Wrong: Having a psychosis; out of touch with reality.",
+   "C": "Wrong: Suffering from a neurosis; a person with one.",
+   "D": "Correct: A physical illness caused by the mind."
+  }
+ },
+ {
+  "word": "psychotherapeutic",
+  "question": "The clinic's approach used talk and counselling to treat mental distress. The approach was:",
+  "options": [
+   "psychotherapeutic",
+   "neurological",
+   "dermatological",
+   "cardiological"
+  ],
+  "correct": "A",
+  "explanation": "psychotherapeutic: Relating to psychotherapy.",
+  "reasons": {
+   "A": "Correct: Relating to psychotherapy.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to skin medicine.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "psychotherapist",
+  "question": "The counsellor who treats emotional problems through talk is a:",
+  "options": [
+   "psychopath",
+   "psychotherapist",
+   "neurologist",
+   "theologian"
+  ],
+  "correct": "B",
+  "explanation": "psychotherapist: A person who practices psychotherapy.",
+  "reasons": {
+   "A": "Wrong: A person who lacks social conscience and often acts antisocially.",
+   "B": "Correct: A person who practices psychotherapy.",
+   "C": "Wrong: A doctor who treats the nervous system.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "psychotherapy",
+  "question": "Treatment of emotional problems through talk and counselling is called:",
+  "options": [
+   "psychosis",
+   "telepathy",
+   "psychotherapy",
+   "acupuncture"
+  ],
+  "correct": "C",
+  "explanation": "psychotherapy: Treatment of mental or emotional problems by talking and counseling.",
+  "reasons": {
+   "A": "Wrong: A serious mental disorder that loses contact with reality.",
+   "B": "Wrong: Communication of thoughts from a distance without the senses.",
+   "C": "Correct: Treatment of mental or emotional problems by talking and counseling.",
+   "D": "Wrong: Treatment using thin needles inserted into the body."
+  }
+ },
+ {
+  "word": "psychotic",
+  "question": "The patient was out of touch with reality and suffered from a serious mental disorder. He was:",
+  "options": [
+   "neurotic",
+   "psychopathic",
+   "pathological",
+   "psychotic"
+  ],
+  "correct": "D",
+  "explanation": "psychotic: Having a psychosis; out of touch with reality.",
+  "reasons": {
+   "A": "Wrong: Suffering from a neurosis; a person with one.",
+   "B": "Wrong: Lacking an inner moral censor; describing a psychopath.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Having a psychosis; out of touch with reality."
+  }
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "word": "semantic",
+  "question": "The linguist examined the meaning of each word in the sentence. Her analysis was:",
+  "options": [
+   "phonetic",
+   "semantic",
+   "graphological",
+   "theological"
+  ],
+  "correct": "B",
+  "explanation": "semantic: Relating to the meaning of words.",
+  "reasons": {
+   "A": "Wrong: Relating to the sounds of speech.",
+   "B": "Correct: Relating to the meaning of words.",
+   "C": "Wrong: Relating to the study of handwriting.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "semantical",
+  "question": "The debate was about the meaning of words, not their sounds. It was:",
+  "options": [
+   "phonetic",
+   "theological",
+   "semantical",
+   "zoological"
+  ],
+  "correct": "C",
+  "explanation": "semantical: Relating to semantics.",
+  "reasons": {
+   "A": "Wrong: Relating to the sounds of speech.",
+   "B": "Wrong: Relating to the study of God and religion.",
+   "C": "Correct: Relating to semantics.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "semanticist",
+  "question": "The scholar who studies the meaning of words is a:",
+  "options": [
+   "phonetician",
+   "geneticist",
+   "theologian",
+   "semanticist"
+  ],
+  "correct": "D",
+  "explanation": "semanticist: A scientist who studies the meaning of words.",
+  "reasons": {
+   "A": "Wrong: An expert in the sounds of speech.",
+   "B": "Wrong: A scientist who studies heredity.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A scientist who studies the meaning of words."
+  }
+ },
+ {
+  "word": "semantics",
+  "question": "The study of the meaning of words and sentences is called:",
+  "options": [
+   "semantics",
+   "phonetics",
+   "optics",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "semantics: The study of the meaning of words.",
+  "reasons": {
+   "A": "Correct: The study of the meaning of words.",
+   "B": "Wrong: The science of speech sounds.",
+   "C": "Wrong: The science of light and vision.",
+   "D": "Wrong: The study of God and religion."
+  }
+ }
+]

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Aequus Quiz Prototype</title>
+<style>
+:root{--bg:#f4f7fc;--surface:#ffffff;--fg:#1d2330;--muted:#5b6375;--line:#dfe5f0;--accent:#2f6fdd;--accent-ink:#ffffff;--good:#1f8a5b;--bad:#b34700;--soft:#e9f0fc;color-scheme:light}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#121620;--surface:#1b2130;--fg:#eef0f5;--muted:#a7aec0;--line:#2f3646;--accent:#7aa7ff;--accent-ink:#0f1520;--good:#4cc08b;--bad:#f0a25a;--soft:#222b3e;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121620;--surface:#1b2130;--fg:#eef0f5;--muted:#a7aec0;--line:#2f3646;--accent:#7aa7ff;--accent-ink:#0f1520;--good:#4cc08b;--bad:#f0a25a;--soft:#222b3e;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 48px}
+main{max-width:640px;margin:0 auto}
+h1{font-size:22px;margin:0}
+.sub{color:var(--muted);font-size:14px;margin:4px 0 16px}
+.bar{height:8px;background:var(--line);border-radius:999px;overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s}
+.meta{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);margin:8px 0 14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px}
+.tag{display:inline-block;font-size:12px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;background:var(--soft);color:var(--accent);padding:3px 10px;border-radius:999px}
+.prompt{font-size:18px;margin:12px 0 16px;line-height:1.45}
+.scene{font-size:44px;text-align:center;margin:8px 0 14px}
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.opt{font:inherit;text-align:left;background:var(--surface);color:var(--fg);border:2px solid var(--line);border-radius:12px;padding:14px;min-height:52px;cursor:pointer}
+.opt:hover{border-color:var(--accent)}
+.opt.emoji{font-size:34px;text-align:center}
+.opt.right{border-color:var(--good);background:color-mix(in srgb,var(--good) 14%,transparent)}
+.opt.wrong{border-color:var(--bad)}
+.btn{font:inherit;font-weight:600;border:0;border-radius:12px;padding:12px 18px;background:var(--accent);color:var(--accent-ink);cursor:pointer;min-height:48px}
+.btn.ghost{background:transparent;color:var(--accent);border:2px solid var(--line)}
+.btn:disabled{opacity:.45;cursor:default}
+.row{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+.tiles{display:flex;flex-wrap:wrap;gap:8px;min-height:52px;padding:10px;border:2px dashed var(--line);border-radius:12px;margin-top:10px}
+.tile{font:inherit;font-weight:600;padding:10px 14px;border-radius:10px;border:0;background:var(--soft);color:var(--fg);cursor:pointer}
+input.type{font:inherit;width:100%;padding:12px;border-radius:12px;border:2px solid var(--line);background:var(--bg);color:var(--fg);margin-top:10px}
+select{font:inherit;width:100%;padding:10px;border-radius:10px;border:2px solid var(--line);background:var(--bg);color:var(--fg)}
+.match{display:grid;grid-template-columns:1fr 1.4fr;gap:10px 12px;align-items:center;margin-top:8px}
+.match b{font-size:16px}
+.feedback{margin-top:16px;padding:14px;border-radius:12px;background:var(--soft);font-size:15px}
+.feedback.good{border-left:5px solid var(--good)}
+.feedback.bad{border-left:5px solid var(--bad)}
+.hint{font-size:13px;color:var(--muted);margin-top:8px}
+.end{text-align:center}
+.end .big{font-size:48px}
+@media (max-width:480px){.opts{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main>
+  <h1>Root: aequus (equal)</h1>
+  <p class="sub">One quiz, nine question formats. Pick an answer, then read the explanation.</p>
+  <div class="bar"><i id="prog"></i></div>
+  <div class="meta"><span id="count"></span><span id="score"></span></div>
+  <div class="card" id="card"></div>
+</main>
+<script>
+const Q = [
+ {prompt:"Asked a direct yes-or-no question, the manager replied in words that could be read either way, so no one could pin him down. Which verb describes what he did?", scene:"🤷", options:["Equivocated","Equated","Equalized","Equilibrated"], answer:0, why:"Equi (equal) + voc (voice): speaking so that two readings are possible, to avoid a clear answer."},
+ {prompt:"Tap the tiles in order to build the word for: every citizen counts the same before the law.", tiles:["equ","al","ity","ivo","ine"], target:"equality", why:"Equality is the state of being equal. Equanimity is calm, equinox is a date, equilibrium is balance."},
+ {prompt:"A minister, asked whether he approved the plan, said he 'would look at it carefully' and added nothing more. Type the noun for this deliberately unclear speech. Starts with \"equ\", 12 letters.", target:"equivocation", why:"Equi (equal) + voc (voice): a deliberately vague statement."},
+ {prompt:"Listen to the question, then choose the word.", speak:"Two reporters read the mayor's sentence in opposite ways, because his wording could support both readings. The mayor's answer was ___.", options:["Unequivocal","Equable","Equilateral","Equivocal"], answer:3, why:"Equivocal means open to two meanings. Unequivocal means clear, with one meaning."},
+ {prompt:"Which word is the odd one out? It is NOT about clear or vague speech.", options:["Unequivocal","Equivocal","Equitable","Equinoctial"], answer:2, why:"Equitable means fair and just to all. The other three describe the clarity of speech or a time of year."},
+ {prompt:"Match each word to its meaning.", pairs:[["Equity","Fairness that adjusts for different needs"],["Equality","The same treatment for everyone"],["Equanimity","Calm, even temper under stress"],["Equinox","Day and night last about the same length"]], why:"Equity adjusts for need, equality gives the same treatment, equanimity is calm, and equinox is the equal day and night."},
+ {prompt:"\"Equitable means calm and unruffled.\"", options:["True","False"], answer:1, why:"False. Equitable means fair and just to all. Equable means calm and unruffled."},
+ {prompt:"A company pays men more than women for the same job. This unfairness in pay is an:", scene:"💼 💰", options:["Equity","Equinox","Equilibrium","Inequity"], answer:3, why:"In- (not) + equity: the unfairness itself."},
+ {prompt:"Step 1: what does the prefix in- mean? Step 2: a school admissions rule treats applicants unfairly because of their postcode. The rule is:", step1:["Not","Again","Under","Across"], step1answer:0, options:["Inequitable","Equitable","Equable","Equilateral"], answer:0, why:"In- (not) + equitable: unfair or unjust."},
+ {prompt:"The villain poisoned the well that the whole town drank from. His act was an example of:", scene:"😈", options:["Equity","Iniquity","Equilibrium","Equanimity"], answer:1, why:"Iniquity means wickedness, a much stronger word than inequity."},
+ {prompt:"Tap the tiles in order to build the word for: a property scheme that was wicked in every detail.", tiles:["ini","quit","ous","equ","al"], target:"iniquitous", why:"Iniquitous means wicked or sinful."},
+ {prompt:"In late March, day and night last about the same length. Type the name of this moment of the year. Starts with \"equ\", 7 letters.", target:"equinox", why:"The equinox is the moment when day and night are about equal in length."},
+ {prompt:"Listen to the question, then choose the word.", speak:"Sailors in the Atlantic expect violent storms around March and September, when day and night are of similar length. These storms are called:", options:["Equinoctial","Equilateral","Equable","Equity"], answer:0, why:"Equinoctial means relating to the equinox."},
+ {prompt:"Which word is NOT about calm temper?", options:["Equanimity","Equable","Equability","Equinox"], answer:3, why:"Equinox is a time of year. The other three describe calm temper."},
+ {prompt:"Match each word to its meaning.", pairs:[["Equability","Steady, even-tempered calm"],["Equable","Calm and unruffled, even when provoked"],["Equanimity","Calm composure, especially under stress"],["Equilibrium","A balance between opposing forces"]], why:"Each word is a calm or balanced state, but equilibrium is a physical balance, not a mood."},
+ {prompt:"\"Equable means calm and unruffled.\"", options:["True","False"], answer:0, why:"True. Equable means calm and unruffled, even when provoked."},
+ {prompt:"A tightrope walker keeps her body steady by moving her arms, so that opposing forces stay in balance. She is maintaining her:", scene:"🤸 ⚖️", options:["Equilibrium","Equanimity","Equity","Equinox"], answer:0, why:"Equilibrium is a balance between opposing forces."},
+ {prompt:"Step 1: what does the prefix equi- mean? Step 2: a performer who walks a tightrope and never loses her footing is called an:", step1:["Equal","Wind","Fire","Stone"], step1answer:0, options:["Equinoctial","Equilibrist","Equanimity","Equity"], answer:1, why:"An equilibrist is a performer who keeps their balance."},
+ {prompt:"A triangle with three sides of exactly the same length is called:", scene:"🔺", options:["Equilibrium","Equivocal","Equilateral","Equinox"], answer:2, why:"Equi (equal) + latus (side): equal sides."}
+];
+
+let i = 0, score = 0, state = {};
+const $ = id => document.getElementById(id);
+function speak(text){ try{ const u=new SpeechSynthesisUtterance(text); u.rate=.85; speechSynthesis.cancel(); speechSynthesis.speak(u);}catch(e){} }
+
+function render(){
+  const q = Q[i];
+  $("prog").style.width = (i/Q.length*100)+"%";
+  $("count").textContent = "Question " + (i+1) + " of " + Q.length;
+  $("score").textContent = "Score " + score;
+  let html = '<p class="prompt">'+q.prompt+'</p>';
+  if(q.scene) html += '<div class="scene">'+q.scene+'</div>';
+  if(q.speak) html += '<button class="btn ghost" id="play">▶ Play word</button>';
+  if(q.tiles) html += '<div class="tiles" id="slot"></div><div class="row">'+q.tiles.map((t,k)=>'<button class="tile" data-k="'+k+'">'+t+'</button>').join("")+'</div><div class="row"><button class="btn ghost" id="undo">Undo</button><button class="btn" id="check">Check</button></div>';
+  if(q.target && !q.tiles) html += '<input class="type" id="typed" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Type here"><div class="row"><button class="btn" id="check">Check</button></div>';
+  if(q.step1) html += '<div class="opts" id="s1">'+q.step1.map((o,k)=>'<button class="opt" data-k="'+k+'">'+o+'</button>').join("")+'</div><p class="hint">Step 1</p>';
+  if(q.pairs) html += pairsHtml(q);
+  if(q.options && !q.step1) html += '<div class="opts" id="opts">'+q.options.map((o,k)=>'<button class="opt'+(q.scene&&k<0?" emoji":"")+'" data-k="'+k+'">'+o+'</button>').join("")+'</div>';
+  if(q.step1) html += '<div class="opts" id="opts" style="margin-top:10px">'+q.options.map((o,k)=>'<button class="opt" data-k="'+k+'">'+o+'</button>').join("")+'</div><p class="hint">Step 2</p>';
+  if(q.pairs) html += '<div class="row"><button class="btn" id="check">Check pairs</button></div>';
+  html += '<div id="fb"></div>';
+  $("card").innerHTML = html;
+  bind(q);
+}
+
+function pairsHtml(q){
+  const right = q.pairs.map(p=>p[1]).slice().sort(()=>0.5-Math.random());
+  state.right = right;
+  return '<div class="match">'+q.pairs.map((p,k)=>'<b>'+p[0]+'</b><select data-k="'+k+'"><option value="">Choose meaning</option>'+right.map(r=>'<option>'+r+'</option>').join("")+'</select>').join("")+'</div>';
+}
+
+function bind(q){
+  if(q.speak){ $("play").onclick=()=>speak(q.speak); setTimeout(()=>speak(q.speak),300); }
+  if(q.tiles){
+    state.built=[];
+    document.querySelectorAll(".tile").forEach(b=>b.onclick=()=>{ state.built.push(b.textContent); b.disabled=true; $("slot").textContent=state.built.join(""); });
+    $("undo").onclick=()=>{ state.built=[]; document.querySelectorAll(".tile").forEach(b=>b.disabled=false); $("slot").textContent=""; };
+    $("check").onclick=()=>{ judge(state.built.join("")===q.target, q.why, q.target); };
+  } else if(q.target){
+    $("check").onclick=()=>{ const v=$("typed").value.trim().toLowerCase(); judge(v===q.target, q.why, q.target); };
+  } else if(q.pairs){
+    $("check").onclick=()=>{
+      const sels=[...document.querySelectorAll("select")];
+      const ok=sels.every((s,k)=>s.value===q.pairs[k][1]);
+      judge(ok, q.why, q.pairs.map(p=>p[0]+" = "+p[1]).join("; "));
+    };
+  } else if(q.step1){
+    document.querySelectorAll("#s1 .opt").forEach(b=>b.onclick=()=>{ state.s1=+b.dataset.k; document.querySelectorAll("#s1 .opt").forEach(x=>x.classList.toggle("right",x===b)); });
+    document.querySelectorAll("#opts .opt").forEach(b=>b.onclick=()=>{
+      if(state.s1===undefined){ return; }
+      const okk = state.s1===q.step1answer && +b.dataset.k===q.answer;
+      judge(okk, q.why, q.options[q.answer]);
+    });
+  } else {
+    document.querySelectorAll("#opts .opt").forEach(b=>b.onclick=()=>{
+      const k=+b.dataset.k; const ok=k===q.answer;
+      judge(ok, q.why, q.options[q.answer], b);
+    });
+  }
+}
+
+function judge(ok, why, answer, btn){
+  if(ok) score++;
+  document.querySelectorAll("button.opt, .btn, .tile, select, input").forEach(e=>{ if(e.id!=="play") e.disabled=true; });
+  if(btn){ btn.classList.add(ok?"right":"wrong"); }
+  $("fb").innerHTML = '<div class="feedback '+(ok?"good":"bad")+'"><b>'+(ok?"Correct!":"Not quite. Answer: "+answer)+'</b><br>'+why+'</div><div class="row"><button class="btn" id="next">'+(i<Q.length-1?"Next":"See result")+'</button></div>';
+  $("next").onclick=()=>{ i++; if(i<Q.length){ render(); } else { end(); } };
+}
+
+function end(){
+  $("prog").style.width="100%";
+  $("count").textContent="Done";
+  $("score").textContent="Score "+score+" of "+Q.length;
+  $("card").innerHTML='<div class="end"><div class="big">'+(score===Q.length?"🌟":score>=Q.length/2?"🙂":"📘")+'</div><p class="prompt">You got '+score+' of '+Q.length+' right.</p><button class="btn" onclick="location.reload()">Play again</button></div>';
+}
+
+render();
+</script>
+</body>
+</html>

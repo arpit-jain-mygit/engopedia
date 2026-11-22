@@ -1,0 +1,20 @@
+[
+ {
+  "word": "cynophobia",
+  "question": "A postman carries repellent spray and crosses the road whenever a barking, snapping, four-legged pet comes into view. He fears:",
+  "options": [
+   "Ailurophobia",
+   "Ophidiophobia",
+   "Cynophobia",
+   "Hippophobia"
+  ],
+  "correct": "C",
+  "explanation": "Kyon (dog) + phobia = fear of dogs.",
+  "reasons": {
+   "A": "Wrong: fear of cats.",
+   "B": "Wrong: fear of snakes.",
+   "C": "Correct: kyon means dog, so the fear is of dogs.",
+   "D": "Wrong: fear of horses."
+  }
+ }
+]

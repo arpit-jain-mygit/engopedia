@@ -1,0 +1,56 @@
+[
+ {
+  "word": "soliloquist",
+  "question": "The character who speaks alone and aloud is a:",
+  "options": [
+   "ventriloquist",
+   "somnambulist",
+   "chiromancer",
+   "soliloquist"
+  ],
+  "correct": "D",
+  "explanation": "soliloquist: A person who speaks alone.",
+  "reasons": {
+   "A": "Wrong: A performer who throws the voice.",
+   "B": "Wrong: A sleepwalker.",
+   "C": "Wrong: A person who reads palms.",
+   "D": "Correct: A person who speaks alone."
+  }
+ },
+ {
+  "word": "soliloquize",
+  "question": "He talked aloud to himself while walking alone in the forest. He began to:",
+  "options": [
+   "soliloquize",
+   "ventriloquize",
+   "vociferate",
+   "dissemble"
+  ],
+  "correct": "A",
+  "explanation": "soliloquize: To talk to oneself.",
+  "reasons": {
+   "A": "Correct: To talk to oneself.",
+   "B": "Wrong: To throw the voice.",
+   "C": "Wrong: To shout loudly.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "soliloquy",
+  "question": "The long speech a character gives alone on stage is a:",
+  "options": [
+   "colloquialism",
+   "soliloquy",
+   "circumlocution",
+   "epitome"
+  ],
+  "correct": "B",
+  "explanation": "soliloquy: A speech a person makes to himself or herself.",
+  "reasons": {
+   "A": "Wrong: An informal expression used in everyday speech.",
+   "B": "Correct: A speech a person makes to himself or herself.",
+   "C": "Wrong: A roundabout way of speaking.",
+   "D": "Wrong: A perfect example; a short summary."
+  }
+ }
+]

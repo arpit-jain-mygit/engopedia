@@ -1,0 +1,344 @@
+[
+ {
+  "word": "equivocate",
+  "question": "Asked a direct yes-or-no question, the manager replied in words that could be read either way, so no one could pin him down. Which verb describes what he did?",
+  "options": [
+   "Equivocated",
+   "Equated",
+   "Equalized",
+   "Equilibrated"
+  ],
+  "correct": "A",
+  "explanation": "Equi (equal) + voc (voice): speaking so that two readings are possible, to avoid a clear answer.",
+  "reasons": {
+   "A": "Correct: to speak in ambiguous terms on purpose, avoiding a clear commitment.",
+   "B": "Wrong: to treat two things as the same; the manager made no comparison.",
+   "C": "Wrong: to make things even, such as scores; nothing was levelled out.",
+   "D": "Wrong: to bring into balance; nothing was balanced here."
+  }
+ },
+ {
+  "word": "equality",
+  "question": "Which word names the principle that every citizen counts the same before the law, whatever their background?",
+  "options": [
+   "Equanimity",
+   "Equality",
+   "Equinox",
+   "Equilibrium"
+  ],
+  "correct": "B",
+  "explanation": "Equality is the state of being equal. Equanimity is calm, equinox is a date, equilibrium is balance.",
+  "reasons": {
+   "A": "Wrong: calm, steady composure; a state of mind, not a legal principle.",
+   "B": "Correct: the state of being equal in rights and treatment for all.",
+   "C": "Wrong: the time of year when day and night last equally long.",
+   "D": "Wrong: a state of balance between opposing forces."
+  }
+ },
+ {
+  "word": "equivocation",
+  "question": "A minister, asked whether he approved the plan, said he 'would look at it carefully' and added nothing more. Which noun names this kind of deliberately unclear speech?",
+  "options": [
+   "Equilateral",
+   "Equity",
+   "Equivocation",
+   "Equinoctial"
+  ],
+  "correct": "C",
+  "explanation": "Equi (equal) + voc (voice): a deliberately vague statement.",
+  "reasons": {
+   "A": "Wrong: a shape with three equal sides; a geometry term.",
+   "B": "Wrong: fairness in how people are treated; it describes justice, not speech.",
+   "C": "Correct: deliberately vague speech that avoids a clear yes or no.",
+   "D": "Wrong: relating to the equinox, a time of year."
+  }
+ },
+ {
+  "word": "equivocal",
+  "question": "Two reporters read the mayor's sentence in opposite ways, because his wording could support both readings. The mayor's answer was ___.",
+  "options": [
+   "Unequivocal",
+   "Equable",
+   "Equilateral",
+   "Equivocal"
+  ],
+  "correct": "D",
+  "explanation": "Equivocal means open to two meanings. Unequivocal means clear, with one meaning.",
+  "reasons": {
+   "A": "Wrong: clear, with only one meaning; the reporters disagreed, so the answer was not clear.",
+   "B": "Wrong: calm and even-tempered; it describes a person's mood.",
+   "C": "Wrong: a shape with equal sides; not about speech.",
+   "D": "Correct: open to two or more meanings, which is why the reporters read it differently."
+  }
+ },
+ {
+  "word": "unequivocal",
+  "question": "A witness's account can be read in only one way, with no doubt left. Which adjective describes it?",
+  "options": [
+   "Unequivocal",
+   "Equivocal",
+   "Equitable",
+   "Equinoctial"
+  ],
+  "correct": "A",
+  "explanation": "Un- (not) + equivocal: one clear meaning only.",
+  "reasons": {
+   "A": "Correct: un- (not) + equivocal: only one meaning is possible.",
+   "B": "Wrong: open to two meanings; the opposite of an account with no doubt.",
+   "C": "Wrong: fair and just; this describes treatment, not clarity.",
+   "D": "Wrong: relating to the equinox, a time of year."
+  }
+ },
+ {
+  "word": "equity",
+  "question": "Two runners start a race, but one gets a head start to make up for a slower leg. Which word describes this kind of fairness?",
+  "options": [
+   "Equality",
+   "Equity",
+   "Equanimity",
+   "Equinox"
+  ],
+  "correct": "B",
+  "explanation": "Equity is fairness that adjusts for different needs. Equality gives everyone the same treatment.",
+  "reasons": {
+   "A": "Wrong: the same treatment for all; here the runners are treated differently on purpose.",
+   "B": "Correct: fairness that adjusts for different needs, such as a head start.",
+   "C": "Wrong: calm, steady composure; a state of mind, not fairness.",
+   "D": "Wrong: the time of year when day and night last equally long."
+  }
+ },
+ {
+  "word": "equitable",
+  "question": "A rule that gives students with a disability extra time in exams is best described as:",
+  "options": [
+   "Equilateral",
+   "Equable",
+   "Equitable",
+   "Equivocal"
+  ],
+  "correct": "C",
+  "explanation": "Equitable means fair and just to all. Equable means calm in temper.",
+  "reasons": {
+   "A": "Wrong: a shape with three equal sides; not about rules.",
+   "B": "Wrong: calm and even-tempered; it describes a mood, not a rule.",
+   "C": "Correct: fair and just to all, which extra time helps achieve.",
+   "D": "Wrong: open to two meanings; the rule is clear, not vague."
+  }
+ },
+ {
+  "word": "inequity",
+  "question": "A company pays men more than women for the same job. This unfairness in pay is an:",
+  "options": [
+   "Equity",
+   "Equinox",
+   "Equilibrium",
+   "Inequity"
+  ],
+  "correct": "D",
+  "explanation": "In- (not) + equity: the unfairness itself.",
+  "reasons": {
+   "A": "Wrong: fairness itself; the sentence describes unfairness.",
+   "B": "Wrong: a time of year; not about pay.",
+   "C": "Wrong: a balance of forces; not about pay.",
+   "D": "Correct: in- (not) + equity; the unfairness in pay."
+  }
+ },
+ {
+  "word": "inequitable",
+  "question": "A school admissions rule treats applicants unfairly because of which postcode they live in. The rule is:",
+  "options": [
+   "Inequitable",
+   "Equitable",
+   "Equable",
+   "Equilateral"
+  ],
+  "correct": "A",
+  "explanation": "In- (not) + equitable: unfair or unjust.",
+  "reasons": {
+   "A": "Correct: unfair or unjust, because of where applicants live.",
+   "B": "Wrong: fair and just; the opposite of the rule described.",
+   "C": "Wrong: calm and even-tempered; not about fairness.",
+   "D": "Wrong: a shape with three equal sides; not about rules."
+  }
+ },
+ {
+  "word": "iniquity",
+  "question": "The villain poisoned the well that the whole town drank from, and the town was horrified by his deed. His act was an example of:",
+  "options": [
+   "Equity",
+   "Iniquity",
+   "Equilibrium",
+   "Equanimity"
+  ],
+  "correct": "B",
+  "explanation": "Iniquity means wickedness, a much stronger word than inequity.",
+  "reasons": {
+   "A": "Wrong: fairness; far too mild a word for poisoning a well.",
+   "B": "Correct: wickedness; poisoning a well is grossly wrong.",
+   "C": "Wrong: a balance of forces; not about wrongdoing.",
+   "D": "Wrong: calm composure; the villain's act is not calm."
+  }
+ },
+ {
+  "word": "iniquitous",
+  "question": "A property scheme was designed to take homes from poor families, and every detail of it was wicked. The scheme was:",
+  "options": [
+   "Equitable",
+   "Equable",
+   "Iniquitous",
+   "Unequivocal"
+  ],
+  "correct": "C",
+  "explanation": "Iniquitous means wicked or sinful.",
+  "reasons": {
+   "A": "Wrong: fair and just; the scheme is the opposite.",
+   "B": "Wrong: calm and even-tempered; the scheme is wicked, not calm.",
+   "C": "Correct: wicked and sinful, as a scheme that cheats families.",
+   "D": "Wrong: clear, with one meaning; not about wickedness."
+  }
+ },
+ {
+  "word": "equinox",
+  "question": "In late March, day and night last about the same length. This moment of the year is called the spring:",
+  "options": [
+   "Equivocation",
+   "Equanimity",
+   "Equilateral",
+   "Equinox"
+  ],
+  "correct": "D",
+  "explanation": "The equinox is the moment when day and night are about equal in length.",
+  "reasons": {
+   "A": "Wrong: deliberately vague speech; not a time of year.",
+   "B": "Wrong: calm composure; not a time of year.",
+   "C": "Wrong: a shape with three equal sides; not a time of year.",
+   "D": "Correct: the spring time when day and night are about equal in length."
+  }
+ },
+ {
+  "word": "equinoctial",
+  "question": "Sailors in the Atlantic expect violent storms around March and September, when day and night are of similar length. These storms are called:",
+  "options": [
+   "Equinoctial",
+   "Equilateral",
+   "Equable",
+   "Equity"
+  ],
+  "correct": "A",
+  "explanation": "Equinoctial means relating to the equinox.",
+  "reasons": {
+   "A": "Correct: relating to the equinox, as in the storms at that time.",
+   "B": "Wrong: a shape with three equal sides; not about storms.",
+   "C": "Wrong: calm and even-tempered; the storms are not calm.",
+   "D": "Wrong: fairness; not about storms."
+  }
+ },
+ {
+  "word": "equanimity",
+  "question": "After losing the final, she accepted the result calmly and did not let it shake her composure. Her calm is best described as:",
+  "options": [
+   "Equivocation",
+   "Equanimity",
+   "Equinox",
+   "Equilibrium"
+  ],
+  "correct": "B",
+  "explanation": "Equanimity is calm, even temper, especially under stress.",
+  "reasons": {
+   "A": "Wrong: deliberately vague speech; her calm is not a kind of speech.",
+   "B": "Correct: calm, even temper under stress, such as after a loss.",
+   "C": "Wrong: a time of year; not a state of mind.",
+   "D": "Wrong: a physical balance of forces; not a state of mind."
+  }
+ },
+ {
+  "word": "equability",
+  "question": "A manager who stays steady and even-tempered each day, never sulking or exploding, is praised for her:",
+  "options": [
+   "Equilibrium",
+   "Equilateral",
+   "Equability",
+   "Equivocation"
+  ],
+  "correct": "C",
+  "explanation": "Equability is evenness of temper. Equilibrium is balance between forces.",
+  "reasons": {
+   "A": "Wrong: a balance between opposing forces; not a temper.",
+   "B": "Wrong: a shape with three equal sides; not a temper.",
+   "C": "Correct: steady, even-tempered calm that makes someone easy to work with.",
+   "D": "Wrong: deliberately vague speech; not a temper."
+  }
+ },
+ {
+  "word": "equable",
+  "question": "Even when the crowd shouted insults at him, the speaker remained unruffled and spoke in the same steady voice. He was:",
+  "options": [
+   "Equilateral",
+   "Equinox",
+   "Iniquitous",
+   "Equable"
+  ],
+  "correct": "D",
+  "explanation": "Equable means calm and unruffled.",
+  "reasons": {
+   "A": "Wrong: a shape with three equal sides; not about temper.",
+   "B": "Wrong: a time of year; not about temper.",
+   "C": "Wrong: wicked; the speaker is calm, not wicked.",
+   "D": "Correct: calm and unruffled, even when provoked."
+  }
+ },
+ {
+  "word": "equilibrium",
+  "question": "A tightrope walker keeps her body steady by moving her arms, so that opposing forces stay in balance. She is maintaining her:",
+  "options": [
+   "Equilibrium",
+   "Equanimity",
+   "Equity",
+   "Equinox"
+  ],
+  "correct": "A",
+  "explanation": "Equilibrium is a balance between opposing forces.",
+  "reasons": {
+   "A": "Correct: a balance between opposing forces, as the tightrope walker needs.",
+   "B": "Wrong: calm composure of mind; the walker's problem is physical.",
+   "C": "Wrong: fairness in how people are treated; not about balance.",
+   "D": "Wrong: a time of year; not about balance."
+  }
+ },
+ {
+  "word": "equilibrist",
+  "question": "A performer who walks a tightrope high above the crowd, never losing her footing, is called an:",
+  "options": [
+   "Equinoctial",
+   "Equilibrist",
+   "Equanimity",
+   "Equity"
+  ],
+  "correct": "B",
+  "explanation": "An equilibrist is a performer who keeps their balance.",
+  "reasons": {
+   "A": "Wrong: relating to the equinox; not a performer.",
+   "B": "Correct: a performer who keeps their balance, such as a tightrope walker.",
+   "C": "Wrong: calm composure of mind; not a performer.",
+   "D": "Wrong: fairness; not a performer."
+  }
+ },
+ {
+  "word": "equilateral",
+  "question": "A triangle drawn with three sides of exactly the same length is called:",
+  "options": [
+   "Equilibrium",
+   "Equivocal",
+   "Equilateral",
+   "Equinox"
+  ],
+  "correct": "C",
+  "explanation": "Equi (equal) + latus (side): equal sides.",
+  "reasons": {
+   "A": "Wrong: a balance of forces; not about sides.",
+   "B": "Wrong: open to two meanings; not about shapes.",
+   "C": "Correct: equi (equal) + latus (side), so all three sides are equal.",
+   "D": "Wrong: a time of year; not about shapes."
+  }
+ }
+]

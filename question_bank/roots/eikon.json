@@ -1,0 +1,56 @@
+[
+ {
+  "word": "iconoclasm",
+  "question": "The movement that attacked long-held beliefs and traditions was called:",
+  "options": [
+   "asceticism",
+   "iconoclasm",
+   "sycophancy",
+   "monotheism"
+  ],
+  "correct": "B",
+  "explanation": "iconoclasm: The attacking of established beliefs and traditions.",
+  "reasons": {
+   "A": "Wrong: A life of strict self-denial and simplicity.",
+   "B": "Correct: The attacking of established beliefs and traditions.",
+   "C": "Wrong: Fawning behavior toward the powerful.",
+   "D": "Wrong: The belief in one God."
+  }
+ },
+ {
+  "word": "iconoclast",
+  "question": "The rebel who attacks established beliefs and traditions is an:",
+  "options": [
+   "sycophant",
+   "ascetic",
+   "iconoclast",
+   "demagogue"
+  ],
+  "correct": "C",
+  "explanation": "iconoclast: A person who attacks established beliefs and traditions.",
+  "reasons": {
+   "A": "Wrong: A person who flatters the powerful to gain favor.",
+   "B": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "C": "Correct: A person who attacks established beliefs and traditions.",
+   "D": "Wrong: A leader who stirs up discontent to win power."
+  }
+ },
+ {
+  "word": "iconoclastic",
+  "question": "Her views were bold and mocked long-held traditions. Her views were:",
+  "options": [
+   "sycophantic",
+   "ascetic",
+   "placid",
+   "iconoclastic"
+  ],
+  "correct": "D",
+  "explanation": "iconoclastic: Attacking traditions and beliefs.",
+  "reasons": {
+   "A": "Wrong: Fawning; flattering to gain favor.",
+   "B": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Attacking traditions and beliefs."
+  }
+ }
+]

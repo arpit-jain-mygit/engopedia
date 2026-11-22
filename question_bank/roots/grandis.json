@@ -1,0 +1,38 @@
+[
+ {
+  "word": "grandiloquent",
+  "question": "The politician filled his speech with lofty, pompous phrases that impressed no one but himself. His speech was:",
+  "options": [
+   "Grandiloquent",
+   "Laconic",
+   "Taciturn",
+   "Reticent"
+  ],
+  "correct": "A",
+  "explanation": "Grandis (grand, large) + loqui (to speak): speaking in a grand, lofty way.",
+  "reasons": {
+   "A": "Correct: pompous and lofty in language.",
+   "B": "Wrong: using very few words.",
+   "C": "Wrong: reserved and silent.",
+   "D": "Wrong: reluctant to speak openly."
+  }
+ },
+ {
+  "word": "grandiloquence",
+  "question": "His speech was full of inflated, pompous phrasing that made simple points sound important. Such showy, lofty language is called:",
+  "options": [
+   "Gaucherie",
+   "Grandiloquence",
+   "Euphemism",
+   "Perspicuity"
+  ],
+  "correct": "B",
+  "explanation": "Grandiloquence: lofty, pompous speech.",
+  "reasons": {
+   "A": "Wrong: an awkward or tactless act.",
+   "B": "Correct: pompous, lofty speech.",
+   "C": "Wrong: a mild word used in place of a harsh one.",
+   "D": "Wrong: clearness of language."
+  }
+ }
+]

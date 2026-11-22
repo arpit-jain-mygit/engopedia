@@ -1,0 +1,20 @@
+[
+ {
+  "word": "spectrophobia",
+  "question": "A dancer covers every mirror in her flat, unable to face her own reflection. She has a fear of:",
+  "options": [
+   "Phasmophobia",
+   "Spectrophobia",
+   "Photophobia",
+   "Scoptophobia"
+  ],
+  "correct": "B",
+  "explanation": "Spectron (mirror) + phobia = fear of mirrors.",
+  "reasons": {
+   "A": "Wrong: fear of ghosts.",
+   "B": "Correct: spectron means mirror, so the fear is of mirrors.",
+   "C": "Wrong: fear of light.",
+   "D": "Wrong: fear of being watched, not of reflections."
+  }
+ }
+]

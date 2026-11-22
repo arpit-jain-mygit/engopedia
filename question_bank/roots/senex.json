@@ -1,0 +1,128 @@
+[
+ {
+  "word": "senate",
+  "question": "The council of older, wise citizens met to make the laws. This council is the:",
+  "options": [
+   "regalia",
+   "senate",
+   "cavalcade",
+   "congregation"
+  ],
+  "correct": "B",
+  "explanation": "senate: A council of older, presumably wiser, citizens.",
+  "reasons": {
+   "A": "Wrong: Badges and insignia of rank or office.",
+   "B": "Correct: A council of older, presumably wiser, citizens.",
+   "C": "Wrong: A procession of people on horseback.",
+   "D": "Wrong: A group of people gathered for worship."
+  }
+ },
+ {
+  "word": "senescence",
+  "question": "The natural process of growing old and declining with time is called:",
+  "options": [
+   "senility",
+   "decadence",
+   "senescence",
+   "revival"
+  ],
+  "correct": "C",
+  "explanation": "senescence: The process of growing old.",
+  "reasons": {
+   "A": "Wrong: The decline of body or mind that comes with very old age.",
+   "B": "Wrong: Moral or physical decay.",
+   "C": "Correct: The process of growing old.",
+   "D": "Wrong: A restoring to life or activity."
+  }
+ },
+ {
+  "word": "senescent",
+  "question": "The old man was growing older and gradually declining with age. He was:",
+  "options": [
+   "vivacious",
+   "vital",
+   "animated",
+   "senescent"
+  ],
+  "correct": "D",
+  "explanation": "senescent: Growing old; aging.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Wrong: Essential to life; very important.",
+   "C": "Wrong: Full of life and energy.",
+   "D": "Correct: Growing old; aging."
+  }
+ },
+ {
+  "word": "senile",
+  "question": "The elderly man's memory had weakened with age, and he was confused. He was:",
+  "options": [
+   "senile",
+   "vivacious",
+   "vital",
+   "animated"
+  ],
+  "correct": "A",
+  "explanation": "senile: Showing the physical or mental decline of very old age.",
+  "reasons": {
+   "A": "Correct: Showing the physical or mental decline of very old age.",
+   "B": "Wrong: Full of life, joy, and energy.",
+   "C": "Wrong: Essential to life; very important.",
+   "D": "Wrong: Full of life and energy."
+  }
+ },
+ {
+  "word": "senility",
+  "question": "The decline of the mind that comes with old age is called:",
+  "options": [
+   "senescence",
+   "senility",
+   "vitality",
+   "vivacity"
+  ],
+  "correct": "B",
+  "explanation": "senility: The decline of body or mind that comes with very old age.",
+  "reasons": {
+   "A": "Wrong: The process of growing old.",
+   "B": "Correct: The decline of body or mind that comes with very old age.",
+   "C": "Wrong: Energy and strength for life.",
+   "D": "Wrong: Liveliness; high spirits."
+  }
+ },
+ {
+  "word": "senior",
+  "question": "The employee who was older in age and higher in rank was the:",
+  "options": [
+   "peer",
+   "sequel",
+   "senior",
+   "sycophant"
+  ],
+  "correct": "C",
+  "explanation": "senior: Older in age or higher in rank.",
+  "reasons": {
+   "A": "Wrong: A person who is equal to you in age, rank, or ability.",
+   "B": "Wrong: A later story or event that follows an earlier one.",
+   "C": "Correct: Older in age or higher in rank.",
+   "D": "Wrong: A person who flatters the powerful to gain favor."
+  }
+ },
+ {
+  "word": "seniority",
+  "question": "The employee's long years of service gave him higher rank than others. His rank is his:",
+  "options": [
+   "parity",
+   "equity",
+   "sycophancy",
+   "seniority"
+  ],
+  "correct": "D",
+  "explanation": "seniority: The state of being older or higher in rank.",
+  "reasons": {
+   "A": "Wrong: Equality of rank, pay, or status.",
+   "B": "Wrong: Justice and fairness; equal treatment.",
+   "C": "Wrong: Fawning behavior toward the powerful.",
+   "D": "Correct: The state of being older or higher in rank."
+  }
+ }
+]

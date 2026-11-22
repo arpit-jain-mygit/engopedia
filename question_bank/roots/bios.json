@@ -1,0 +1,182 @@
+[
+ {
+  "word": "autobiographer",
+  "question": "The writer produced a detailed story of his own life from memory. He was an:",
+  "options": [
+   "autobiographer",
+   "biographer",
+   "chirographer",
+   "graphologist"
+  ],
+  "correct": "A",
+  "explanation": "autobiographer: A person who writes his or her own life story.",
+  "reasons": {
+   "A": "Correct: A person who writes his or her own life story.",
+   "B": "Wrong: A person who writes the story of someone's life.",
+   "C": "Wrong: An expert in handwriting or penmanship.",
+   "D": "Wrong: A person who analyzes handwriting to judge character."
+  }
+ },
+ {
+  "word": "autobiographical",
+  "question": "His novel was closely based on events from his own life. The novel was:",
+  "options": [
+   "biographical",
+   "autobiographical",
+   "calligraphic",
+   "geographical"
+  ],
+  "correct": "B",
+  "explanation": "autobiographical: Relating to a person's own life story.",
+  "reasons": {
+   "A": "Wrong: Relating to the story of a person's life.",
+   "B": "Correct: Relating to a person's own life story.",
+   "C": "Wrong: Relating to beautiful handwriting.",
+   "D": "Wrong: Relating to geography."
+  }
+ },
+ {
+  "word": "autobiography",
+  "question": "Her life story, told in her own voice, filled the shelf. It was an:",
+  "options": [
+   "biography",
+   "cacography",
+   "autobiography",
+   "calligraphy"
+  ],
+  "correct": "C",
+  "explanation": "autobiography: A life story written by the person it describes.",
+  "reasons": {
+   "A": "Wrong: A written account of a person's life.",
+   "B": "Wrong: Bad, ugly, or illegible handwriting.",
+   "C": "Correct: A life story written by the person it describes.",
+   "D": "Wrong: Beautiful handwriting, practiced as an art."
+  }
+ },
+ {
+  "word": "biographer",
+  "question": "The scholar who wrote the life of the famous scientist was a:",
+  "options": [
+   "autobiographer",
+   "chirographer",
+   "graphologist",
+   "biographer"
+  ],
+  "correct": "D",
+  "explanation": "biographer: A person who writes the story of someone's life.",
+  "reasons": {
+   "A": "Wrong: A person who writes his or her own life story.",
+   "B": "Wrong: An expert in handwriting or penmanship.",
+   "C": "Wrong: A person who analyzes handwriting to judge character.",
+   "D": "Correct: A person who writes the story of someone's life."
+  }
+ },
+ {
+  "word": "biographical",
+  "question": "The exhibit described the composer's life, family, and career. Its details were:",
+  "options": [
+   "biographical",
+   "cacographic",
+   "chirographic",
+   "graphological"
+  ],
+  "correct": "A",
+  "explanation": "biographical: Relating to the story of a person's life.",
+  "reasons": {
+   "A": "Correct: Relating to the story of a person's life.",
+   "B": "Wrong: Pertaining to bad or illegible handwriting.",
+   "C": "Wrong: Relating to handwriting.",
+   "D": "Wrong: Relating to the study of handwriting."
+  }
+ },
+ {
+  "word": "biography",
+  "question": "A written account of a famous person's life is called a:",
+  "options": [
+   "cacography",
+   "biography",
+   "calligraphy",
+   "chirography"
+  ],
+  "correct": "B",
+  "explanation": "biography: A written account of a person's life.",
+  "reasons": {
+   "A": "Wrong: Bad, ugly, or illegible handwriting.",
+   "B": "Correct: A written account of a person's life.",
+   "C": "Wrong: Beautiful handwriting, practiced as an art.",
+   "D": "Wrong: Handwriting or penmanship."
+  }
+ },
+ {
+  "word": "biological",
+  "question": "The lab studied living cells and how organisms grow. The work was:",
+  "options": [
+   "geological",
+   "zoological",
+   "biological",
+   "pathological"
+  ],
+  "correct": "C",
+  "explanation": "biological: Relating to living things.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Correct: Relating to living things.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "biologist",
+  "question": "The scientist studied all living matter and how life works. She was a:",
+  "options": [
+   "geologist",
+   "zoologist",
+   "theologian",
+   "biologist"
+  ],
+  "correct": "D",
+  "explanation": "biologist: A scientist who studies all living matter.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies animal life.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A scientist who studies all living matter."
+  }
+ },
+ {
+  "word": "biology",
+  "question": "The science of living things is called:",
+  "options": [
+   "biology",
+   "geology",
+   "zoology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "biology: The science of living things.",
+  "reasons": {
+   "A": "Correct: The science of living things.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "biopsy",
+  "question": "The doctor removed a small piece of living tissue to test for cancer. This procedure is a:",
+  "options": [
+   "autopsy",
+   "biopsy",
+   "diagnosis",
+   "prognosis"
+  ],
+  "correct": "B",
+  "explanation": "biopsy: The removal and study of a small piece of living tissue.",
+  "reasons": {
+   "A": "Wrong: An examination of a dead body to find the cause of death.",
+   "B": "Correct: The removal and study of a small piece of living tissue.",
+   "C": "Wrong: A determination of the nature of a disease or problem.",
+   "D": "Wrong: A forecast of the course of a disease."
+  }
+ }
+]

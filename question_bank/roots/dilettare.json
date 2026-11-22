@@ -1,0 +1,56 @@
+[
+ {
+  "word": "dilettante",
+  "question": "The hobbyist painted now and then, dabbling in art but never working hard at it. He was a:",
+  "options": [
+   "dilettante",
+   "virtuoso",
+   "tyro",
+   "veteran"
+  ],
+  "correct": "A",
+  "explanation": "dilettante: A dabbler in the arts; someone who does not work hard at a field.",
+  "reasons": {
+   "A": "Correct: A dabbler in the arts; someone who does not work hard at a field.",
+   "B": "Wrong: An accomplished musician or master of an art.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Wrong: A person who has long experience; one who served in the armed forces."
+  }
+ },
+ {
+  "word": "dilettantish",
+  "question": "His dabbling in music was superficial and never serious. His approach was:",
+  "options": [
+   "cogent",
+   "dilettantish",
+   "placid",
+   "laconic"
+  ],
+  "correct": "B",
+  "explanation": "dilettantish: Dabbling; not serious.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Correct: Dabbling; not serious.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "dilettantism",
+  "question": "Superficial dabbling in an art, without real commitment, is called:",
+  "options": [
+   "asceticism",
+   "chauvinism",
+   "dilettantism",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "dilettantism: Superficial dabbling in an art or science.",
+  "reasons": {
+   "A": "Wrong: A life of strict self-denial and simplicity.",
+   "B": "Wrong: Excessive, blind devotion to one's group or country.",
+   "C": "Correct: Superficial dabbling in an art or science.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ }
+]

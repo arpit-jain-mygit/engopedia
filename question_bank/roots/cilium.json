@@ -1,0 +1,20 @@
+[
+ {
+  "word": "supercilious",
+  "question": "A waiter smirks at every guest, looking down on them with a superior, disdainful air and treating them as beneath him. He is:",
+  "options": [
+   "Garrulous",
+   "Equable",
+   "Supercilious",
+   "Eccentric"
+  ],
+  "correct": "C",
+  "explanation": "Super (above) + cilium (eyelid) + -ous: lifting the eyebrows at others.",
+  "reasons": {
+   "A": "Wrong: talking too much.",
+   "B": "Wrong: calm and even-tempered.",
+   "C": "Correct: acting superior and looking down on others.",
+   "D": "Wrong: odd or unconventional."
+  }
+ }
+]

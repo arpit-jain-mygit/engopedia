@@ -1,0 +1,164 @@
+[
+ {
+  "word": "omnibus",
+  "question": "The book gathered together many stories by the same author in one volume. It was an:",
+  "options": [
+   "omnibus",
+   "tome",
+   "tripod",
+   "podium"
+  ],
+  "correct": "A",
+  "explanation": "omnibus: A book or law covering many things; a bus for all.",
+  "reasons": {
+   "A": "Correct: A book or law covering many things; a bus for all.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Wrong: A three-legged stand for a camera.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "omnipotence",
+  "question": "The god was believed to have unlimited power over all things. This unlimited power is:",
+  "options": [
+   "impotence",
+   "omnipotence",
+   "omniscience",
+   "omnipresence"
+  ],
+  "correct": "B",
+  "explanation": "omnipotence: Unlimited power.",
+  "reasons": {
+   "A": "Wrong: Lack of power or ability to act.",
+   "B": "Correct: Unlimited power.",
+   "C": "Wrong: Complete knowledge of everything.",
+   "D": "Wrong: The quality of being everywhere at once."
+  }
+ },
+ {
+  "word": "omnipotent",
+  "question": "The ruler believed he was all-powerful and could do anything. He was:",
+  "options": [
+   "impotent",
+   "omniscient",
+   "omnipotent",
+   "omnipresent"
+  ],
+  "correct": "C",
+  "explanation": "omnipotent: All-powerful.",
+  "reasons": {
+   "A": "Wrong: Powerless; unable to act.",
+   "B": "Wrong: Knowing everything; all-knowing.",
+   "C": "Correct: All-powerful.",
+   "D": "Wrong: Present everywhere at once."
+  }
+ },
+ {
+  "word": "omnipresence",
+  "question": "The belief that the deity is present everywhere at once is called:",
+  "options": [
+   "omnipotence",
+   "omniscience",
+   "impotence",
+   "omnipresence"
+  ],
+  "correct": "D",
+  "explanation": "omnipresence: The quality of being everywhere at once.",
+  "reasons": {
+   "A": "Wrong: Unlimited power.",
+   "B": "Wrong: Complete knowledge of everything.",
+   "C": "Wrong: Lack of power or ability to act.",
+   "D": "Correct: The quality of being everywhere at once."
+  }
+ },
+ {
+  "word": "omnipresent",
+  "question": "The sense that the deity was present everywhere at once made people feel watched. The deity was:",
+  "options": [
+   "omnipresent",
+   "omnipotent",
+   "omniscient",
+   "impotent"
+  ],
+  "correct": "A",
+  "explanation": "omnipresent: Present everywhere at once.",
+  "reasons": {
+   "A": "Correct: Present everywhere at once.",
+   "B": "Wrong: All-powerful.",
+   "C": "Wrong: Knowing everything; all-knowing.",
+   "D": "Wrong: Powerless; unable to act."
+  }
+ },
+ {
+  "word": "omniscience",
+  "question": "The idea that the god knows everything is called:",
+  "options": [
+   "omnipotence",
+   "omniscience",
+   "omnipresence",
+   "nescience"
+  ],
+  "correct": "B",
+  "explanation": "omniscience: Complete knowledge of everything.",
+  "reasons": {
+   "A": "Wrong: Unlimited power.",
+   "B": "Correct: Complete knowledge of everything.",
+   "C": "Wrong: The quality of being everywhere at once.",
+   "D": "Wrong: Lack of knowledge; ignorance."
+  }
+ },
+ {
+  "word": "omniscient",
+  "question": "The narrator knew every thought and secret of every character in the story. The narrator was:",
+  "options": [
+   "nescient",
+   "impotent",
+   "omniscient",
+   "omnipotent"
+  ],
+  "correct": "C",
+  "explanation": "omniscient: Knowing everything; all-knowing.",
+  "reasons": {
+   "A": "Wrong: Not knowing; ignorant.",
+   "B": "Wrong: Powerless; unable to act.",
+   "C": "Correct: Knowing everything; all-knowing.",
+   "D": "Wrong: All-powerful."
+  }
+ },
+ {
+  "word": "omnivore",
+  "question": "The bear eats berries and fish, as well as plants and meat. It is an:",
+  "options": [
+   "herbivore",
+   "voracious",
+   "vulpine",
+   "omnivore"
+  ],
+  "correct": "D",
+  "explanation": "omnivore: An animal that eats both plants and meat.",
+  "reasons": {
+   "A": "Wrong: An animal that eats plants.",
+   "B": "Wrong: Greedy; eating or devouring eagerly.",
+   "C": "Wrong: Fox-like; sly or cunning.",
+   "D": "Correct: An animal that eats both plants and meat."
+  }
+ },
+ {
+  "word": "omnivorous",
+  "question": "The raccoon will eat almost anything it finds, both plants and animals. It is:",
+  "options": [
+   "omnivorous",
+   "herbivorous",
+   "carnivorous",
+   "vulpine"
+  ],
+  "correct": "A",
+  "explanation": "omnivorous: Eating everything, both plants and animals.",
+  "reasons": {
+   "A": "Correct: Eating everything, both plants and animals.",
+   "B": "Wrong: Eating plants only.",
+   "C": "Wrong: Feeding on flesh; meat-eating.",
+   "D": "Wrong: Fox-like; sly or cunning."
+  }
+ }
+]

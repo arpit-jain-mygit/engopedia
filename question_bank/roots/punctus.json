@@ -1,0 +1,128 @@
+[
+ {
+  "word": "acupuncture",
+  "question": "The treatment using thin needles inserted into the skin at points is:",
+  "options": [
+   "acupuncture",
+   "chiropractic",
+   "osteopathy",
+   "podiatry"
+  ],
+  "correct": "A",
+  "explanation": "acupuncture: Treatment using thin needles inserted into the body.",
+  "reasons": {
+   "A": "Correct: Treatment using thin needles inserted into the body.",
+   "B": "Wrong: Relating to the manipulation of the spine to relieve pressure on nerves.",
+   "C": "Wrong: A system of treating disease by manipulating bones and muscles.",
+   "D": "Wrong: The treatment of minor foot ailments."
+  }
+ },
+ {
+  "word": "punctilious",
+  "question": "She was very careful about every rule and procedure, precise in all things. She was:",
+  "options": [
+   "placid",
+   "punctilious",
+   "laconic",
+   "cogent"
+  ],
+  "correct": "B",
+  "explanation": "punctilious: Very careful about proper behavior and procedure.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Correct: Very careful about proper behavior and procedure.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "punctiliousness",
+  "question": "Her precise attention to detail and procedure was remarkable. This precision is her:",
+  "options": [
+   "laconicism",
+   "placidity",
+   "punctiliousness",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "punctiliousness: Strict care about exact procedure.",
+  "reasons": {
+   "A": "Wrong: A habit of using few words.",
+   "B": "Wrong: Calmness; peacefulness.",
+   "C": "Correct: Strict care about exact procedure.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "punctual",
+  "question": "The train arrived exactly at the scheduled time. It was:",
+  "options": [
+   "cogent",
+   "placid",
+   "vivid",
+   "punctual"
+  ],
+  "correct": "D",
+  "explanation": "punctual: On time; exact about time.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Full of life and freshness; bright or sharp.",
+   "D": "Correct: On time; exact about time."
+  }
+ },
+ {
+  "word": "punctuality",
+  "question": "Her habit of always arriving on time impressed the team. This is her:",
+  "options": [
+   "punctuality",
+   "placidity",
+   "vivacity",
+   "sycophancy"
+  ],
+  "correct": "A",
+  "explanation": "punctuality: Being on time.",
+  "reasons": {
+   "A": "Correct: Being on time.",
+   "B": "Wrong: Calmness; peacefulness.",
+   "C": "Wrong: Liveliness; high spirits.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "punctuate",
+  "question": "The speaker paused at key points to mark the speech with emphasis. He would:",
+  "options": [
+   "vacillate",
+   "punctuate",
+   "vegetate",
+   "dissemble"
+  ],
+  "correct": "B",
+  "explanation": "punctuate: To mark with points; to interrupt.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Correct: To mark with points; to interrupt.",
+   "C": "Wrong: To live a dull, inactive life.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "puncture",
+  "question": "The sharp nail went through the tyre and made a small hole. It would:",
+  "options": [
+   "alleviate",
+   "levitate",
+   "puncture",
+   "intimate"
+  ],
+  "correct": "C",
+  "explanation": "puncture: To pierce a small hole in something.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Wrong: To rise into the air without visible support.",
+   "C": "Correct: To pierce a small hole in something.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ }
+]

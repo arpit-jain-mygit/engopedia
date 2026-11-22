@@ -1,0 +1,56 @@
+[
+ {
+  "word": "osteopath",
+  "question": "The practitioner who treats disease by manipulating bones and muscles is an:",
+  "options": [
+   "neurologist",
+   "dermatologist",
+   "pathologist",
+   "osteopath"
+  ],
+  "correct": "D",
+  "explanation": "osteopath: A practitioner who treats disease through manipulating bones and muscles.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats the nervous system.",
+   "B": "Wrong: A doctor who treats skin diseases.",
+   "C": "Wrong: An expert who examines tissue to diagnose disease.",
+   "D": "Correct: A practitioner who treats disease through manipulating bones and muscles."
+  }
+ },
+ {
+  "word": "osteopathic",
+  "question": "The treatment that used hands to manipulate the body's bones and muscles was:",
+  "options": [
+   "osteopathic",
+   "pathological",
+   "neurological",
+   "dermatological"
+  ],
+  "correct": "A",
+  "explanation": "osteopathic: Relating to osteopathy.",
+  "reasons": {
+   "A": "Correct: Relating to osteopathy.",
+   "B": "Wrong: Diseased; relating to a disease.",
+   "C": "Wrong: Relating to the nervous system.",
+   "D": "Wrong: Relating to skin medicine."
+  }
+ },
+ {
+  "word": "osteopathy",
+  "question": "The system of treating disease by manipulating bones and muscles is called:",
+  "options": [
+   "pathology",
+   "osteopathy",
+   "neurology",
+   "dermatology"
+  ],
+  "correct": "B",
+  "explanation": "osteopathy: A system of treating disease by manipulating bones and muscles.",
+  "reasons": {
+   "A": "Wrong: The study of disease, its nature, and its cause.",
+   "B": "Correct: A system of treating disease by manipulating bones and muscles.",
+   "C": "Wrong: The study of the nervous system.",
+   "D": "Wrong: The study of skin and its diseases."
+  }
+ }
+]

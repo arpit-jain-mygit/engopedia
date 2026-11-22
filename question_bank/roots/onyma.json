@@ -1,0 +1,128 @@
+[
+ {
+  "word": "antonym",
+  "question": "A word that has the opposite meaning of another is called an:",
+  "options": [
+   "synonym",
+   "antonym",
+   "homonym",
+   "patronymic"
+  ],
+  "correct": "B",
+  "explanation": "antonym: A word with the opposite meaning.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Correct: A word with the opposite meaning.",
+   "C": "Wrong: A word that sounds like another but has a different meaning.",
+   "D": "Wrong: A name formed from the father's name."
+  }
+ },
+ {
+  "word": "antonymous",
+  "question": "The words 'hot' and 'cold' have meanings that are:",
+  "options": [
+   "synonymous",
+   "homophonous",
+   "antonymous",
+   "equivocal"
+  ],
+  "correct": "C",
+  "explanation": "antonymous: Having the opposite meaning.",
+  "reasons": {
+   "A": "Wrong: Having the same meaning.",
+   "B": "Wrong: Sounding alike but spelled differently.",
+   "C": "Correct: Having the opposite meaning.",
+   "D": "Wrong: Deliberately vague; open to two meanings."
+  }
+ },
+ {
+  "word": "homonym",
+  "question": "Light (not heavy) and light (sunlight) are words spelled alike with different meanings. Each is a:",
+  "options": [
+   "synonym",
+   "antonym",
+   "patronymic",
+   "homonym"
+  ],
+  "correct": "D",
+  "explanation": "homonym: A word that sounds like another but has a different meaning.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Wrong: A word with the opposite meaning.",
+   "C": "Wrong: A name formed from the father's name.",
+   "D": "Correct: A word that sounds like another but has a different meaning."
+  }
+ },
+ {
+  "word": "homonymous",
+  "question": "Two words that are identical in sound and spelling but unrelated in meaning are:",
+  "options": [
+   "homonymous",
+   "synonymous",
+   "antonymous",
+   "monogamous"
+  ],
+  "correct": "A",
+  "explanation": "homonymous: Having the same name or sound but a different meaning.",
+  "reasons": {
+   "A": "Correct: Having the same name or sound but a different meaning.",
+   "B": "Wrong: Having the same meaning.",
+   "C": "Wrong: Having the opposite meaning.",
+   "D": "Wrong: Married to only one person."
+  }
+ },
+ {
+  "word": "patronymic",
+  "question": "A name formed from a father's name, such as Johnson meaning John's son, is a:",
+  "options": [
+   "synonym",
+   "patronymic",
+   "antonym",
+   "homonym"
+  ],
+  "correct": "B",
+  "explanation": "patronymic: A name formed from the father's name.",
+  "reasons": {
+   "A": "Wrong: A word with the same meaning as another.",
+   "B": "Correct: A name formed from the father's name.",
+   "C": "Wrong: A word with the opposite meaning.",
+   "D": "Wrong: A word that sounds like another but has a different meaning."
+  }
+ },
+ {
+  "word": "synonym",
+  "question": "Happy and glad are words with the same meaning. Each is a:",
+  "options": [
+   "antonym",
+   "homonym",
+   "synonym",
+   "patronymic"
+  ],
+  "correct": "C",
+  "explanation": "synonym: A word with the same meaning as another.",
+  "reasons": {
+   "A": "Wrong: A word with the opposite meaning.",
+   "B": "Wrong: A word that sounds like another but has a different meaning.",
+   "C": "Correct: A word with the same meaning as another.",
+   "D": "Wrong: A name formed from the father's name."
+  }
+ },
+ {
+  "word": "synonymous",
+  "question": "The words 'big' and 'large' are:",
+  "options": [
+   "antonymous",
+   "homonymous",
+   "homophonous",
+   "synonymous"
+  ],
+  "correct": "D",
+  "explanation": "synonymous: Having the same meaning.",
+  "reasons": {
+   "A": "Wrong: Having the opposite meaning.",
+   "B": "Wrong: Having the same name or sound but a different meaning.",
+   "C": "Wrong: Sounding alike but spelled differently.",
+   "D": "Correct: Having the same meaning."
+  }
+ }
+]

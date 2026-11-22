@@ -1,0 +1,74 @@
+[
+ {
+  "word": "consummacy",
+  "question": "The violinist's perfect skill and complete mastery of the art were clear. This perfection is:",
+  "options": [
+   "consummacy",
+   "placidity",
+   "vivacity",
+   "animosity"
+  ],
+  "correct": "A",
+  "explanation": "consummacy: The state of being perfect or complete.",
+  "reasons": {
+   "A": "Correct: The state of being perfect or complete.",
+   "B": "Wrong: Calmness; peacefulness.",
+   "C": "Wrong: Liveliness; high spirits.",
+   "D": "Wrong: Strong dislike; hostility."
+  }
+ },
+ {
+  "word": "consummate",
+  "question": "The violinist's performance was perfect and highly skilled. It was:",
+  "options": [
+   "placid",
+   "consummate",
+   "laconic",
+   "cogent"
+  ],
+  "correct": "B",
+  "explanation": "consummate: Perfect, highly skilled; to bring to completion.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Correct: Perfect, highly skilled; to bring to completion.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "consummately",
+  "question": "She played the piece perfectly and with complete mastery. She played it:",
+  "options": [
+   "unconscionable",
+   "decadent",
+   "consummately",
+   "benign"
+  ],
+  "correct": "C",
+  "explanation": "consummately: In a perfect or highly skilled way.",
+  "reasons": {
+   "A": "Wrong: Without pangs of conscience; unscrupulous.",
+   "B": "Wrong: Falling into decay; corrupt.",
+   "C": "Correct: In a perfect or highly skilled way.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ },
+ {
+  "word": "consummation",
+  "question": "The completion of their long-planned project was a fulfilment. This completion is the:",
+  "options": [
+   "vacillation",
+   "alleviation",
+   "evanescence",
+   "consummation"
+  ],
+  "correct": "D",
+  "explanation": "consummation: The act of bringing something to completion.",
+  "reasons": {
+   "A": "Wrong: Wavering between opinions or choices.",
+   "B": "Wrong: Relief from pain or trouble.",
+   "C": "Wrong: The quality of quickly vanishing.",
+   "D": "Correct: The act of bringing something to completion."
+  }
+ }
+]

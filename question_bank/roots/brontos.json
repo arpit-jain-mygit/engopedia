@@ -1,0 +1,20 @@
+[
+ {
+  "word": "brontophobia",
+  "question": "Each time the sky rolls with a deep, rumbling boom, a girl trembles and covers her ears, though the flash is far away. Her fear is of the:",
+  "options": [
+   "Astrophobia",
+   "Chionophobia",
+   "Brontophobia",
+   "Anemophobia"
+  ],
+  "correct": "C",
+  "explanation": "Brontos (thunder) + phobia = fear of thunder.",
+  "reasons": {
+   "A": "Wrong: fear of the bright flash, not the rumbling sound.",
+   "B": "Wrong: fear of snow.",
+   "C": "Correct: brontos means thunder, so the fear is of the thunder's sound.",
+   "D": "Wrong: fear of wind."
+  }
+ }
+]

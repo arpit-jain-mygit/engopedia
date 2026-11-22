@@ -1,0 +1,38 @@
+[
+ {
+  "word": "eccentric",
+  "question": "A professor wears mismatched socks, talks to his plants and keeps strange hours. He is:",
+  "options": [
+   "Egocentric",
+   "Ascetic",
+   "Eccentric",
+   "Garrulous"
+  ],
+  "correct": "C",
+  "explanation": "Ex- (out of) + kentron (centre): away from the usual centre.",
+  "reasons": {
+   "A": "Wrong: centred on oneself; the professor is simply odd.",
+   "B": "Wrong: living in strict self-denial.",
+   "C": "Correct: odd or unconventional in behaviour.",
+   "D": "Wrong: talking too much."
+  }
+ },
+ {
+  "word": "eccentricity",
+  "question": "The professor's habit of wearing mismatched socks and talking to his plants is a mark of his:",
+  "options": [
+   "Equanimity",
+   "Asceticism",
+   "Ambivalence",
+   "Eccentricity"
+  ],
+  "correct": "D",
+  "explanation": "Eccentricity: the quality of being odd or unconventional.",
+  "reasons": {
+   "A": "Wrong: calm, even temper.",
+   "B": "Wrong: strict self-denial.",
+   "C": "Wrong: mixed or conflicting feelings.",
+   "D": "Correct: unconventional or odd behaviour."
+  }
+ }
+]

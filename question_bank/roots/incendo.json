@@ -1,0 +1,38 @@
+[
+ {
+  "word": "incendiary",
+  "question": "A device built to ignite everything it touches, scorching buildings in a flash, is an ___ device.",
+  "options": [
+   "Explosive",
+   "Corrosive",
+   "Radioactive",
+   "Incendiary"
+  ],
+  "correct": "D",
+  "explanation": "In- (into) + candere (to glow, burn) + -ary: causing fire.",
+  "reasons": {
+   "A": "Wrong: a blast device; the stem describes burning, not blasting.",
+   "B": "Wrong: a substance that eats away at materials.",
+   "C": "Wrong: giving off harmful radiation.",
+   "D": "Correct: designed to set fires or burn things."
+  }
+ },
+ {
+  "word": "incendiarism",
+  "question": "The warehouses burned one after another, and investigators found that each fire had been started on purpose. The deliberate setting of fires is called:",
+  "options": [
+   "Incendiarism",
+   "Larceny",
+   "Libel",
+   "Embezzlement"
+  ],
+  "correct": "A",
+  "explanation": "Incendiary + -ism: the act of setting fires on purpose.",
+  "reasons": {
+   "A": "Correct: the deliberate setting of fires.",
+   "B": "Wrong: theft of property.",
+   "C": "Wrong: a false written statement that damages a reputation.",
+   "D": "Wrong: stealing money entrusted to one's care."
+  }
+ }
+]

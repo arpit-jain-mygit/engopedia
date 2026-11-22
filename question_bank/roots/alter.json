@@ -1,0 +1,164 @@
+[
+ {
+  "word": "altruist",
+  "question": "The girl gave her lunch to a hungry classmate and never mentioned it to anyone. She is an:",
+  "options": [
+   "egoist",
+   "altruist",
+   "egotist",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "altruist: One who is interested in the welfare of others more than his own.",
+  "reasons": {
+   "A": "Wrong: One who is excessively concerned with his own desires and needs.",
+   "B": "Correct: One who is interested in the welfare of others more than his own.",
+   "C": "Wrong: One who talks about himself constantly and is boastful.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "altruism",
+  "question": "The charity was guided by the principle of putting others' welfare first, without expecting any reward. This principle is:",
+  "options": [
+   "misanthropy",
+   "asceticism",
+   "altruism",
+   "sycophancy"
+  ],
+  "correct": "C",
+  "explanation": "altruism: Concern for the welfare of others; selfless giving.",
+  "reasons": {
+   "A": "Wrong: Hatred of the human race.",
+   "B": "Wrong: A life of strict self-denial and simplicity.",
+   "C": "Correct: Concern for the welfare of others; selfless giving.",
+   "D": "Wrong: Fawning behavior toward the powerful."
+  }
+ },
+ {
+  "word": "altruistic",
+  "question": "The donor gave blood with no thought of reward, simply to help strangers. Her act was:",
+  "options": [
+   "egocentric",
+   "misanthropic",
+   "sycophantic",
+   "altruistic"
+  ],
+  "correct": "D",
+  "explanation": "altruistic: Showing concern for others; unselfish.",
+  "reasons": {
+   "A": "Wrong: Thinking of oneself as the center of the universe.",
+   "B": "Wrong: Hating mankind.",
+   "C": "Wrong: Fawning; flattering to gain favor.",
+   "D": "Correct: Showing concern for others; unselfish."
+  }
+ },
+ {
+  "word": "alternate (verb)",
+  "question": "The two friends agreed to take turns at the game, one round each. Taking turns like this is to:",
+  "options": [
+   "alternate (verb)",
+   "altercation",
+   "alteration",
+   "alter"
+  ],
+  "correct": "A",
+  "explanation": "alternate (verb): To take turns; to do one thing after another.",
+  "reasons": {
+   "A": "Correct: To take turns; to do one thing after another.",
+   "B": "Wrong: A heated argument or dispute.",
+   "C": "Wrong: A change made to something.",
+   "D": "Wrong: To change."
+  }
+ },
+ {
+  "word": "alternate (adj./noun)",
+  "question": "We visit the library every second Saturday and skip the Saturdays in between. The Saturdays we visit are:",
+  "options": [
+   "altercation",
+   "alternate (adj./noun)",
+   "alteration",
+   "alternative"
+  ],
+  "correct": "B",
+  "explanation": "alternate (adj./noun): Every other one; a substitute.",
+  "reasons": {
+   "A": "Wrong: A heated argument or dispute.",
+   "B": "Correct: Every other one; a substitute.",
+   "C": "Wrong: A change made to something.",
+   "D": "Wrong: Another possible choice."
+  }
+ },
+ {
+  "word": "alternative",
+  "question": "Instead of taking the car, she chose to walk to work, which was another option. Walking was an:",
+  "options": [
+   "altercation",
+   "alteration",
+   "alternative",
+   "alternate (verb)"
+  ],
+  "correct": "C",
+  "explanation": "alternative: Another possible choice.",
+  "reasons": {
+   "A": "Wrong: A heated argument or dispute.",
+   "B": "Wrong: A change made to something.",
+   "C": "Correct: Another possible choice.",
+   "D": "Wrong: To take turns; to do one thing after another."
+  }
+ },
+ {
+  "word": "alteration",
+  "question": "The tailor shortened the sleeve so the jacket fitted better. The change he made is an:",
+  "options": [
+   "altercation",
+   "alter ego",
+   "altruism",
+   "alteration"
+  ],
+  "correct": "D",
+  "explanation": "alteration: A change made to something.",
+  "reasons": {
+   "A": "Wrong: A heated argument or dispute.",
+   "B": "Wrong: One's other self; a second personality.",
+   "C": "Wrong: Concern for the welfare of others; selfless giving.",
+   "D": "Correct: A change made to something."
+  }
+ },
+ {
+  "word": "altercation",
+  "question": "Two drivers shouted at each other after a minor bump, and the quarrel grew loud. Their dispute was an:",
+  "options": [
+   "altercation",
+   "alteration",
+   "alternative",
+   "altruism"
+  ],
+  "correct": "A",
+  "explanation": "altercation: A heated argument or dispute.",
+  "reasons": {
+   "A": "Correct: A heated argument or dispute.",
+   "B": "Wrong: A change made to something.",
+   "C": "Wrong: Another possible choice.",
+   "D": "Wrong: Concern for the welfare of others; selfless giving."
+  }
+ },
+ {
+  "word": "alter ego",
+  "question": "The reporter became a hero when he put on his mask, a second personality hidden inside him. The hero is the reporter's:",
+  "options": [
+   "alter",
+   "alter ego",
+   "altruist",
+   "alteration"
+  ],
+  "correct": "B",
+  "explanation": "alter ego: One's other self; a second personality.",
+  "reasons": {
+   "A": "Wrong: To change.",
+   "B": "Correct: One's other self; a second personality.",
+   "C": "Wrong: One who is interested in the welfare of others more than his own.",
+   "D": "Wrong: A change made to something."
+  }
+ }
+]

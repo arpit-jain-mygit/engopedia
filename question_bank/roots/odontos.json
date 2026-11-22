@@ -1,0 +1,290 @@
+[
+ {
+  "word": "endodontia",
+  "question": "The dental specialty that treats the pulp inside a tooth and its root canals is called:",
+  "options": [
+   "endodontia",
+   "exodontia",
+   "orthodontia",
+   "periodontia"
+  ],
+  "correct": "A",
+  "explanation": "endodontia: The specialty of treating the pulp and root canals.",
+  "reasons": {
+   "A": "Correct: The specialty of treating the pulp and root canals.",
+   "B": "Wrong: The specialty of tooth extraction.",
+   "C": "Wrong: The straightening of teeth.",
+   "D": "Wrong: The specialty of treating the gums."
+  }
+ },
+ {
+  "word": "endodontic",
+  "question": "The root-canal treatment that saved her tooth was:",
+  "options": [
+   "exodontic",
+   "endodontic",
+   "orthodontic",
+   "periodontic"
+  ],
+  "correct": "B",
+  "explanation": "endodontic: Relating to root-canal treatment.",
+  "reasons": {
+   "A": "Wrong: Relating to tooth extraction.",
+   "B": "Correct: Relating to root-canal treatment.",
+   "C": "Wrong: Relating to the straightening of teeth.",
+   "D": "Wrong: Relating to the treatment of the gums."
+  }
+ },
+ {
+  "word": "endodontist",
+  "question": "The dentist who treats the pulp of the tooth is an:",
+  "options": [
+   "exodontist",
+   "orthodontist",
+   "endodontist",
+   "periodontist"
+  ],
+  "correct": "C",
+  "explanation": "endodontist: A dentist who treats the pulp of the tooth.",
+  "reasons": {
+   "A": "Wrong: A dentist who extracts teeth.",
+   "B": "Wrong: A specialist who straightens teeth.",
+   "C": "Correct: A dentist who treats the pulp of the tooth.",
+   "D": "Wrong: A specialist in the gums around the teeth."
+  }
+ },
+ {
+  "word": "exodontia",
+  "question": "The specialty of pulling teeth out is called:",
+  "options": [
+   "endodontia",
+   "orthodontia",
+   "periodontia",
+   "exodontia"
+  ],
+  "correct": "D",
+  "explanation": "exodontia: The specialty of tooth extraction.",
+  "reasons": {
+   "A": "Wrong: The specialty of treating the pulp and root canals.",
+   "B": "Wrong: The straightening of teeth.",
+   "C": "Wrong: The specialty of treating the gums.",
+   "D": "Correct: The specialty of tooth extraction."
+  }
+ },
+ {
+  "word": "exodontic",
+  "question": "The dentist's removal of the tooth was:",
+  "options": [
+   "exodontic",
+   "endodontic",
+   "orthodontic",
+   "periodontic"
+  ],
+  "correct": "A",
+  "explanation": "exodontic: Relating to tooth extraction.",
+  "reasons": {
+   "A": "Correct: Relating to tooth extraction.",
+   "B": "Wrong: Relating to root-canal treatment.",
+   "C": "Wrong: Relating to the straightening of teeth.",
+   "D": "Wrong: Relating to the treatment of the gums."
+  }
+ },
+ {
+  "word": "exodontist",
+  "question": "The dentist who extracts teeth is an:",
+  "options": [
+   "endodontist",
+   "exodontist",
+   "orthodontist",
+   "pedodontist"
+  ],
+  "correct": "B",
+  "explanation": "exodontist: A dentist who extracts teeth.",
+  "reasons": {
+   "A": "Wrong: A dentist who treats the pulp of the tooth.",
+   "B": "Correct: A dentist who extracts teeth.",
+   "C": "Wrong: A specialist who straightens teeth.",
+   "D": "Wrong: A dentist who specializes in children's teeth."
+  }
+ },
+ {
+  "word": "odontophobia",
+  "question": "She was terrified of going to the dentist and of teeth in general. Her fear is called:",
+  "options": [
+   "cacophobia",
+   "ophthalmophobia",
+   "odontophobia",
+   "trichophobia"
+  ],
+  "correct": "C",
+  "explanation": "odontophobia: Fear of teeth.",
+  "reasons": {
+   "A": "Wrong: Fear of ugliness.",
+   "B": "Wrong: Fear of eyes.",
+   "C": "Correct: Fear of teeth.",
+   "D": "Wrong: Fear of hair."
+  }
+ },
+ {
+  "word": "orthodontia",
+  "question": "The branch of dentistry that corrects crooked teeth and bite is called:",
+  "options": [
+   "endodontia",
+   "exodontia",
+   "pedodontia",
+   "orthodontia"
+  ],
+  "correct": "D",
+  "explanation": "orthodontia: The straightening of teeth.",
+  "reasons": {
+   "A": "Wrong: The specialty of treating the pulp and root canals.",
+   "B": "Wrong: The specialty of tooth extraction.",
+   "C": "Wrong: The specialty of children's dentistry.",
+   "D": "Correct: The straightening of teeth."
+  }
+ },
+ {
+  "word": "orthodontic",
+  "question": "The braces the boy wore were used to straighten his teeth. They were:",
+  "options": [
+   "orthodontic",
+   "endodontic",
+   "exodontic",
+   "pedodontic"
+  ],
+  "correct": "A",
+  "explanation": "orthodontic: Relating to the straightening of teeth.",
+  "reasons": {
+   "A": "Correct: Relating to the straightening of teeth.",
+   "B": "Wrong: Relating to root-canal treatment.",
+   "C": "Wrong: Relating to tooth extraction.",
+   "D": "Wrong: Relating to children's dentistry."
+  }
+ },
+ {
+  "word": "orthodontist",
+  "question": "The specialist who straightens teeth with braces is an:",
+  "options": [
+   "endodontist",
+   "orthodontist",
+   "pedodontist",
+   "periodontist"
+  ],
+  "correct": "B",
+  "explanation": "orthodontist: A specialist who straightens teeth.",
+  "reasons": {
+   "A": "Wrong: A dentist who treats the pulp of the tooth.",
+   "B": "Correct: A specialist who straightens teeth.",
+   "C": "Wrong: A dentist who specializes in children's teeth.",
+   "D": "Wrong: A specialist in the gums around the teeth."
+  }
+ },
+ {
+  "word": "pedodontia",
+  "question": "The dental specialty for children's teeth is called:",
+  "options": [
+   "geriatrics",
+   "pediatrics",
+   "pedodontia",
+   "podiatry"
+  ],
+  "correct": "C",
+  "explanation": "pedodontia: The specialty of children's dentistry.",
+  "reasons": {
+   "A": "Wrong: The medical care of the elderly.",
+   "B": "Wrong: The medical care of children.",
+   "C": "Correct: The specialty of children's dentistry.",
+   "D": "Wrong: The treatment of minor foot ailments."
+  }
+ },
+ {
+  "word": "pedodontic",
+  "question": "The clinic's dental care for children was:",
+  "options": [
+   "geriatric",
+   "pediatric",
+   "podiatric",
+   "pedodontic"
+  ],
+  "correct": "D",
+  "explanation": "pedodontic: Relating to children's dentistry.",
+  "reasons": {
+   "A": "Wrong: Relating to the medical care of the elderly.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to foot care.",
+   "D": "Correct: Relating to children's dentistry."
+  }
+ },
+ {
+  "word": "pedodontist",
+  "question": "A dentist who specializes in children's teeth is a:",
+  "options": [
+   "pedodontist",
+   "geriatrician",
+   "pediatrician",
+   "podiatrist"
+  ],
+  "correct": "A",
+  "explanation": "pedodontist: A dentist who specializes in children's teeth.",
+  "reasons": {
+   "A": "Correct: A dentist who specializes in children's teeth.",
+   "B": "Wrong: A doctor who specializes in the elderly.",
+   "C": "Wrong: A doctor who treats children.",
+   "D": "Wrong: A practitioner who treats minor foot ailments."
+  }
+ },
+ {
+  "word": "periodontia",
+  "question": "The dental specialty that treats the gums around the teeth is called:",
+  "options": [
+   "endodontia",
+   "periodontia",
+   "exodontia",
+   "orthodontia"
+  ],
+  "correct": "B",
+  "explanation": "periodontia: The specialty of treating the gums.",
+  "reasons": {
+   "A": "Wrong: The specialty of treating the pulp and root canals.",
+   "B": "Correct: The specialty of treating the gums.",
+   "C": "Wrong: The specialty of tooth extraction.",
+   "D": "Wrong: The straightening of teeth."
+  }
+ },
+ {
+  "word": "periodontic",
+  "question": "The treatment for the infected gums was:",
+  "options": [
+   "endodontic",
+   "exodontic",
+   "periodontic",
+   "orthodontic"
+  ],
+  "correct": "C",
+  "explanation": "periodontic: Relating to the treatment of the gums.",
+  "reasons": {
+   "A": "Wrong: Relating to root-canal treatment.",
+   "B": "Wrong: Relating to tooth extraction.",
+   "C": "Correct: Relating to the treatment of the gums.",
+   "D": "Wrong: Relating to the straightening of teeth."
+  }
+ },
+ {
+  "word": "periodontist",
+  "question": "The specialist who treats gum disease around the teeth is a:",
+  "options": [
+   "endodontist",
+   "orthodontist",
+   "pedodontist",
+   "periodontist"
+  ],
+  "correct": "D",
+  "explanation": "periodontist: A specialist in the gums around the teeth.",
+  "reasons": {
+   "A": "Wrong: A dentist who treats the pulp of the tooth.",
+   "B": "Wrong: A specialist who straightens teeth.",
+   "C": "Wrong: A dentist who specializes in children's teeth.",
+   "D": "Correct: A specialist in the gums around the teeth."
+  }
+ }
+]

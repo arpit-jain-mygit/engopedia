@@ -1,0 +1,20 @@
+[
+ {
+  "word": "potamophobia",
+  "question": "A woman refuses every canoe trip, trembling whenever she sees a broad stream winding through the valley. She fears:",
+  "options": [
+   "Thalassophobia",
+   "Limnophobia",
+   "Potamophobia",
+   "Bathophobia"
+  ],
+  "correct": "C",
+  "explanation": "Potamos (river) + phobia = fear of rivers.",
+  "reasons": {
+   "A": "Wrong: fear of the sea or oceans.",
+   "B": "Wrong: fear of lakes or still water.",
+   "C": "Correct: potamos means river, so the fear is of rivers.",
+   "D": "Wrong: fear of depths."
+  }
+ }
+]

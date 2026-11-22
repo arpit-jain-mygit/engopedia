@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hypodermic",
+  "question": "A nurse uses a syringe that delivers medicine just beneath the skin. Such an injection is called:",
+  "options": [
+   "Hypodermic",
+   "Intravenous",
+   "Intramuscular",
+   "Oral"
+  ],
+  "correct": "A",
+  "explanation": "Hypos (under) + derma (skin) + -ic: under the skin.",
+  "reasons": {
+   "A": "Correct: under the skin; hypo (under) + derma (skin).",
+   "B": "Wrong: delivered into a vein, not beneath the skin.",
+   "C": "Wrong: delivered into a muscle.",
+   "D": "Wrong: taken by mouth."
+  }
+ }
+]

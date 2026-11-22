@@ -1,0 +1,38 @@
+[
+ {
+  "word": "perspicuous",
+  "question": "The lawyer explained the contract in plain, clear words that anyone could follow without confusion. Her explanation was:",
+  "options": [
+   "Equivocal",
+   "Grandiloquent",
+   "Obstreperous",
+   "Perspicuous"
+  ],
+  "correct": "D",
+  "explanation": "Per- (through) + spic (look, see) + -ous: clear enough to see through.",
+  "reasons": {
+   "A": "Wrong: open to two meanings.",
+   "B": "Wrong: pompous and lofty in language.",
+   "C": "Wrong: noisy and unruly.",
+   "D": "Correct: clearly expressed and easy to understand."
+  }
+ },
+ {
+  "word": "perspicuity",
+  "question": "The clarity of the lawyer's plain-spoken explanation, which anyone could follow, showed her ___.",
+  "options": [
+   "Perspicuity",
+   "Ambivalence",
+   "Garrulity",
+   "Pusillanimity"
+  ],
+  "correct": "A",
+  "explanation": "Perspicuity: the quality of being clearly expressed.",
+  "reasons": {
+   "A": "Correct: clarity of expression.",
+   "B": "Wrong: mixed or conflicting feelings.",
+   "C": "Wrong: talking too much.",
+   "D": "Wrong: timid, cowardly spirit."
+  }
+ }
+]

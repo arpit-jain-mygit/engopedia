@@ -1,0 +1,723 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Word Wizard Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;800&family=Inter:wght@400;500;600&display=swap">
+<style>
+:root {
+  --bg: #fbf8f3; --surface: #ffffff; --fg: #1d2330; --muted: #5b6375; --line: #e4dfd5;
+  --accent: #2f6fdd; --accent-ink: #ffffff; --correct: #1f8a5b; --correct-bg: #e3f5ec;
+  --retry: #b26a00; --retry-bg: #fdf1dc; --star: #f2b531; --candy: #e0457b; --tile: #eef3ff;
+  --display: "Baloo 2", "Inter", system-ui, sans-serif;
+  --body: "Inter", system-ui, -apple-system, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14171f; --surface: #1d2230; --fg: #eef0f5; --muted: #a7aec0; --line: #2f3646;
+    --accent: #7aa7ff; --accent-ink: #0f1520; --correct: #4cc08b; --correct-bg: #173326;
+    --retry: #e8a444; --retry-bg: #3a2c14; --star: #f2b531; --candy: #ff7aa2; --tile: #242b3d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #14171f; --surface: #1d2230; --fg: #eef0f5; --muted: #a7aec0; --line: #2f3646;
+  --accent: #7aa7ff; --accent-ink: #0f1520; --correct: #4cc08b; --correct-bg: #173326;
+  --retry: #e8a444; --retry-bg: #3a2c14; --star: #f2b531; --candy: #ff7aa2; --tile: #242b3d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg); font-family: var(--body);
+  font-size: 17px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 40px;
+}
+.app { max-width: 480px; margin: 0 auto; }
+.screen[hidden] { display: none !important; }
+h1, h2, .big { font-family: var(--display); line-height: 1.15; text-wrap: balance; margin: 0; }
+.eyebrow { font-size: 13px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 20px; }
+.btn {
+  appearance: none; border: 0; cursor: pointer; font: inherit; font-weight: 600;
+  min-height: 52px; padding: 12px 22px; border-radius: 14px;
+  background: var(--accent); color: var(--accent-ink); transition: transform 0.08s ease;
+}
+.btn:active { transform: translateY(1px); }
+.btn.ghost { background: transparent; color: var(--fg); border: 1px solid var(--line); }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.btn.block { width: 100%; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+.hero { text-align: center; padding-top: 16px; }
+.wizard { font-size: 64px; line-height: 1; }
+.hero h1 { font-size: 38px; margin-top: 10px; }
+.hero p { color: var(--muted); margin: 8px auto 0; max-width: 32ch; }
+.name-field { margin-top: 20px; }
+.name-field label { display: block; font-weight: 600; margin-bottom: 6px; }
+.name-field input {
+  width: 100%; min-height: 52px; padding: 12px 14px; font: inherit; font-size: 17px;
+  border-radius: 14px; border: 2px solid var(--line); background: var(--surface); color: var(--fg);
+}
+.map { display: flex; flex-direction: column; gap: 10px; margin-top: 20px; }
+.level { display: flex; align-items: center; gap: 12px; padding: 14px 16px; text-align: left; width: 100%; font: inherit; color: var(--fg); cursor: pointer; }
+.level .root { font-family: var(--display); font-weight: 800; font-size: 22px; min-width: 96px; }
+.level .gloss { color: var(--muted); font-size: 15px; }
+.level .lock { margin-left: auto; color: var(--muted); }
+.level:disabled { opacity: 0.55; cursor: default; }
+.start-btn { margin-top: 20px; font-size: 19px; }
+.rules { color: var(--muted); font-size: 14px; margin-top: 14px; }
+
+.wallet { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.pill { display: inline-flex; align-items: center; gap: 6px; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; font-weight: 600; font-size: 15px; white-space: nowrap; }
+.pill.candy { color: var(--candy); }
+.pill.star { color: var(--star); }
+.pill b { color: var(--fg); font-variant-numeric: tabular-nums; }
+
+.board { margin-top: 24px; }
+.board h2 { font-size: 22px; }
+.board ol { list-style: none; margin: 12px 0 0; padding: 0; }
+.board li { display: grid; grid-template-columns: 36px 1fr auto; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.board li:last-child { border-bottom: 0; }
+.board .rank { font-family: var(--display); font-weight: 800; color: var(--muted); }
+.board .who { font-weight: 600; }
+.board .pts { font-weight: 700; font-variant-numeric: tabular-nums; }
+.board li.me { background: var(--tile); border-radius: 12px; padding-left: 10px; padding-right: 10px; border-bottom: 0; }
+.board .note { font-size: 13px; color: var(--muted); margin-top: 10px; }
+
+.topbar { display: flex; align-items: center; gap: 12px; margin-top: 8px; }
+.bar { flex: 1; height: 12px; background: var(--line); border-radius: 999px; overflow: hidden; min-width: 0; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--correct); transition: width 0.3s ease; }
+.icon-btn { appearance: none; border: 1px solid var(--line); background: var(--surface); color: var(--fg); border-radius: 12px; min-height: 44px; min-width: 44px; cursor: pointer; font: inherit; }
+.stats-row { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: 12px; flex-wrap: wrap; }
+.prompt { margin-top: 14px; padding: 22px; text-align: center; }
+.prompt .q { font-family: var(--display); font-size: 26px; font-weight: 800; line-height: 1.2; margin-top: 8px; }
+.prompt .sub { color: var(--muted); font-size: 15px; margin-top: 8px; }
+.scene { font-size: 56px; line-height: 1.1; margin-top: 12px; }
+.speak { margin-top: 12px; }
+.choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 14px; }
+.choices.wide { grid-template-columns: 1fr; }
+.choice {
+  appearance: none; min-height: 72px; padding: 12px; border-radius: 16px;
+  border: 2px solid var(--line); background: var(--surface); color: var(--fg);
+  font: inherit; font-weight: 600; font-size: 17px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.choice:hover { border-color: var(--accent); }
+.choice.correct { border-color: var(--correct); background: var(--correct-bg); }
+.choice.retry { border-color: var(--retry); background: var(--retry-bg); }
+.choice:disabled { cursor: default; }
+.choice:disabled:not(.correct):not(.retry) { opacity: 0.6; }
+
+.tiles-slot { min-height: 64px; margin-top: 14px; padding: 12px; border: 2px dashed var(--line); border-radius: 16px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tile-pool { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; justify-content: center; }
+.tile { appearance: none; border: 0; cursor: pointer; font: inherit; font-family: var(--display); font-weight: 800; font-size: 22px; padding: 10px 16px; border-radius: 14px; background: var(--tile); color: var(--fg); }
+.tile:disabled { opacity: 0.35; cursor: default; }
+.tile-row { display: flex; gap: 10px; margin-top: 14px; }
+.tile-row .btn { flex: 1; }
+.slot-chip { font-family: var(--display); font-weight: 800; font-size: 22px; padding: 6px 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
+
+.answer-field { width: 100%; min-height: 56px; margin-top: 14px; padding: 12px 14px; font: inherit; font-size: 19px; border-radius: 16px; border: 2px solid var(--line); background: var(--surface); color: var(--fg); }
+.answer-field.correct { border-color: var(--correct); background: var(--correct-bg); }
+.answer-field.retry { border-color: var(--retry); background: var(--retry-bg); }
+
+.match { display: grid; grid-template-columns: 1fr 1.3fr; gap: 10px 12px; align-items: center; margin-top: 14px; text-align: left; }
+.match b { font-size: 16px; font-family: var(--display); }
+.match select { font: inherit; font-size: 15px; width: 100%; min-height: 48px; padding: 8px; border-radius: 12px; border: 2px solid var(--line); background: var(--surface); color: var(--fg); }
+.match select.correct { border-color: var(--correct); }
+.match select.retry { border-color: var(--retry); }
+
+.feedback { margin-top: 14px; padding: 16px 18px; border-radius: 16px; display: none; position: relative; overflow: hidden; }
+.feedback.show { display: block; }
+.feedback.good { background: var(--correct-bg); border: 1px solid var(--correct); }
+.feedback.try { background: var(--retry-bg); border: 1px solid var(--retry); }
+.feedback h2 { font-size: 22px; }
+.feedback p { margin: 6px 0 0; }
+.earned { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.next-row { display: flex; justify-content: flex-end; margin-top: 14px; }
+.floaty { position: absolute; right: 16px; top: 10px; font-weight: 800; font-family: var(--display); font-size: 22px; color: var(--star); pointer-events: none; animation: rise 0.9s ease forwards; }
+@keyframes rise { from { opacity: 1; transform: translateY(0); } to { opacity: 0; transform: translateY(-28px); } }
+@media (prefers-reduced-motion: reduce) { .floaty { animation: none; opacity: 0; } .bar > i { transition: none; } }
+
+.result { text-align: center; padding-top: 16px; }
+.result .medal { font-size: 80px; line-height: 1; }
+.result h1 { font-size: 34px; margin-top: 10px; }
+.result .stars-big { font-size: 38px; color: var(--star); letter-spacing: 6px; margin-top: 8px; }
+.result p { color: var(--muted); margin: 8px 0 0; }
+.haul { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 18px; }
+.haul div { background: var(--tile); border-radius: 14px; padding: 12px; }
+.haul b { display: block; font-family: var(--display); font-size: 26px; font-variant-numeric: tabular-nums; }
+.haul span { font-size: 13px; color: var(--muted); }
+.actions { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; }
+@media (max-width: 380px) { .choices { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <section class="screen" id="start">
+    <div class="hero">
+      <div class="wizard" aria-hidden="true">🧙</div>
+      <h1>Word Wizard</h1>
+      <p>Learn the root word, then use it to unlock the spell.</p>
+    </div>
+
+    <div class="name-field">
+      <label for="playerName">Your wizard name</label>
+      <input id="playerName" maxlength="16" placeholder="e.g. Maya" autocomplete="off">
+    </div>
+
+    <div class="map" id="map"></div>
+    <button class="btn block start-btn" id="startBtn">Start the spell</button>
+    <p class="rules">10 points for each right answer, +5 on the first try, +10 for every 3 first tries in a row, and one candy per right answer.</p>
+
+    <div class="card board">
+      <h2>Leaderboard</h2>
+      <ol id="boardListStart"></ol>
+      <p class="note">Scores are saved in this browser. Entries marked "example" are sample classmates.</p>
+    </div>
+  </section>
+
+  <section class="screen" id="quiz" hidden>
+    <div class="topbar">
+      <button class="icon-btn" id="quitBtn" aria-label="Back to start">&larr;</button>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-label="Level progress"><i id="barFill"></i></div>
+      <div class="stars" id="liveStars" aria-label="Stars earned" style="color:var(--star);white-space:nowrap">☆☆☆</div>
+    </div>
+
+    <div class="stats-row">
+      <div class="wallet">
+        <span class="pill star">⭐ <b id="ptsLive">0</b> pts</span>
+        <span class="pill candy">🍬 <b id="candyLive">0</b></span>
+      </div>
+      <span class="pill">🔥 Streak <b id="streakLive">0</b></span>
+    </div>
+
+    <div class="card prompt">
+      <div class="eyebrow" id="qCount">Question 1 of 19</div>
+      <div class="scene" id="qScene" hidden></div>
+      <div class="q" id="qText"></div>
+      <div class="sub" id="qHint"></div>
+      <button class="btn ghost speak" id="speakBtn" type="button">🔊 Read aloud</button>
+    </div>
+
+    <div id="answerArea"></div>
+
+    <div class="feedback" id="feedback" role="status" aria-live="polite">
+      <h2 id="fbTitle"></h2>
+      <p id="fbBody"></p>
+      <div class="earned" id="fbEarned"></div>
+    </div>
+
+    <div class="next-row">
+      <button class="btn" id="nextBtn" disabled>Next</button>
+    </div>
+  </section>
+
+  <section class="screen" id="result" hidden>
+    <div class="card result">
+      <div class="medal" id="medal" aria-hidden="true">🏅</div>
+      <h1 id="resTitle">Spell complete!</h1>
+      <div class="stars-big" id="resStars"></div>
+      <p id="resScore"></p>
+      <div class="haul">
+        <div><b id="haulPts">0</b><span>points this spell</span></div>
+        <div><b id="haulCandy">0</b><span>candies collected</span></div>
+      </div>
+    </div>
+
+    <div class="card board">
+      <h2>Leaderboard</h2>
+      <ol id="boardListResult"></ol>
+    </div>
+
+    <div class="actions">
+      <button class="btn" id="retryBtn">Play again</button>
+      <button class="btn ghost" id="mapBtn">Back to start</button>
+    </div>
+  </section>
+
+</div>
+
+<script>
+// One root, nineteen questions from the QuestionBank sheet, in nine formats:
+// choice (emoji, hear, odd one out, scenario, true or false), build, type, match, two-step.
+const LEVEL = {
+  root: "aequus", gloss: "equal",
+  questions: [
+    { f: "choice", emoji: "🤷", q: "Asked a direct yes-or-no question, the manager replied in words that could be read either way, so no one could pin him down. Which verb describes what he did?",
+      choices: ["Equivocated","Equated","Equalized","Equilibrated"], answer: 0,
+      good: "Equi (equal) + voc (voice): speaking so that two readings are possible, to avoid a clear answer.",
+      try: "Think about speech that keeps two meanings open." },
+
+    { f: "build", q: "Tap the tiles in order to build the word for: every citizen counts the same before the law.",
+      tiles: ["equ","al","ity","ivo","ine"], target: "equality",
+      good: "Equality is the state of being equal.",
+      try: "Equ, then a sound that means the same, then ity." },
+
+    { f: "type", q: "A minister, asked whether he approved the plan, said he 'would look at it carefully' and added nothing more. Type the noun for this deliberately unclear speech.",
+      hint: "Starts with \"equ\", 12 letters.", target: "equivocation",
+      good: "Equi (equal) + voc (voice): a deliberately vague statement.",
+      try: "It is the noun form of equivocate." },
+
+    { f: "choice", speak: "Two reporters read the mayor's sentence in opposite ways, because his wording could support both readings. Which word completes the sentence?",
+      q: "Listen, then choose the word that completes the sentence.",
+      choices: ["Unequivocal","Equable","Equilateral","Equivocal"], answer: 3,
+      good: "Equivocal means open to two meanings. Unequivocal means clear, with one meaning.",
+      try: "Two readings means the answer is open to both." },
+
+    { f: "choice", q: "Which word is the odd one out? It is NOT about clear or vague speech.",
+      choices: ["Unequivocal","Equivocal","Equitable","Equinoctial"], answer: 2,
+      good: "Equitable means fair and just to all. The other three describe clarity of speech or a time of year.",
+      try: "Ask which word is about fairness, not speech." },
+
+    { f: "match", q: "Match each word to its meaning.",
+      pairs: [["Equity","Fairness that adjusts for different needs"],["Equality","The same treatment for everyone"],["Equanimity","Calm, even temper under stress"],["Equinox","Day and night last about the same length"]],
+      good: "Equity adjusts for need, equality gives the same treatment, equanimity is calm, and equinox is the equal day and night.",
+      try: "Check the pairs that do not fit." },
+
+    { f: "choice", wide: true, q: "\"Equitable means calm and unruffled.\"",
+      choices: ["True","False"], answer: 1,
+      good: "Equitable means fair and just to all. Equable means calm and unruffled.",
+      try: "Compare with equable, the calm word." },
+
+    { f: "choice", scene: "💼 💰", q: "A company pays men more than women for the same job. This unfairness in pay is an:",
+      choices: ["Equity","Equinox","Equilibrium","Inequity"], answer: 3,
+      good: "In- (not) + equity: the unfairness itself.",
+      try: "The prefix in- means not." },
+
+    { f: "two", q: "Step 1: what does the prefix in- mean?", steps: ["Not","Again","Under","Across"], step1: 0,
+      q2: "A school admissions rule treats applicants unfairly because of their postcode. The rule is:",
+      choices: ["Inequitable","Equitable","Equable","Equilateral"], answer: 0,
+      good: "In- (not) + equitable: unfair or unjust.",
+      try: "Step 1 is in-, which means not." },
+
+    { f: "choice", scene: "😈", q: "The villain poisoned the well that the whole town drank from. His act was an example of:",
+      choices: ["Equity","Iniquity","Equilibrium","Equanimity"], answer: 1,
+      good: "Iniquity means wickedness, a much stronger word than inequity.",
+      try: "Think of the strongest word for wickedness." },
+
+    { f: "build", q: "Tap the tiles in order to build the word for: a property scheme that was wicked in every detail.",
+      tiles: ["ini","quit","ous","equ","al"], target: "iniquitous",
+      good: "Iniquitous means wicked or sinful.",
+      try: "Start with ini, then quit, then ous." },
+
+    { f: "type", q: "In late March, day and night last about the same length. Type the name of this moment of the year.",
+      hint: "Starts with \"equ\", 7 letters.", target: "equinox",
+      good: "The equinox is the moment when day and night are about equal in length.",
+      try: "It is a date in spring or autumn." },
+
+    { f: "choice", speak: "Sailors in the Atlantic expect violent storms around March and September, when day and night are of similar length. What are these storms called?",
+      q: "Listen, then choose the word for these storms.",
+      choices: ["Equinoctial","Equilateral","Equable","Equity"], answer: 0,
+      good: "Equinoctial means relating to the equinox.",
+      try: "They are named after the equinox." },
+
+    { f: "choice", q: "Which word is NOT about calm temper?",
+      choices: ["Equanimity","Equable","Equability","Equinox"], answer: 3,
+      good: "Equinox is a time of year. The other three describe calm temper.",
+      try: "Find the word that is about time." },
+
+    { f: "match", q: "Match each word to its meaning.",
+      pairs: [["Equability","Steady, even-tempered calm"],["Equable","Calm and unruffled, even when provoked"],["Equanimity","Calm composure, especially under stress"],["Equilibrium","A balance between opposing forces"]],
+      good: "Each word is a calm or balanced state, but equilibrium is a physical balance, not a mood.",
+      try: "Check which word is about balance, not mood." },
+
+    { f: "choice", wide: true, q: "\"Equable means calm and unruffled.\"",
+      choices: ["True","False"], answer: 0,
+      good: "Equable means calm and unruffled, even when provoked.",
+      try: "Think about how calm the word sounds." },
+
+    { f: "choice", scene: "🤸 ⚖️", q: "A tightrope walker keeps her body steady by moving her arms, so that opposing forces stay in balance. She is maintaining her:",
+      choices: ["Equilibrium","Equanimity","Equity","Equinox"], answer: 0,
+      good: "Equilibrium is a balance between opposing forces.",
+      try: "The walker is balancing forces, not feelings." },
+
+    { f: "two", q: "Step 1: what does the prefix equi- mean?", steps: ["Equal","Wind","Fire","Stone"], step1: 0,
+      q2: "A performer walks a tightrope high above the crowd and never loses her footing. She is called an:",
+      choices: ["Equinoctial","Equilibrist","Equanimity","Equity"], answer: 1,
+      good: "An equilibrist is a performer who keeps their balance.",
+      try: "Step 1 is equi-, which means equal." },
+
+    { f: "choice", scene: "🔺", q: "A triangle with three sides of exactly the same length is called:",
+      choices: ["Equilibrium","Equivocal","Equilateral","Equinox"], answer: 2,
+      good: "Equi (equal) + latus (side): equal sides.",
+      try: "Think of a triangle whose sides are equal." }
+  ]
+};
+
+const POINTS_PER_CORRECT = 10;
+const FIRST_TRY_BONUS = 5;
+const STREAK_BONUS = 10;
+const CANDY_PER_CORRECT = 1;
+
+const KEY = "wordwizard.v3";
+const EXAMPLE_BOARD = [
+  { name: "Ava (example)", points: 180, example: true },
+  { name: "Leo (example)", points: 140, example: true },
+  { name: "Priya (example)", points: 95, example: true },
+  { name: "Sam (example)", points: 60, example: true }
+];
+
+const state = {
+  name: "Me", index: 0,
+  points: 0, candies: 0, streak: 0,
+  levelPoints: 0, levelCandies: 0, correctFirstTry: 0,
+  answered: false, firstTry: true, phase: 0, built: [], board: null
+};
+
+function load() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(KEY) || "null");
+    if (saved) {
+      if (typeof saved.candies === "number") state.candies = saved.candies;
+      if (typeof saved.name === "string") state.name = saved.name;
+      if (Array.isArray(saved.board)) state.board = saved.board;
+    }
+  } catch (e) { /* storage blocked: the game still works */ }
+  if (!state.board) state.board = EXAMPLE_BOARD.map((e) => ({ ...e }));
+}
+function save() {
+  try { localStorage.setItem(KEY, JSON.stringify({ candies: state.candies, name: state.name, board: state.board })); } catch (e) { /* ignore */ }
+}
+
+const $ = (id) => document.getElementById(id);
+const screens = ["start", "quiz", "result"];
+function show(name) { screens.forEach((s) => { $(s).hidden = s !== name; }); window.scrollTo(0, 0); }
+
+function myEntry() {
+  let e = state.board.find((x) => x.name === state.name && !x.example);
+  if (!e) { e = { name: state.name, points: 0, example: false }; state.board.push(e); }
+  return e;
+}
+function sortedBoard() { return [...state.board].sort((a, b) => b.points - a.points).slice(0, 8); }
+function escapeHtml(s) { return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+function renderBoard(listId) {
+  const list = $(listId);
+  list.innerHTML = "";
+  sortedBoard().forEach((row, i) => {
+    const li = document.createElement("li");
+    if (!row.example && row.name === state.name) li.className = "me";
+    li.innerHTML = `<span class="rank">${i + 1}</span><span class="who">${escapeHtml(row.name)}</span><span class="pts">${row.points} pts</span>`;
+    list.appendChild(li);
+  });
+}
+
+function renderMap() {
+  const map = $("map");
+  map.innerHTML = "";
+  const b = document.createElement("button");
+  b.className = "card level";
+  b.type = "button";
+  b.innerHTML = `<span class="root">${LEVEL.root}</span><span class="gloss">${LEVEL.gloss} · ${LEVEL.questions.length} questions</span><span class="lock">▶</span>`;
+  b.addEventListener("click", startQuiz);
+  map.appendChild(b);
+  $("startBtn").onclick = startQuiz;
+  $("playerName").value = state.name === "Me" ? "" : state.name;
+  renderBoard("boardListStart");
+}
+
+function readName() { const v = $("playerName").value.trim(); state.name = v ? v.slice(0, 16) : "Me"; }
+
+function startQuiz() {
+  readName();
+  state.index = 0; state.levelPoints = 0; state.levelCandies = 0;
+  state.correctFirstTry = 0; state.streak = 0;
+  show("quiz");
+  renderQuestion();
+}
+
+function renderWallet() {
+  $("ptsLive").textContent = state.levelPoints;
+  $("candyLive").textContent = state.levelCandies;
+  $("streakLive").textContent = state.streak;
+}
+function renderStars() {
+  const full = Math.min(3, state.correctFirstTry);
+  $("liveStars").textContent = "★".repeat(full) + "☆".repeat(3 - full);
+}
+
+function renderQuestion() {
+  const q = LEVEL.questions[state.index];
+  state.firstTry = true; state.answered = false; state.phase = 0; state.built = [];
+  $("qCount").textContent = `Question ${state.index + 1} of ${LEVEL.questions.length}`;
+  $("barFill").style.width = (state.index / LEVEL.questions.length * 100) + "%";
+  $("feedback").classList.remove("show", "good", "try");
+  $("nextBtn").disabled = true;
+  $("nextBtn").textContent = state.index === LEVEL.questions.length - 1 ? "See results" : "Next";
+  $("speakBtn").hidden = !q.speak;
+  renderStars();
+  renderWallet();
+
+  const scene = $("qScene");
+  if (q.emoji || q.scene) { scene.hidden = false; scene.textContent = q.emoji || q.scene; } else { scene.hidden = true; }
+  $("qText").textContent = q.phase2 ? q.q2 : (q.f === "two" ? q.q : q.q);
+  $("qHint").textContent = q.hint ? "Hint: " + q.hint : "";
+
+  const area = $("answerArea");
+  area.innerHTML = "";
+  if (q.f === "choice") renderChoices(q.choices, q.wide);
+  else if (q.f === "two") renderChoices(q.steps, false, true);
+  else if (q.f === "build") renderBuild(q);
+  else if (q.f === "type") renderType(q);
+  else if (q.f === "match") renderMatch(q);
+}
+
+function renderChoices(options, wide, step) {
+  const wrap = document.createElement("div");
+  wrap.className = "choices" + (wide ? " wide" : "");
+  wrap.setAttribute("role", "group");
+  options.forEach((text, i) => {
+    const b = document.createElement("button");
+    b.className = "choice";
+    b.type = "button";
+    b.textContent = text;
+    b.setAttribute("aria-label", `${i + 1}. ${text}`);
+    b.addEventListener("click", () => pickChoice(i, b));
+    wrap.appendChild(b);
+  });
+  $("answerArea").appendChild(wrap);
+}
+
+function renderBuild(q) {
+  const slot = document.createElement("div");
+  slot.className = "tiles-slot"; slot.id = "slot";
+  slot.setAttribute("aria-label", "Your word");
+  $("answerArea").appendChild(slot);
+  const pool = document.createElement("div");
+  pool.className = "tile-pool";
+  q.tiles.forEach((t, k) => {
+    const b = document.createElement("button");
+    b.className = "tile"; b.type = "button"; b.textContent = t;
+    b.addEventListener("click", () => {
+      if (state.answered) return;
+      state.built.push({ text: t, k });
+      b.disabled = true;
+      renderSlot();
+    });
+    b.dataset.k = k;
+    pool.appendChild(b);
+  });
+  $("answerArea").appendChild(pool);
+  const row = document.createElement("div");
+  row.className = "tile-row";
+  row.innerHTML = '<button class="btn ghost" id="undoBtn" type="button">Undo</button><button class="btn" id="checkBtn" type="button">Check</button>';
+  $("answerArea").appendChild(row);
+  $("undoBtn").onclick = () => {
+    if (state.answered || !state.built.length) return;
+    const last = state.built.pop();
+    pool.querySelector(`[data-k="${last.k}"]`).disabled = false;
+    renderSlot();
+  };
+  $("checkBtn").onclick = () => {
+    if (state.answered || !state.built.length) return;
+    judge(state.built.map((x) => x.text).join("") === q.target, q.good, q.target);
+  };
+}
+function renderSlot() {
+  const slot = $("slot");
+  slot.innerHTML = "";
+  state.built.forEach((x) => { const c = document.createElement("span"); c.className = "slot-chip"; c.textContent = x.text; slot.appendChild(c); });
+}
+
+function renderType(q) {
+  const input = document.createElement("input");
+  input.className = "answer-field"; input.id = "typed";
+  input.autocomplete = "off"; input.autocapitalize = "off"; input.spellcheck = false;
+  input.placeholder = "Type here";
+  input.setAttribute("aria-label", "Your answer");
+  input.addEventListener("keydown", (e) => { if (e.key === "Enter") submitType(q); });
+  $("answerArea").appendChild(input);
+  const row = document.createElement("div");
+  row.className = "tile-row";
+  row.innerHTML = '<button class="btn" id="checkBtn" type="button">Check</button>';
+  $("answerArea").appendChild(row);
+  $("checkBtn").onclick = () => submitType(q);
+  setTimeout(() => input.focus(), 50);
+}
+function submitType(q) {
+  if (state.answered) return;
+  const v = $("typed").value.trim().toLowerCase();
+  if (!v) return;
+  judge(v === q.target, q.good, q.target);
+}
+
+function renderMatch(q) {
+  const right = q.pairs.map((p) => p[1]);
+  const shuffled = [...right].sort(() => 0.5 - Math.random());
+  const grid = document.createElement("div");
+  grid.className = "match";
+  q.pairs.forEach((p, k) => {
+    const label = document.createElement("b");
+    label.textContent = p[0];
+    const sel = document.createElement("select");
+    sel.dataset.k = k;
+    sel.setAttribute("aria-label", "Meaning for " + p[0]);
+    sel.innerHTML = '<option value="">Choose meaning</option>' + shuffled.map((r) => `<option>${escapeHtml(r)}</option>`).join("");
+    grid.appendChild(label); grid.appendChild(sel);
+  });
+  $("answerArea").appendChild(grid);
+  const row = document.createElement("div");
+  row.className = "tile-row";
+  row.innerHTML = '<button class="btn" id="checkBtn" type="button">Check pairs</button>';
+  $("answerArea").appendChild(row);
+  $("checkBtn").onclick = () => {
+    if (state.answered) return;
+    const sels = [...document.querySelectorAll(".match select")];
+    if (sels.some((s) => !s.value)) return;
+    const ok = sels.every((s, k) => s.value === q.pairs[k][1]);
+    sels.forEach((s, k) => s.classList.add(s.value === q.pairs[k][1] ? "correct" : "retry"));
+    judge(ok, q.good, q.pairs.map((p) => p[0] + " = " + p[1]).join("; "));
+  };
+}
+
+// Choice click: for two-step questions, step 1 unlocks step 2 (no points yet); otherwise this is the answer.
+function pickChoice(i, btn) {
+  if (state.answered) return;
+  const q = LEVEL.questions[state.index];
+  const buttons = [...document.querySelectorAll(".choice")];
+
+  if (q.f === "two" && state.phase === 0) {
+    if (i === q.step1) {
+      state.phase = 1;
+      $("qText").textContent = q.q2;
+      $("answerArea").innerHTML = "";
+      renderChoices(q.choices, false);
+      $("feedback").classList.remove("show");
+      renderStars();
+    } else {
+      state.firstTry = false;
+      btn.classList.add("retry");
+      btn.disabled = true;
+      state.streak = 0;
+      showFeedback(false, q.try, "");
+    }
+    return;
+  }
+
+  const correctIndex = q.answer;
+  judge(i === correctIndex, q.good, q.choices[correctIndex], buttons[i], buttons[correctIndex]);
+}
+
+// Shared judge for every format.
+function judge(ok, good, answerText, btn, correctBtn) {
+  const q = LEVEL.questions[state.index];
+  if (ok) {
+    state.answered = true;
+    if (btn) btn.classList.add("correct");
+    if (correctBtn && correctBtn !== btn) correctBtn.classList.add("correct");
+    document.querySelectorAll(".choice, .tile, .match select, .answer-field, .tile-row button").forEach((b) => (b.disabled = true));
+
+    let gained = POINTS_PER_CORRECT;
+    const earned = [`+${POINTS_PER_CORRECT} pts`];
+    if (state.firstTry) {
+      state.correctFirstTry++;
+      state.streak++;
+      gained += FIRST_TRY_BONUS;
+      earned.push(`+${FIRST_TRY_BONUS} first try`);
+      if (state.streak % 3 === 0) { gained += STREAK_BONUS; earned.push(`+${STREAK_BONUS} streak combo!`); }
+    } else {
+      state.streak = 0;
+    }
+    state.levelPoints += gained;
+    state.levelCandies += CANDY_PER_CORRECT;
+    state.points += gained;
+    state.candies += CANDY_PER_CORRECT;
+    showFloaty(`+${gained}`);
+    showFeedback(true, good, answerText, earned);
+    $("nextBtn").disabled = false;
+  } else {
+    state.firstTry = false;
+    state.streak = 0;
+    if (btn) { btn.classList.add("retry"); btn.disabled = true; }
+    if (q.f === "build") { /* keep tiles for correction */ }
+    if (q.f === "type") { $("typed").classList.add("retry"); }
+    showFeedback(false, q.try, "");
+  }
+  renderStars();
+  renderWallet();
+}
+
+function showFeedback(correct, text, answerText, earned) {
+  const fb = $("feedback");
+  fb.classList.add("show");
+  fb.classList.remove("good", "try");
+  fb.classList.add(correct ? "good" : "try");
+  $("fbTitle").textContent = correct ? "Yes! Great spell." : "Almost. Try again!";
+  $("fbBody").textContent = correct ? (answerText ? answerText + ". " + text : text) : text;
+  const e = $("fbEarned");
+  e.innerHTML = "";
+  if (correct && earned) {
+    earned.forEach((t) => { const c = document.createElement("span"); c.className = "pill star"; c.textContent = t; e.appendChild(c); });
+    const cc = document.createElement("span"); cc.className = "pill candy"; cc.textContent = `🍬 +${CANDY_PER_CORRECT}`; e.appendChild(cc);
+  }
+}
+
+function showFloaty(text) {
+  const fb = $("feedback");
+  const f = document.createElement("span");
+  f.className = "floaty"; f.textContent = text;
+  fb.appendChild(f);
+  setTimeout(() => f.remove(), 1000);
+}
+
+$("nextBtn").addEventListener("click", () => {
+  if (state.index < LEVEL.questions.length - 1) { state.index++; renderQuestion(); }
+  else finish();
+});
+
+function finish() {
+  const total = LEVEL.questions.length;
+  const ratio = state.correctFirstTry / total;
+  const stars = ratio >= 0.8 ? 3 : ratio >= 0.5 ? 2 : 1;
+  const me = myEntry();
+  me.points += state.levelPoints;
+  save();
+  $("resTitle").textContent = stars === 3 ? "Wizard master!" : stars === 2 ? "Nice spellwork!" : "Spell complete!";
+  $("medal").textContent = stars === 3 ? "🏆" : "🏅";
+  $("resStars").textContent = "★".repeat(stars) + "☆".repeat(3 - stars);
+  $("resScore").textContent = `${state.correctFirstTry} of ${total} right on the first try.`;
+  $("haulPts").textContent = state.levelPoints;
+  $("haulCandy").textContent = state.levelCandies;
+  renderBoard("boardListResult");
+  $("retryBtn").onclick = startQuiz;
+  $("mapBtn").onclick = () => { renderMap(); show("start"); };
+  show("result");
+}
+
+$("quitBtn").addEventListener("click", () => { renderMap(); show("start"); });
+
+$("speakBtn").addEventListener("click", () => {
+  try {
+    const q = LEVEL.questions[state.index];
+    if (!q.speak || !("speechSynthesis" in window)) return;
+    const u = new SpeechSynthesisUtterance(q.speak);
+    u.rate = 0.85;
+    window.speechSynthesis.cancel();
+    window.speechSynthesis.speak(u);
+  } catch (e) { /* ignore */ }
+});
+
+document.addEventListener("keydown", (e) => {
+  if ($("quiz").hidden) return;
+  const n = parseInt(e.key, 10);
+  const q = LEVEL.questions[state.index];
+  if (q.f === "choice" && n >= 1 && n <= q.choices.length) {
+    const btn = document.querySelectorAll(".choice")[n - 1];
+    if (btn) pickChoice(n - 1, btn);
+  }
+  if (e.key === "Enter" && !$("nextBtn").disabled) $("nextBtn").click();
+});
+
+load();
+renderMap();
+show("start");
+</script>
+</body>
+</html>

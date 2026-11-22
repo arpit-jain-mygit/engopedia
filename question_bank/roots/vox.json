@@ -1,0 +1,218 @@
+[
+ {
+  "word": "equivocal",
+  "question": "The politician's answer was vague, meant to mean two things. It was:",
+  "options": [
+   "cogent",
+   "placid",
+   "equivocal",
+   "vivid"
+  ],
+  "correct": "C",
+  "explanation": "equivocal: Deliberately vague; open to two meanings.",
+  "reasons": {
+   "A": "Wrong: Powerful, convincing, and logical.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Correct: Deliberately vague; open to two meanings.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "equivocate",
+  "question": "The witness gave vague answers on purpose to avoid the truth. He would:",
+  "options": [
+   "vociferate",
+   "vacillate",
+   "dissemble",
+   "equivocate"
+  ],
+  "correct": "D",
+  "explanation": "equivocate: To use vague words on purpose to avoid a clear answer.",
+  "reasons": {
+   "A": "Wrong: To shout loudly.",
+   "B": "Wrong: To waver or keep changing your mind.",
+   "C": "Wrong: To hide true feelings or intentions by pretending.",
+   "D": "Correct: To use vague words on purpose to avoid a clear answer."
+  }
+ },
+ {
+  "word": "equivocation",
+  "question": "The deliberate vagueness in the reply was a way to avoid a clear answer. This vagueness is:",
+  "options": [
+   "equivocation",
+   "vocalization",
+   "verbiage",
+   "verbatim"
+  ],
+  "correct": "A",
+  "explanation": "equivocation: A deliberately vague or misleading statement.",
+  "reasons": {
+   "A": "Correct: A deliberately vague or misleading statement.",
+   "B": "Wrong: The act of giving voice.",
+   "C": "Wrong: An excess of words.",
+   "D": "Wrong: Word for word."
+  }
+ },
+ {
+  "word": "unequivocal",
+  "question": "Her support for the plan was clear and direct, with no doubt. It was:",
+  "options": [
+   "equivocal",
+   "unequivocal",
+   "ambivalent",
+   "ambiguous"
+  ],
+  "correct": "B",
+  "explanation": "unequivocal: Clear and direct; capable of only one meaning.",
+  "reasons": {
+   "A": "Wrong: Deliberately vague; open to two meanings.",
+   "B": "Correct: Clear and direct; capable of only one meaning.",
+   "C": "Wrong: Having conflicting feelings at the same time.",
+   "D": "Wrong: Open to more than one interpretation."
+  }
+ },
+ {
+  "word": "vocal",
+  "question": "The singer's voice was loud and strong, and she spoke her opinions aloud. She was:",
+  "options": [
+   "taciturn",
+   "reticent",
+   "vocal",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "vocal: Relating to the voice; spoken aloud.",
+  "reasons": {
+   "A": "Wrong: Silent, unwilling to talk.",
+   "B": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "C": "Correct: Relating to the voice; spoken aloud.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ },
+ {
+  "word": "vocalist",
+  "question": "The singer with the band performed the songs with her voice. She was the group's:",
+  "options": [
+   "soliloquist",
+   "ventriloquist",
+   "tyro",
+   "vocalist"
+  ],
+  "correct": "D",
+  "explanation": "vocalist: A singer.",
+  "reasons": {
+   "A": "Wrong: A person who speaks alone.",
+   "B": "Wrong: A performer who throws the voice.",
+   "C": "Wrong: A beginner; someone new to a field.",
+   "D": "Correct: A singer."
+  }
+ },
+ {
+  "word": "vocalization",
+  "question": "The sounds the animal made were a form of voicing. This voicing is:",
+  "options": [
+   "vocalization",
+   "verbiage",
+   "equivocation",
+   "volition"
+  ],
+  "correct": "A",
+  "explanation": "vocalization: The act of giving voice.",
+  "reasons": {
+   "A": "Correct: The act of giving voice.",
+   "B": "Wrong: An excess of words.",
+   "C": "Wrong: A deliberately vague or misleading statement.",
+   "D": "Wrong: One's own will or choice."
+  }
+ },
+ {
+  "word": "vocalize",
+  "question": "The teacher encouraged the children to say their thoughts aloud. She wanted them to:",
+  "options": [
+   "dissemble",
+   "vocalize",
+   "vacillate",
+   "punctuate"
+  ],
+  "correct": "B",
+  "explanation": "vocalize: To give voice to; to express aloud.",
+  "reasons": {
+   "A": "Wrong: To hide true feelings or intentions by pretending.",
+   "B": "Correct: To give voice to; to express aloud.",
+   "C": "Wrong: To waver or keep changing your mind.",
+   "D": "Wrong: To mark with points; to interrupt."
+  }
+ },
+ {
+  "word": "vociferate",
+  "question": "The protesters shouted loudly at the officials. They began to:",
+  "options": [
+   "equivocate",
+   "dissemble",
+   "vociferate",
+   "vocalize"
+  ],
+  "correct": "C",
+  "explanation": "vociferate: To shout loudly.",
+  "reasons": {
+   "A": "Wrong: To use vague words on purpose to avoid a clear answer.",
+   "B": "Wrong: To hide true feelings or intentions by pretending.",
+   "C": "Correct: To shout loudly.",
+   "D": "Wrong: To give voice to; to express aloud."
+  }
+ },
+ {
+  "word": "vociferation",
+  "question": "A loud, angry shouting filled the stadium. This noise is a:",
+  "options": [
+   "equivocation",
+   "vocalization",
+   "verbiage",
+   "vociferation"
+  ],
+  "correct": "D",
+  "explanation": "vociferation: A loud shouting or outcry.",
+  "reasons": {
+   "A": "Wrong: A deliberately vague or misleading statement.",
+   "B": "Wrong: The act of giving voice.",
+   "C": "Wrong: An excess of words.",
+   "D": "Correct: A loud shouting or outcry."
+  }
+ },
+ {
+  "word": "vociferous",
+  "question": "The noisy crowd yelled their protests. The crowd was:",
+  "options": [
+   "vociferous",
+   "taciturn",
+   "laconic",
+   "reticent"
+  ],
+  "correct": "A",
+  "explanation": "vociferous: Loud, noisy, and clamorous.",
+  "reasons": {
+   "A": "Correct: Loud, noisy, and clamorous.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "vociferousness",
+  "question": "The sheer loudness of the shouting crowd was overwhelming. This loudness is its:",
+  "options": [
+   "taciturnity",
+   "vociferousness",
+   "reticence",
+   "laconicism"
+  ],
+  "correct": "B",
+  "explanation": "vociferousness: The quality of being loud and noisy.",
+  "reasons": {
+   "A": "Wrong: Habitual silence; unwillingness to talk.",
+   "B": "Correct: The quality of being loud and noisy.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Wrong: A habit of using few words."
+  }
+ }
+]

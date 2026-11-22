@@ -1,0 +1,254 @@
+[
+ {
+  "word": "benefaction",
+  "question": "His donation of books to the library was a kind deed. The donation is a:",
+  "options": [
+   "benefaction",
+   "malefaction",
+   "malediction",
+   "benediction"
+  ],
+  "correct": "A",
+  "explanation": "benefaction: A gift or act of kindness.",
+  "reasons": {
+   "A": "Correct: A gift or act of kindness.",
+   "B": "Wrong: An evil deed; a crime.",
+   "C": "Wrong: A curse; an evil saying.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "benefactor",
+  "question": "The generous donor who funded the scholarship is the scholarship's:",
+  "options": [
+   "malefactor",
+   "benefactor",
+   "beneficiary",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "benefactor: A person who gives money or help to others.",
+  "reasons": {
+   "A": "Wrong: A wrongdoer; a criminal.",
+   "B": "Correct: A person who gives money or help to others.",
+   "C": "Wrong: The person who receives money or help.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "beneficence",
+  "question": "The charity's constant good deeds for the poor showed its:",
+  "options": [
+   "maleficence",
+   "malevolence",
+   "beneficence",
+   "benevolence"
+  ],
+  "correct": "C",
+  "explanation": "beneficence: The doing of good deeds.",
+  "reasons": {
+   "A": "Wrong: The doing of evil or harm.",
+   "B": "Wrong: A wish to do harm.",
+   "C": "Correct: The doing of good deeds.",
+   "D": "Wrong: A wish to do good for others."
+  }
+ },
+ {
+  "word": "beneficent",
+  "question": "The generous queen who always helped others was:",
+  "options": [
+   "maleficent",
+   "malevolent",
+   "malign",
+   "beneficent"
+  ],
+  "correct": "D",
+  "explanation": "beneficent: Doing good; generous and kind.",
+  "reasons": {
+   "A": "Wrong: Doing evil or harm.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Correct: Doing good; generous and kind."
+  }
+ },
+ {
+  "word": "beneficial",
+  "question": "Regular exercise was good for her health and well-being. It was:",
+  "options": [
+   "beneficial",
+   "maleficent",
+   "malignant",
+   "noxious"
+  ],
+  "correct": "A",
+  "explanation": "beneficial: Helpful and good for someone.",
+  "reasons": {
+   "A": "Correct: Helpful and good for someone.",
+   "B": "Wrong: Doing evil or harm.",
+   "C": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "D": "Wrong: Harmful, poisonous, or unwholesome."
+  }
+ },
+ {
+  "word": "beneficiary",
+  "question": "The person named to receive the inheritance is the:",
+  "options": [
+   "benefactor",
+   "beneficiary",
+   "malefactor",
+   "eulogist"
+  ],
+  "correct": "B",
+  "explanation": "beneficiary: The person who receives money or help.",
+  "reasons": {
+   "A": "Wrong: A person who gives money or help to others.",
+   "B": "Correct: The person who receives money or help.",
+   "C": "Wrong: A wrongdoer; a criminal.",
+   "D": "Wrong: A person who delivers a eulogy."
+  }
+ },
+ {
+  "word": "benefit",
+  "question": "The new park was a good thing that improved life in the town. It was a:",
+  "options": [
+   "malefaction",
+   "malediction",
+   "benefit",
+   "malignity"
+  ],
+  "correct": "C",
+  "explanation": "benefit: Something good done for another; an advantage.",
+  "reasons": {
+   "A": "Wrong: An evil deed; a crime.",
+   "B": "Wrong: A curse; an evil saying.",
+   "C": "Correct: Something good done for another; an advantage.",
+   "D": "Wrong: Deep hatred or harmfulness."
+  }
+ },
+ {
+  "word": "magnificent",
+  "question": "The sunset painted the sky with splendid, grand colours. The sunset was:",
+  "options": [
+   "miserable",
+   "rustic",
+   "penurious",
+   "magnificent"
+  ],
+  "correct": "D",
+  "explanation": "magnificent: Splendid; very grand.",
+  "reasons": {
+   "A": "Wrong: Very unhappy; wretched.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Wrong: Very poor; also stingy and grasping.",
+   "D": "Correct: Splendid; very grand."
+  }
+ },
+ {
+  "word": "magnify",
+  "question": "The loudspeaker made the voice sound much louder. The speaker would:",
+  "options": [
+   "magnify",
+   "elevate",
+   "levitate",
+   "intimate"
+  ],
+  "correct": "A",
+  "explanation": "magnify: To make larger or greater.",
+  "reasons": {
+   "A": "Correct: To make larger or greater.",
+   "B": "Wrong: To raise up to a higher position or level.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "malefaction",
+  "question": "The theft of the village's savings was an evil act against the community. It was a:",
+  "options": [
+   "benefaction",
+   "malefaction",
+   "beneficence",
+   "benediction"
+  ],
+  "correct": "B",
+  "explanation": "malefaction: An evil deed; a crime.",
+  "reasons": {
+   "A": "Wrong: A gift or act of kindness.",
+   "B": "Correct: An evil deed; a crime.",
+   "C": "Wrong: The doing of good deeds.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "malefactor",
+  "question": "The thief who broke into the house was a wrongdoer. He was a:",
+  "options": [
+   "benefactor",
+   "beneficiary",
+   "malefactor",
+   "philanthropist"
+  ],
+  "correct": "C",
+  "explanation": "malefactor: A wrongdoer; a criminal.",
+  "reasons": {
+   "A": "Wrong: A person who gives money or help to others.",
+   "B": "Wrong: The person who receives money or help.",
+   "C": "Correct: A wrongdoer; a criminal.",
+   "D": "Wrong: A person who gives money and time to help others."
+  }
+ },
+ {
+  "word": "maleficence",
+  "question": "The villain's deliberate doing of evil shocked the town. His deeds were:",
+  "options": [
+   "beneficence",
+   "benevolence",
+   "benignity",
+   "maleficence"
+  ],
+  "correct": "D",
+  "explanation": "maleficence: The doing of evil or harm.",
+  "reasons": {
+   "A": "Wrong: The doing of good deeds.",
+   "B": "Wrong: A wish to do good for others.",
+   "C": "Wrong: Kindness and gentleness of nature.",
+   "D": "Correct: The doing of evil or harm."
+  }
+ },
+ {
+  "word": "maleficent",
+  "question": "The wicked witch spread evil and harm wherever she went. She was:",
+  "options": [
+   "maleficent",
+   "beneficent",
+   "benevolent",
+   "benign"
+  ],
+  "correct": "A",
+  "explanation": "maleficent: Doing evil or harm.",
+  "reasons": {
+   "A": "Correct: Doing evil or harm.",
+   "B": "Wrong: Doing good; generous and kind.",
+   "C": "Wrong: Kind, well disposed, and wishing good for others.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ },
+ {
+  "word": "soporific",
+  "question": "The lecture was so dull that it made everyone drowsy. The lecture was:",
+  "options": [
+   "vivacious",
+   "soporific",
+   "vivid",
+   "placid"
+  ],
+  "correct": "B",
+  "explanation": "soporific: Causing sleep; sleep-inducing.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Correct: Causing sleep; sleep-inducing.",
+   "C": "Wrong: Full of life and freshness; bright or sharp.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ }
+]

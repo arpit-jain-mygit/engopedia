@@ -1,0 +1,20 @@
+[
+ {
+  "word": "arachnephobia",
+  "question": "An entomologist studies beetles all day, but the sight of an eight-legged web in a dark corner makes him freeze. He fears:",
+  "options": [
+   "Entomophobia",
+   "Ophidiophobia",
+   "Arachnephobia",
+   "Cynophobia"
+  ],
+  "correct": "C",
+  "explanation": "Arachne (spider) + phobia = fear of spiders.",
+  "reasons": {
+   "A": "Wrong: fear of insects; spiders are not insects.",
+   "B": "Wrong: fear of snakes.",
+   "C": "Correct: arachne means spider, so the fear is of spiders.",
+   "D": "Wrong: fear of dogs."
+  }
+ }
+]

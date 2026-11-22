@@ -1,0 +1,20 @@
+[
+ {
+  "word": "microphobia",
+  "question": "A woman panics at beads, grains of rice and tiny buttons, and cannot hold anything that fits on a fingertip. Her fear is of:",
+  "options": [
+   "Megalophobia",
+   "Polyphobia",
+   "Microphobia",
+   "Chionophobia"
+  ],
+  "correct": "C",
+  "explanation": "Mikros (small) + phobia = fear of small things.",
+  "reasons": {
+   "A": "Wrong: fear of large things.",
+   "B": "Wrong: fear of many things.",
+   "C": "Correct: mikros means small, so the fear is of small things.",
+   "D": "Wrong: fear of snow."
+  }
+ }
+]

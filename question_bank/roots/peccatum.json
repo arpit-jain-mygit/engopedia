@@ -1,0 +1,20 @@
+[
+ {
+  "word": "peccatophobia",
+  "question": "A devout woman lies awake each night, terrified that any stray thought might bring her into moral wrongdoing. Her fear is of:",
+  "options": [
+   "Stygiophobia",
+   "Thanatophobia",
+   "Peccatophobia",
+   "Theophobia"
+  ],
+  "correct": "C",
+  "explanation": "Peccatum (sin) + phobia = fear of sinning.",
+  "reasons": {
+   "A": "Wrong: fear of hell.",
+   "B": "Wrong: fear of death.",
+   "C": "Correct: peccatum means sin, so the fear is of sinning.",
+   "D": "Wrong: fear of God or gods."
+  }
+ }
+]

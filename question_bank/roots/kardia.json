@@ -1,0 +1,110 @@
+[
+ {
+  "word": "cardiac",
+  "question": "The hospital's heart unit treats heart patients. This unit is:",
+  "options": [
+   "neurological",
+   "dermatological",
+   "cardiac",
+   "gynecological"
+  ],
+  "correct": "C",
+  "explanation": "cardiac: Relating to the heart.",
+  "reasons": {
+   "A": "Wrong: Relating to the nervous system.",
+   "B": "Wrong: Relating to skin medicine.",
+   "C": "Correct: Relating to the heart.",
+   "D": "Wrong: Relating to women's health."
+  }
+ },
+ {
+  "word": "cardiogram",
+  "question": "The doctor printed a chart of the patient's heartbeats on paper. The record is a:",
+  "options": [
+   "telegraph",
+   "phonograph",
+   "photograph",
+   "cardiogram"
+  ],
+  "correct": "D",
+  "explanation": "cardiogram: An electrical record of heartbeats.",
+  "reasons": {
+   "A": "Wrong: A system that sends written messages over a distance by wire.",
+   "B": "Wrong: An early machine that records and plays sound; a sound writer.",
+   "C": "Wrong: A picture made by light on film or a sensor; written by light.",
+   "D": "Correct: An electrical record of heartbeats."
+  }
+ },
+ {
+  "word": "cardiograph",
+  "question": "The machine that records heartbeats is a:",
+  "options": [
+   "cardiograph",
+   "phonograph",
+   "telegraph",
+   "barometer"
+  ],
+  "correct": "A",
+  "explanation": "cardiograph: An instrument that records heartbeats.",
+  "reasons": {
+   "A": "Correct: An instrument that records heartbeats.",
+   "B": "Wrong: An early machine that records and plays sound; a sound writer.",
+   "C": "Wrong: A system that sends written messages over a distance by wire.",
+   "D": "Wrong: An instrument that measures atmospheric pressure."
+  }
+ },
+ {
+  "word": "cardiological",
+  "question": "The conference covered research on the heart and how it functions. Its focus was:",
+  "options": [
+   "neurological",
+   "cardiological",
+   "dermatological",
+   "ophthalmological"
+  ],
+  "correct": "B",
+  "explanation": "cardiological: Relating to the study of the heart.",
+  "reasons": {
+   "A": "Wrong: Relating to the nervous system.",
+   "B": "Correct: Relating to the study of the heart.",
+   "C": "Wrong: Relating to skin medicine.",
+   "D": "Wrong: Relating to eye medicine."
+  }
+ },
+ {
+  "word": "cardiologist",
+  "question": "She went to a doctor who treats heart diseases. Her doctor was a:",
+  "options": [
+   "neurologist",
+   "dermatologist",
+   "cardiologist",
+   "ophthalmologist"
+  ],
+  "correct": "C",
+  "explanation": "cardiologist: A doctor who treats heart diseases.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats the nervous system.",
+   "B": "Wrong: A doctor who treats skin diseases.",
+   "C": "Correct: A doctor who treats heart diseases.",
+   "D": "Wrong: A medical doctor who treats eye disorders."
+  }
+ },
+ {
+  "word": "cardiology",
+  "question": "The study of the heart and its diseases is called:",
+  "options": [
+   "neurology",
+   "dermatology",
+   "ophthalmology",
+   "cardiology"
+  ],
+  "correct": "D",
+  "explanation": "cardiology: The study of the heart and its diseases.",
+  "reasons": {
+   "A": "Wrong: The study of the nervous system.",
+   "B": "Wrong: The study of skin and its diseases.",
+   "C": "Wrong: The medical study of eye diseases.",
+   "D": "Correct: The study of the heart and its diseases."
+  }
+ }
+]

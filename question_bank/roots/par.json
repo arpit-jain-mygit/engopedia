@@ -1,0 +1,200 @@
+[
+ {
+  "word": "comparable",
+  "question": "The two cars were similar in price, size, and speed. They were:",
+  "options": [
+   "disparate",
+   "comparable",
+   "inequitable",
+   "egregious"
+  ],
+  "correct": "B",
+  "explanation": "comparable: Able to be compared; similar.",
+  "reasons": {
+   "A": "Wrong: Essentially different; unequal.",
+   "B": "Correct: Able to be compared; similar.",
+   "C": "Wrong: Unfair or unjust.",
+   "D": "Wrong: Outstandingly bad or vicious."
+  }
+ },
+ {
+  "word": "comparative",
+  "question": "Her study looked at the two systems side by side and judged them relative to each other. Her study was:",
+  "options": [
+   "ambivalent",
+   "placid",
+   "comparative",
+   "cogent"
+  ],
+  "correct": "C",
+  "explanation": "comparative: Based on comparing; relative.",
+  "reasons": {
+   "A": "Wrong: Having conflicting feelings at the same time.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Correct: Based on comparing; relative.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "compare",
+  "question": "To see which was better, she placed the two products side by side. She would:",
+  "options": [
+   "disparage",
+   "alleviate",
+   "levitate",
+   "compare"
+  ],
+  "correct": "D",
+  "explanation": "compare: To place things side by side to see if they are equal or alike.",
+  "reasons": {
+   "A": "Wrong: To belittle or speak of as less important.",
+   "B": "Wrong: To lighten or relieve pain or trouble.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Correct: To place things side by side to see if they are equal or alike."
+  }
+ },
+ {
+  "word": "disparage",
+  "question": "The critic belittled the film and spoke of it as worthless. He would:",
+  "options": [
+   "disparage",
+   "eulogize",
+   "commiserate",
+   "condole"
+  ],
+  "correct": "A",
+  "explanation": "disparage: To belittle or speak of as less important.",
+  "reasons": {
+   "A": "Correct: To belittle or speak of as less important.",
+   "B": "Wrong: To praise highly in a speech.",
+   "C": "Wrong: To sympathize with someone in misfortune.",
+   "D": "Wrong: To express sympathy in grief."
+  }
+ },
+ {
+  "word": "disparagement",
+  "question": "His constant belittling of his colleagues' work was a form of:",
+  "options": [
+   "eulogy",
+   "disparagement",
+   "commiseration",
+   "condolence"
+  ],
+  "correct": "B",
+  "explanation": "disparagement: The act of belittling someone or something.",
+  "reasons": {
+   "A": "Wrong: A speech or writing praising a person, often at a funeral.",
+   "B": "Correct: The act of belittling someone or something.",
+   "C": "Wrong: Sympathy for someone's misfortune.",
+   "D": "Wrong: Expression of sympathy in grief."
+  }
+ },
+ {
+  "word": "disparaging",
+  "question": "Her remarks about the work were belittling and critical. Her remarks were:",
+  "options": [
+   "eulogistic",
+   "sycophantic",
+   "disparaging",
+   "placid"
+  ],
+  "correct": "C",
+  "explanation": "disparaging: Belittling; expressing low opinion.",
+  "reasons": {
+   "A": "Wrong: Praising highly in speech or writing.",
+   "B": "Wrong: Fawning; flattering to gain favor.",
+   "C": "Correct: Belittling; expressing low opinion.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "disparate",
+  "question": "The two groups were essentially different and unequal in size and kind. They were:",
+  "options": [
+   "comparable",
+   "equable",
+   "equitable",
+   "disparate"
+  ],
+  "correct": "D",
+  "explanation": "disparate: Essentially different; unequal.",
+  "reasons": {
+   "A": "Wrong: Able to be compared; similar.",
+   "B": "Wrong: Calm, even-tempered, and unruffled.",
+   "C": "Wrong: Fair and just to all.",
+   "D": "Correct: Essentially different; unequal."
+  }
+ },
+ {
+  "word": "disparity",
+  "question": "There was a large difference between the pay of men and women in the company. This inequality is a:",
+  "options": [
+   "disparity",
+   "parity",
+   "equity",
+   "equanimity"
+  ],
+  "correct": "A",
+  "explanation": "disparity: A difference or inequality.",
+  "reasons": {
+   "A": "Correct: A difference or inequality.",
+   "B": "Wrong: Equality of rank, pay, or status.",
+   "C": "Wrong: Justice and fairness; equal treatment.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "pair",
+  "question": "Two socks that go together as a matched set are a:",
+  "options": [
+   "peer",
+   "pair",
+   "parity",
+   "equity"
+  ],
+  "correct": "B",
+  "explanation": "pair: Two things that go together as equals.",
+  "reasons": {
+   "A": "Wrong: A person who is equal to you in age, rank, or ability.",
+   "B": "Correct: Two things that go together as equals.",
+   "C": "Wrong: Equality of rank, pay, or status.",
+   "D": "Wrong: Justice and fairness; equal treatment."
+  }
+ },
+ {
+  "word": "parity",
+  "question": "Equal pay for equal work is an example of:",
+  "options": [
+   "disparity",
+   "disparagement",
+   "parity",
+   "disparaging"
+  ],
+  "correct": "C",
+  "explanation": "parity: Equality of rank, pay, or status.",
+  "reasons": {
+   "A": "Wrong: A difference or inequality.",
+   "B": "Wrong: The act of belittling someone or something.",
+   "C": "Correct: Equality of rank, pay, or status.",
+   "D": "Wrong: Belittling; expressing low opinion."
+  }
+ },
+ {
+  "word": "peer",
+  "question": "Her classmates, who were the same age and rank, were her:",
+  "options": [
+   "senior",
+   "sequel",
+   "sycophant",
+   "peer"
+  ],
+  "correct": "D",
+  "explanation": "peer: A person who is equal to you in age, rank, or ability.",
+  "reasons": {
+   "A": "Wrong: Older in age or higher in rank.",
+   "B": "Wrong: A later story or event that follows an earlier one.",
+   "C": "Wrong: A person who flatters the powerful to gain favor.",
+   "D": "Correct: A person who is equal to you in age, rank, or ability."
+  }
+ }
+]

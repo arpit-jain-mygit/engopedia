@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hypnophobia",
+  "question": "A man dreads going to bed each night, because the moment of drifting off terrifies him. He fears:",
+  "options": [
+   "Nyctophobia",
+   "Thanatophobia",
+   "Odynophobia",
+   "Hypnophobia"
+  ],
+  "correct": "D",
+  "explanation": "Hypnos (sleep) + phobia = fear of sleep.",
+  "reasons": {
+   "A": "Wrong: fear of darkness.",
+   "B": "Wrong: fear of death.",
+   "C": "Wrong: fear of pain.",
+   "D": "Correct: hypnos means sleep, so the fear is of sleep."
+  }
+ }
+]

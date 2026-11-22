@@ -1,0 +1,38 @@
+[
+ {
+  "word": "pungent",
+  "question": "The cheese in the market gave off a sharp, strong smell that stung the nose. The smell was:",
+  "options": [
+   "Opulent",
+   "Pungent",
+   "Ambivalent",
+   "Equable"
+  ],
+  "correct": "B",
+  "explanation": "Pungo (to prick, sting) + -ent: sharp, stinging.",
+  "reasons": {
+   "A": "Wrong: lavish and rich.",
+   "B": "Correct: sharp and strong in smell or taste.",
+   "C": "Wrong: having mixed feelings.",
+   "D": "Wrong: calm and even-tempered."
+  }
+ },
+ {
+  "word": "pungency",
+  "question": "The chilli's stinging heat and the paste's strong, sharp smell were hard to bear; their overwhelming ___ filled the room.",
+  "options": [
+   "Opulence",
+   "Ambivalence",
+   "Pungency",
+   "Equanimity"
+  ],
+  "correct": "C",
+  "explanation": "Pungency: the quality of being sharp to the taste or smell.",
+  "reasons": {
+   "A": "Wrong: lavish wealth.",
+   "B": "Wrong: mixed feelings.",
+   "C": "Correct: the quality of being sharp, stinging or strong in taste or smell.",
+   "D": "Wrong: calm composure."
+  }
+ }
+]

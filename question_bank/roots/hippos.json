@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hippophobia",
+  "question": "A trainee freezes at the stables, trembling at the sight of the great animal pacing in its stall. Her fear is of:",
+  "options": [
+   "Cynophobia",
+   "Ailurophobia",
+   "Hippophobia",
+   "Zoophobia"
+  ],
+  "correct": "C",
+  "explanation": "Hippos (horse) + phobia = fear of horses.",
+  "reasons": {
+   "A": "Wrong: fear of dogs.",
+   "B": "Wrong: fear of cats.",
+   "C": "Correct: hippos means horse, so the fear is of horses.",
+   "D": "Wrong: fear of animals in general; she fears one kind."
+  }
+ }
+]

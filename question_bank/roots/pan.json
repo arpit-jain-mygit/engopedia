@@ -1,0 +1,74 @@
+[
+ {
+  "word": "pantheism",
+  "question": "The belief that God is present in all of nature and everything in it is called:",
+  "options": [
+   "monotheism",
+   "pantheism",
+   "polytheism",
+   "atheism"
+  ],
+  "correct": "B",
+  "explanation": "pantheism: The belief that God is in all of nature.",
+  "reasons": {
+   "A": "Wrong: The belief in one God.",
+   "B": "Correct: The belief that God is in all of nature.",
+   "C": "Wrong: Belief in many gods.",
+   "D": "Wrong: The belief that there is no God."
+  }
+ },
+ {
+  "word": "pantheist",
+  "question": "A person who believes God is found throughout nature is a:",
+  "options": [
+   "monotheist",
+   "polytheist",
+   "pantheist",
+   "atheist"
+  ],
+  "correct": "C",
+  "explanation": "pantheist: A person who believes God is in nature.",
+  "reasons": {
+   "A": "Wrong: A person who believes in one God.",
+   "B": "Wrong: A person who believes in many gods.",
+   "C": "Correct: A person who believes God is in nature.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "pantheistic",
+  "question": "She believed God is in everything in nature. Her view was:",
+  "options": [
+   "monotheistic",
+   "polytheistic",
+   "atheistic",
+   "pantheistic"
+  ],
+  "correct": "D",
+  "explanation": "pantheistic: Believing God is in nature.",
+  "reasons": {
+   "A": "Wrong: Believing in one God.",
+   "B": "Wrong: Believing in many gods.",
+   "C": "Wrong: Relating to the belief that there is no God.",
+   "D": "Correct: Believing God is in nature."
+  }
+ },
+ {
+  "word": "pantophobia",
+  "question": "He feared everything in the world, and anxiety covered every part of his life. His fear is called:",
+  "options": [
+   "pantophobia",
+   "acrophobia",
+   "claustrophobia",
+   "hydrophobia"
+  ],
+  "correct": "A",
+  "explanation": "pantophobia: Fear of everything.",
+  "reasons": {
+   "A": "Correct: Fear of everything.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Wrong: Morbid dread of being shut in small places.",
+   "D": "Wrong: Fear of water."
+  }
+ }
+]

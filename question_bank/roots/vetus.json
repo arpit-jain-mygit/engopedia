@@ -1,0 +1,56 @@
+[
+ {
+  "word": "inveteracy",
+  "question": "The habit had been held for so long that breaking it was nearly impossible. This long-established habit is:",
+  "options": [
+   "animosity",
+   "penury",
+   "decadence",
+   "inveteracy"
+  ],
+  "correct": "D",
+  "explanation": "inveteracy: The state of being long set in a habit.",
+  "reasons": {
+   "A": "Wrong: Strong dislike; hostility.",
+   "B": "Wrong: Extreme poverty; lack of necessities.",
+   "C": "Wrong: Moral or physical decay.",
+   "D": "Correct: The state of being long set in a habit."
+  }
+ },
+ {
+  "word": "inveterate",
+  "question": "His deeply rooted habit of gambling could not be broken. He was an:",
+  "options": [
+   "inveterate",
+   "ephemeral",
+   "evanescent",
+   "benign"
+  ],
+  "correct": "A",
+  "explanation": "inveterate: Long-accustomed and deeply set in a habit.",
+  "reasons": {
+   "A": "Correct: Long-accustomed and deeply set in a habit.",
+   "B": "Wrong: Lasting only a very short time.",
+   "C": "Wrong: Quickly fading; vanishing.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ },
+ {
+  "word": "veteran",
+  "question": "The soldier had served in many battles and had long experience. He was a:",
+  "options": [
+   "tyro",
+   "veteran",
+   "dilettante",
+   "virtuoso"
+  ],
+  "correct": "B",
+  "explanation": "veteran: A person who has long experience; one who served in the armed forces.",
+  "reasons": {
+   "A": "Wrong: A beginner; someone new to a field.",
+   "B": "Correct: A person who has long experience; one who served in the armed forces.",
+   "C": "Wrong: A dabbler in the arts; someone who does not work hard at a field.",
+   "D": "Wrong: An accomplished musician or master of an art."
+  }
+ }
+]

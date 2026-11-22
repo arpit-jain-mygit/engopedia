@@ -1,0 +1,56 @@
+[
+ {
+  "word": "pyromania",
+  "question": "The arsonist's urge to set fires was a compulsion called:",
+  "options": [
+   "kleptomania",
+   "monomania",
+   "megalomania",
+   "pyromania"
+  ],
+  "correct": "D",
+  "explanation": "pyromania: A compulsion to set fires.",
+  "reasons": {
+   "A": "Wrong: A compulsion to steal, often without need.",
+   "B": "Wrong: An abnormal obsession with one thing.",
+   "C": "Wrong: Morbid delusions of grandeur or power.",
+   "D": "Correct: A compulsion to set fires."
+  }
+ },
+ {
+  "word": "pyromaniac",
+  "question": "The man who sets fires for pleasure and cannot resist is a:",
+  "options": [
+   "pyromaniac",
+   "kleptomaniac",
+   "egomaniac",
+   "megalomaniac"
+  ],
+  "correct": "A",
+  "explanation": "pyromaniac: A person who sets fires for pleasure.",
+  "reasons": {
+   "A": "Correct: A person who sets fires for pleasure.",
+   "B": "Wrong: A person with a compulsion to steal.",
+   "C": "Wrong: A person with an obsession with his own needs and ambitions.",
+   "D": "Wrong: A person with delusions of greatness."
+  }
+ },
+ {
+  "word": "pyromaniacal",
+  "question": "His obsession with setting fires was dangerous. It was:",
+  "options": [
+   "kleptomaniacal",
+   "pyromaniacal",
+   "monomaniacal",
+   "dipsomaniacal"
+  ],
+  "correct": "B",
+  "explanation": "pyromaniacal: Relating to a compulsion to set fires.",
+  "reasons": {
+   "A": "Wrong: Relating to a compulsion to steal.",
+   "B": "Correct: Relating to a compulsion to set fires.",
+   "C": "Wrong: Obsessed with one thing.",
+   "D": "Wrong: Relating to a craving for alcohol."
+  }
+ }
+]

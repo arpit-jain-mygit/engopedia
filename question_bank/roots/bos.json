@@ -1,0 +1,20 @@
+[
+ {
+  "word": "bovine",
+  "question": "The guard stared blankly at the crowd, moving slowly and placidly, chewing nothing in particular and showing no interest. His manner was:",
+  "options": [
+   "Feline",
+   "Bovine",
+   "Canine",
+   "Ephemeral"
+  ],
+  "correct": "B",
+  "explanation": "Bos (cow, ox) + -ine: cow-like.",
+  "reasons": {
+   "A": "Wrong: quick and sly, like a cat; the guard is slow.",
+   "B": "Correct: slow, dull and placid, like a cow.",
+   "C": "Wrong: eager and alert, like a dog; the guard is not eager.",
+   "D": "Wrong: lasting only a short time."
+  }
+ }
+]

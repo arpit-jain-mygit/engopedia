@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ombrophobia",
+  "question": "A farmer dreads the grey clouds that gather each afternoon and the drizzle that follows, staying indoors whenever the sky looks heavy with water. He fears:",
+  "options": [
+   "Chionophobia",
+   "Ombrophobia",
+   "Hydrophobia",
+   "Anemophobia"
+  ],
+  "correct": "B",
+  "explanation": "Ombros (rain) + phobia = fear of rain.",
+  "reasons": {
+   "A": "Wrong: fear of snow.",
+   "B": "Correct: ombros means rain, so the fear is of rain.",
+   "C": "Wrong: fear of water in general.",
+   "D": "Wrong: fear of wind."
+  }
+ }
+]

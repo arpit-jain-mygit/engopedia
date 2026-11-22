@@ -1,0 +1,56 @@
+[
+ {
+  "word": "intimacy",
+  "question": "The two sisters shared a close, familiar bond that nobody else could share. Their closeness is their:",
+  "options": [
+   "intimacy",
+   "animosity",
+   "antipathy",
+   "ambivalence"
+  ],
+  "correct": "A",
+  "explanation": "intimacy: Closeness; familiarity.",
+  "reasons": {
+   "A": "Correct: Closeness; familiarity.",
+   "B": "Wrong: Strong dislike; hostility.",
+   "C": "Wrong: A strong feeling of dislike or hostility.",
+   "D": "Wrong: Having mixed or conflicting feelings."
+  }
+ },
+ {
+  "word": "intimate",
+  "question": "He did not say the answer outright but dropped hints to suggest it. He began to:",
+  "options": [
+   "alleviate",
+   "intimate",
+   "elevate",
+   "levitate"
+  ],
+  "correct": "B",
+  "explanation": "intimate: To hint or suggest indirectly.",
+  "reasons": {
+   "A": "Wrong: To lighten or relieve pain or trouble.",
+   "B": "Correct: To hint or suggest indirectly.",
+   "C": "Wrong: To raise up to a higher position or level.",
+   "D": "Wrong: To rise into the air without visible support."
+  }
+ },
+ {
+  "word": "intimation",
+  "question": "The sudden quiet in the room was a hint that trouble was coming. This hint is an:",
+  "options": [
+   "alleviation",
+   "levitation",
+   "intimation",
+   "trepidation"
+  ],
+  "correct": "C",
+  "explanation": "intimation: A hint; an indirect suggestion.",
+  "reasons": {
+   "A": "Wrong: Relief from pain or trouble.",
+   "B": "Wrong: Rising into the air without visible support.",
+   "C": "Correct: A hint; an indirect suggestion.",
+   "D": "Wrong: Fear, nervousness, or alarm."
+  }
+ }
+]

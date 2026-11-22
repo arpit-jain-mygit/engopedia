@@ -1,0 +1,92 @@
+[
+ {
+  "word": "animal",
+  "question": "The zoo keeper fed each living creature that was not a plant, from lions to birds. Each creature is an:",
+  "options": [
+   "atom",
+   "tome",
+   "animal",
+   "podium"
+  ],
+  "correct": "C",
+  "explanation": "animal: A living creature that is not a plant.",
+  "reasons": {
+   "A": "Wrong: The smallest particle of an element; originally 'not cut further'.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Correct: A living creature that is not a plant.",
+   "D": "Wrong: A speaker's platform."
+  }
+ },
+ {
+  "word": "animate",
+  "question": "The director wanted the puppet to come alive on stage, giving it life and spirit. He wanted to:",
+  "options": [
+   "devitalize",
+   "enervate",
+   "evanesce",
+   "animate"
+  ],
+  "correct": "D",
+  "explanation": "animate: To give life or spirit to.",
+  "reasons": {
+   "A": "Wrong: To drain life or energy from.",
+   "B": "Wrong: To drain strength or energy; to exhaust.",
+   "C": "Wrong: To vanish gradually from sight.",
+   "D": "Correct: To give life or spirit to."
+  }
+ },
+ {
+  "word": "animated",
+  "question": "The children were full of life and energy as they danced around the room. They were:",
+  "options": [
+   "animated",
+   "somnolent",
+   "apathetic",
+   "stoical"
+  ],
+  "correct": "A",
+  "explanation": "animated: Full of life and energy.",
+  "reasons": {
+   "A": "Correct: Full of life and energy.",
+   "B": "Wrong: Sleepy and drowsy.",
+   "C": "Wrong: Showing no interest or feeling.",
+   "D": "Wrong: Bearing pain and trouble calmly, without complaint."
+  }
+ },
+ {
+  "word": "animation",
+  "question": "Cartoon film makers spend months drawing thousands of pictures that move on screen. Their art of making drawings move is:",
+  "options": [
+   "calligraphy",
+   "animation",
+   "graphology",
+   "photograph"
+  ],
+  "correct": "B",
+  "explanation": "animation: Liveliness; the art of making drawings move.",
+  "reasons": {
+   "A": "Wrong: Beautiful handwriting, practiced as an art.",
+   "B": "Correct: Liveliness; the art of making drawings move.",
+   "C": "Wrong: The study of handwriting to judge character.",
+   "D": "Wrong: A picture made by light on film or a sensor; written by light."
+  }
+ },
+ {
+  "word": "inanimate",
+  "question": "The rock on the riverbank was lifeless and not alive in any sense. It was:",
+  "options": [
+   "vivacious",
+   "vital",
+   "inanimate",
+   "animated"
+  ],
+  "correct": "C",
+  "explanation": "inanimate: Lifeless; not alive.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Wrong: Essential to life; very important.",
+   "C": "Correct: Lifeless; not alive.",
+   "D": "Wrong: Full of life and energy."
+  }
+ }
+]

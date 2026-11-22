@@ -1,0 +1,20 @@
+[
+ {
+  "word": "bona fide",
+  "question": "Investigators confirmed the buyer's offer was sincere and honest, with no hidden trick. Such an offer is called:",
+  "options": [
+   "Bona fide",
+   "Ambivalent",
+   "Ephemeral",
+   "Clandestine"
+  ],
+  "correct": "A",
+  "explanation": "Bona (good) + fides (faith): in good faith.",
+  "reasons": {
+   "A": "Correct: genuine, sincere, made in good faith.",
+   "B": "Wrong: having mixed or conflicting feelings.",
+   "C": "Wrong: lasting only a short time.",
+   "D": "Wrong: done in secret."
+  }
+ }
+]

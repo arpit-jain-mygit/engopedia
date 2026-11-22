@@ -1,0 +1,38 @@
+[
+ {
+  "word": "euthanasia",
+  "question": "A patient with an incurable illness asks that her life be ended gently to avoid suffering. This practice of a gentle, painless death is called:",
+  "options": [
+   "Dysthanasia",
+   "Anesthesia",
+   "Hypnosis",
+   "Euthanasia"
+  ],
+  "correct": "D",
+  "explanation": "Eu- (well) + thanatos (death): a good, painless death.",
+  "reasons": {
+   "A": "Wrong: a painful, prolonged dying; the opposite idea.",
+   "B": "Wrong: loss of feeling, often for surgery.",
+   "C": "Wrong: a trance-like state of focus.",
+   "D": "Correct: a gentle, painless death, often chosen to end suffering."
+  }
+ },
+ {
+  "word": "thanatophobia",
+  "question": "A man avoids hospitals and funerals and cannot stop thinking about the end of his life. His fear is of:",
+  "options": [
+   "Thanatophobia",
+   "Nosophobia",
+   "Iatrophobia",
+   "Peniophobia"
+  ],
+  "correct": "A",
+  "explanation": "Thanatos (death) + phobia = fear of death.",
+  "reasons": {
+   "A": "Correct: thanatos means death, so the fear is of death.",
+   "B": "Wrong: fear of illness.",
+   "C": "Wrong: fear of doctors.",
+   "D": "Wrong: fear of poverty."
+  }
+ }
+]

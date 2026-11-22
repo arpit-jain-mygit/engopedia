@@ -1,0 +1,92 @@
+[
+ {
+  "word": "acumen",
+  "question": "Within minutes, the young analyst spotted the hidden flaw in the deal that the senior partners had missed. Her quick, sharp insight is called:",
+  "options": [
+   "acumen",
+   "parity",
+   "penury",
+   "adulation"
+  ],
+  "correct": "A",
+  "explanation": "acumen: Mental keenness; sharp insight.",
+  "reasons": {
+   "A": "Correct: Mental keenness; sharp insight.",
+   "B": "Wrong: Equality of rank, pay, or status.",
+   "C": "Wrong: Extreme poverty; lack of necessities.",
+   "D": "Wrong: Flattery and excessive worship."
+  }
+ },
+ {
+  "word": "acute",
+  "question": "The patient said the pain had come on suddenly and was very intense, not a dull ache. The pain was:",
+  "options": [
+   "banal",
+   "acute",
+   "ambiguous",
+   "placid"
+  ],
+  "correct": "B",
+  "explanation": "acute: Sharp; keenly perceptive; intense.",
+  "reasons": {
+   "A": "Wrong: Ordinary, trite, and lacking originality.",
+   "B": "Correct: Sharp; keenly perceptive; intense.",
+   "C": "Wrong: Open to more than one interpretation.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "acuity",
+  "question": "The archer hit a target the size of a coin from fifty metres away, because her eyesight was extraordinarily keen. This sharpness of sight is called:",
+  "options": [
+   "ambivalence",
+   "parity",
+   "acuity",
+   "penury"
+  ],
+  "correct": "C",
+  "explanation": "acuity: Sharpness of vision, hearing, or mind.",
+  "reasons": {
+   "A": "Wrong: Having mixed or conflicting feelings.",
+   "B": "Wrong: Equality of rank, pay, or status.",
+   "C": "Correct: Sharpness of vision, hearing, or mind.",
+   "D": "Wrong: Extreme poverty; lack of necessities."
+  }
+ },
+ {
+  "word": "acuteness",
+  "question": "The question was so precise and pointed that it exposed the weak spot in the plan. The sharpness of that question is its:",
+  "options": [
+   "banality",
+   "penury",
+   "ambivalence",
+   "acuteness"
+  ],
+  "correct": "D",
+  "explanation": "acuteness: The state of being sharp or keen.",
+  "reasons": {
+   "A": "Wrong: Triteness; lack of originality.",
+   "B": "Wrong: Extreme poverty; lack of necessities.",
+   "C": "Wrong: Having mixed or conflicting feelings.",
+   "D": "Correct: The state of being sharp or keen."
+  }
+ },
+ {
+  "word": "acupuncture",
+  "question": "A patient with back pain visited a clinic where thin needles were placed at points on her skin to ease the pain. The treatment is called:",
+  "options": [
+   "acupuncture",
+   "chiropody",
+   "psychotherapy",
+   "osteopathy"
+  ],
+  "correct": "A",
+  "explanation": "acupuncture: Treatment using thin needles inserted into the body.",
+  "reasons": {
+   "A": "Correct: Treatment using thin needles inserted into the body.",
+   "B": "Wrong: The treatment of minor foot ailments.",
+   "C": "Wrong: Treatment of mental or emotional problems by talking and counseling.",
+   "D": "Wrong: A system of treating disease by manipulating bones and muscles."
+  }
+ }
+]

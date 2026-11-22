@@ -1,0 +1,20 @@
+[
+ {
+  "word": "thalassophobia",
+  "question": "A traveller refuses every boat trip and will not even look at the vast blue ocean from a cliff. He fears:",
+  "options": [
+   "Hydrophobia",
+   "Bathophobia",
+   "Thalassophobia",
+   "Anemophobia"
+  ],
+  "correct": "C",
+  "explanation": "Thalassa (sea) + phobia = fear of oceans.",
+  "reasons": {
+   "A": "Wrong: fear of water in general, including small pools.",
+   "B": "Wrong: fear of depths.",
+   "C": "Correct: thalassa means sea, so the fear is of oceans.",
+   "D": "Wrong: fear of wind."
+  }
+ }
+]

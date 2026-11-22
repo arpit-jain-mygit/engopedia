@@ -1,0 +1,74 @@
+[
+ {
+  "word": "capitulate",
+  "question": "After weeks of siege, the army agreed to surrender on agreed terms. It chose to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "capitulate",
+   "dissemble"
+  ],
+  "correct": "C",
+  "explanation": "capitulate: To surrender on agreed terms.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Correct: To surrender on agreed terms.",
+   "D": "Wrong: To hide true feelings or intentions by pretending."
+  }
+ },
+ {
+  "word": "capitulation",
+  "question": "The formal surrender of the fort ended the war. This surrender is a:",
+  "options": [
+   "alleviation",
+   "levitation",
+   "trepidation",
+   "capitulation"
+  ],
+  "correct": "D",
+  "explanation": "capitulation: Surrender.",
+  "reasons": {
+   "A": "Wrong: Relief from pain or trouble.",
+   "B": "Wrong: Rising into the air without visible support.",
+   "C": "Wrong: Fear, nervousness, or alarm.",
+   "D": "Correct: Surrender."
+  }
+ },
+ {
+  "word": "recapitulate",
+  "question": "At the end of the lecture, she reviewed the main points briefly. She would:",
+  "options": [
+   "recapitulate",
+   "elevate",
+   "levitate",
+   "intimate"
+  ],
+  "correct": "A",
+  "explanation": "recapitulate: To summarize; to review the main points.",
+  "reasons": {
+   "A": "Correct: To summarize; to review the main points.",
+   "B": "Wrong: To raise up to a higher position or level.",
+   "C": "Wrong: To rise into the air without visible support.",
+   "D": "Wrong: To hint or suggest indirectly."
+  }
+ },
+ {
+  "word": "recapitulatory",
+  "question": "The teacher's closing remarks summarized the main points of the lesson. The remarks were:",
+  "options": [
+   "circumlocutory",
+   "recapitulatory",
+   "laconic",
+   "colloquial"
+  ],
+  "correct": "B",
+  "explanation": "recapitulatory: Summarizing the main points.",
+  "reasons": {
+   "A": "Wrong: Speaking in a roundabout way.",
+   "B": "Correct: Summarizing the main points.",
+   "C": "Wrong: Using very few words; brief and to the point.",
+   "D": "Wrong: Suitable for informal speech."
+  }
+ }
+]

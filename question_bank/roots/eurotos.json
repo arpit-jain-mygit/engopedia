@@ -1,0 +1,20 @@
+[
+ {
+  "word": "eurotophobia",
+  "question": "The book's appendix lists a phobia whose root names the female genitals. Which word names this fear?",
+  "options": [
+   "Gynephobia",
+   "Gymnophobia",
+   "Eurotophobia",
+   "Androphobia"
+  ],
+  "correct": "C",
+  "explanation": "Eurotos (the book's term for female genitals) + phobia, as listed in the appendix.",
+  "reasons": {
+   "A": "Wrong: fear of women in general.",
+   "B": "Wrong: fear of nakedness.",
+   "C": "Correct: eurotos is the book's term for female genitals, so the fear is of them.",
+   "D": "Wrong: fear of males."
+  }
+ }
+]

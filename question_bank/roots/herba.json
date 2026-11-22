@@ -1,0 +1,38 @@
+[
+ {
+  "word": "herbivorous",
+  "question": "Which adjective describes animals that eat only plants and never meat?",
+  "options": [
+   "Herbivorous",
+   "Carnivorous",
+   "Omnivorous",
+   "Insectivorous"
+  ],
+  "correct": "A",
+  "explanation": "Herba (plant, grass) + vorare (to devour) + -ous: eating plants.",
+  "reasons": {
+   "A": "Correct: plant-eating; eating only plants.",
+   "B": "Wrong: eating meat; the opposite diet.",
+   "C": "Wrong: eating both plants and meat.",
+   "D": "Wrong: eating insects."
+  }
+ },
+ {
+  "word": "herbivore",
+  "question": "A deer grazing quietly in the meadow, eating only grass and leaves, is an example of a:",
+  "options": [
+   "Carnivore",
+   "Herbivore",
+   "Omnivore",
+   "Insectivore"
+  ],
+  "correct": "B",
+  "explanation": "Herba (plant) + vorare (devour): a plant-eating animal.",
+  "reasons": {
+   "A": "Wrong: an animal that eats meat.",
+   "B": "Correct: a plant-eating animal.",
+   "C": "Wrong: an animal that eats both plants and meat.",
+   "D": "Wrong: an animal that eats insects."
+  }
+ }
+]

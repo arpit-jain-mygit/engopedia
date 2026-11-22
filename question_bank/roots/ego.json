@@ -1,0 +1,110 @@
+[
+ {
+  "word": "alter ego",
+  "question": "His outgoing persona on stage was a second personality, his other self. This other self is his:",
+  "options": [
+   "alteration",
+   "altercation",
+   "altruism",
+   "alter ego"
+  ],
+  "correct": "D",
+  "explanation": "alter ego: One's other self; a second personality.",
+  "reasons": {
+   "A": "Wrong: A change made to something.",
+   "B": "Wrong: A heated argument or dispute.",
+   "C": "Wrong: Concern for the welfare of others; selfless giving.",
+   "D": "Correct: One's other self; a second personality."
+  }
+ },
+ {
+  "word": "egocentric",
+  "question": "She thought of herself as the centre of the universe and ignored others. She was:",
+  "options": [
+   "egocentric",
+   "altruistic",
+   "benevolent",
+   "misanthropic"
+  ],
+  "correct": "A",
+  "explanation": "egocentric: Thinking of oneself as the center of the universe.",
+  "reasons": {
+   "A": "Correct: Thinking of oneself as the center of the universe.",
+   "B": "Wrong: Showing concern for others; unselfish.",
+   "C": "Wrong: Kind, well disposed, and wishing good for others.",
+   "D": "Wrong: Hating mankind."
+  }
+ },
+ {
+  "word": "egoist",
+  "question": "He was preoccupied with his own desires and needs and cared for nothing else. He was an:",
+  "options": [
+   "altruist",
+   "egoist",
+   "benefactor",
+   "philanthropist"
+  ],
+  "correct": "B",
+  "explanation": "egoist: One who is excessively concerned with his own desires and needs.",
+  "reasons": {
+   "A": "Wrong: One who is interested in the welfare of others more than his own.",
+   "B": "Correct: One who is excessively concerned with his own desires and needs.",
+   "C": "Wrong: A person who gives money or help to others.",
+   "D": "Wrong: A person who gives money and time to help others."
+  }
+ },
+ {
+  "word": "egomaniac",
+  "question": "The businessman was obsessed with his image and his need to be admired. He was an:",
+  "options": [
+   "monomaniac",
+   "megalomaniac",
+   "egomaniac",
+   "pyromaniac"
+  ],
+  "correct": "C",
+  "explanation": "egomaniac: A person with an obsession with his own needs and ambitions.",
+  "reasons": {
+   "A": "Wrong: A person with a one-track mind; obsessed with one thing.",
+   "B": "Wrong: A person with delusions of greatness.",
+   "C": "Correct: A person with an obsession with his own needs and ambitions.",
+   "D": "Wrong: A person who sets fires for pleasure."
+  }
+ },
+ {
+  "word": "egomaniacal",
+  "question": "His obsession with his own needs and ambitions was extreme. His obsession was:",
+  "options": [
+   "monomaniacal",
+   "megalomaniacal",
+   "pyromaniacal",
+   "egomaniacal"
+  ],
+  "correct": "D",
+  "explanation": "egomaniacal: Relating to an obsession with one's own needs.",
+  "reasons": {
+   "A": "Wrong: Obsessed with one thing.",
+   "B": "Wrong: Relating to delusions of greatness.",
+   "C": "Wrong: Relating to a compulsion to set fires.",
+   "D": "Correct: Relating to an obsession with one's own needs."
+  }
+ },
+ {
+  "word": "egotist",
+  "question": "He talked about himself nonstop and bragged about his achievements. He was an:",
+  "options": [
+   "egotist",
+   "misanthrope",
+   "altruist",
+   "sycophant"
+  ],
+  "correct": "A",
+  "explanation": "egotist: One who talks about himself constantly and is boastful.",
+  "reasons": {
+   "A": "Correct: One who talks about himself constantly and is boastful.",
+   "B": "Wrong: One who hates the human race.",
+   "C": "Wrong: One who is interested in the welfare of others more than his own.",
+   "D": "Wrong: A person who flatters the powerful to gain favor."
+  }
+ }
+]

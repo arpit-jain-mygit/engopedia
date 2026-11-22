@@ -1,0 +1,38 @@
+[
+ {
+  "word": "aphrodisiac",
+  "question": "Ancient healers gave a potion, named after the goddess who rose from sea foam, that was meant to stir romantic desire. The potion is called an:",
+  "options": [
+   "Narcotic",
+   "Aphrodisiac",
+   "Antidote",
+   "Analgesic"
+  ],
+  "correct": "B",
+  "explanation": "Aphrodite (goddess of love) + -iac: something that stirs desire.",
+  "reasons": {
+   "A": "Wrong: a drug that dulls the senses and brings sleep; not about desire.",
+   "B": "Correct: a substance that stirs sexual desire, named for Aphrodite.",
+   "C": "Wrong: a remedy that counters poison; not about desire.",
+   "D": "Wrong: a painkiller; not about desire."
+  }
+ },
+ {
+  "word": "aphrodisiacal",
+  "question": "A perfume whose heady scent is meant to stir romantic desire is described as:",
+  "options": [
+   "Soporific",
+   "Pungent",
+   "Aphrodisiacal",
+   "Anodyne"
+  ],
+  "correct": "C",
+  "explanation": "Aphrodisiacal is the adjective form: stirring desire.",
+  "reasons": {
+   "A": "Wrong: causing sleep; the perfume is meant to stir, not to calm.",
+   "B": "Wrong: sharp in smell or taste; a different quality.",
+   "C": "Correct: stirring romantic or sexual desire.",
+   "D": "Wrong: soothing and harmless; not about desire."
+  }
+ }
+]

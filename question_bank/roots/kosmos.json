@@ -1,0 +1,20 @@
+[
+ {
+  "word": "cosmonaut",
+  "question": "A traveller trained in the Russian space programme floats through an orbiting station. He is a:",
+  "options": [
+   "Astronaut",
+   "Cosmonaut",
+   "Cosmopolitan",
+   "Cosmetologist"
+  ],
+  "correct": "B",
+  "explanation": "Kosmos (universe) + nautes (sailor): a sailor of the universe.",
+  "reasons": {
+   "A": "Wrong: the term used for American space travellers.",
+   "B": "Correct: a Russian space traveller.",
+   "C": "Wrong: a person at home in many countries.",
+   "D": "Wrong: a beauty specialist."
+  }
+ }
+]

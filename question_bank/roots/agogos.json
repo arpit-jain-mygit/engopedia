@@ -1,0 +1,110 @@
+[
+ {
+  "word": "pedagogy",
+  "question": "A new teacher studied how children learn best and planned each lesson around what research shows works. Her approach to teaching is called:",
+  "options": [
+   "theology",
+   "pedagogy",
+   "philology",
+   "anthropology"
+  ],
+  "correct": "B",
+  "explanation": "pedagogy: The principles and methods of teaching.",
+  "reasons": {
+   "A": "Wrong: The study of God and religion.",
+   "B": "Correct: The principles and methods of teaching.",
+   "C": "Wrong: The study of language and its history.",
+   "D": "Wrong: The study of human development and culture."
+  }
+ },
+ {
+  "word": "pedagogical",
+  "question": "The principal praised the new method for helping students learn, saying it was built on sound principles of teaching. The method is:",
+  "options": [
+   "theological",
+   "philological",
+   "pedagogical",
+   "anthropological"
+  ],
+  "correct": "C",
+  "explanation": "pedagogical: Relating to teaching.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of God and religion.",
+   "B": "Wrong: Relating to the study of language.",
+   "C": "Correct: Relating to teaching.",
+   "D": "Wrong: Relating to the study of human development."
+  }
+ },
+ {
+  "word": "pedagogue",
+  "question": "The old schoolmaster never laughed, lectured without pause, and clung to methods of fifty years ago. He was a:",
+  "options": [
+   "sycophant",
+   "tyro",
+   "iconoclast",
+   "pedagogue"
+  ],
+  "correct": "D",
+  "explanation": "pedagogue: A teacher, often narrow-minded and old-fashioned.",
+  "reasons": {
+   "A": "Wrong: A person who flatters the powerful to gain favor.",
+   "B": "Wrong: A beginner; someone new to a field.",
+   "C": "Wrong: A person who attacks established beliefs and traditions.",
+   "D": "Correct: A teacher, often narrow-minded and old-fashioned."
+  }
+ },
+ {
+  "word": "demagogue",
+  "question": "The speaker promised the crowd everything, stirred up anger against the rulers, and said whatever would win power, though he could never deliver. He was a:",
+  "options": [
+   "demagogue",
+   "sycophant",
+   "iconoclast",
+   "atheist"
+  ],
+  "correct": "A",
+  "explanation": "demagogue: A leader who stirs up discontent to win power.",
+  "reasons": {
+   "A": "Correct: A leader who stirs up discontent to win power.",
+   "B": "Wrong: A person who flatters the powerful to gain favor.",
+   "C": "Wrong: A person who attacks established beliefs and traditions.",
+   "D": "Wrong: A person who does not believe in God."
+  }
+ },
+ {
+  "word": "demagoguery",
+  "question": "The candidate won votes by stirring fear and anger rather than offering sound plans. This manipulation of the crowd is called:",
+  "options": [
+   "sycophancy",
+   "demagoguery",
+   "chauvinism",
+   "asceticism"
+  ],
+  "correct": "B",
+  "explanation": "demagoguery: The tactics of a demagogue.",
+  "reasons": {
+   "A": "Wrong: Fawning behavior toward the powerful.",
+   "B": "Correct: The tactics of a demagogue.",
+   "C": "Wrong: Excessive, blind devotion to one's group or country.",
+   "D": "Wrong: A life of strict self-denial and simplicity."
+  }
+ },
+ {
+  "word": "demagogic",
+  "question": "His speech was full of inflammatory promises that played on the crowd's anger rather than on reason. The speech was:",
+  "options": [
+   "placid",
+   "banal",
+   "demagogic",
+   "cogent"
+  ],
+  "correct": "C",
+  "explanation": "demagogic: Relating to a demagogue.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Wrong: Ordinary, trite, and lacking originality.",
+   "C": "Correct: Relating to a demagogue.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ }
+]

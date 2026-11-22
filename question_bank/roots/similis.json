@@ -1,0 +1,20 @@
+[
+ {
+  "word": "similarity",
+  "question": "The two brothers share the same eyes, smile and laugh, so people who meet them notice how much they resemble each other. This resemblance is a clear:",
+  "options": [
+   "Similarity",
+   "Dissimilarity",
+   "Verisimilitude",
+   "Simile"
+  ],
+  "correct": "A",
+  "explanation": "Similis (like) + -arity: the quality of being alike.",
+  "reasons": {
+   "A": "Correct: the quality of being alike.",
+   "B": "Wrong: a difference, the opposite idea.",
+   "C": "Wrong: the appearance of being true, a term for fiction.",
+   "D": "Wrong: a comparison using 'like' or 'as'."
+  }
+ }
+]

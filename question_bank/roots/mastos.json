@@ -1,0 +1,20 @@
+[
+ {
+  "word": "mastophobia",
+  "question": "A woman refuses any medical examination of her chest, panicking at the thought of it even though she is calm about other procedures. Her fear is of:",
+  "options": [
+   "Gynephobia",
+   "Gymnophobia",
+   "Androphobia",
+   "Mastophobia"
+  ],
+  "correct": "D",
+  "explanation": "Mastos (breast) + phobia = fear of breasts.",
+  "reasons": {
+   "A": "Wrong: fear of women in general.",
+   "B": "Wrong: fear of nakedness.",
+   "C": "Wrong: fear of men.",
+   "D": "Correct: mastos means breast, so the fear is of breasts."
+  }
+ }
+]

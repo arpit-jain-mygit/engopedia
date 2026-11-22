@@ -1,0 +1,110 @@
+[
+ {
+  "word": "verbal",
+  "question": "The contract's terms were spoken aloud, not written down. The agreement was:",
+  "options": [
+   "tacit",
+   "taciturn",
+   "verbal",
+   "verbose"
+  ],
+  "correct": "C",
+  "explanation": "verbal: Relating to words; spoken rather than written.",
+  "reasons": {
+   "A": "Wrong: Understood without being spoken.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Correct: Relating to words; spoken rather than written.",
+   "D": "Wrong: Using more words than necessary."
+  }
+ },
+ {
+  "word": "verbalize",
+  "question": "She put her feelings into clear words for the first time. She managed to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "dissemble",
+   "verbalize"
+  ],
+  "correct": "D",
+  "explanation": "verbalize: To put feelings or thoughts into words.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Wrong: To hide true feelings or intentions by pretending.",
+   "D": "Correct: To put feelings or thoughts into words."
+  }
+ },
+ {
+  "word": "verbatim",
+  "question": "The clerk copied the speech word for word, exactly as spoken. It was recorded:",
+  "options": [
+   "verbatim",
+   "equivocal",
+   "tacit",
+   "taciturn"
+  ],
+  "correct": "A",
+  "explanation": "verbatim: Word for word.",
+  "reasons": {
+   "A": "Correct: Word for word.",
+   "B": "Wrong: Deliberately vague; open to two meanings.",
+   "C": "Wrong: Understood without being spoken.",
+   "D": "Wrong: Silent, unwilling to talk."
+  }
+ },
+ {
+  "word": "verbiage",
+  "question": "The report was full of wordy, unnecessary language that said little. Such wordy language is:",
+  "options": [
+   "laconicism",
+   "verbiage",
+   "taciturnity",
+   "reticence"
+  ],
+  "correct": "B",
+  "explanation": "verbiage: An excess of words.",
+  "reasons": {
+   "A": "Wrong: A habit of using few words.",
+   "B": "Correct: An excess of words.",
+   "C": "Wrong: Habitual silence; unwillingness to talk.",
+   "D": "Wrong: Unwillingness to speak openly."
+  }
+ },
+ {
+  "word": "verbose",
+  "question": "The lecturer used far more words than needed, speaking in long wordy sentences. He was:",
+  "options": [
+   "laconic",
+   "taciturn",
+   "verbose",
+   "reticent"
+  ],
+  "correct": "C",
+  "explanation": "verbose: Using more words than necessary.",
+  "reasons": {
+   "A": "Wrong: Using very few words; brief and to the point.",
+   "B": "Wrong: Silent, unwilling to talk.",
+   "C": "Correct: Using more words than necessary.",
+   "D": "Wrong: Unwilling to reveal feelings or thoughts."
+  }
+ },
+ {
+  "word": "verbosity",
+  "question": "The long, wordy flow of his talk wore out the listeners. This wordiness is:",
+  "options": [
+   "laconicism",
+   "taciturnity",
+   "reticence",
+   "verbosity"
+  ],
+  "correct": "D",
+  "explanation": "verbosity: Using too many words.",
+  "reasons": {
+   "A": "Wrong: A habit of using few words.",
+   "B": "Wrong: Habitual silence; unwillingness to talk.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Correct: Using too many words."
+  }
+ }
+]

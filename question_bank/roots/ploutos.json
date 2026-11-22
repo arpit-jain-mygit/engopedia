@@ -1,0 +1,20 @@
+[
+ {
+  "word": "plutophobia",
+  "question": "A rich man refuses to spend a single coin, convinced that his fortune itself will bring him ruin. His fear is of:",
+  "options": [
+   "Plutophobia",
+   "Peniophobia",
+   "Hedonophobia",
+   "Thanatophobia"
+  ],
+  "correct": "A",
+  "explanation": "Ploutos (wealth) + phobia = fear of wealth.",
+  "reasons": {
+   "A": "Correct: ploutos means wealth, so the fear is of wealth.",
+   "B": "Wrong: fear of poverty, the opposite fear.",
+   "C": "Wrong: fear of pleasure.",
+   "D": "Wrong: fear of death."
+  }
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "alma mater",
+  "question": "A graduate speaks warmly of the university that nurtured her studies and shaped her career. She calls it her:",
+  "options": [
+   "Alma mater",
+   "Alter ego",
+   "Persona non grata",
+   "Status quo"
+  ],
+  "correct": "A",
+  "explanation": "Alma (nourishing) + mater (mother): the nourishing mother, the school you attended.",
+  "reasons": {
+   "A": "Correct: the school or university a person attended, which fostered them.",
+   "B": "Wrong: a second self, or an alternative personality.",
+   "C": "Wrong: an unwelcome person.",
+   "D": "Wrong: the existing state of affairs."
+  }
+ }
+]

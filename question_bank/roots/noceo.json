@@ -1,0 +1,56 @@
+[
+ {
+  "word": "innocent",
+  "question": "The jury found the man not guilty and free of any crime. He was:",
+  "options": [
+   "innocent",
+   "malignant",
+   "noxious",
+   "iniquitous"
+  ],
+  "correct": "A",
+  "explanation": "innocent: Not guilty; harmless.",
+  "reasons": {
+   "A": "Correct: Not guilty; harmless.",
+   "B": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "C": "Wrong: Harmful, poisonous, or unwholesome.",
+   "D": "Wrong: Wicked; sinful."
+  }
+ },
+ {
+  "word": "innocuous",
+  "question": "The mild tea was harmless and not likely to cause injury. It was:",
+  "options": [
+   "noxious",
+   "innocuous",
+   "malignant",
+   "pungent"
+  ],
+  "correct": "B",
+  "explanation": "innocuous: Harmless; not likely to cause injury.",
+  "reasons": {
+   "A": "Wrong: Harmful, poisonous, or unwholesome.",
+   "B": "Correct: Harmless; not likely to cause injury.",
+   "C": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "D": "Wrong: Sharp or spicy; piercing to the taste or smell."
+  }
+ },
+ {
+  "word": "noxious",
+  "question": "The fumes from the factory were harmful and poisonous. They were:",
+  "options": [
+   "innocuous",
+   "benign",
+   "noxious",
+   "innocent"
+  ],
+  "correct": "C",
+  "explanation": "noxious: Harmful, poisonous, or unwholesome.",
+  "reasons": {
+   "A": "Wrong: Harmless; not likely to cause injury.",
+   "B": "Wrong: Kindly, good-natured, and harmless.",
+   "C": "Correct: Harmful, poisonous, or unwholesome.",
+   "D": "Wrong: Not guilty; harmless."
+  }
+ }
+]

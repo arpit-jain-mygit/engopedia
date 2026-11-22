@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pejorative",
+  "question": "The word 'nerd' was once used as a sneer, expressing contempt for the person it described. Such a term of contempt is called:",
+  "options": [
+   "Ameliorative",
+   "Pejorative",
+   "Honorific",
+   "Idiomatic"
+  ],
+  "correct": "B",
+  "explanation": "Pejor (worse) + -ative: making things worse, or an insulting term.",
+  "reasons": {
+   "A": "Wrong: making something better.",
+   "B": "Correct: expressing disapproval or contempt.",
+   "C": "Wrong: showing respect or honour.",
+   "D": "Wrong: a phrase whose meaning is not literal."
+  }
+ }
+]

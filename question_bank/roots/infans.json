@@ -1,0 +1,38 @@
+[
+ {
+  "word": "infanticide",
+  "question": "A woman is charged with killing her own newborn, just after the birth. The crime is called:",
+  "options": [
+   "Homicide",
+   "Infanticide",
+   "Parricide",
+   "Suicide"
+  ],
+  "correct": "B",
+  "explanation": "Infans (infant) + -cide (killing): killing an infant.",
+  "reasons": {
+   "A": "Wrong: the killing of any person; this crime targets the newborn.",
+   "B": "Correct: the killing of a newborn or infant.",
+   "C": "Wrong: killing one's own parent.",
+   "D": "Wrong: killing oneself."
+  }
+ },
+ {
+  "word": "infanticidal",
+  "question": "A villain whose plan is to murder the youngest members of a family is described as:",
+  "options": [
+   "Homicidal",
+   "Suicidal",
+   "Infanticidal",
+   "Parricidal"
+  ],
+  "correct": "C",
+  "explanation": "Infans (infant) + -cide + -al: inclined to kill infants.",
+  "reasons": {
+   "A": "Wrong: willing to kill any person; the villain targets the youngest.",
+   "B": "Wrong: wanting to kill oneself.",
+   "C": "Correct: inclined to kill infants.",
+   "D": "Wrong: wanting to kill one's parent."
+  }
+ }
+]

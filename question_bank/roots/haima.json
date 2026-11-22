@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hematophobia",
+  "question": "A student faints in the science lab at the sight of a small red droplet from a pricked finger. He has an intense fear of:",
+  "options": [
+   "Erythrophobia",
+   "Iatrophobia",
+   "Trichophobia",
+   "Hematophobia"
+  ],
+  "correct": "D",
+  "explanation": "Haima (blood) + phobia = fear of blood.",
+  "reasons": {
+   "A": "Wrong: fear of the colour red in general.",
+   "B": "Wrong: fear of doctors.",
+   "C": "Wrong: fear of hair.",
+   "D": "Correct: haima means blood, so the fear is of blood."
+  }
+ }
+]

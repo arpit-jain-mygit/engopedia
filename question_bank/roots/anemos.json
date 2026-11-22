@@ -1,0 +1,20 @@
+[
+ {
+  "word": "anemophobia",
+  "question": "After a sudden gust knocked her off her bicycle, a woman refuses to ride on breezy days and avoids open fields. She fears:",
+  "options": [
+   "Aerophobia",
+   "Anemophobia",
+   "Hydrophobia",
+   "Pyrophobia"
+  ],
+  "correct": "B",
+  "explanation": "Anemos (wind) + phobia = fear of wind.",
+  "reasons": {
+   "A": "Wrong: fear of air in general, not of wind specifically.",
+   "B": "Correct: anemos means wind, so the fear is of wind.",
+   "C": "Wrong: fear of water.",
+   "D": "Wrong: fear of fire."
+  }
+ }
+]

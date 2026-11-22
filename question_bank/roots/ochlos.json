@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ochlophobia",
+  "question": "A man has a panic attack in the middle of a packed stadium, though he is calm at home. His fear is of:",
+  "options": [
+   "Agoraphobia",
+   "Ochlophobia",
+   "Claustrophobia",
+   "Demophobia"
+  ],
+  "correct": "B",
+  "explanation": "Ochlos (crowd, mob) + phobia = fear of crowds.",
+  "reasons": {
+   "A": "Wrong: fear of open or public places in general.",
+   "B": "Correct: ochlos means crowd or mob, so the fear is of crowds.",
+   "C": "Wrong: fear of enclosed spaces.",
+   "D": "Wrong: fear of people in general, not of a dense mass."
+  }
+ }
+]

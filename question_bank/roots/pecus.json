@@ -1,0 +1,38 @@
+[
+ {
+  "word": "impecunious",
+  "question": "Despite a wealthy upbringing, he has no money left and cannot pay his rent this month. He is:",
+  "options": [
+   "Opulent",
+   "Affluent",
+   "Equable",
+   "Impecunious"
+  ],
+  "correct": "D",
+  "explanation": "In- (not) + pecus (money, wealth, cattle): not having money.",
+  "reasons": {
+   "A": "Wrong: rich and lavish.",
+   "B": "Wrong: wealthy.",
+   "C": "Wrong: calm and even-tempered.",
+   "D": "Correct: having little or no money."
+  }
+ },
+ {
+  "word": "pecuniary",
+  "question": "The penalty for the offence was a fine paid in money, not a jail sentence. Such a penalty is:",
+  "options": [
+   "Pecuniary",
+   "Corporal",
+   "Capital",
+   "Custodial"
+  ],
+  "correct": "A",
+  "explanation": "Pecunia (money) + -ary: relating to money.",
+  "reasons": {
+   "A": "Correct: relating to money.",
+   "B": "Wrong: involving the body, such as physical punishment.",
+   "C": "Wrong: punishable by death.",
+   "D": "Wrong: involving imprisonment."
+  }
+ }
+]

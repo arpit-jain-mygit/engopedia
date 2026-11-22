@@ -1,0 +1,200 @@
+[
+ {
+  "word": "malediction",
+  "question": "The old woman cursed the thief with an evil saying. Her curse was a:",
+  "options": [
+   "benediction",
+   "malediction",
+   "benefaction",
+   "beneficence"
+  ],
+  "correct": "B",
+  "explanation": "malediction: A curse; an evil saying.",
+  "reasons": {
+   "A": "Wrong: A blessing; a saying of good.",
+   "B": "Correct: A curse; an evil saying.",
+   "C": "Wrong: A gift or act of kindness.",
+   "D": "Wrong: The doing of good deeds."
+  }
+ },
+ {
+  "word": "malefaction",
+  "question": "The crime was an evil deed that harmed many people. The crime was a:",
+  "options": [
+   "benefaction",
+   "beneficence",
+   "malefaction",
+   "benediction"
+  ],
+  "correct": "C",
+  "explanation": "malefaction: An evil deed; a crime.",
+  "reasons": {
+   "A": "Wrong: A gift or act of kindness.",
+   "B": "Wrong: The doing of good deeds.",
+   "C": "Correct: An evil deed; a crime.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "malefactor",
+  "question": "The wrongdoer who committed the robbery was caught by police. He was a:",
+  "options": [
+   "benefactor",
+   "beneficiary",
+   "philanthropist",
+   "malefactor"
+  ],
+  "correct": "D",
+  "explanation": "malefactor: A wrongdoer; a criminal.",
+  "reasons": {
+   "A": "Wrong: A person who gives money or help to others.",
+   "B": "Wrong: The person who receives money or help.",
+   "C": "Wrong: A person who gives money and time to help others.",
+   "D": "Correct: A wrongdoer; a criminal."
+  }
+ },
+ {
+  "word": "maleficence",
+  "question": "The villain delighted in doing evil and causing harm to others. This doing of evil is:",
+  "options": [
+   "maleficence",
+   "beneficence",
+   "benevolence",
+   "benignity"
+  ],
+  "correct": "A",
+  "explanation": "maleficence: The doing of evil or harm.",
+  "reasons": {
+   "A": "Correct: The doing of evil or harm.",
+   "B": "Wrong: The doing of good deeds.",
+   "C": "Wrong: A wish to do good for others.",
+   "D": "Wrong: Kindness and gentleness of nature."
+  }
+ },
+ {
+  "word": "maleficent",
+  "question": "The witch's plan was to cause evil and harm to the village. Her plan was:",
+  "options": [
+   "beneficent",
+   "maleficent",
+   "benevolent",
+   "benign"
+  ],
+  "correct": "B",
+  "explanation": "maleficent: Doing evil or harm.",
+  "reasons": {
+   "A": "Wrong: Doing good; generous and kind.",
+   "B": "Correct: Doing evil or harm.",
+   "C": "Wrong: Kind, well disposed, and wishing good for others.",
+   "D": "Wrong: Kindly, good-natured, and harmless."
+  }
+ },
+ {
+  "word": "malevolence",
+  "question": "He wished harm on others and showed deep ill will. This wish to harm is:",
+  "options": [
+   "benevolence",
+   "benignity",
+   "malevolence",
+   "benediction"
+  ],
+  "correct": "C",
+  "explanation": "malevolence: A wish to do harm.",
+  "reasons": {
+   "A": "Wrong: A wish to do good for others.",
+   "B": "Wrong: Kindness and gentleness of nature.",
+   "C": "Correct: A wish to do harm.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "malevolent",
+  "question": "The villain wished evil and harm on everyone he met. He was:",
+  "options": [
+   "benevolent",
+   "benign",
+   "beneficent",
+   "malevolent"
+  ],
+  "correct": "D",
+  "explanation": "malevolent: Wishing evil or harm to others.",
+  "reasons": {
+   "A": "Wrong: Kind, well disposed, and wishing good for others.",
+   "B": "Wrong: Kindly, good-natured, and harmless.",
+   "C": "Wrong: Doing good; generous and kind.",
+   "D": "Correct: Wishing evil or harm to others."
+  }
+ },
+ {
+  "word": "malign",
+  "question": "The rival spread false stories to slander and speak evil of the candidate. He began to:",
+  "options": [
+   "malign",
+   "eulogize",
+   "condole",
+   "commiserate"
+  ],
+  "correct": "A",
+  "explanation": "malign: To speak evil of someone; to slander.",
+  "reasons": {
+   "A": "Correct: To speak evil of someone; to slander.",
+   "B": "Wrong: To praise highly in a speech.",
+   "C": "Wrong: To express sympathy in grief.",
+   "D": "Wrong: To sympathize with someone in misfortune."
+  }
+ },
+ {
+  "word": "malignancy",
+  "question": "The doctor found a cancerous growth in the patient's body. This growth is a:",
+  "options": [
+   "benignancy",
+   "malignancy",
+   "benignity",
+   "benediction"
+  ],
+  "correct": "B",
+  "explanation": "malignancy: A cancerous growth; harmfulness.",
+  "reasons": {
+   "A": "Wrong: Kindness; a harmless condition.",
+   "B": "Correct: A cancerous growth; harmfulness.",
+   "C": "Wrong: Kindness and gentleness of nature.",
+   "D": "Wrong: A blessing; a saying of good."
+  }
+ },
+ {
+  "word": "malignant",
+  "question": "The tumour was harmful and deadly, not gentle. It was:",
+  "options": [
+   "benign",
+   "benignant",
+   "malignant",
+   "innocuous"
+  ],
+  "correct": "C",
+  "explanation": "malignant: Harmful and deadly, with deep hatred or evil intent.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Wrong: Kind and gracious; not cancerous.",
+   "C": "Correct: Harmful and deadly, with deep hatred or evil intent.",
+   "D": "Wrong: Harmless; not likely to cause injury."
+  }
+ },
+ {
+  "word": "malignity",
+  "question": "The villain's deep hatred and evil nature shocked the court. His deep malice is his:",
+  "options": [
+   "benignity",
+   "benignancy",
+   "benevolence",
+   "malignity"
+  ],
+  "correct": "D",
+  "explanation": "malignity: Deep hatred or harmfulness.",
+  "reasons": {
+   "A": "Wrong: Kindness and gentleness of nature.",
+   "B": "Wrong: Kindness; a harmless condition.",
+   "C": "Wrong: A wish to do good for others.",
+   "D": "Correct: Deep hatred or harmfulness."
+  }
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "word": "benign",
+  "question": "The illness was not harmful and was gentle in nature. It was:",
+  "options": [
+   "malignant",
+   "benign",
+   "noxious",
+   "pungent"
+  ],
+  "correct": "B",
+  "explanation": "benign: Kindly, good-natured, and harmless.",
+  "reasons": {
+   "A": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "B": "Correct: Kindly, good-natured, and harmless.",
+   "C": "Wrong: Harmful, poisonous, or unwholesome.",
+   "D": "Wrong: Sharp or spicy; piercing to the taste or smell."
+  }
+ },
+ {
+  "word": "benignancy",
+  "question": "The mildness of the tumour gave relief. Its harmlessness is:",
+  "options": [
+   "malignancy",
+   "malignity",
+   "benignancy",
+   "malevolence"
+  ],
+  "correct": "C",
+  "explanation": "benignancy: Kindness; a harmless condition.",
+  "reasons": {
+   "A": "Wrong: A cancerous growth; harmfulness.",
+   "B": "Wrong: Deep hatred or harmfulness.",
+   "C": "Correct: Kindness; a harmless condition.",
+   "D": "Wrong: A wish to do harm."
+  }
+ },
+ {
+  "word": "benignant",
+  "question": "The kindly old woman smiled graciously at each child. She was:",
+  "options": [
+   "malignant",
+   "malevolent",
+   "malign",
+   "benignant"
+  ],
+  "correct": "D",
+  "explanation": "benignant: Kind and gracious; not cancerous.",
+  "reasons": {
+   "A": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Correct: Kind and gracious; not cancerous."
+  }
+ },
+ {
+  "word": "benignity",
+  "question": "His gentle, kind nature was clear in the way he spoke. This gentleness is:",
+  "options": [
+   "benignity",
+   "malignity",
+   "malevolence",
+   "malignancy"
+  ],
+  "correct": "A",
+  "explanation": "benignity: Kindness and gentleness of nature.",
+  "reasons": {
+   "A": "Correct: Kindness and gentleness of nature.",
+   "B": "Wrong: Deep hatred or harmfulness.",
+   "C": "Wrong: A wish to do harm.",
+   "D": "Wrong: A cancerous growth; harmfulness."
+  }
+ }
+]

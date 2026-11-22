@@ -1,0 +1,182 @@
+[
+ {
+  "word": "chiropodist",
+  "question": "The foot specialist who treated corns and calluses was a:",
+  "options": [
+   "pediatrician",
+   "chiropodist",
+   "psychiatrist",
+   "geriatrician"
+  ],
+  "correct": "B",
+  "explanation": "chiropodist: An earlier title for a podiatrist.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Correct: An earlier title for a podiatrist.",
+   "C": "Wrong: A doctor who treats mental and emotional disorders.",
+   "D": "Wrong: A doctor who specializes in the elderly."
+  }
+ },
+ {
+  "word": "chiropody",
+  "question": "The treatment of foot problems such as corns and calluses is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "chiropody",
+   "psychiatry"
+  ],
+  "correct": "C",
+  "explanation": "chiropody: The treatment of minor foot ailments.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Correct: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "octopus",
+  "question": "The sea creature with eight arms is an:",
+  "options": [
+   "platypus",
+   "omnibus",
+   "tome",
+   "octopus"
+  ],
+  "correct": "D",
+  "explanation": "octopus: A sea creature with eight arms.",
+  "reasons": {
+   "A": "Wrong: A furry, egg-laying mammal with a bill and webbed feet.",
+   "B": "Wrong: A book or law covering many things; a bus for all.",
+   "C": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "D": "Correct: A sea creature with eight arms."
+  }
+ },
+ {
+  "word": "podiatric",
+  "question": "The clinic offered foot care for minor ailments. Its care was:",
+  "options": [
+   "podiatric",
+   "pediatric",
+   "geriatric",
+   "psychiatric"
+  ],
+  "correct": "A",
+  "explanation": "podiatric: Relating to foot care.",
+  "reasons": {
+   "A": "Correct: Relating to foot care.",
+   "B": "Wrong: Relating to children's medicine.",
+   "C": "Wrong: Relating to the medical care of the elderly.",
+   "D": "Wrong: Relating to the treatment of mental disorders."
+  }
+ },
+ {
+  "word": "podiatrist",
+  "question": "The specialist who treats minor foot ailments is a:",
+  "options": [
+   "pediatrician",
+   "podiatrist",
+   "geriatrician",
+   "psychiatrist"
+  ],
+  "correct": "B",
+  "explanation": "podiatrist: A practitioner who treats minor foot ailments.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Correct: A practitioner who treats minor foot ailments.",
+   "C": "Wrong: A doctor who specializes in the elderly.",
+   "D": "Wrong: A doctor who treats mental and emotional disorders."
+  }
+ },
+ {
+  "word": "podiatry",
+  "question": "The treatment of minor foot ailments is called:",
+  "options": [
+   "pediatrics",
+   "geriatrics",
+   "podiatry",
+   "psychiatry"
+  ],
+  "correct": "C",
+  "explanation": "podiatry: The treatment of minor foot ailments.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The medical care of the elderly.",
+   "C": "Correct: The treatment of minor foot ailments.",
+   "D": "Wrong: The medical treatment of mental disorders."
+  }
+ },
+ {
+  "word": "podium",
+  "question": "The speaker stood on a raised platform to address the audience. The raised platform is a:",
+  "options": [
+   "tripod",
+   "omnibus",
+   "tome",
+   "podium"
+  ],
+  "correct": "D",
+  "explanation": "podium: A speaker's platform.",
+  "reasons": {
+   "A": "Wrong: A three-legged stand for a camera.",
+   "B": "Wrong: A book or law covering many things; a bus for all.",
+   "C": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "D": "Correct: A speaker's platform."
+  }
+ },
+ {
+  "word": "podophobia",
+  "question": "The fear of feet, which made him avoid sandals, is called:",
+  "options": [
+   "podophobia",
+   "pedophobia",
+   "phobophobia",
+   "pyrophobia"
+  ],
+  "correct": "A",
+  "explanation": "podophobia: Fear of feet.",
+  "reasons": {
+   "A": "Correct: Fear of feet.",
+   "B": "Wrong: Fear of children.",
+   "C": "Wrong: Fear of fear itself.",
+   "D": "Wrong: Fear of fire."
+  }
+ },
+ {
+  "word": "tripod",
+  "question": "The three-legged stand that holds a camera steady is a:",
+  "options": [
+   "podium",
+   "tripod",
+   "omnibus",
+   "tome"
+  ],
+  "correct": "B",
+  "explanation": "tripod: A three-legged stand for a camera.",
+  "reasons": {
+   "A": "Wrong: A speaker's platform.",
+   "B": "Correct: A three-legged stand for a camera.",
+   "C": "Wrong: A book or law covering many things; a bus for all.",
+   "D": "Wrong: A large, heavy book; originally a part cut from a whole."
+  }
+ },
+ {
+  "word": "platypus",
+  "question": "The furry, egg-laying mammal with a bill and webbed feet is the:",
+  "options": [
+   "platypus",
+   "octopus",
+   "tome",
+   "omnibus"
+  ],
+  "correct": "A",
+  "explanation": "platypus: A furry, egg-laying mammal with a bill and webbed feet.",
+  "reasons": {
+   "A": "Correct: A furry, egg-laying mammal with a bill and webbed feet.",
+   "B": "Wrong: A sea creature with eight arms.",
+   "C": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "D": "Wrong: A book or law covering many things; a bus for all."
+  }
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "word": "equestrian",
+  "question": "A rider who competes in horseback riding is an:",
+  "options": [
+   "equestrian",
+   "cavalier",
+   "cavalcade",
+   "cavalry"
+  ],
+  "correct": "A",
+  "explanation": "equestrian: Relating to horseback riding; a horse rider.",
+  "reasons": {
+   "A": "Correct: Relating to horseback riding; a horse rider.",
+   "B": "Wrong: Haughty and careless of others' feelings; a mounted soldier.",
+   "C": "Wrong: A procession of people on horseback.",
+   "D": "Wrong: The mounted part of an army."
+  }
+ },
+ {
+  "word": "equestrienne",
+  "question": "A woman who rides horses is an:",
+  "options": [
+   "virago",
+   "equestrienne",
+   "matron",
+   "tyro"
+  ],
+  "correct": "B",
+  "explanation": "equestrienne: A woman who rides horses.",
+  "reasons": {
+   "A": "Wrong: A loud-mouthed, quarrelsome woman.",
+   "B": "Correct: A woman who rides horses.",
+   "C": "Wrong: An older, dignified woman; a mother figure.",
+   "D": "Wrong: A beginner; someone new to a field."
+  }
+ },
+ {
+  "word": "equine",
+  "question": "Relating to horses, the trait of the animal was:",
+  "options": [
+   "feline",
+   "canine",
+   "equine",
+   "bovine"
+  ],
+  "correct": "C",
+  "explanation": "equine: Relating to a horse.",
+  "reasons": {
+   "A": "Wrong: Like a cat; cat-like grace or temperament.",
+   "B": "Wrong: Relating to dogs; dog-like.",
+   "C": "Correct: Relating to a horse.",
+   "D": "Wrong: Dull, slow, and placid, like a cow."
+  }
+ }
+]

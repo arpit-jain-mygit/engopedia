@@ -1,0 +1,74 @@
+[
+ {
+  "word": "conscience",
+  "question": "The inner sense of right and wrong made him confess the theft. This inner sense is his:",
+  "options": [
+   "credulity",
+   "ambivalence",
+   "animosity",
+   "conscience"
+  ],
+  "correct": "D",
+  "explanation": "conscience: The inner sense of right and wrong.",
+  "reasons": {
+   "A": "Wrong: A tendency to believe too easily.",
+   "B": "Wrong: Having mixed or conflicting feelings.",
+   "C": "Wrong: Strong dislike; hostility.",
+   "D": "Correct: The inner sense of right and wrong."
+  }
+ },
+ {
+  "word": "conscious",
+  "question": "She was aware of her own feelings and surroundings and awake to them. She was:",
+  "options": [
+   "conscious",
+   "nescient",
+   "impotent",
+   "placid"
+  ],
+  "correct": "A",
+  "explanation": "conscious: Aware of one's own feelings or surroundings.",
+  "reasons": {
+   "A": "Correct: Aware of one's own feelings or surroundings.",
+   "B": "Wrong: Not knowing; ignorant.",
+   "C": "Wrong: Powerless; unable to act.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "unconscionability",
+  "question": "The sheer wickedness and lack of conscience in the deal was shocking. Such lack of conscience is:",
+  "options": [
+   "credibility",
+   "unconscionability",
+   "credulity",
+   "incredulity"
+  ],
+  "correct": "B",
+  "explanation": "unconscionability: The quality of being without conscience.",
+  "reasons": {
+   "A": "Wrong: The quality of being believable.",
+   "B": "Correct: The quality of being without conscience.",
+   "C": "Wrong: A tendency to believe too easily.",
+   "D": "Wrong: Unwillingness to believe."
+  }
+ },
+ {
+  "word": "unconscionable",
+  "question": "The deal was so unscrupulous that it showed no sense of conscience. It was:",
+  "options": [
+   "credible",
+   "credulous",
+   "unconscionable",
+   "incredible"
+  ],
+  "correct": "C",
+  "explanation": "unconscionable: Without pangs of conscience; unscrupulous.",
+  "reasons": {
+   "A": "Wrong: Able to be believed.",
+   "B": "Wrong: Willing to believe almost anything.",
+   "C": "Correct: Without pangs of conscience; unscrupulous.",
+   "D": "Wrong: Impossible to believe."
+  }
+ }
+]

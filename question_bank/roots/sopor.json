@@ -1,0 +1,20 @@
+[
+ {
+  "word": "soporific",
+  "question": "The lecture was so dull and monotonous that half the room began to nod off. The lecturer's voice was:",
+  "options": [
+   "Soporific",
+   "Stimulating",
+   "Pungent",
+   "Boisterous"
+  ],
+  "correct": "A",
+  "explanation": "Sopor (deep sleep) + -ific: causing sleep.",
+  "reasons": {
+   "A": "Correct: causing sleep; sleep-inducing.",
+   "B": "Wrong: exciting, which keeps you awake; the opposite.",
+   "C": "Wrong: sharp in smell or taste.",
+   "D": "Wrong: loud and rowdy."
+  }
+ }
+]

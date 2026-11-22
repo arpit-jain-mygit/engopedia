@@ -1,0 +1,20 @@
+[
+ {
+  "word": "astrophobia",
+  "question": "Each time the sky flashes a sudden white streak, a boy covers his eyes and cries, while the thunder is still far away. His fear is of:",
+  "options": [
+   "Astrophobia",
+   "Brontophobia",
+   "Photophobia",
+   "Heliophobia"
+  ],
+  "correct": "A",
+  "explanation": "Astrape (lightning) + phobia = fear of lightning.",
+  "reasons": {
+   "A": "Correct: astrape means lightning, so the fear is of lightning.",
+   "B": "Wrong: fear of thunder, the sound rather than the flash.",
+   "C": "Wrong: fear of light in general, not the sudden flash.",
+   "D": "Wrong: fear of sunlight."
+  }
+ }
+]

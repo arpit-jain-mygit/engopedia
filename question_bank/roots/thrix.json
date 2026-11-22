@@ -1,0 +1,20 @@
+[
+ {
+  "word": "trichophobia",
+  "question": "A woman cannot bear the sight of loose hair on the floor and shudders whenever a hairbrush comes near. She fears:",
+  "options": [
+   "Hematophobia",
+   "Chirophobia",
+   "Trichophobia",
+   "Odontophobia"
+  ],
+  "correct": "C",
+  "explanation": "Thrix (hair) + phobia = fear of hair.",
+  "reasons": {
+   "A": "Wrong: fear of blood.",
+   "B": "Wrong: fear of hands.",
+   "C": "Correct: thrix means hair, so the fear is of hair.",
+   "D": "Wrong: fear of teeth."
+  }
+ }
+]

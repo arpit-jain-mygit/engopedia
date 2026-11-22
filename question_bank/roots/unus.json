@@ -1,0 +1,38 @@
+[
+ {
+  "word": "unanimous",
+  "question": "The three judges gave the decision: all of them agreed completely. The decision was:",
+  "options": [
+   "Pusillanimous",
+   "Ambivalent",
+   "Unanimous",
+   "Equable"
+  ],
+  "correct": "C",
+  "explanation": "Unus (one) + animus (mind): of one mind.",
+  "reasons": {
+   "A": "Wrong: timid and cowardly.",
+   "B": "Wrong: having mixed feelings; the judges all agreed.",
+   "C": "Correct: agreed by everyone; of one mind.",
+   "D": "Wrong: calm and even-tempered."
+  }
+ },
+ {
+  "word": "unanimity",
+  "question": "The ___ of the vote surprised the board, because every member agreed.",
+  "options": [
+   "Pusillanimity",
+   "Garrulity",
+   "Enervation",
+   "Unanimity"
+  ],
+  "correct": "D",
+  "explanation": "Unanimity = the quality of being unanimous (agreed by all).",
+  "reasons": {
+   "A": "Wrong: cowardice.",
+   "B": "Wrong: constant chatter.",
+   "C": "Wrong: complete exhaustion.",
+   "D": "Correct: complete agreement."
+  }
+ }
+]

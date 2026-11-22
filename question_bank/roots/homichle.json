@@ -1,0 +1,20 @@
+[
+ {
+  "word": "homichlophobia",
+  "question": "A runner cancels her morning jog whenever a thick grey mist hangs over the park, afraid of losing her way in its damp haze. Her fear is of:",
+  "options": [
+   "Homichlophobia",
+   "Nyctophobia",
+   "Thermophobia",
+   "Chionophobia"
+  ],
+  "correct": "A",
+  "explanation": "Homichle (fog, mist) + phobia = fear of fog.",
+  "reasons": {
+   "A": "Correct: homichle means fog or mist, so the fear is of fog.",
+   "B": "Wrong: fear of darkness.",
+   "C": "Wrong: fear of heat.",
+   "D": "Wrong: fear of snow."
+  }
+ }
+]

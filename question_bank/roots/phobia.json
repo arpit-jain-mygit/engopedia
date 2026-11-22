@@ -1,0 +1,2216 @@
+[
+ {
+  "word": "acousticophobia",
+  "question": "She panicked at every loud noise and could not bear sharp sounds. Her fear of sounds is called:",
+  "options": [
+   "acousticophobia",
+   "acrophobia",
+   "aerophobia",
+   "hydrophobia"
+  ],
+  "correct": "A",
+  "explanation": "acousticophobia: Fear of sounds.",
+  "reasons": {
+   "A": "Correct: Fear of sounds.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Wrong: Fear of air.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "acrophobe",
+  "question": "A man who dreads high places refused to stand on any balcony. He is an:",
+  "options": [
+   "agoraphobe",
+   "acrophobe",
+   "claustrophobe",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "acrophobe: A person who fears heights.",
+  "reasons": {
+   "A": "Wrong: A person who fears open spaces.",
+   "B": "Correct: A person who fears heights.",
+   "C": "Wrong: A person who fears small, closed places.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "acrophobia",
+  "question": "He could not look down from the top floor because he feared heights. His fear is called:",
+  "options": [
+   "agoraphobia",
+   "claustrophobia",
+   "acrophobia",
+   "hydrophobia"
+  ],
+  "correct": "C",
+  "explanation": "acrophobia: Morbid dread of heights.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of open spaces or crowds.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Correct: Morbid dread of heights.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "acrophobic",
+  "question": "Standing on the roof edge made her tremble, because she was afraid of heights. She was:",
+  "options": [
+   "agoraphobic",
+   "claustrophobic",
+   "monotheistic",
+   "acrophobic"
+  ],
+  "correct": "D",
+  "explanation": "acrophobic: Fearful of heights.",
+  "reasons": {
+   "A": "Wrong: Fearful of open spaces.",
+   "B": "Wrong: Fearful of enclosed spaces.",
+   "C": "Wrong: Believing in one God.",
+   "D": "Correct: Fearful of heights."
+  }
+ },
+ {
+  "word": "aerophobia",
+  "question": "He was afraid of the air itself and avoided any windy place. His fear is called:",
+  "options": [
+   "aerophobia",
+   "ophidiophobia",
+   "xenophobia",
+   "zoophobia"
+  ],
+  "correct": "A",
+  "explanation": "aerophobia: Fear of air.",
+  "reasons": {
+   "A": "Correct: Fear of air.",
+   "B": "Wrong: Fear of snakes.",
+   "C": "Wrong: Fear of foreigners or strangers.",
+   "D": "Wrong: Fear of animals."
+  }
+ },
+ {
+  "word": "agoraphobe",
+  "question": "The man who dreaded open spaces and crowds never left his house. He is an:",
+  "options": [
+   "acrophobe",
+   "agoraphobe",
+   "claustrophobe",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "agoraphobe: A person who fears open spaces.",
+  "reasons": {
+   "A": "Wrong: A person who fears heights.",
+   "B": "Correct: A person who fears open spaces.",
+   "C": "Wrong: A person who fears small, closed places.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "agoraphobia",
+  "question": "After a panic in a crowded square, she refused to leave her home, dreading open spaces. Her fear is called:",
+  "options": [
+   "claustrophobia",
+   "acrophobia",
+   "agoraphobia",
+   "xenophobia"
+  ],
+  "correct": "C",
+  "explanation": "agoraphobia: Morbid dread of open spaces or crowds.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of being shut in small places.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Correct: Morbid dread of open spaces or crowds.",
+   "D": "Wrong: Fear of foreigners or strangers."
+  }
+ },
+ {
+  "word": "agoraphobic",
+  "question": "Crowded open squares left him frozen with fear. He was:",
+  "options": [
+   "claustrophobic",
+   "acrophobic",
+   "monotheistic",
+   "agoraphobic"
+  ],
+  "correct": "D",
+  "explanation": "agoraphobic: Fearful of open spaces.",
+  "reasons": {
+   "A": "Wrong: Fearful of enclosed spaces.",
+   "B": "Wrong: Fearful of heights.",
+   "C": "Wrong: Believing in one God.",
+   "D": "Correct: Fearful of open spaces."
+  }
+ },
+ {
+  "word": "aichmophobia",
+  "question": "She shrieked at the sight of knives and pointed objects. Her fear of sharp points is:",
+  "options": [
+   "aichmophobia",
+   "hydrophobia",
+   "ailurophobia",
+   "trichophobia"
+  ],
+  "correct": "A",
+  "explanation": "aichmophobia: Fear of knives or pointed things.",
+  "reasons": {
+   "A": "Correct: Fear of knives or pointed things.",
+   "B": "Wrong: Fear of water.",
+   "C": "Wrong: Fear of cats.",
+   "D": "Wrong: Fear of hair."
+  }
+ },
+ {
+  "word": "ailurophobia",
+  "question": "The sight of a cat sent him running; he feared all felines. His fear is called:",
+  "options": [
+   "cynophobia",
+   "ailurophobia",
+   "ophidiophobia",
+   "hippophobia"
+  ],
+  "correct": "B",
+  "explanation": "ailurophobia: Fear of cats.",
+  "reasons": {
+   "A": "Wrong: Fear of dogs.",
+   "B": "Correct: Fear of cats.",
+   "C": "Wrong: Fear of snakes.",
+   "D": "Wrong: Fear of horses."
+  }
+ },
+ {
+  "word": "algophobia",
+  "question": "He trembled at the thought of pain and avoided any risk of being hurt. He has a fear of:",
+  "options": [
+   "hydrophobia",
+   "ophidiophobia",
+   "algophobia",
+   "trichophobia"
+  ],
+  "correct": "C",
+  "explanation": "algophobia: Fear of pain.",
+  "reasons": {
+   "A": "Wrong: Fear of water.",
+   "B": "Wrong: Fear of snakes.",
+   "C": "Correct: Fear of pain.",
+   "D": "Wrong: Fear of hair."
+  }
+ },
+ {
+  "word": "androphobia",
+  "question": "She crossed the street whenever a man came near, because she dreaded males. Her fear is called:",
+  "options": [
+   "gynephobia",
+   "homophobia",
+   "demophobia",
+   "androphobia"
+  ],
+  "correct": "D",
+  "explanation": "androphobia: Fear of males.",
+  "reasons": {
+   "A": "Wrong: Fear of women.",
+   "B": "Wrong: Fear of sameness.",
+   "C": "Wrong: Fear of people.",
+   "D": "Correct: Fear of males."
+  }
+ },
+ {
+  "word": "anemophobia",
+  "question": "Fierce gusts of wind frightened him, and he would not go out on windy days. His fear is called:",
+  "options": [
+   "anemophobia",
+   "aerophobia",
+   "brontophobia",
+   "ombrophobia"
+  ],
+  "correct": "A",
+  "explanation": "anemophobia: Fear of wind.",
+  "reasons": {
+   "A": "Correct: Fear of wind.",
+   "B": "Wrong: Fear of air.",
+   "C": "Wrong: Fear of thunder.",
+   "D": "Wrong: Fear of rain."
+  }
+ },
+ {
+  "word": "arachnephobia",
+  "question": "A spider in the corner made her scream, and she dreaded all spiders. Her fear is called:",
+  "options": [
+   "entomophobia",
+   "arachnephobia",
+   "ophidiophobia",
+   "cynophobia"
+  ],
+  "correct": "B",
+  "explanation": "arachnephobia: Fear of spiders.",
+  "reasons": {
+   "A": "Wrong: Fear of insects.",
+   "B": "Correct: Fear of spiders.",
+   "C": "Wrong: Fear of snakes.",
+   "D": "Wrong: Fear of dogs."
+  }
+ },
+ {
+  "word": "asthenophobia",
+  "question": "She was terrified of becoming weak and losing her strength. Her fear of weakness is:",
+  "options": [
+   "sthenophobia",
+   "hydrophobia",
+   "asthenophobia",
+   "nyctophobia"
+  ],
+  "correct": "C",
+  "explanation": "asthenophobia: Fear of weakness.",
+  "reasons": {
+   "A": "Wrong: Fear of strength.",
+   "B": "Wrong: Fear of water.",
+   "C": "Correct: Fear of weakness.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "astrophobia",
+  "question": "During the storm he cowered at each flash of lightning in the sky. His fear of lightning is called:",
+  "options": [
+   "brontophobia",
+   "siderophobia",
+   "pyrophobia",
+   "astrophobia"
+  ],
+  "correct": "D",
+  "explanation": "astrophobia: Fear of lightning.",
+  "reasons": {
+   "A": "Wrong: Fear of thunder.",
+   "B": "Wrong: Fear of stars.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Correct: Fear of lightning."
+  }
+ },
+ {
+  "word": "autophobia",
+  "question": "He was terrified of being alone and could not bear solitude. His fear is called:",
+  "options": [
+   "autophobia",
+   "claustrophobia",
+   "agoraphobia",
+   "xenophobia"
+  ],
+  "correct": "A",
+  "explanation": "autophobia: Fear of solitude.",
+  "reasons": {
+   "A": "Correct: Fear of solitude.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of open spaces or crowds.",
+   "D": "Wrong: Fear of foreigners or strangers."
+  }
+ },
+ {
+  "word": "basiphobia",
+  "question": "She refused to walk anywhere and feared the act of walking. Her fear is called:",
+  "options": [
+   "hodophobia",
+   "basiphobia",
+   "kinesiophobia",
+   "bathophobia"
+  ],
+  "correct": "B",
+  "explanation": "basiphobia: Fear of walking.",
+  "reasons": {
+   "A": "Wrong: Fear of travel.",
+   "B": "Correct: Fear of walking.",
+   "C": "Wrong: Fear of motion.",
+   "D": "Wrong: Fear of depths."
+  }
+ },
+ {
+  "word": "bathophobia",
+  "question": "He would not swim in the sea because he dreaded the depths. His fear of depths is:",
+  "options": [
+   "thalassophobia",
+   "hydrophobia",
+   "bathophobia",
+   "acrophobia"
+  ],
+  "correct": "C",
+  "explanation": "bathophobia: Fear of depths.",
+  "reasons": {
+   "A": "Wrong: Fear of oceans.",
+   "B": "Wrong: Fear of water.",
+   "C": "Correct: Fear of depths.",
+   "D": "Wrong: Morbid dread of heights."
+  }
+ },
+ {
+  "word": "belonophobia",
+  "question": "Her fear of needles made her faint at the doctor's office. Her fear is called:",
+  "options": [
+   "trichophobia",
+   "hematophobia",
+   "iatrophobia",
+   "belonophobia"
+  ],
+  "correct": "D",
+  "explanation": "belonophobia: Fear of needles.",
+  "reasons": {
+   "A": "Wrong: Fear of hair.",
+   "B": "Wrong: Fear of blood.",
+   "C": "Wrong: Fear of doctors.",
+   "D": "Correct: Fear of needles."
+  }
+ },
+ {
+  "word": "botanophobia",
+  "question": "He could not bear plants and avoided gardens and greenery. His fear of plants is:",
+  "options": [
+   "botanophobia",
+   "zoophobia",
+   "ichthyophobia",
+   "entomophobia"
+  ],
+  "correct": "A",
+  "explanation": "botanophobia: Fear of plants.",
+  "reasons": {
+   "A": "Correct: Fear of plants.",
+   "B": "Wrong: Fear of animals.",
+   "C": "Wrong: Fear of fish.",
+   "D": "Wrong: Fear of insects."
+  }
+ },
+ {
+  "word": "brontophobia",
+  "question": "The loud rumble of thunder terrified the child, who hid each time it rolled. The fear of thunder is:",
+  "options": [
+   "astrophobia",
+   "brontophobia",
+   "pyrophobia",
+   "ombrophobia"
+  ],
+  "correct": "B",
+  "explanation": "brontophobia: Fear of thunder.",
+  "reasons": {
+   "A": "Wrong: Fear of lightning.",
+   "B": "Correct: Fear of thunder.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Wrong: Fear of rain."
+  }
+ },
+ {
+  "word": "cacophobia",
+  "question": "She could not bear ugly sounds and ugly things; her fear is of ugliness. It is called:",
+  "options": [
+   "callophobia",
+   "chromophobia",
+   "cacophobia",
+   "trichophobia"
+  ],
+  "correct": "C",
+  "explanation": "cacophobia: Fear of ugliness.",
+  "reasons": {
+   "A": "Wrong: Fear of beauty.",
+   "B": "Wrong: Fear of colors.",
+   "C": "Correct: Fear of ugliness.",
+   "D": "Wrong: Fear of hair."
+  }
+ },
+ {
+  "word": "callophobia",
+  "question": "She was frightened of beauty itself and avoided lovely things. Her fear of beauty is:",
+  "options": [
+   "cacophobia",
+   "ergophobia",
+   "thanatophobia",
+   "callophobia"
+  ],
+  "correct": "D",
+  "explanation": "callophobia: Fear of beauty.",
+  "reasons": {
+   "A": "Wrong: Fear of ugliness.",
+   "B": "Wrong: Fear of work.",
+   "C": "Wrong: Fear of death.",
+   "D": "Correct: Fear of beauty."
+  }
+ },
+ {
+  "word": "chionophobia",
+  "question": "The first winter snow made him freeze with dread; he feared snow. His fear is:",
+  "options": [
+   "chionophobia",
+   "heliophobia",
+   "thermophobia",
+   "thalassophobia"
+  ],
+  "correct": "A",
+  "explanation": "chionophobia: Fear of snow.",
+  "reasons": {
+   "A": "Correct: Fear of snow.",
+   "B": "Wrong: Fear of sunlight.",
+   "C": "Wrong: Fear of heat.",
+   "D": "Wrong: Fear of oceans."
+  }
+ },
+ {
+  "word": "chirophobia",
+  "question": "She could not bear to be touched or to look at anyone's hands. Her fear of hands is:",
+  "options": [
+   "chromophobia",
+   "chirophobia",
+   "odontophobia",
+   "hematophobia"
+  ],
+  "correct": "B",
+  "explanation": "chirophobia: Fear of hands.",
+  "reasons": {
+   "A": "Wrong: Fear of colors.",
+   "B": "Correct: Fear of hands.",
+   "C": "Wrong: Fear of teeth.",
+   "D": "Wrong: Fear of blood."
+  }
+ },
+ {
+  "word": "chromophobia",
+  "question": "The bright colours in the room made him anxious; he feared colours. His fear is called:",
+  "options": [
+   "chirophobia",
+   "erythrophobia",
+   "chromophobia",
+   "chionophobia"
+  ],
+  "correct": "C",
+  "explanation": "chromophobia: Fear of colors.",
+  "reasons": {
+   "A": "Wrong: Fear of hands.",
+   "B": "Wrong: Fear of red.",
+   "C": "Correct: Fear of colors.",
+   "D": "Wrong: Fear of snow."
+  }
+ },
+ {
+  "word": "chronophobia",
+  "question": "He was anxious about the passing of every minute and feared time itself. His fear is:",
+  "options": [
+   "neophobia",
+   "gerontophobia",
+   "thanatophobia",
+   "chronophobia"
+  ],
+  "correct": "D",
+  "explanation": "chronophobia: Fear of time.",
+  "reasons": {
+   "A": "Wrong: Fear of change.",
+   "B": "Wrong: Fear of old men.",
+   "C": "Wrong: Fear of death.",
+   "D": "Correct: Fear of time."
+  }
+ },
+ {
+  "word": "cibophobia",
+  "question": "She refused to eat anything, afraid of food itself. Her fear of food is called:",
+  "options": [
+   "cibophobia",
+   "emetophobia",
+   "dipsophobia",
+   "ergophobia"
+  ],
+  "correct": "A",
+  "explanation": "cibophobia: Fear of food.",
+  "reasons": {
+   "A": "Correct: Fear of food.",
+   "B": "Wrong: Fear of vomiting.",
+   "C": "Wrong: Fear of thirst.",
+   "D": "Wrong: Fear of work."
+  }
+ },
+ {
+  "word": "claustrophobe",
+  "question": "The man who dreaded small, enclosed rooms refused to take the lift. He is a:",
+  "options": [
+   "acrophobe",
+   "claustrophobe",
+   "agoraphobe",
+   "misanthrope"
+  ],
+  "correct": "B",
+  "explanation": "claustrophobe: A person who fears small, closed places.",
+  "reasons": {
+   "A": "Wrong: A person who fears heights.",
+   "B": "Correct: A person who fears small, closed places.",
+   "C": "Wrong: A person who fears open spaces.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "claustrophobia",
+  "question": "Her panic in small closed rooms made her avoid lifts and tunnels. Her fear is:",
+  "options": [
+   "agoraphobia",
+   "acrophobia",
+   "claustrophobia",
+   "ochlophobia"
+  ],
+  "correct": "C",
+  "explanation": "claustrophobia: Morbid dread of being shut in small places.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of open spaces or crowds.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Correct: Morbid dread of being shut in small places.",
+   "D": "Wrong: Fear of mobs or crowds."
+  }
+ },
+ {
+  "word": "claustrophobic",
+  "question": "The tight, enclosed cabin made her panic; she was:",
+  "options": [
+   "agoraphobic",
+   "acrophobic",
+   "monotheistic",
+   "claustrophobic"
+  ],
+  "correct": "D",
+  "explanation": "claustrophobic: Fearful of enclosed spaces.",
+  "reasons": {
+   "A": "Wrong: Fearful of open spaces.",
+   "B": "Wrong: Fearful of heights.",
+   "C": "Wrong: Believing in one God.",
+   "D": "Correct: Fearful of enclosed spaces."
+  }
+ },
+ {
+  "word": "climacophobia",
+  "question": "He would not use the staircase and dreaded every step. His fear of stairs is:",
+  "options": [
+   "climacophobia",
+   "acrophobia",
+   "claustrophobia",
+   "hodophobia"
+  ],
+  "correct": "A",
+  "explanation": "climacophobia: Fear of stairs.",
+  "reasons": {
+   "A": "Correct: Fear of stairs.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Wrong: Morbid dread of being shut in small places.",
+   "D": "Wrong: Fear of travel."
+  }
+ },
+ {
+  "word": "coitophobia",
+  "question": "The clinical term for an intense fear of sexual intercourse is:",
+  "options": [
+   "gamophobia",
+   "coitophobia",
+   "gymnophobia",
+   "gynephobia"
+  ],
+  "correct": "B",
+  "explanation": "coitophobia: Fear of sexual intercourse.",
+  "reasons": {
+   "A": "Wrong: Fear of marriage.",
+   "B": "Correct: Fear of sexual intercourse.",
+   "C": "Wrong: Fear of nakedness.",
+   "D": "Wrong: Fear of women."
+  }
+ },
+ {
+  "word": "coprophobia",
+  "question": "The child was disgusted by filth and dreaded it. His fear is called:",
+  "options": [
+   "mysophobia",
+   "odynophobia",
+   "coprophobia",
+   "pathophobia"
+  ],
+  "correct": "C",
+  "explanation": "coprophobia: Fear of feces.",
+  "reasons": {
+   "A": "Wrong: Fear of filth.",
+   "B": "Wrong: Fear of pain.",
+   "C": "Correct: Fear of feces.",
+   "D": "Wrong: Fear of disease."
+  }
+ },
+ {
+  "word": "cynophobia",
+  "question": "A barking dog made her freeze; she feared all dogs. Her fear is:",
+  "options": [
+   "ailurophobia",
+   "ophidiophobia",
+   "hippophobia",
+   "cynophobia"
+  ],
+  "correct": "D",
+  "explanation": "cynophobia: Fear of dogs.",
+  "reasons": {
+   "A": "Wrong: Fear of cats.",
+   "B": "Wrong: Fear of snakes.",
+   "C": "Wrong: Fear of horses.",
+   "D": "Correct: Fear of dogs."
+  }
+ },
+ {
+  "word": "demophobia",
+  "question": "The fear of crowds and people in general made her shy and withdrawn. Her fear of people is:",
+  "options": [
+   "demophobia",
+   "ochlophobia",
+   "xenophobia",
+   "androphobia"
+  ],
+  "correct": "A",
+  "explanation": "demophobia: Fear of people.",
+  "reasons": {
+   "A": "Correct: Fear of people.",
+   "B": "Wrong: Fear of mobs or crowds.",
+   "C": "Wrong: Fear of foreigners or strangers.",
+   "D": "Wrong: Fear of males."
+  }
+ },
+ {
+  "word": "dermatophobia",
+  "question": "She feared the skin itself and recoiled from any touch on the skin. Her fear is:",
+  "options": [
+   "chirophobia",
+   "dermatophobia",
+   "hematophobia",
+   "odontophobia"
+  ],
+  "correct": "B",
+  "explanation": "dermatophobia: Fear of skin.",
+  "reasons": {
+   "A": "Wrong: Fear of hands.",
+   "B": "Correct: Fear of skin.",
+   "C": "Wrong: Fear of blood.",
+   "D": "Wrong: Fear of teeth."
+  }
+ },
+ {
+  "word": "dipsophobia",
+  "question": "He feared thirst and was terrified of going without water. His fear is:",
+  "options": [
+   "hydrophobia",
+   "hypnophobia",
+   "dipsophobia",
+   "hedonophobia"
+  ],
+  "correct": "C",
+  "explanation": "dipsophobia: Fear of thirst.",
+  "reasons": {
+   "A": "Wrong: Fear of water.",
+   "B": "Wrong: Fear of sleep.",
+   "C": "Correct: Fear of thirst.",
+   "D": "Wrong: Fear of pleasure."
+  }
+ },
+ {
+  "word": "emetophobia",
+  "question": "She was terrified of vomiting and avoided sick people. Her fear is:",
+  "options": [
+   "coprophobia",
+   "cibophobia",
+   "pyrophobia",
+   "emetophobia"
+  ],
+  "correct": "D",
+  "explanation": "emetophobia: Fear of vomiting.",
+  "reasons": {
+   "A": "Wrong: Fear of feces.",
+   "B": "Wrong: Fear of food.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Correct: Fear of vomiting."
+  }
+ },
+ {
+  "word": "entomophobia",
+  "question": "The buzzing bee made him panic, since he feared all insects. His fear is:",
+  "options": [
+   "entomophobia",
+   "arachnephobia",
+   "zoophobia",
+   "ichthyophobia"
+  ],
+  "correct": "A",
+  "explanation": "entomophobia: Fear of insects.",
+  "reasons": {
+   "A": "Correct: Fear of insects.",
+   "B": "Wrong: Fear of spiders.",
+   "C": "Wrong: Fear of animals.",
+   "D": "Wrong: Fear of fish."
+  }
+ },
+ {
+  "word": "eremiophobia",
+  "question": "The silence and stillness of the empty house frightened her. Her fear of stillness is:",
+  "options": [
+   "kenophobia",
+   "eremiophobia",
+   "kinesiophobia",
+   "nyctophobia"
+  ],
+  "correct": "B",
+  "explanation": "eremiophobia: Fear of stillness.",
+  "reasons": {
+   "A": "Wrong: Fear of emptiness.",
+   "B": "Correct: Fear of stillness.",
+   "C": "Wrong: Fear of motion.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "ergophobia",
+  "question": "He dreaded going to work and feared any kind of labour. His fear of work is:",
+  "options": [
+   "hedonophobia",
+   "ophidiophobia",
+   "ergophobia",
+   "pyrophobia"
+  ],
+  "correct": "C",
+  "explanation": "ergophobia: Fear of work.",
+  "reasons": {
+   "A": "Wrong: Fear of pleasure.",
+   "B": "Wrong: Fear of snakes.",
+   "C": "Correct: Fear of work.",
+   "D": "Wrong: Fear of fire."
+  }
+ },
+ {
+  "word": "erythrophobia",
+  "question": "She blushed and feared the colour red, which terrified her. Her fear of red is:",
+  "options": [
+   "chromophobia",
+   "chirophobia",
+   "hematophobia",
+   "erythrophobia"
+  ],
+  "correct": "D",
+  "explanation": "erythrophobia: Fear of red.",
+  "reasons": {
+   "A": "Wrong: Fear of colors.",
+   "B": "Wrong: Fear of hands.",
+   "C": "Wrong: Fear of blood.",
+   "D": "Correct: Fear of red."
+  }
+ },
+ {
+  "word": "eurotophobia",
+  "question": "The clinical term for an intense fear of female genitalia is:",
+  "options": [
+   "eurotophobia",
+   "gynephobia",
+   "gymnophobia",
+   "androphobia"
+  ],
+  "correct": "A",
+  "explanation": "eurotophobia: Fear of female genitals.",
+  "reasons": {
+   "A": "Correct: Fear of female genitals.",
+   "B": "Wrong: Fear of women.",
+   "C": "Wrong: Fear of nakedness.",
+   "D": "Wrong: Fear of males."
+  }
+ },
+ {
+  "word": "gamophobia",
+  "question": "She dreaded marriage and refused every proposal out of fear. Her fear is called:",
+  "options": [
+   "gerontophobia",
+   "gamophobia",
+   "gynephobia",
+   "genophobia"
+  ],
+  "correct": "B",
+  "explanation": "gamophobia: Fear of marriage.",
+  "reasons": {
+   "A": "Wrong: Fear of old men.",
+   "B": "Correct: Fear of marriage.",
+   "C": "Wrong: Fear of women.",
+   "D": "Wrong: Fear of birth."
+  }
+ },
+ {
+  "word": "genophobia",
+  "question": "The young man feared being born or the act of birth itself. His fear is called:",
+  "options": [
+   "maieusiophobia",
+   "gamophobia",
+   "genophobia",
+   "metrophobia"
+  ],
+  "correct": "C",
+  "explanation": "genophobia: Fear of birth.",
+  "reasons": {
+   "A": "Wrong: Fear of childbirth.",
+   "B": "Wrong: Fear of marriage.",
+   "C": "Correct: Fear of birth.",
+   "D": "Wrong: Fear of motherhood."
+  }
+ },
+ {
+  "word": "geraphobia",
+  "question": "She dreaded growing old and every sign of aging. Her fear of old age is:",
+  "options": [
+   "geraphobia",
+   "gerontophobia",
+   "gamophobia",
+   "geumophobia"
+  ],
+  "correct": "A",
+  "explanation": "geraphobia: Fear of old age.",
+  "reasons": {
+   "A": "Correct: Fear of old age.",
+   "B": "Wrong: Fear of old men.",
+   "C": "Wrong: Fear of marriage.",
+   "D": "Wrong: Fear of taste."
+  }
+ },
+ {
+  "word": "gerontophobia",
+  "question": "He was terrified of old men and avoided the elderly. His fear is called:",
+  "options": [
+   "geraphobia",
+   "gerontophobia",
+   "gynephobia",
+   "pedophobia"
+  ],
+  "correct": "B",
+  "explanation": "gerontophobia: Fear of old men.",
+  "reasons": {
+   "A": "Wrong: Fear of old age.",
+   "B": "Correct: Fear of old men.",
+   "C": "Wrong: Fear of women.",
+   "D": "Wrong: Fear of children."
+  }
+ },
+ {
+  "word": "geumophobia",
+  "question": "Tasting any food frightened him; he feared taste itself. His fear is:",
+  "options": [
+   "gnosiophobia",
+   "gymnophobia",
+   "geumophobia",
+   "gynephobia"
+  ],
+  "correct": "C",
+  "explanation": "geumophobia: Fear of taste.",
+  "reasons": {
+   "A": "Wrong: Fear of knowledge.",
+   "B": "Wrong: Fear of nakedness.",
+   "C": "Correct: Fear of taste.",
+   "D": "Wrong: Fear of women."
+  }
+ },
+ {
+  "word": "gnosiophobia",
+  "question": "She feared learning and gaining knowledge, dreading what she might find. Her fear is:",
+  "options": [
+   "logophobia",
+   "lalophobia",
+   "hypnophobia",
+   "gnosiophobia"
+  ],
+  "correct": "D",
+  "explanation": "gnosiophobia: Fear of knowledge.",
+  "reasons": {
+   "A": "Wrong: Fear of speech or words.",
+   "B": "Wrong: Fear of speaking.",
+   "C": "Wrong: Fear of sleep.",
+   "D": "Correct: Fear of knowledge."
+  }
+ },
+ {
+  "word": "gymnophobia",
+  "question": "He could not bear to be naked, even in front of doctors. His fear of nakedness is:",
+  "options": [
+   "gymnophobia",
+   "gynephobia",
+   "gamophobia",
+   "gerontophobia"
+  ],
+  "correct": "A",
+  "explanation": "gymnophobia: Fear of nakedness.",
+  "reasons": {
+   "A": "Correct: Fear of nakedness.",
+   "B": "Wrong: Fear of women.",
+   "C": "Wrong: Fear of marriage.",
+   "D": "Wrong: Fear of old men."
+  }
+ },
+ {
+  "word": "gynephobia",
+  "question": "He feared women and avoided any female company. His fear is:",
+  "options": [
+   "androphobia",
+   "gynephobia",
+   "gymnophobia",
+   "demophobia"
+  ],
+  "correct": "B",
+  "explanation": "gynephobia: Fear of women.",
+  "reasons": {
+   "A": "Wrong: Fear of males.",
+   "B": "Correct: Fear of women.",
+   "C": "Wrong: Fear of nakedness.",
+   "D": "Wrong: Fear of people."
+  }
+ },
+ {
+  "word": "harpaxophobia",
+  "question": "He lived in fear that robbers would break in and rob him. His fear is:",
+  "options": [
+   "hydrophobia",
+   "pyrophobia",
+   "harpaxophobia",
+   "claustrophobia"
+  ],
+  "correct": "C",
+  "explanation": "harpaxophobia: Fear of robbers.",
+  "reasons": {
+   "A": "Wrong: Fear of water.",
+   "B": "Wrong: Fear of fire.",
+   "C": "Correct: Fear of robbers.",
+   "D": "Wrong: Morbid dread of being shut in small places."
+  }
+ },
+ {
+  "word": "hedonophobia",
+  "question": "She could not bear the thought of enjoyment and feared pleasure. Her fear is:",
+  "options": [
+   "ergophobia",
+   "gerontophobia",
+   "pyrophobia",
+   "hedonophobia"
+  ],
+  "correct": "D",
+  "explanation": "hedonophobia: Fear of pleasure.",
+  "reasons": {
+   "A": "Wrong: Fear of work.",
+   "B": "Wrong: Fear of old men.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Correct: Fear of pleasure."
+  }
+ },
+ {
+  "word": "heliophobia",
+  "question": "She avoided the sun and was frightened of sunlight. Her fear is:",
+  "options": [
+   "heliophobia",
+   "photophobia",
+   "nyctophobia",
+   "chionophobia"
+  ],
+  "correct": "A",
+  "explanation": "heliophobia: Fear of sunlight.",
+  "reasons": {
+   "A": "Correct: Fear of sunlight.",
+   "B": "Wrong: Fear of light.",
+   "C": "Wrong: Fear of darkness.",
+   "D": "Wrong: Fear of snow."
+  }
+ },
+ {
+  "word": "hematophobia",
+  "question": "The sight of blood made him faint, and he dreaded it. His fear is:",
+  "options": [
+   "belonophobia",
+   "hematophobia",
+   "trichophobia",
+   "odontophobia"
+  ],
+  "correct": "B",
+  "explanation": "hematophobia: Fear of blood.",
+  "reasons": {
+   "A": "Wrong: Fear of needles.",
+   "B": "Correct: Fear of blood.",
+   "C": "Wrong: Fear of hair.",
+   "D": "Wrong: Fear of teeth."
+  }
+ },
+ {
+  "word": "hippophobia",
+  "question": "Horses frightened her, and she feared them completely. Her fear is:",
+  "options": [
+   "ailurophobia",
+   "cynophobia",
+   "hippophobia",
+   "ophidiophobia"
+  ],
+  "correct": "C",
+  "explanation": "hippophobia: Fear of horses.",
+  "reasons": {
+   "A": "Wrong: Fear of cats.",
+   "B": "Wrong: Fear of dogs.",
+   "C": "Correct: Fear of horses.",
+   "D": "Wrong: Fear of snakes."
+  }
+ },
+ {
+  "word": "hodophobia",
+  "question": "She refused every trip and feared travelling on the road. Her fear is:",
+  "options": [
+   "basiphobia",
+   "kinesiophobia",
+   "bathophobia",
+   "hodophobia"
+  ],
+  "correct": "D",
+  "explanation": "hodophobia: Fear of travel.",
+  "reasons": {
+   "A": "Wrong: Fear of walking.",
+   "B": "Wrong: Fear of motion.",
+   "C": "Wrong: Fear of depths.",
+   "D": "Correct: Fear of travel."
+  }
+ },
+ {
+  "word": "homichlophobia",
+  "question": "She feared thick fog and avoided going out when the mist came down. Her fear is:",
+  "options": [
+   "homichlophobia",
+   "anemophobia",
+   "ombrophobia",
+   "nyctophobia"
+  ],
+  "correct": "A",
+  "explanation": "homichlophobia: Fear of fog.",
+  "reasons": {
+   "A": "Correct: Fear of fog.",
+   "B": "Wrong: Fear of wind.",
+   "C": "Wrong: Fear of rain.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "homophobia",
+  "question": "He grew anxious whenever things stayed the same and dreaded any sameness. His fear is called:",
+  "options": [
+   "neophobia",
+   "homophobia",
+   "androphobia",
+   "gynephobia"
+  ],
+  "correct": "B",
+  "explanation": "homophobia: Fear of sameness.",
+  "reasons": {
+   "A": "Wrong: Fear of change.",
+   "B": "Correct: Fear of sameness.",
+   "C": "Wrong: Fear of males.",
+   "D": "Wrong: Fear of women."
+  }
+ },
+ {
+  "word": "hydrophobia",
+  "question": "He would not go near the lake, dreading all water. His fear of water is:",
+  "options": [
+   "thalassophobia",
+   "dipsophobia",
+   "hydrophobia",
+   "pyrophobia"
+  ],
+  "correct": "C",
+  "explanation": "hydrophobia: Fear of water.",
+  "reasons": {
+   "A": "Wrong: Fear of oceans.",
+   "B": "Wrong: Fear of thirst.",
+   "C": "Correct: Fear of water.",
+   "D": "Wrong: Fear of fire."
+  }
+ },
+ {
+  "word": "hypnophobia",
+  "question": "She dreaded falling asleep and feared the act of sleep itself. Her fear of sleep is:",
+  "options": [
+   "nyctophobia",
+   "phasmophobia",
+   "phonophobia",
+   "hypnophobia"
+  ],
+  "correct": "D",
+  "explanation": "hypnophobia: Fear of sleep.",
+  "reasons": {
+   "A": "Wrong: Fear of darkness.",
+   "B": "Wrong: Fear of ghosts.",
+   "C": "Wrong: Fear of speaking aloud.",
+   "D": "Correct: Fear of sleep."
+  }
+ },
+ {
+  "word": "iatrophobia",
+  "question": "The fear of doctors made him skip every checkup. His fear is:",
+  "options": [
+   "iatrophobia",
+   "odontophobia",
+   "gerontophobia",
+   "neophobia"
+  ],
+  "correct": "A",
+  "explanation": "iatrophobia: Fear of doctors.",
+  "reasons": {
+   "A": "Correct: Fear of doctors.",
+   "B": "Wrong: Fear of teeth.",
+   "C": "Wrong: Fear of old men.",
+   "D": "Wrong: Fear of change."
+  }
+ },
+ {
+  "word": "ichthyophobia",
+  "question": "She screamed at the sight of fish and feared them. Her fear is:",
+  "options": [
+   "zoophobia",
+   "ichthyophobia",
+   "entomophobia",
+   "ophidiophobia"
+  ],
+  "correct": "B",
+  "explanation": "ichthyophobia: Fear of fish.",
+  "reasons": {
+   "A": "Wrong: Fear of animals.",
+   "B": "Correct: Fear of fish.",
+   "C": "Wrong: Fear of insects.",
+   "D": "Wrong: Fear of snakes."
+  }
+ },
+ {
+  "word": "kenophobia",
+  "question": "She dreaded empty rooms and feared the feeling of emptiness. Her fear is:",
+  "options": [
+   "eremiophobia",
+   "claustrophobia",
+   "kenophobia",
+   "autophobia"
+  ],
+  "correct": "C",
+  "explanation": "kenophobia: Fear of emptiness.",
+  "reasons": {
+   "A": "Wrong: Fear of stillness.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Correct: Fear of emptiness.",
+   "D": "Wrong: Fear of solitude."
+  }
+ },
+ {
+  "word": "kinesiophobia",
+  "question": "He feared movement so much that he refused to exercise or move. His fear of motion is:",
+  "options": [
+   "hodophobia",
+   "basiphobia",
+   "ergophobia",
+   "kinesiophobia"
+  ],
+  "correct": "D",
+  "explanation": "kinesiophobia: Fear of motion.",
+  "reasons": {
+   "A": "Wrong: Fear of travel.",
+   "B": "Wrong: Fear of walking.",
+   "C": "Wrong: Fear of work.",
+   "D": "Correct: Fear of motion."
+  }
+ },
+ {
+  "word": "kleptophobia",
+  "question": "She was afraid of stealing and of thieves breaking in. Her fear is:",
+  "options": [
+   "kleptophobia",
+   "harpaxophobia",
+   "scelerophobia",
+   "pyrophobia"
+  ],
+  "correct": "A",
+  "explanation": "kleptophobia: Fear of stealing or thieves.",
+  "reasons": {
+   "A": "Correct: Fear of stealing or thieves.",
+   "B": "Wrong: Fear of robbers.",
+   "C": "Wrong: Fear of burglars.",
+   "D": "Wrong: Fear of fire."
+  }
+ },
+ {
+  "word": "lalophobia",
+  "question": "He was terrified of speaking aloud in any public place. His fear is:",
+  "options": [
+   "ergophobia",
+   "lalophobia",
+   "pyrophobia",
+   "hodophobia"
+  ],
+  "correct": "B",
+  "explanation": "lalophobia: Fear of speaking.",
+  "reasons": {
+   "A": "Wrong: Fear of work.",
+   "B": "Correct: Fear of speaking.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Wrong: Fear of travel."
+  }
+ },
+ {
+  "word": "logophobia",
+  "question": "She felt dread whenever someone started to talk about words and speech. Her fear is:",
+  "options": [
+   "lalophobia",
+   "ergophobia",
+   "logophobia",
+   "zoophobia"
+  ],
+  "correct": "C",
+  "explanation": "logophobia: Fear of speech or words.",
+  "reasons": {
+   "A": "Wrong: Fear of speaking.",
+   "B": "Wrong: Fear of work.",
+   "C": "Correct: Fear of speech or words.",
+   "D": "Wrong: Fear of animals."
+  }
+ },
+ {
+  "word": "maieusiophobia",
+  "question": "She dreaded the pains and dangers of childbirth. Her fear of childbirth is:",
+  "options": [
+   "gamophobia",
+   "gymnophobia",
+   "gerontophobia",
+   "maieusiophobia"
+  ],
+  "correct": "D",
+  "explanation": "maieusiophobia: Fear of childbirth.",
+  "reasons": {
+   "A": "Wrong: Fear of marriage.",
+   "B": "Wrong: Fear of nakedness.",
+   "C": "Wrong: Fear of old men.",
+   "D": "Correct: Fear of childbirth."
+  }
+ },
+ {
+  "word": "mastophobia",
+  "question": "The clinical term for an intense fear of the female breast is:",
+  "options": [
+   "mastophobia",
+   "gymnophobia",
+   "odontophobia",
+   "chirophobia"
+  ],
+  "correct": "A",
+  "explanation": "mastophobia: Fear of breasts.",
+  "reasons": {
+   "A": "Correct: Fear of breasts.",
+   "B": "Wrong: Fear of nakedness.",
+   "C": "Wrong: Fear of teeth.",
+   "D": "Wrong: Fear of hands."
+  }
+ },
+ {
+  "word": "megalophobia",
+  "question": "Huge buildings and great things filled him with fear; he feared large objects. His fear is:",
+  "options": [
+   "microphobia",
+   "megalophobia",
+   "claustrophobia",
+   "ochlophobia"
+  ],
+  "correct": "B",
+  "explanation": "megalophobia: Fear of large things.",
+  "reasons": {
+   "A": "Wrong: Fear of small things.",
+   "B": "Correct: Fear of large things.",
+   "C": "Wrong: Morbid dread of being shut in small places.",
+   "D": "Wrong: Fear of mobs or crowds."
+  }
+ },
+ {
+  "word": "metrophobia",
+  "question": "She was terrified of becoming a mother and of the role itself. Her fear is:",
+  "options": [
+   "gamophobia",
+   "gynephobia",
+   "metrophobia",
+   "genophobia"
+  ],
+  "correct": "C",
+  "explanation": "metrophobia: Fear of motherhood.",
+  "reasons": {
+   "A": "Wrong: Fear of marriage.",
+   "B": "Wrong: Fear of women.",
+   "C": "Correct: Fear of motherhood.",
+   "D": "Wrong: Fear of birth."
+  }
+ },
+ {
+  "word": "microphobia",
+  "question": "Tiny things, like grains of sand, filled her with dread; she feared small objects. Her fear is:",
+  "options": [
+   "megalophobia",
+   "claustrophobia",
+   "mysophobia",
+   "microphobia"
+  ],
+  "correct": "D",
+  "explanation": "microphobia: Fear of small things.",
+  "reasons": {
+   "A": "Wrong: Fear of large things.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Fear of filth.",
+   "D": "Correct: Fear of small things."
+  }
+ },
+ {
+  "word": "musophobia",
+  "question": "The tiny squeak of a mouse made her shriek; she feared mice. Her fear is:",
+  "options": [
+   "musophobia",
+   "ailurophobia",
+   "cynophobia",
+   "ophidiophobia"
+  ],
+  "correct": "A",
+  "explanation": "musophobia: Fear of mice.",
+  "reasons": {
+   "A": "Correct: Fear of mice.",
+   "B": "Wrong: Fear of cats.",
+   "C": "Wrong: Fear of dogs.",
+   "D": "Wrong: Fear of snakes."
+  }
+ },
+ {
+  "word": "mysophobia",
+  "question": "She washed her hands again and again, terrified of filth and germs. Her fear of dirt is:",
+  "options": [
+   "coprophobia",
+   "mysophobia",
+   "pathophobia",
+   "peccatophobia"
+  ],
+  "correct": "B",
+  "explanation": "mysophobia: Fear of filth.",
+  "reasons": {
+   "A": "Wrong: Fear of feces.",
+   "B": "Correct: Fear of filth.",
+   "C": "Wrong: Fear of disease.",
+   "D": "Wrong: Fear of sinning."
+  }
+ },
+ {
+  "word": "neophobia",
+  "question": "The child refused every new food, dreading anything unfamiliar. His fear of new things is:",
+  "options": [
+   "hodophobia",
+   "gerontophobia",
+   "neophobia",
+   "nyctophobia"
+  ],
+  "correct": "C",
+  "explanation": "neophobia: Fear of change.",
+  "reasons": {
+   "A": "Wrong: Fear of travel.",
+   "B": "Wrong: Fear of old men.",
+   "C": "Correct: Fear of change.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "nyctophobia",
+  "question": "The child would not sleep without a light on, dreading the dark. His fear of darkness is:",
+  "options": [
+   "heliophobia",
+   "photophobia",
+   "hypnophobia",
+   "nyctophobia"
+  ],
+  "correct": "D",
+  "explanation": "nyctophobia: Fear of darkness.",
+  "reasons": {
+   "A": "Wrong: Fear of sunlight.",
+   "B": "Wrong: Fear of light.",
+   "C": "Wrong: Fear of sleep.",
+   "D": "Correct: Fear of darkness."
+  }
+ },
+ {
+  "word": "ochlophobia",
+  "question": "She could not bear large mobs or crowds and fled when they formed. Her fear is:",
+  "options": [
+   "ochlophobia",
+   "claustrophobia",
+   "agoraphobia",
+   "acrophobia"
+  ],
+  "correct": "A",
+  "explanation": "ochlophobia: Fear of mobs or crowds.",
+  "reasons": {
+   "A": "Correct: Fear of mobs or crowds.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of open spaces or crowds.",
+   "D": "Wrong: Morbid dread of heights."
+  }
+ },
+ {
+  "word": "odontophobia",
+  "question": "She was terrified of going to the dentist and of teeth in general. Her fear is called:",
+  "options": [
+   "odontophobia",
+   "cacophobia",
+   "ophthalmophobia",
+   "trichophobia"
+  ],
+  "correct": "A",
+  "explanation": "odontophobia: Fear of teeth.",
+  "reasons": {
+   "A": "Correct: Fear of teeth.",
+   "B": "Wrong: Fear of ugliness.",
+   "C": "Wrong: Fear of eyes.",
+   "D": "Wrong: Fear of hair."
+  }
+ },
+ {
+  "word": "odynophobia",
+  "question": "He was afraid of pain itself and avoided any painful experience. His fear is:",
+  "options": [
+   "ombrophobia",
+   "odynophobia",
+   "ophidiophobia",
+   "osmophobia"
+  ],
+  "correct": "B",
+  "explanation": "odynophobia: Fear of pain.",
+  "reasons": {
+   "A": "Wrong: Fear of rain.",
+   "B": "Correct: Fear of pain.",
+   "C": "Wrong: Fear of snakes.",
+   "D": "Wrong: Fear of odors."
+  }
+ },
+ {
+  "word": "ombrophobia",
+  "question": "The dark clouds made her anxious, because she dreaded rain. Her fear of rain is:",
+  "options": [
+   "anemophobia",
+   "homichlophobia",
+   "ombrophobia",
+   "nyctophobia"
+  ],
+  "correct": "C",
+  "explanation": "ombrophobia: Fear of rain.",
+  "reasons": {
+   "A": "Wrong: Fear of wind.",
+   "B": "Wrong: Fear of fog.",
+   "C": "Correct: Fear of rain.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "ophidiophobia",
+  "question": "The sight of a coiled snake made her freeze. Her fear of snakes is:",
+  "options": [
+   "zoophobia",
+   "ichthyophobia",
+   "cynophobia",
+   "ophidiophobia"
+  ],
+  "correct": "D",
+  "explanation": "ophidiophobia: Fear of snakes.",
+  "reasons": {
+   "A": "Wrong: Fear of animals.",
+   "B": "Wrong: Fear of fish.",
+   "C": "Wrong: Fear of dogs.",
+   "D": "Correct: Fear of snakes."
+  }
+ },
+ {
+  "word": "ophthalmophobia",
+  "question": "She could not bear to look into eyes and dreaded them. Her fear is:",
+  "options": [
+   "ophthalmophobia",
+   "dermatophobia",
+   "odontophobia",
+   "chirophobia"
+  ],
+  "correct": "A",
+  "explanation": "ophthalmophobia: Fear of eyes.",
+  "reasons": {
+   "A": "Correct: Fear of eyes.",
+   "B": "Wrong: Fear of skin.",
+   "C": "Wrong: Fear of teeth.",
+   "D": "Wrong: Fear of hands."
+  }
+ },
+ {
+  "word": "osmophobia",
+  "question": "He could not stand strong smells and dreaded any odour. His fear of smells is:",
+  "options": [
+   "mysophobia",
+   "osmophobia",
+   "ombrophobia",
+   "nyctophobia"
+  ],
+  "correct": "B",
+  "explanation": "osmophobia: Fear of odors.",
+  "reasons": {
+   "A": "Wrong: Fear of filth.",
+   "B": "Correct: Fear of odors.",
+   "C": "Wrong: Fear of rain.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "pantophobia",
+  "question": "Anxiety covered every part of his life, and he feared everything. His fear is called:",
+  "options": [
+   "phobophobia",
+   "pathophobia",
+   "pantophobia",
+   "peccatophobia"
+  ],
+  "correct": "C",
+  "explanation": "pantophobia: Fear of everything.",
+  "reasons": {
+   "A": "Wrong: Fear of fear itself.",
+   "B": "Wrong: Fear of disease.",
+   "C": "Correct: Fear of everything.",
+   "D": "Wrong: Fear of sinning."
+  }
+ },
+ {
+  "word": "pathophobia",
+  "question": "She dreaded every illness and avoided doctors for fear of disease. Her fear is called:",
+  "options": [
+   "peccatophobia",
+   "pedophobia",
+   "pyrophobia",
+   "pathophobia"
+  ],
+  "correct": "D",
+  "explanation": "pathophobia: Fear of disease.",
+  "reasons": {
+   "A": "Wrong: Fear of sinning.",
+   "B": "Wrong: Fear of children.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Correct: Fear of disease."
+  }
+ },
+ {
+  "word": "peccatophobia",
+  "question": "He feared sinning and dreaded doing wrong in the eyes of God. His fear is:",
+  "options": [
+   "peccatophobia",
+   "pathophobia",
+   "peniophobia",
+   "pharmacophobia"
+  ],
+  "correct": "A",
+  "explanation": "peccatophobia: Fear of sinning.",
+  "reasons": {
+   "A": "Correct: Fear of sinning.",
+   "B": "Wrong: Fear of disease.",
+   "C": "Wrong: Fear of poverty.",
+   "D": "Wrong: Fear of medicine."
+  }
+ },
+ {
+  "word": "pedophobia",
+  "question": "She avoided children, fearing them in every way. Her fear of children is:",
+  "options": [
+   "gerontophobia",
+   "pedophobia",
+   "gynephobia",
+   "androphobia"
+  ],
+  "correct": "B",
+  "explanation": "pedophobia: Fear of children.",
+  "reasons": {
+   "A": "Wrong: Fear of old men.",
+   "B": "Correct: Fear of children.",
+   "C": "Wrong: Fear of women.",
+   "D": "Wrong: Fear of males."
+  }
+ },
+ {
+  "word": "peniophobia",
+  "question": "The fear of being poor and in want frightened her constantly. Her fear of poverty is:",
+  "options": [
+   "plutophobia",
+   "pharmacophobia",
+   "peniophobia",
+   "peccatophobia"
+  ],
+  "correct": "C",
+  "explanation": "peniophobia: Fear of poverty.",
+  "reasons": {
+   "A": "Wrong: Fear of wealth.",
+   "B": "Wrong: Fear of medicine.",
+   "C": "Correct: Fear of poverty.",
+   "D": "Wrong: Fear of sinning."
+  }
+ },
+ {
+  "word": "pharmacophobia",
+  "question": "He refused every pill and medicine, dreading drugs. His fear of medicine is:",
+  "options": [
+   "peniophobia",
+   "phasmophobia",
+   "photophobia",
+   "pharmacophobia"
+  ],
+  "correct": "D",
+  "explanation": "pharmacophobia: Fear of medicine.",
+  "reasons": {
+   "A": "Wrong: Fear of poverty.",
+   "B": "Wrong: Fear of ghosts.",
+   "C": "Wrong: Fear of light.",
+   "D": "Correct: Fear of medicine."
+  }
+ },
+ {
+  "word": "phasmophobia",
+  "question": "The old house frightened her because she feared ghosts and spirits. Her fear is:",
+  "options": [
+   "phasmophobia",
+   "pharmacophobia",
+   "phonophobia",
+   "phobophobia"
+  ],
+  "correct": "A",
+  "explanation": "phasmophobia: Fear of ghosts.",
+  "reasons": {
+   "A": "Correct: Fear of ghosts.",
+   "B": "Wrong: Fear of medicine.",
+   "C": "Wrong: Fear of speaking aloud.",
+   "D": "Wrong: Fear of fear itself."
+  }
+ },
+ {
+  "word": "phobophobia",
+  "question": "She dreaded the very act of being afraid, a fear of fear itself. Her fear is:",
+  "options": [
+   "pantophobia",
+   "phobophobia",
+   "polyphobia",
+   "pathophobia"
+  ],
+  "correct": "B",
+  "explanation": "phobophobia: Fear of fear itself.",
+  "reasons": {
+   "A": "Wrong: Fear of everything.",
+   "B": "Correct: Fear of fear itself.",
+   "C": "Wrong: Fear of many things.",
+   "D": "Wrong: Fear of disease."
+  }
+ },
+ {
+  "word": "phonophobia",
+  "question": "He could not bear to hear his own voice raised aloud in a room. His fear is:",
+  "options": [
+   "phasmophobia",
+   "photophobia",
+   "phonophobia",
+   "phobophobia"
+  ],
+  "correct": "C",
+  "explanation": "phonophobia: Fear of speaking aloud.",
+  "reasons": {
+   "A": "Wrong: Fear of ghosts.",
+   "B": "Wrong: Fear of light.",
+   "C": "Correct: Fear of speaking aloud.",
+   "D": "Wrong: Fear of fear itself."
+  }
+ },
+ {
+  "word": "photophobia",
+  "question": "Bright light hurt her eyes and made her shut them tight; she feared light. Her fear is called:",
+  "options": [
+   "nyctophobia",
+   "phasmophobia",
+   "phobophobia",
+   "photophobia"
+  ],
+  "correct": "D",
+  "explanation": "photophobia: Fear of light.",
+  "reasons": {
+   "A": "Wrong: Fear of darkness.",
+   "B": "Wrong: Fear of ghosts.",
+   "C": "Wrong: Fear of fear itself.",
+   "D": "Correct: Fear of light."
+  }
+ },
+ {
+  "word": "phronemophobia",
+  "question": "He dreaded the act of thinking and feared his own thoughts. His fear of thinking is:",
+  "options": [
+   "phronemophobia",
+   "phasmophobia",
+   "photophobia",
+   "plutophobia"
+  ],
+  "correct": "A",
+  "explanation": "phronemophobia: Fear of thinking.",
+  "reasons": {
+   "A": "Correct: Fear of thinking.",
+   "B": "Wrong: Fear of ghosts.",
+   "C": "Wrong: Fear of light.",
+   "D": "Wrong: Fear of wealth."
+  }
+ },
+ {
+  "word": "plutophobia",
+  "question": "The rich man feared wealth, worrying it would bring trouble. His fear of wealth is:",
+  "options": [
+   "peniophobia",
+   "plutophobia",
+   "pharmacophobia",
+   "phronemophobia"
+  ],
+  "correct": "B",
+  "explanation": "plutophobia: Fear of wealth.",
+  "reasons": {
+   "A": "Wrong: Fear of poverty.",
+   "B": "Correct: Fear of wealth.",
+   "C": "Wrong: Fear of medicine.",
+   "D": "Wrong: Fear of thinking."
+  }
+ },
+ {
+  "word": "pnigerophobia",
+  "question": "She feared being suffocated and dreaded the feeling of being smothered. Her fear is:",
+  "options": [
+   "claustrophobia",
+   "phasmophobia",
+   "pnigerophobia",
+   "photophobia"
+  ],
+  "correct": "C",
+  "explanation": "pnigerophobia: Fear of smothering.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of being shut in small places.",
+   "B": "Wrong: Fear of ghosts.",
+   "C": "Correct: Fear of smothering.",
+   "D": "Wrong: Fear of light."
+  }
+ },
+ {
+  "word": "podophobia",
+  "question": "The bare feet of others made him shudder; he feared feet. His fear is:",
+  "options": [
+   "pedophobia",
+   "phobophobia",
+   "pyrophobia",
+   "podophobia"
+  ],
+  "correct": "D",
+  "explanation": "podophobia: Fear of feet.",
+  "reasons": {
+   "A": "Wrong: Fear of children.",
+   "B": "Wrong: Fear of fear itself.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Correct: Fear of feet."
+  }
+ },
+ {
+  "word": "poinophobia",
+  "question": "He dreaded being punished and feared the penalty for wrongdoing. His fear of punishment is:",
+  "options": [
+   "poinophobia",
+   "peccatophobia",
+   "peniophobia",
+   "pathophobia"
+  ],
+  "correct": "A",
+  "explanation": "poinophobia: Fear of punishment.",
+  "reasons": {
+   "A": "Correct: Fear of punishment.",
+   "B": "Wrong: Fear of sinning.",
+   "C": "Wrong: Fear of poverty.",
+   "D": "Wrong: Fear of disease."
+  }
+ },
+ {
+  "word": "polyphobia",
+  "question": "She had many fears and dreaded numerous things at once. Her fear of many things is:",
+  "options": [
+   "pantophobia",
+   "polyphobia",
+   "phobophobia",
+   "pyrophobia"
+  ],
+  "correct": "B",
+  "explanation": "polyphobia: Fear of many things.",
+  "reasons": {
+   "A": "Wrong: Fear of everything.",
+   "B": "Correct: Fear of many things.",
+   "C": "Wrong: Fear of fear itself.",
+   "D": "Wrong: Fear of fire."
+  }
+ },
+ {
+  "word": "pornophobia",
+  "question": "The clinical term for a fear of prostitutes is:",
+  "options": [
+   "gynephobia",
+   "androphobia",
+   "pornophobia",
+   "demophobia"
+  ],
+  "correct": "C",
+  "explanation": "pornophobia: Fear of prostitutes.",
+  "reasons": {
+   "A": "Wrong: Fear of women.",
+   "B": "Wrong: Fear of males.",
+   "C": "Correct: Fear of prostitutes.",
+   "D": "Wrong: Fear of people."
+  }
+ },
+ {
+  "word": "potamophobia",
+  "question": "She refused to cross bridges over rivers, fearing rivers. Her fear is:",
+  "options": [
+   "thalassophobia",
+   "hydrophobia",
+   "bathophobia",
+   "potamophobia"
+  ],
+  "correct": "D",
+  "explanation": "potamophobia: Fear of rivers.",
+  "reasons": {
+   "A": "Wrong: Fear of oceans.",
+   "B": "Wrong: Fear of water.",
+   "C": "Wrong: Fear of depths.",
+   "D": "Correct: Fear of rivers."
+  }
+ },
+ {
+  "word": "pyrophobia",
+  "question": "The campfire made him anxious; he feared fire itself. His fear is:",
+  "options": [
+   "pyrophobia",
+   "hydrophobia",
+   "thermophobia",
+   "heliophobia"
+  ],
+  "correct": "A",
+  "explanation": "pyrophobia: Fear of fire.",
+  "reasons": {
+   "A": "Correct: Fear of fire.",
+   "B": "Wrong: Fear of water.",
+   "C": "Wrong: Fear of heat.",
+   "D": "Wrong: Fear of sunlight."
+  }
+ },
+ {
+  "word": "scelerophobia",
+  "question": "He feared burglars breaking in at night. His fear is:",
+  "options": [
+   "hypnophobia",
+   "scelerophobia",
+   "pyrophobia",
+   "nyctophobia"
+  ],
+  "correct": "B",
+  "explanation": "scelerophobia: Fear of burglars.",
+  "reasons": {
+   "A": "Wrong: Fear of sleep.",
+   "B": "Correct: Fear of burglars.",
+   "C": "Wrong: Fear of fire.",
+   "D": "Wrong: Fear of darkness."
+  }
+ },
+ {
+  "word": "scoptophobia",
+  "question": "She felt uneasy whenever she sensed that others were watching her. Her fear is:",
+  "options": [
+   "siderophobia",
+   "spectrophobia",
+   "scoptophobia",
+   "synophobia"
+  ],
+  "correct": "C",
+  "explanation": "scoptophobia: Fear of being watched.",
+  "reasons": {
+   "A": "Wrong: Fear of stars.",
+   "B": "Wrong: Fear of mirrors.",
+   "C": "Correct: Fear of being watched.",
+   "D": "Wrong: Fear of togetherness."
+  }
+ },
+ {
+  "word": "siderophobia",
+  "question": "She dreaded the stars and feared the night sky. Her fear of stars is:",
+  "options": [
+   "astrophobia",
+   "scoptophobia",
+   "spectrophobia",
+   "siderophobia"
+  ],
+  "correct": "D",
+  "explanation": "siderophobia: Fear of stars.",
+  "reasons": {
+   "A": "Wrong: Fear of lightning.",
+   "B": "Wrong: Fear of being watched.",
+   "C": "Wrong: Fear of mirrors.",
+   "D": "Correct: Fear of stars."
+  }
+ },
+ {
+  "word": "spectrophobia",
+  "question": "She refused to look in mirrors, dreading her reflection. Her fear of mirrors is:",
+  "options": [
+   "spectrophobia",
+   "scoptophobia",
+   "siderophobia",
+   "ophthalmophobia"
+  ],
+  "correct": "A",
+  "explanation": "spectrophobia: Fear of mirrors.",
+  "reasons": {
+   "A": "Correct: Fear of mirrors.",
+   "B": "Wrong: Fear of being watched.",
+   "C": "Wrong: Fear of stars.",
+   "D": "Wrong: Fear of eyes."
+  }
+ },
+ {
+  "word": "sthenophobia",
+  "question": "He feared becoming strong and dreaded the power of strength. His fear of strength is:",
+  "options": [
+   "asthenophobia",
+   "sthenophobia",
+   "stygiophobia",
+   "synophobia"
+  ],
+  "correct": "B",
+  "explanation": "sthenophobia: Fear of strength.",
+  "reasons": {
+   "A": "Wrong: Fear of weakness.",
+   "B": "Correct: Fear of strength.",
+   "C": "Wrong: Fear of hell.",
+   "D": "Wrong: Fear of togetherness."
+  }
+ },
+ {
+  "word": "stygiophobia",
+  "question": "The preacher spoke so vividly about hell that the boy was terrified of it. His fear of hell is:",
+  "options": [
+   "thanatophobia",
+   "thalassophobia",
+   "stygiophobia",
+   "teratophobia"
+  ],
+  "correct": "C",
+  "explanation": "stygiophobia: Fear of hell.",
+  "reasons": {
+   "A": "Wrong: Fear of death.",
+   "B": "Wrong: Fear of oceans.",
+   "C": "Correct: Fear of hell.",
+   "D": "Wrong: Fear of freaks."
+  }
+ },
+ {
+  "word": "synophobia",
+  "question": "She feared being together with others in a group and dreaded togetherness. Her fear is:",
+  "options": [
+   "ochlophobia",
+   "scoptophobia",
+   "stygiophobia",
+   "synophobia"
+  ],
+  "correct": "D",
+  "explanation": "synophobia: Fear of togetherness.",
+  "reasons": {
+   "A": "Wrong: Fear of mobs or crowds.",
+   "B": "Wrong: Fear of being watched.",
+   "C": "Wrong: Fear of hell.",
+   "D": "Correct: Fear of togetherness."
+  }
+ },
+ {
+  "word": "taeniophobia",
+  "question": "The thought of a worm living in the body frightened him; he feared tapeworms. His fear is:",
+  "options": [
+   "taeniophobia",
+   "entomophobia",
+   "zoophobia",
+   "ichthyophobia"
+  ],
+  "correct": "A",
+  "explanation": "taeniophobia: Fear of tapeworms.",
+  "reasons": {
+   "A": "Correct: Fear of tapeworms.",
+   "B": "Wrong: Fear of insects.",
+   "C": "Wrong: Fear of animals.",
+   "D": "Wrong: Fear of fish."
+  }
+ },
+ {
+  "word": "taphephobia",
+  "question": "He was terrified of being buried alive. His fear is:",
+  "options": [
+   "thanatophobia",
+   "taphephobia",
+   "thalassophobia",
+   "stygiophobia"
+  ],
+  "correct": "B",
+  "explanation": "taphephobia: Fear of being buried alive.",
+  "reasons": {
+   "A": "Wrong: Fear of death.",
+   "B": "Correct: Fear of being buried alive.",
+   "C": "Wrong: Fear of oceans.",
+   "D": "Wrong: Fear of hell."
+  }
+ },
+ {
+  "word": "teratophobia",
+  "question": "She was afraid of deformed people and of anything monstrous. Her fear of freaks is:",
+  "options": [
+   "triskaidekaphobia",
+   "thanatophobia",
+   "teratophobia",
+   "phobophobia"
+  ],
+  "correct": "C",
+  "explanation": "teratophobia: Fear of freaks.",
+  "reasons": {
+   "A": "Wrong: Fear of the number thirteen.",
+   "B": "Wrong: Fear of death.",
+   "C": "Correct: Fear of freaks.",
+   "D": "Wrong: Fear of fear itself."
+  }
+ },
+ {
+  "word": "thalassophobia",
+  "question": "The vast, deep ocean terrified her, and she would not go near it. Her fear is:",
+  "options": [
+   "bathophobia",
+   "hydrophobia",
+   "thermophobia",
+   "thalassophobia"
+  ],
+  "correct": "D",
+  "explanation": "thalassophobia: Fear of oceans.",
+  "reasons": {
+   "A": "Wrong: Fear of depths.",
+   "B": "Wrong: Fear of water.",
+   "C": "Wrong: Fear of heat.",
+   "D": "Correct: Fear of oceans."
+  }
+ },
+ {
+  "word": "thanatophobia",
+  "question": "She dreaded death and could not stop thinking about it. Her fear of death is:",
+  "options": [
+   "thanatophobia",
+   "taphephobia",
+   "stygiophobia",
+   "thermophobia"
+  ],
+  "correct": "A",
+  "explanation": "thanatophobia: Fear of death.",
+  "reasons": {
+   "A": "Correct: Fear of death.",
+   "B": "Wrong: Fear of being buried alive.",
+   "C": "Wrong: Fear of hell.",
+   "D": "Wrong: Fear of heat."
+  }
+ },
+ {
+  "word": "thermophobia",
+  "question": "The summer heat made her faint with fear; she feared warmth. Her fear is:",
+  "options": [
+   "thalassophobia",
+   "thermophobia",
+   "heliophobia",
+   "chionophobia"
+  ],
+  "correct": "B",
+  "explanation": "thermophobia: Fear of heat.",
+  "reasons": {
+   "A": "Wrong: Fear of oceans.",
+   "B": "Correct: Fear of heat.",
+   "C": "Wrong: Fear of sunlight.",
+   "D": "Wrong: Fear of snow."
+  }
+ },
+ {
+  "word": "toxicophobia",
+  "question": "She was afraid of poison in her food and feared toxins everywhere. Her fear is:",
+  "options": [
+   "pharmacophobia",
+   "emetophobia",
+   "toxicophobia",
+   "cibophobia"
+  ],
+  "correct": "C",
+  "explanation": "toxicophobia: Fear of poison.",
+  "reasons": {
+   "A": "Wrong: Fear of medicine.",
+   "B": "Wrong: Fear of vomiting.",
+   "C": "Correct: Fear of poison.",
+   "D": "Wrong: Fear of food."
+  }
+ },
+ {
+  "word": "trichophobia",
+  "question": "She shuddered at the sight of hair and could not bear to touch it. Her fear of hair is:",
+  "options": [
+   "chirophobia",
+   "dermatophobia",
+   "ophthalmophobia",
+   "trichophobia"
+  ],
+  "correct": "D",
+  "explanation": "trichophobia: Fear of hair.",
+  "reasons": {
+   "A": "Wrong: Fear of hands.",
+   "B": "Wrong: Fear of skin.",
+   "C": "Wrong: Fear of eyes.",
+   "D": "Correct: Fear of hair."
+  }
+ },
+ {
+  "word": "triskaidekaphobia",
+  "question": "He would not sit at a table of thirteen and feared that number. His fear is:",
+  "options": [
+   "triskaidekaphobia",
+   "phobophobia",
+   "xenophobia",
+   "zoophobia"
+  ],
+  "correct": "A",
+  "explanation": "triskaidekaphobia: Fear of the number thirteen.",
+  "reasons": {
+   "A": "Correct: Fear of the number thirteen.",
+   "B": "Wrong: Fear of fear itself.",
+   "C": "Wrong: Fear of foreigners or strangers.",
+   "D": "Wrong: Fear of animals."
+  }
+ },
+ {
+  "word": "xenophobia",
+  "question": "He distrusted every foreigner and feared strangers from other lands. His fear of foreigners is:",
+  "options": [
+   "demophobia",
+   "xenophobia",
+   "androphobia",
+   "ochlophobia"
+  ],
+  "correct": "B",
+  "explanation": "xenophobia: Fear of foreigners or strangers.",
+  "reasons": {
+   "A": "Wrong: Fear of people.",
+   "B": "Correct: Fear of foreigners or strangers.",
+   "C": "Wrong: Fear of males.",
+   "D": "Wrong: Fear of mobs or crowds."
+  }
+ },
+ {
+  "word": "zoophobia",
+  "question": "He was terrified of any animal, large or small. His fear of animals is:",
+  "options": [
+   "ichthyophobia",
+   "entomophobia",
+   "zoophobia",
+   "ophidiophobia"
+  ],
+  "correct": "C",
+  "explanation": "zoophobia: Fear of animals.",
+  "reasons": {
+   "A": "Wrong: Fear of fish.",
+   "B": "Wrong: Fear of insects.",
+   "C": "Correct: Fear of animals.",
+   "D": "Wrong: Fear of snakes."
+  }
+ }
+]

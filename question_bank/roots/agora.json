@@ -1,0 +1,56 @@
+[
+ {
+  "word": "agoraphobia",
+  "question": "After a panic in a crowded square, she refused to leave her home for months, dreading open spaces and crowds. Her fear is called:",
+  "options": [
+   "claustrophobia",
+   "acrophobia",
+   "xenophobia",
+   "agoraphobia"
+  ],
+  "correct": "D",
+  "explanation": "agoraphobia: Morbid dread of open spaces or crowds.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of being shut in small places.",
+   "B": "Wrong: Morbid dread of heights.",
+   "C": "Wrong: Fear of foreigners or strangers.",
+   "D": "Correct: Morbid dread of open spaces or crowds."
+  }
+ },
+ {
+  "word": "agoraphobe",
+  "question": "The man who dreaded open spaces and crowds never went to the park and stayed indoors all week. He is an:",
+  "options": [
+   "agoraphobe",
+   "claustrophobe",
+   "acrophobe",
+   "monotheist"
+  ],
+  "correct": "A",
+  "explanation": "agoraphobe: A person who fears open spaces.",
+  "reasons": {
+   "A": "Correct: A person who fears open spaces.",
+   "B": "Wrong: A person who fears small, closed places.",
+   "C": "Wrong: A person who fears heights.",
+   "D": "Wrong: A person who believes in one God."
+  }
+ },
+ {
+  "word": "agoraphobic",
+  "question": "The woman felt terrified whenever she stood alone in a wide, open field. She was:",
+  "options": [
+   "claustrophobic",
+   "agoraphobic",
+   "acrophobic",
+   "monotheistic"
+  ],
+  "correct": "B",
+  "explanation": "agoraphobic: Fearful of open spaces.",
+  "reasons": {
+   "A": "Wrong: Fearful of enclosed spaces.",
+   "B": "Correct: Fearful of open spaces.",
+   "C": "Wrong: Fearful of heights.",
+   "D": "Wrong: Believing in one God."
+  }
+ }
+]

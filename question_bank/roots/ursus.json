@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ursine",
+  "question": "The big man lumbered across the room, broad and shaggy, like a bear. His build was:",
+  "options": [
+   "Vulpine",
+   "Ursine",
+   "Piscine",
+   "Equine"
+  ],
+  "correct": "B",
+  "explanation": "Ursus (bear) + -ine: bear-like.",
+  "reasons": {
+   "A": "Wrong: fox-like.",
+   "B": "Correct: bear-like.",
+   "C": "Wrong: fish-like.",
+   "D": "Wrong: horse-like."
+  }
+ }
+]

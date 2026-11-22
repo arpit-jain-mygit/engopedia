@@ -1,0 +1,38 @@
+[
+ {
+  "word": "pusillanimous",
+  "question": "When the dog snarled, the timid boy fled and hid behind his mother, unwilling to face even a small danger. He was:",
+  "options": [
+   "Obstreperous",
+   "Magnanimous",
+   "Garrulous",
+   "Pusillanimous"
+  ],
+  "correct": "D",
+  "explanation": "Pusillus (very small) + animus (mind, courage): small-hearted, timid.",
+  "reasons": {
+   "A": "Wrong: noisy and unruly.",
+   "B": "Wrong: generous and forgiving.",
+   "C": "Wrong: talking too much.",
+   "D": "Correct: timid and cowardly."
+  }
+ },
+ {
+  "word": "pusillanimity",
+  "question": "His cowardly retreat from the fight, and his fear of any risk, revealed a shameful lack of courage. This timidity is his:",
+  "options": [
+   "Pusillanimity",
+   "Magnanimity",
+   "Equanimity",
+   "Garrulity"
+  ],
+  "correct": "A",
+  "explanation": "Pusillanimity: the state of being timid and cowardly.",
+  "reasons": {
+   "A": "Correct: a timid, cowardly spirit.",
+   "B": "Wrong: generosity of spirit.",
+   "C": "Wrong: calm composure.",
+   "D": "Wrong: talking too much."
+  }
+ }
+]

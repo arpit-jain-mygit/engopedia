@@ -1,0 +1,56 @@
+[
+ {
+  "word": "claustrophobe",
+  "question": "A man who feared small, enclosed spaces avoided every elevator. He was a:",
+  "options": [
+   "claustrophobe",
+   "acrophobe",
+   "agoraphobe",
+   "misanthrope"
+  ],
+  "correct": "A",
+  "explanation": "claustrophobe: A person who fears small, closed places.",
+  "reasons": {
+   "A": "Correct: A person who fears small, closed places.",
+   "B": "Wrong: A person who fears heights.",
+   "C": "Wrong: A person who fears open spaces.",
+   "D": "Wrong: One who hates the human race."
+  }
+ },
+ {
+  "word": "claustrophobia",
+  "question": "Her fear of being shut in tight spaces made her panic in lifts. Her fear is:",
+  "options": [
+   "agoraphobia",
+   "claustrophobia",
+   "acrophobia",
+   "ochlophobia"
+  ],
+  "correct": "B",
+  "explanation": "claustrophobia: Morbid dread of being shut in small places.",
+  "reasons": {
+   "A": "Wrong: Morbid dread of open spaces or crowds.",
+   "B": "Correct: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of heights.",
+   "D": "Wrong: Fear of mobs or crowds."
+  }
+ },
+ {
+  "word": "claustrophobic",
+  "question": "The crowded, tiny room made her panic; she felt trapped and was:",
+  "options": [
+   "agoraphobic",
+   "acrophobic",
+   "claustrophobic",
+   "monotheistic"
+  ],
+  "correct": "C",
+  "explanation": "claustrophobic: Fearful of enclosed spaces.",
+  "reasons": {
+   "A": "Wrong: Fearful of open spaces.",
+   "B": "Wrong: Fearful of heights.",
+   "C": "Correct: Fearful of enclosed spaces.",
+   "D": "Wrong: Believing in one God."
+  }
+ }
+]

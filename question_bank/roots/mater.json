@@ -1,0 +1,218 @@
+[
+ {
+  "word": "alma mater",
+  "question": "The school or college that she attended as a student is her:",
+  "options": [
+   "alma mater",
+   "bona fide",
+   "sequel",
+   "magnum opus"
+  ],
+  "correct": "A",
+  "explanation": "alma mater: The school or college one attended.",
+  "reasons": {
+   "A": "Correct: The school or college one attended.",
+   "B": "Wrong: Genuine; made in good faith.",
+   "C": "Wrong: A later story or event that follows an earlier one.",
+   "D": "Wrong: A great work; a masterpiece."
+  }
+ },
+ {
+  "word": "maternal",
+  "question": "Her warm, caring, motherly instinct made her protective of the children. Her instinct was:",
+  "options": [
+   "paternal",
+   "maternal",
+   "fraternal",
+   "matrimonial"
+  ],
+  "correct": "B",
+  "explanation": "maternal: Motherly; relating to a mother.",
+  "reasons": {
+   "A": "Wrong: Fatherly; relating to a father.",
+   "B": "Correct: Motherly; relating to a mother.",
+   "C": "Wrong: Brotherly; relating to brothers.",
+   "D": "Wrong: Relating to marriage."
+  }
+ },
+ {
+  "word": "maternity",
+  "question": "The new mother cherished the joy of her motherhood. This state is:",
+  "options": [
+   "paternity",
+   "fraternity",
+   "maternity",
+   "matrimony"
+  ],
+  "correct": "C",
+  "explanation": "maternity: Motherhood.",
+  "reasons": {
+   "A": "Wrong: Fatherhood.",
+   "B": "Wrong: A men's club or brotherhood.",
+   "C": "Correct: Motherhood.",
+   "D": "Wrong: Marriage."
+  }
+ },
+ {
+  "word": "matriarch",
+  "question": "The grandmother ran the family and made every major decision. She was the family's:",
+  "options": [
+   "patriarch",
+   "potentate",
+   "martinet",
+   "matriarch"
+  ],
+  "correct": "D",
+  "explanation": "matriarch: A woman who rules a family or tribe.",
+  "reasons": {
+   "A": "Wrong: An old man who rules a family or tribe.",
+   "B": "Wrong: A powerful ruler.",
+   "C": "Wrong: A strict disciplinarian who demands blind obedience.",
+   "D": "Correct: A woman who rules a family or tribe."
+  }
+ },
+ {
+  "word": "matriarchal",
+  "question": "The tribe was ruled by women and mothers who decided the laws. The rule was:",
+  "options": [
+   "matriarchal",
+   "patriarchal",
+   "matronly",
+   "regal"
+  ],
+  "correct": "A",
+  "explanation": "matriarchal: Relating to rule by women or mothers.",
+  "reasons": {
+   "A": "Correct: Relating to rule by women or mothers.",
+   "B": "Wrong: Relating to rule by fathers or old men.",
+   "C": "Wrong: Like an older, dignified woman.",
+   "D": "Wrong: Royal; kingly and splendid."
+  }
+ },
+ {
+  "word": "matriarchy",
+  "question": "A system of government where mothers and women hold power over the community is called:",
+  "options": [
+   "patriarchy",
+   "matriarchy",
+   "regality",
+   "monotheism"
+  ],
+  "correct": "B",
+  "explanation": "matriarchy: A system ruled by women or mothers.",
+  "reasons": {
+   "A": "Wrong: A system ruled by men or fathers.",
+   "B": "Correct: A system ruled by women or mothers.",
+   "C": "Wrong: Royalty; kingly dignity.",
+   "D": "Wrong: The belief in one God."
+  }
+ },
+ {
+  "word": "matricidal",
+  "question": "The court heard about a son who had killed his own mother. The act was:",
+  "options": [
+   "fratricidal",
+   "uxoricidal",
+   "matricidal",
+   "parricidal"
+  ],
+  "correct": "C",
+  "explanation": "matricidal: Relating to the killing of one's mother.",
+  "reasons": {
+   "A": "Wrong: Relating to killing one's brother.",
+   "B": "Wrong: Relating to killing one's wife.",
+   "C": "Correct: Relating to the killing of one's mother.",
+   "D": "Wrong: Relating to killing a parent."
+  }
+ },
+ {
+  "word": "matricide",
+  "question": "The killing of one's mother is called:",
+  "options": [
+   "fratricide",
+   "uxoricide",
+   "patricide",
+   "matricide"
+  ],
+  "correct": "D",
+  "explanation": "matricide: The killing of one's mother.",
+  "reasons": {
+   "A": "Wrong: The killing of one's brother.",
+   "B": "Wrong: The killing of one's wife.",
+   "C": "Wrong: The killing of one's father.",
+   "D": "Correct: The killing of one's mother."
+  }
+ },
+ {
+  "word": "matrimonial",
+  "question": "The lawyer handled cases about marriage, divorce and the couple's property. Her cases were:",
+  "options": [
+   "matrimonial",
+   "paternal",
+   "fraternal",
+   "premarital"
+  ],
+  "correct": "A",
+  "explanation": "matrimonial: Relating to marriage.",
+  "reasons": {
+   "A": "Correct: Relating to marriage.",
+   "B": "Wrong: Fatherly; relating to a father.",
+   "C": "Wrong: Brotherly; relating to brothers.",
+   "D": "Wrong: Before marriage."
+  }
+ },
+ {
+  "word": "matrimony",
+  "question": "The couple's wedding was the start of their formal union in marriage. Their union is:",
+  "options": [
+   "patrimony",
+   "matrimony",
+   "fraternity",
+   "paternity"
+  ],
+  "correct": "B",
+  "explanation": "matrimony: Marriage.",
+  "reasons": {
+   "A": "Wrong: An inheritance from one's father.",
+   "B": "Correct: Marriage.",
+   "C": "Wrong: A men's club or brotherhood.",
+   "D": "Wrong: Fatherhood."
+  }
+ },
+ {
+  "word": "matron",
+  "question": "The older, dignified woman who ran the hospital ward was like a mother figure. She was a:",
+  "options": [
+   "tyro",
+   "virago",
+   "matron",
+   "martinet"
+  ],
+  "correct": "C",
+  "explanation": "matron: An older, dignified woman; a mother figure.",
+  "reasons": {
+   "A": "Wrong: A beginner; someone new to a field.",
+   "B": "Wrong: A loud-mouthed, quarrelsome woman.",
+   "C": "Correct: An older, dignified woman; a mother figure.",
+   "D": "Wrong: A strict disciplinarian who demands blind obedience."
+  }
+ },
+ {
+  "word": "matronly",
+  "question": "She had the warm, dignified, motherly manner of an older woman. Her manner was:",
+  "options": [
+   "regal",
+   "rustic",
+   "vivacious",
+   "matronly"
+  ],
+  "correct": "D",
+  "explanation": "matronly: Like an older, dignified woman.",
+  "reasons": {
+   "A": "Wrong: Royal; kingly and splendid.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Wrong: Full of life, joy, and energy.",
+   "D": "Correct: Like an older, dignified woman."
+  }
+ }
+]

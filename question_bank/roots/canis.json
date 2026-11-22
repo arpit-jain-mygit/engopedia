@@ -1,0 +1,20 @@
+[
+ {
+  "word": "canine",
+  "question": "A dentist names the sharp, pointed teeth that flank the front teeth and are used to tear food. These teeth are called:",
+  "options": [
+   "Molar",
+   "Incisor",
+   "Premolar",
+   "Canine"
+  ],
+  "correct": "D",
+  "explanation": "Canis (dog) + -ine: named for the dog-like teeth.",
+  "reasons": {
+   "A": "Wrong: broad teeth at the back, used for grinding.",
+   "B": "Wrong: the flat, sharp teeth at the front, used for cutting.",
+   "C": "Wrong: teeth between the canines and molars.",
+   "D": "Correct: the sharp, pointed tooth that tears food."
+  }
+ }
+]

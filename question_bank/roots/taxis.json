@@ -1,0 +1,38 @@
+[
+ {
+  "word": "taxidermist",
+  "question": "A craftsman stuffs and mounts the skins of dead animals so they look alive in a museum. He is a:",
+  "options": [
+   "Zoologist",
+   "Veterinarian",
+   "Sculptor",
+   "Taxidermist"
+  ],
+  "correct": "D",
+  "explanation": "Derma (skin) + taxis (arrangement): arranging animal skins.",
+  "reasons": {
+   "A": "Wrong: a scientist who studies animals.",
+   "B": "Wrong: a doctor who treats animals.",
+   "C": "Wrong: an artist who carves or models figures.",
+   "D": "Correct: a person who prepares and mounts animal skins."
+  }
+ },
+ {
+  "word": "taxidermy",
+  "question": "The art of stuffing and mounting animal skins to display them as lifelike figures is called:",
+  "options": [
+   "Taxidermy",
+   "Dermatology",
+   "Zoology",
+   "Ceramics"
+  ],
+  "correct": "A",
+  "explanation": "Taxidermy: the art of arranging and mounting animal skins.",
+  "reasons": {
+   "A": "Correct: the art of preparing and mounting animal skins.",
+   "B": "Wrong: the medical study of skin.",
+   "C": "Wrong: the scientific study of animals.",
+   "D": "Wrong: the art of making pottery."
+  }
+ }
+]

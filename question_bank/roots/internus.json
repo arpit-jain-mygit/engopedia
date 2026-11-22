@@ -1,0 +1,38 @@
+[
+ {
+  "word": "internist",
+  "question": "A physician who diagnoses and treats illnesses of the body's systems without surgery is called a:",
+  "options": [
+   "Surgeon",
+   "Dermatologist",
+   "Radiologist",
+   "Internist"
+  ],
+  "correct": "D",
+  "explanation": "Internus (inner, inside) + -ist: a physician of internal illnesses.",
+  "reasons": {
+   "A": "Wrong: a doctor who operates with instruments.",
+   "B": "Wrong: a specialist in skin conditions.",
+   "C": "Wrong: a specialist who reads medical images.",
+   "D": "Correct: a doctor who treats diseases without surgery."
+  }
+ },
+ {
+  "word": "intern",
+  "question": "A newly qualified doctor, working under supervision in a hospital, is called an:",
+  "options": [
+   "Intern",
+   "Consultant",
+   "Surgeon",
+   "Anaesthetist"
+  ],
+  "correct": "A",
+  "explanation": "Internus (inner, inside): a doctor who works on the inside of the hospital.",
+  "reasons": {
+   "A": "Correct: a newly qualified doctor training under supervision.",
+   "B": "Wrong: a senior specialist, not a newly qualified doctor.",
+   "C": "Wrong: a doctor who operates.",
+   "D": "Wrong: a doctor who gives anaesthesia."
+  }
+ }
+]

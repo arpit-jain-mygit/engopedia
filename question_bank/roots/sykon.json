@@ -1,0 +1,56 @@
+[
+ {
+  "word": "sycophancy",
+  "question": "The constant flattery of the powerful by his advisers was obvious. Such fawning is called:",
+  "options": [
+   "sycophancy",
+   "asceticism",
+   "misanthropy",
+   "altruism"
+  ],
+  "correct": "A",
+  "explanation": "sycophancy: Fawning behavior toward the powerful.",
+  "reasons": {
+   "A": "Correct: Fawning behavior toward the powerful.",
+   "B": "Wrong: A life of strict self-denial and simplicity.",
+   "C": "Wrong: Hatred of the human race.",
+   "D": "Wrong: Concern for the welfare of others; selfless giving."
+  }
+ },
+ {
+  "word": "sycophant",
+  "question": "The aide praised the minister endlessly to secure his favour. He was a:",
+  "options": [
+   "iconoclast",
+   "sycophant",
+   "ascetic",
+   "demagogue"
+  ],
+  "correct": "B",
+  "explanation": "sycophant: A person who flatters the powerful to gain favor.",
+  "reasons": {
+   "A": "Wrong: A person who attacks established beliefs and traditions.",
+   "B": "Correct: A person who flatters the powerful to gain favor.",
+   "C": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "D": "Wrong: A leader who stirs up discontent to win power."
+  }
+ },
+ {
+  "word": "sycophantic",
+  "question": "The courtier's fawning praise of the king was excessive. His praise was:",
+  "options": [
+   "iconoclastic",
+   "ascetic",
+   "sycophantic",
+   "placid"
+  ],
+  "correct": "C",
+  "explanation": "sycophantic: Fawning; flattering to gain favor.",
+  "reasons": {
+   "A": "Wrong: Attacking traditions and beliefs.",
+   "B": "Wrong: A person who lives a simple, lonely life of self-denial.",
+   "C": "Correct: Fawning; flattering to gain favor.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ }
+]

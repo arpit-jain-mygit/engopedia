@@ -1,0 +1,38 @@
+[
+ {
+  "word": "anodyne",
+  "question": "The doctor offered a gentle remedy that would ease discomfort without any harm to the body. The remedy was:",
+  "options": [
+   "Noxious",
+   "Emetic",
+   "Anodyne",
+   "Caustic"
+  ],
+  "correct": "C",
+  "explanation": "An- (without) + odyne (pain): without pain, a painkiller.",
+  "reasons": {
+   "A": "Wrong: harmful or poisonous.",
+   "B": "Wrong: a substance that causes vomiting.",
+   "C": "Correct: a soothing, harmless remedy that eases pain.",
+   "D": "Wrong: corrosive, able to burn or eat away."
+  }
+ },
+ {
+  "word": "odynophobia",
+  "question": "A patient refuses every injection, terrified that even the slightest pang will overwhelm her. Her fear is of:",
+  "options": [
+   "Thanatophobia",
+   "Hypnophobia",
+   "Nosophobia",
+   "Odynophobia"
+  ],
+  "correct": "D",
+  "explanation": "Odyne (pain) + phobia = fear of pain.",
+  "reasons": {
+   "A": "Wrong: fear of death.",
+   "B": "Wrong: fear of sleep.",
+   "C": "Wrong: fear of illness.",
+   "D": "Correct: odyne means pain, so the fear is of pain."
+  }
+ }
+]

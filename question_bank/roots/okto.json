@@ -1,0 +1,20 @@
+[
+ {
+  "word": "octopus",
+  "question": "A soft sea creature with suckers on its arms, a beak at the centre of them, and no bones hides among the rocks. Name the creature:",
+  "options": [
+   "Octopus",
+   "Squid",
+   "Jellyfish",
+   "Starfish"
+  ],
+  "correct": "A",
+  "explanation": "Okto (eight) + pous (foot): eight-armed.",
+  "reasons": {
+   "A": "Correct: a sea creature with eight arms.",
+   "B": "Wrong: has ten limbs, eight arms and two longer tentacles.",
+   "C": "Wrong: has no arms and drifts with the current.",
+   "D": "Wrong: has five arms, not eight."
+  }
+ }
+]

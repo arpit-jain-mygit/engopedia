@@ -1,0 +1,38 @@
+[
+ {
+  "word": "photograph",
+  "question": "A reporter snaps a still image of the crowd with a camera, freezing one moment for later viewing. Such a picture is a:",
+  "options": [
+   "Photograph",
+   "Telegram",
+   "Hologram",
+   "Monogram"
+  ],
+  "correct": "A",
+  "explanation": "Photos (light) + graphein (to write, draw): drawing with light.",
+  "reasons": {
+   "A": "Correct: a still picture made by a camera.",
+   "B": "Wrong: a message sent by wire or radio.",
+   "C": "Wrong: a three-dimensional image made with lasers.",
+   "D": "Wrong: letters combined into a decorative design."
+  }
+ },
+ {
+  "word": "photophobia",
+  "question": "A woman winces and shuts her eyes whenever the bright lamp is switched on, and she wears dark glasses indoors. She fears:",
+  "options": [
+   "Nyctophobia",
+   "Photophobia",
+   "Heliophobia",
+   "Chromophobia"
+  ],
+  "correct": "B",
+  "explanation": "Photos (light) + phobia = fear of light.",
+  "reasons": {
+   "A": "Wrong: fear of darkness.",
+   "B": "Correct: photos means light, so the fear is of light.",
+   "C": "Wrong: fear of sunlight in particular, not light in general.",
+   "D": "Wrong: fear of colours."
+  }
+ }
+]

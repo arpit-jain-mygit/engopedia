@@ -1,0 +1,92 @@
+[
+ {
+  "word": "regal",
+  "question": "The queen's robes and bearing were majestic and kingly. Her manner was:",
+  "options": [
+   "regal",
+   "rustic",
+   "penurious",
+   "miserable"
+  ],
+  "correct": "A",
+  "explanation": "regal: Royal; kingly and splendid.",
+  "reasons": {
+   "A": "Correct: Royal; kingly and splendid.",
+   "B": "Wrong: Simple, plain, and rough, in the country style.",
+   "C": "Wrong: Very poor; also stingy and grasping.",
+   "D": "Wrong: Very unhappy; wretched."
+  }
+ },
+ {
+  "word": "regalia",
+  "question": "The crown, sceptre and robes were the symbols of the king's rank. These symbols are his:",
+  "options": [
+   "credentials",
+   "regalia",
+   "patrimony",
+   "sequel"
+  ],
+  "correct": "B",
+  "explanation": "regalia: Badges and insignia of rank or office.",
+  "reasons": {
+   "A": "Wrong: Papers proving a person's right to a title or privilege.",
+   "B": "Correct: Badges and insignia of rank or office.",
+   "C": "Wrong: An inheritance from one's father.",
+   "D": "Wrong: A later story or event that follows an earlier one."
+  }
+ },
+ {
+  "word": "regality",
+  "question": "The majestic dignity of the royal court impressed all visitors. This royal dignity is:",
+  "options": [
+   "rusticity",
+   "penury",
+   "regality",
+   "nescience"
+  ],
+  "correct": "C",
+  "explanation": "regality: Royalty; kingly dignity.",
+  "reasons": {
+   "A": "Wrong: Simplicity of country life; roughness.",
+   "B": "Wrong: Extreme poverty; lack of necessities.",
+   "C": "Correct: Royalty; kingly dignity.",
+   "D": "Wrong: Lack of knowledge; ignorance."
+  }
+ },
+ {
+  "word": "regicidal",
+  "question": "The plot to murder the king was a deed of killing a ruler. The plot was:",
+  "options": [
+   "uxoricidal",
+   "fratricidal",
+   "parricidal",
+   "regicidal"
+  ],
+  "correct": "D",
+  "explanation": "regicidal: Relating to killing a king.",
+  "reasons": {
+   "A": "Wrong: Relating to killing one's wife.",
+   "B": "Wrong: Relating to killing one's brother.",
+   "C": "Wrong: Relating to killing a parent.",
+   "D": "Correct: Relating to killing a king."
+  }
+ },
+ {
+  "word": "regicide",
+  "question": "The murder of a king is called:",
+  "options": [
+   "regicide",
+   "matricide",
+   "fratricide",
+   "homicide"
+  ],
+  "correct": "A",
+  "explanation": "regicide: The killing of a king or ruler.",
+  "reasons": {
+   "A": "Correct: The killing of a king or ruler.",
+   "B": "Wrong: The killing of one's mother.",
+   "C": "Wrong: The killing of one's brother.",
+   "D": "Wrong: The killing of a human being."
+  }
+ }
+]

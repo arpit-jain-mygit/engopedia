@@ -1,0 +1,20 @@
+[
+ {
+  "word": "libidinous",
+  "question": "The novel's lead character is driven by strong, unrestrained sexual appetite and pursues it at every chance. He is:",
+  "options": [
+   "Abstemious",
+   "Ascetic",
+   "Libidinous",
+   "Chaste"
+  ],
+  "correct": "C",
+  "explanation": "Libido (desire) + -ous: full of desire.",
+  "reasons": {
+   "A": "Wrong: moderate in eating and drinking.",
+   "B": "Wrong: living in strict self-denial.",
+   "C": "Correct: full of strong sexual desire.",
+   "D": "Wrong: abstaining from sexual activity."
+  }
+ }
+]

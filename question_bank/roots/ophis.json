@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ophidiophobia",
+  "question": "A hiker freezes at a garden hose lying coiled on the path, mistaking it for a long, legless, slithering creature. His fear is of:",
+  "options": [
+   "Entomophobia",
+   "Ichthyophobia",
+   "Ophidiophobia",
+   "Cynophobia"
+  ],
+  "correct": "C",
+  "explanation": "Ophis (snake) + phobia = fear of snakes.",
+  "reasons": {
+   "A": "Wrong: fear of insects.",
+   "B": "Wrong: fear of fish.",
+   "C": "Correct: ophis means snake, so the fear is of snakes.",
+   "D": "Wrong: fear of dogs."
+  }
+ }
+]

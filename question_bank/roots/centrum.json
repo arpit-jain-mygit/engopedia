@@ -1,0 +1,20 @@
+[
+ {
+  "word": "egocentric",
+  "question": "A manager insists that every discussion must orbit around her own wants and needs, and she ignores everyone else's views. She is:",
+  "options": [
+   "Eccentric",
+   "Ascetic",
+   "Egocentric",
+   "Garrulous"
+  ],
+  "correct": "C",
+  "explanation": "Ego (self) + centrum (centre) + -ic: centred on oneself.",
+  "reasons": {
+   "A": "Wrong: odd or unconventional, not self-focused.",
+   "B": "Wrong: living in strict self-denial; she does the opposite.",
+   "C": "Correct: centred on oneself, seeing everything from one's own view.",
+   "D": "Wrong: talking too much."
+  }
+ }
+]

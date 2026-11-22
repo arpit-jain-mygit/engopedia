@@ -1,0 +1,20 @@
+[
+ {
+  "word": "geumophobia",
+  "question": "A child refuses to try any new flavour, pushing away each dish whose taste she cannot predict, and panics at the thought of an unfamiliar taste on her tongue. Her fear is of:",
+  "options": [
+   "Cibophobia",
+   "Geumophobia",
+   "Emetophobia",
+   "Hedonophobia"
+  ],
+  "correct": "B",
+  "explanation": "Geusis (taste) + phobia = fear of taste.",
+  "reasons": {
+   "A": "Wrong: fear of food itself, not of the taste.",
+   "B": "Correct: geusis means taste, so the fear is of taste.",
+   "C": "Wrong: fear of vomiting.",
+   "D": "Wrong: fear of pleasure."
+  }
+ }
+]

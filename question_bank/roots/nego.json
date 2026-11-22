@@ -1,0 +1,110 @@
+[
+ {
+  "word": "negate",
+  "question": "The new evidence cancelled out the claim and proved it was not true. It would:",
+  "options": [
+   "subscribe",
+   "prescribe",
+   "describe",
+   "negate"
+  ],
+  "correct": "D",
+  "explanation": "negate: To deny the truth or existence of; to cancel out.",
+  "reasons": {
+   "A": "Wrong: To sign up or write one's name under an order; to agree to a belief.",
+   "B": "Wrong: To advise or order a medicine or treatment.",
+   "C": "Wrong: To write or tell about something in detail.",
+   "D": "Correct: To deny the truth or existence of; to cancel out."
+  }
+ },
+ {
+  "word": "negation",
+  "question": "The lawyer's flat denial of the charge was a clear act of:",
+  "options": [
+   "negation",
+   "subscription",
+   "prescription",
+   "sequence"
+  ],
+  "correct": "A",
+  "explanation": "negation: The act of denying or cancelling.",
+  "reasons": {
+   "A": "Correct: The act of denying or cancelling.",
+   "B": "Wrong: An order or agreement to receive a regular service.",
+   "C": "Wrong: A written order for medicine or a rule.",
+   "D": "Wrong: A series of things following in order."
+  }
+ },
+ {
+  "word": "negative",
+  "question": "Her answer was a flat refusal that showed no hope. Her answer was:",
+  "options": [
+   "benign",
+   "negative",
+   "benevolent",
+   "beneficial"
+  ],
+  "correct": "B",
+  "explanation": "negative: Expressing denial or refusal; not positive.",
+  "reasons": {
+   "A": "Wrong: Kindly, good-natured, and harmless.",
+   "B": "Correct: Expressing denial or refusal; not positive.",
+   "C": "Wrong: Kind, well disposed, and wishing good for others.",
+   "D": "Wrong: Helpful and good for someone."
+  }
+ },
+ {
+  "word": "negativity",
+  "question": "He always criticized everything and denied each idea, showing a constant gloom. This tendency is his:",
+  "options": [
+   "benevolence",
+   "beneficence",
+   "negativity",
+   "equanimity"
+  ],
+  "correct": "C",
+  "explanation": "negativity: A tendency to deny or criticize everything.",
+  "reasons": {
+   "A": "Wrong: A wish to do good for others.",
+   "B": "Wrong: The doing of good deeds.",
+   "C": "Correct: A tendency to deny or criticize everything.",
+   "D": "Wrong: Calm and even temper, especially under stress."
+  }
+ },
+ {
+  "word": "self-abnegate",
+  "question": "The nun chose to give up all her desires to serve others, denying herself. She would:",
+  "options": [
+   "dissimulate",
+   "vacillate",
+   "vociferate",
+   "self-abnegate"
+  ],
+  "correct": "D",
+  "explanation": "self-abnegate: To deny oneself; to give up one's own desires.",
+  "reasons": {
+   "A": "Wrong: To hide your true feelings by pretending.",
+   "B": "Wrong: To waver or keep changing your mind.",
+   "C": "Wrong: To shout loudly.",
+   "D": "Correct: To deny oneself; to give up one's own desires."
+  }
+ },
+ {
+  "word": "self-abnegation",
+  "question": "Her giving up of her own wishes for her family is a sign of her:",
+  "options": [
+   "self-abnegation",
+   "sycophancy",
+   "asceticism",
+   "misanthropy"
+  ],
+  "correct": "A",
+  "explanation": "self-abnegation: Self-denial; giving up one's own wishes.",
+  "reasons": {
+   "A": "Correct: Self-denial; giving up one's own wishes.",
+   "B": "Wrong: Fawning behavior toward the powerful.",
+   "C": "Wrong: A life of strict self-denial and simplicity.",
+   "D": "Wrong: Hatred of the human race."
+  }
+ }
+]

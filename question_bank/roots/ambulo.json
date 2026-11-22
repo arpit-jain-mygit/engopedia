@@ -1,0 +1,164 @@
+[
+ {
+  "word": "amble",
+  "question": "The old farmer strolled slowly along the lane, never hurrying. He ambled. The word for walking at this easy, slow pace is:",
+  "options": [
+   "amble",
+   "vociferate",
+   "vacillate",
+   "titillate"
+  ],
+  "correct": "A",
+  "explanation": "amble: To walk slowly and easily.",
+  "reasons": {
+   "A": "Correct: To walk slowly and easily.",
+   "B": "Wrong: To shout loudly.",
+   "C": "Wrong: To waver or keep changing your mind.",
+   "D": "Wrong: To tickle or stimulate pleasantly."
+  }
+ },
+ {
+  "word": "ambulatory",
+  "question": "After the surgery, the patient was able to walk around the ward again. She was now:",
+  "options": [
+   "vegetate",
+   "ambulatory",
+   "somnolent",
+   "vivacious"
+  ],
+  "correct": "B",
+  "explanation": "ambulatory: Able to walk around; able to walk.",
+  "reasons": {
+   "A": "Wrong: To live a dull, inactive life.",
+   "B": "Correct: Able to walk around; able to walk.",
+   "C": "Wrong: Sleepy and drowsy.",
+   "D": "Wrong: Full of life, joy, and energy."
+  }
+ },
+ {
+  "word": "perambulate",
+  "question": "The mayor walked through and around the whole town square, inspecting each stall. He began to:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "perambulate",
+   "vociferate"
+  ],
+  "correct": "C",
+  "explanation": "perambulate: To walk through or around.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Correct: To walk through or around.",
+   "D": "Wrong: To shout loudly."
+  }
+ },
+ {
+  "word": "perambulation",
+  "question": "Every morning he took a slow walk around the park before breakfast. This walk around a place is his:",
+  "options": [
+   "vacillation",
+   "vociferation",
+   "titillation",
+   "perambulation"
+  ],
+  "correct": "D",
+  "explanation": "perambulation: A walk around a place.",
+  "reasons": {
+   "A": "Wrong: Wavering between opinions or choices.",
+   "B": "Wrong: A loud shouting or outcry.",
+   "C": "Wrong: Light sexual stimulation; a pleasant tickle.",
+   "D": "Correct: A walk around a place."
+  }
+ },
+ {
+  "word": "perambulator",
+  "question": "The mother pushed the small carriage carefully along the path so her baby could nap. The carriage is a:",
+  "options": [
+   "perambulator",
+   "podium",
+   "tripod",
+   "omnibus"
+  ],
+  "correct": "A",
+  "explanation": "perambulator: A baby carriage.",
+  "reasons": {
+   "A": "Correct: A baby carriage.",
+   "B": "Wrong: A speaker's platform.",
+   "C": "Wrong: A three-legged stand for a camera.",
+   "D": "Wrong: A book or law covering many things; a bus for all."
+  }
+ },
+ {
+  "word": "preamble",
+  "question": "Before the rules, the document opened with a short introductory statement explaining its purpose. That opening is its:",
+  "options": [
+   "tome",
+   "preamble",
+   "sequel",
+   "epitome"
+  ],
+  "correct": "B",
+  "explanation": "preamble: An introductory statement.",
+  "reasons": {
+   "A": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "B": "Correct: An introductory statement.",
+   "C": "Wrong: A later story or event that follows an earlier one.",
+   "D": "Wrong: A perfect example; a short summary."
+  }
+ },
+ {
+  "word": "somnambulism",
+  "question": "Each night he rose from bed, walked the hallway, and returned, without remembering any of it. This sleepwalking is called:",
+  "options": [
+   "somnolence",
+   "insomnia",
+   "somnambulism",
+   "hypnophobia"
+  ],
+  "correct": "C",
+  "explanation": "somnambulism: Sleepwalking.",
+  "reasons": {
+   "A": "Wrong: Sleepiness.",
+   "B": "Wrong: The inability to fall asleep.",
+   "C": "Correct: Sleepwalking.",
+   "D": "Wrong: Fear of sleep."
+  }
+ },
+ {
+  "word": "somnambulist",
+  "question": "The boy got up at midnight, walked into the kitchen with his eyes shut, and went back to bed. He is a:",
+  "options": [
+   "insomniac",
+   "soliloquist",
+   "ventriloquist",
+   "somnambulist"
+  ],
+  "correct": "D",
+  "explanation": "somnambulist: A sleepwalker.",
+  "reasons": {
+   "A": "Wrong: A person who cannot sleep.",
+   "B": "Wrong: A person who speaks alone.",
+   "C": "Wrong: A performer who throws the voice.",
+   "D": "Correct: A sleepwalker."
+  }
+ },
+ {
+  "word": "somnambulistic",
+  "question": "She moved through the house in a dreamy, half-asleep way that she could not recall the next day. Her walking was:",
+  "options": [
+   "somnambulistic",
+   "cogent",
+   "placid",
+   "vivid"
+  ],
+  "correct": "A",
+  "explanation": "somnambulistic: Relating to sleepwalking.",
+  "reasons": {
+   "A": "Correct: Relating to sleepwalking.",
+   "B": "Wrong: Powerful, convincing, and logical.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ }
+]

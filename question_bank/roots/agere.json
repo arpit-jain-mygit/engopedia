@@ -1,0 +1,74 @@
+[
+ {
+  "word": "ambiguous",
+  "question": "The road sign had two arrows pointing in different directions, so drivers could not tell which way to go. The sign was:",
+  "options": [
+   "placid",
+   "ambiguous",
+   "banal",
+   "cogent"
+  ],
+  "correct": "B",
+  "explanation": "ambiguous: Open to more than one interpretation.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Correct: Open to more than one interpretation.",
+   "C": "Wrong: Ordinary, trite, and lacking originality.",
+   "D": "Wrong: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "ambiguity",
+  "question": "The lawyers argued for hours because the contract could be read in two different ways. This quality of the wording is its:",
+  "options": [
+   "parity",
+   "penury",
+   "ambiguity",
+   "banality"
+  ],
+  "correct": "C",
+  "explanation": "ambiguity: Vagueness; having more than one possible meaning.",
+  "reasons": {
+   "A": "Wrong: Equality of rank, pay, or status.",
+   "B": "Wrong: Extreme poverty; lack of necessities.",
+   "C": "Correct: Vagueness; having more than one possible meaning.",
+   "D": "Wrong: Triteness; lack of originality."
+  }
+ },
+ {
+  "word": "cogent",
+  "question": "She laid out clear evidence and sound reasoning, and every member of the committee was convinced. Her argument was:",
+  "options": [
+   "placid",
+   "banal",
+   "ambiguous",
+   "cogent"
+  ],
+  "correct": "D",
+  "explanation": "cogent: Powerful, convincing, and logical.",
+  "reasons": {
+   "A": "Wrong: Calm, easygoing, and undisturbed.",
+   "B": "Wrong: Ordinary, trite, and lacking originality.",
+   "C": "Wrong: Open to more than one interpretation.",
+   "D": "Correct: Powerful, convincing, and logical."
+  }
+ },
+ {
+  "word": "cogency",
+  "question": "The committee was won over by how logically and persuasively she argued her case. The power of her argument to convince is its:",
+  "options": [
+   "cogency",
+   "ambivalence",
+   "penury",
+   "adulation"
+  ],
+  "correct": "A",
+  "explanation": "cogency: The power to convince by logic.",
+  "reasons": {
+   "A": "Correct: The power to convince by logic.",
+   "B": "Wrong: Having mixed or conflicting feelings.",
+   "C": "Wrong: Extreme poverty; lack of necessities.",
+   "D": "Wrong: Flattery and excessive worship."
+  }
+ }
+]

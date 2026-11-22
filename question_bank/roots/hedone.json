@@ -1,0 +1,20 @@
+[
+ {
+  "word": "hedonophobia",
+  "question": "A man refuses every enjoyable treat and holiday, certain that any delight will bring disaster. He fears:",
+  "options": [
+   "Thanatophobia",
+   "Kinesiophobia",
+   "Hedonophobia",
+   "Hypnophobia"
+  ],
+  "correct": "C",
+  "explanation": "Hedone (pleasure) + phobia = fear of pleasure.",
+  "reasons": {
+   "A": "Wrong: fear of death.",
+   "B": "Wrong: fear of motion.",
+   "C": "Correct: hedone means pleasure, so the fear is of pleasure.",
+   "D": "Wrong: fear of sleep."
+  }
+ }
+]

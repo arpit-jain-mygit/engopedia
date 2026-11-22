@@ -1,0 +1,20 @@
+[
+ {
+  "word": "iatrophobia",
+  "question": "A boy hides under his bed the moment his mother mentions a check-up with the family physician. He fears:",
+  "options": [
+   "Odontophobia",
+   "Iatrophobia",
+   "Gerontophobia",
+   "Thanatophobia"
+  ],
+  "correct": "B",
+  "explanation": "Iatros (doctor) + phobia = fear of doctors.",
+  "reasons": {
+   "A": "Wrong: fear of teeth or dentists.",
+   "B": "Correct: iatros means doctor, so the fear is of doctors.",
+   "C": "Wrong: fear of old men.",
+   "D": "Wrong: fear of death."
+  }
+ }
+]

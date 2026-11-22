@@ -1,0 +1,182 @@
+[
+ {
+  "word": "anthropological",
+  "question": "The researcher's study focused on how early human societies developed their customs. Her work was:",
+  "options": [
+   "geological",
+   "zoological",
+   "pathological",
+   "anthropological"
+  ],
+  "correct": "D",
+  "explanation": "anthropological: Relating to the study of human development.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Correct: Relating to the study of human development."
+  }
+ },
+ {
+  "word": "anthropologist",
+  "question": "The scientist spent years living with tribes to study how human societies develop. She is an:",
+  "options": [
+   "anthropologist",
+   "zoologist",
+   "geologist",
+   "theologian"
+  ],
+  "correct": "A",
+  "explanation": "anthropologist: A scientist who studies human development.",
+  "reasons": {
+   "A": "Correct: A scientist who studies human development.",
+   "B": "Wrong: A scientist who studies animal life.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "anthropology",
+  "question": "The course examined the study of human development, culture, and society across history. The subject is:",
+  "options": [
+   "zoology",
+   "anthropology",
+   "geology",
+   "psychology"
+  ],
+  "correct": "B",
+  "explanation": "anthropology: The study of human development and culture.",
+  "reasons": {
+   "A": "Wrong: The science of animal life.",
+   "B": "Correct: The study of human development and culture.",
+   "C": "Wrong: The science of the earth's composition and history.",
+   "D": "Wrong: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "misanthrope",
+  "question": "He avoided every party and disliked people so much that he lived alone in the hills. He is a:",
+  "options": [
+   "philanthropist",
+   "miser",
+   "misanthrope",
+   "altruist"
+  ],
+  "correct": "C",
+  "explanation": "misanthrope: One who hates the human race.",
+  "reasons": {
+   "A": "Wrong: A person who gives money and time to help others.",
+   "B": "Wrong: A person who hoards money and spends very little.",
+   "C": "Correct: One who hates the human race.",
+   "D": "Wrong: One who is interested in the welfare of others more than his own."
+  }
+ },
+ {
+  "word": "misanthropic",
+  "question": "Her gloomy view of the world made her hate the entire human race and its ways. Her attitude was:",
+  "options": [
+   "benevolent",
+   "philanthropic",
+   "altruistic",
+   "misanthropic"
+  ],
+  "correct": "D",
+  "explanation": "misanthropic: Hating mankind.",
+  "reasons": {
+   "A": "Wrong: Kind, well disposed, and wishing good for others.",
+   "B": "Wrong: Generous in helping people.",
+   "C": "Wrong: Showing concern for others; unselfish.",
+   "D": "Correct: Hating mankind."
+  }
+ },
+ {
+  "word": "misanthropist",
+  "question": "The writer declared that people were hopeless and that he despised mankind. He was a:",
+  "options": [
+   "misanthropist",
+   "philanthropist",
+   "benefactor",
+   "altruist"
+  ],
+  "correct": "A",
+  "explanation": "misanthropist: A person who hates mankind.",
+  "reasons": {
+   "A": "Correct: A person who hates mankind.",
+   "B": "Wrong: A person who gives money and time to help others.",
+   "C": "Wrong: A person who gives money or help to others.",
+   "D": "Wrong: One who is interested in the welfare of others more than his own."
+  }
+ },
+ {
+  "word": "misanthropy",
+  "question": "Her bitter views of the human race had grown into a deep, lasting hatred of people. This hatred is called:",
+  "options": [
+   "philanthropy",
+   "misanthropy",
+   "altruism",
+   "benevolence"
+  ],
+  "correct": "B",
+  "explanation": "misanthropy: Hatred of the human race.",
+  "reasons": {
+   "A": "Wrong: Love of mankind shown through giving.",
+   "B": "Correct: Hatred of the human race.",
+   "C": "Wrong: Concern for the welfare of others; selfless giving.",
+   "D": "Wrong: A wish to do good for others."
+  }
+ },
+ {
+  "word": "philanthropic",
+  "question": "The family set up a foundation that gave money generously to help the poor. Their giving was:",
+  "options": [
+   "misanthropic",
+   "malevolent",
+   "philanthropic",
+   "parsimonious"
+  ],
+  "correct": "C",
+  "explanation": "philanthropic: Generous in helping people.",
+  "reasons": {
+   "A": "Wrong: Hating mankind.",
+   "B": "Wrong: Wishing evil or harm to others.",
+   "C": "Correct: Generous in helping people.",
+   "D": "Wrong: Very sparing with money; stingy."
+  }
+ },
+ {
+  "word": "philanthropist",
+  "question": "The businessman gave millions of dollars and years of his time to help people in need. He is a:",
+  "options": [
+   "misanthrope",
+   "miser",
+   "demagogue",
+   "philanthropist"
+  ],
+  "correct": "D",
+  "explanation": "philanthropist: A person who gives money and time to help others.",
+  "reasons": {
+   "A": "Wrong: One who hates the human race.",
+   "B": "Wrong: A person who hoards money and spends very little.",
+   "C": "Wrong: A leader who stirs up discontent to win power.",
+   "D": "Correct: A person who gives money and time to help others."
+  }
+ },
+ {
+  "word": "philanthropy",
+  "question": "Many wealthy families pledge large parts of their fortunes to good causes that help people. This love of mankind shown through giving is:",
+  "options": [
+   "philanthropy",
+   "misanthropy",
+   "parsimony",
+   "penury"
+  ],
+  "correct": "A",
+  "explanation": "philanthropy: Love of mankind shown through giving.",
+  "reasons": {
+   "A": "Correct: Love of mankind shown through giving.",
+   "B": "Wrong: Hatred of the human race.",
+   "C": "Wrong: Extreme care in spending; stinginess.",
+   "D": "Wrong: Extreme poverty; lack of necessities."
+  }
+ }
+]

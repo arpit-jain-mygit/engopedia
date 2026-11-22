@@ -1,0 +1,20 @@
+[
+ {
+  "word": "xenophobia",
+  "question": "A village rejects every newcomer and treats strangers with suspicion, claiming outsiders cannot be trusted. Its attitude is:",
+  "options": [
+   "Androphobia",
+   "Gerontophobia",
+   "Ochlophobia",
+   "Xenophobia"
+  ],
+  "correct": "D",
+  "explanation": "Xenos (stranger, foreigner) + phobia = fear of strangers or foreigners.",
+  "reasons": {
+   "A": "Wrong: fear of males.",
+   "B": "Wrong: fear of old people.",
+   "C": "Wrong: fear of crowds.",
+   "D": "Correct: xenos means stranger or foreigner, so the fear is of strangers."
+  }
+ }
+]

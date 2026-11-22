@@ -1,0 +1,1172 @@
+[
+ {
+  "word": "anthropological",
+  "question": "The paper studied how early human communities built their customs and social life. Its approach was:",
+  "options": [
+   "anthropological",
+   "geological",
+   "zoological",
+   "pathological"
+  ],
+  "correct": "A",
+  "explanation": "anthropological: Relating to the study of human development.",
+  "reasons": {
+   "A": "Correct: Relating to the study of human development.",
+   "B": "Wrong: Relating to geology.",
+   "C": "Wrong: Relating to animals and their study.",
+   "D": "Wrong: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "anthropologist",
+  "question": "She lived with remote villages to learn how people across cultures live and organize. She is an:",
+  "options": [
+   "zoologist",
+   "anthropologist",
+   "geologist",
+   "theologian"
+  ],
+  "correct": "B",
+  "explanation": "anthropologist: A scientist who studies human development.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies animal life.",
+   "B": "Correct: A scientist who studies human development.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "anthropology",
+  "question": "Her degree was in the study of human culture and social development. Her field was:",
+  "options": [
+   "zoology",
+   "geology",
+   "anthropology",
+   "theology"
+  ],
+  "correct": "C",
+  "explanation": "anthropology: The study of human development and culture.",
+  "reasons": {
+   "A": "Wrong: The science of animal life.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Correct: The study of human development and culture.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "astrologer",
+  "question": "The woman read the stars and claimed they foretold people's futures. She is an:",
+  "options": [
+   "astronomer",
+   "cosmonaut",
+   "chiromancer",
+   "astrologer"
+  ],
+  "correct": "D",
+  "explanation": "astrologer: A person who studies the stars to predict human events.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the heavens and celestial bodies.",
+   "B": "Wrong: A Russian space traveler; a sailor of the universe.",
+   "C": "Wrong: A person who reads palms.",
+   "D": "Correct: A person who studies the stars to predict human events."
+  }
+ },
+ {
+  "word": "astrological",
+  "question": "The magazine's charts predicted people's futures from the positions of the planets. The charts were:",
+  "options": [
+   "astrological",
+   "astronomical",
+   "nautical",
+   "zoological"
+  ],
+  "correct": "A",
+  "explanation": "astrological: Relating to astrology.",
+  "reasons": {
+   "A": "Correct: Relating to astrology.",
+   "B": "Wrong: Relating to astronomy; very large in size or number.",
+   "C": "Wrong: Relating to ships, sailing, or navigation.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "astrology",
+  "question": "The belief that the stars and planets shape human events is called:",
+  "options": [
+   "astronomy",
+   "astrology",
+   "theology",
+   "zoology"
+  ],
+  "correct": "B",
+  "explanation": "astrology: The belief that the stars and planets affect human events.",
+  "reasons": {
+   "A": "Wrong: The science of the stars and other heavenly bodies.",
+   "B": "Correct: The belief that the stars and planets affect human events.",
+   "C": "Wrong: The study of God and religion.",
+   "D": "Wrong: The science of animal life."
+  }
+ },
+ {
+  "word": "biological",
+  "question": "Her research was about living things and how their cells work. Her research was:",
+  "options": [
+   "geological",
+   "zoological",
+   "biological",
+   "anthropological"
+  ],
+  "correct": "C",
+  "explanation": "biological: Relating to living things.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Correct: Relating to living things.",
+   "D": "Wrong: Relating to the study of human development."
+  }
+ },
+ {
+  "word": "biologist",
+  "question": "The scientist studied all living matter, from bacteria to plants. She is a:",
+  "options": [
+   "geologist",
+   "zoologist",
+   "theologian",
+   "biologist"
+  ],
+  "correct": "D",
+  "explanation": "biologist: A scientist who studies all living matter.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies animal life.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A scientist who studies all living matter."
+  }
+ },
+ {
+  "word": "biology",
+  "question": "The science of living things is called:",
+  "options": [
+   "biology",
+   "geology",
+   "zoology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "biology: The science of living things.",
+  "reasons": {
+   "A": "Correct: The science of living things.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "cardiological",
+  "question": "The journal focused on research into the heart and blood vessels. Its research was:",
+  "options": [
+   "dermatological",
+   "cardiological",
+   "neurological",
+   "gynecological"
+  ],
+  "correct": "B",
+  "explanation": "cardiological: Relating to the study of the heart.",
+  "reasons": {
+   "A": "Wrong: Relating to skin medicine.",
+   "B": "Correct: Relating to the study of the heart.",
+   "C": "Wrong: Relating to the nervous system.",
+   "D": "Wrong: Relating to women's health."
+  }
+ },
+ {
+  "word": "cardiologist",
+  "question": "The doctor who treats heart diseases is a:",
+  "options": [
+   "dermatologist",
+   "neurologist",
+   "cardiologist",
+   "ophthalmologist"
+  ],
+  "correct": "C",
+  "explanation": "cardiologist: A doctor who treats heart diseases.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats skin diseases.",
+   "B": "Wrong: A doctor who treats the nervous system.",
+   "C": "Correct: A doctor who treats heart diseases.",
+   "D": "Wrong: A medical doctor who treats eye disorders."
+  }
+ },
+ {
+  "word": "cardiology",
+  "question": "The study of the heart and its diseases is called:",
+  "options": [
+   "dermatology",
+   "neurology",
+   "ophthalmology",
+   "cardiology"
+  ],
+  "correct": "D",
+  "explanation": "cardiology: The study of the heart and its diseases.",
+  "reasons": {
+   "A": "Wrong: The study of skin and its diseases.",
+   "B": "Wrong: The study of the nervous system.",
+   "C": "Wrong: The medical study of eye diseases.",
+   "D": "Correct: The study of the heart and its diseases."
+  }
+ },
+ {
+  "word": "chronological",
+  "question": "The historian listed the events in the exact order in which they happened in time. The list was:",
+  "options": [
+   "chronological",
+   "anachronistic",
+   "synchronous",
+   "circumspect"
+  ],
+  "correct": "A",
+  "explanation": "chronological: In correct time order.",
+  "reasons": {
+   "A": "Correct: In correct time order.",
+   "B": "Wrong: Out of its proper time; from another era.",
+   "C": "Wrong: Happening at the same time or rate.",
+   "D": "Wrong: Cautious and careful; watchful."
+  }
+ },
+ {
+  "word": "chronologist",
+  "question": "The scholar arranged all the dated events of the war in time order. He is a:",
+  "options": [
+   "geologist",
+   "chronologist",
+   "zoologist",
+   "theologian"
+  ],
+  "correct": "B",
+  "explanation": "chronologist: A person who arranges events in time order.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Correct: A person who arranges events in time order.",
+   "C": "Wrong: A scientist who studies animal life.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "chronology",
+  "question": "The timeline of events in the history book was arranged in time order. This arrangement is called:",
+  "options": [
+   "anachronism",
+   "synchronization",
+   "chronology",
+   "chronophobia"
+  ],
+  "correct": "C",
+  "explanation": "chronology: The science of arranging events in time order.",
+  "reasons": {
+   "A": "Wrong: Something out of its proper time period.",
+   "B": "Wrong: The act of happening at the same time.",
+   "C": "Correct: The science of arranging events in time order.",
+   "D": "Wrong: Fear of time."
+  }
+ },
+ {
+  "word": "dermatological",
+  "question": "The clinic's research focused on skin conditions and their treatment. Its research was:",
+  "options": [
+   "cardiological",
+   "neurological",
+   "ophthalmological",
+   "dermatological"
+  ],
+  "correct": "D",
+  "explanation": "dermatological: Relating to skin medicine.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of the heart.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to eye medicine.",
+   "D": "Correct: Relating to skin medicine."
+  }
+ },
+ {
+  "word": "dermatologist",
+  "question": "The doctor who treats skin diseases is a:",
+  "options": [
+   "dermatologist",
+   "cardiologist",
+   "neurologist",
+   "ophthalmologist"
+  ],
+  "correct": "A",
+  "explanation": "dermatologist: A doctor who treats skin diseases.",
+  "reasons": {
+   "A": "Correct: A doctor who treats skin diseases.",
+   "B": "Wrong: A doctor who treats heart diseases.",
+   "C": "Wrong: A doctor who treats the nervous system.",
+   "D": "Wrong: A medical doctor who treats eye disorders."
+  }
+ },
+ {
+  "word": "dermatology",
+  "question": "The study of skin and its diseases is called:",
+  "options": [
+   "cardiology",
+   "dermatology",
+   "neurology",
+   "ophthalmology"
+  ],
+  "correct": "B",
+  "explanation": "dermatology: The study of skin and its diseases.",
+  "reasons": {
+   "A": "Wrong: The study of the heart and its diseases.",
+   "B": "Correct: The study of skin and its diseases.",
+   "C": "Wrong: The study of the nervous system.",
+   "D": "Wrong: The medical study of eye diseases."
+  }
+ },
+ {
+  "word": "entomological",
+  "question": "The museum displayed a collection on the study of insects. The collection was:",
+  "options": [
+   "zoological",
+   "botanical",
+   "entomological",
+   "geological"
+  ],
+  "correct": "C",
+  "explanation": "entomological: Relating to the study of insects.",
+  "reasons": {
+   "A": "Wrong: Relating to animals and their study.",
+   "B": "Wrong: Relating to plants and their study.",
+   "C": "Correct: Relating to the study of insects.",
+   "D": "Wrong: Relating to geology."
+  }
+ },
+ {
+  "word": "entomologist",
+  "question": "The scientist who studies insects collected beetles in the forest. He is an:",
+  "options": [
+   "zoologist",
+   "botanist",
+   "geologist",
+   "entomologist"
+  ],
+  "correct": "D",
+  "explanation": "entomologist: A scientist who studies insects.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies animal life.",
+   "B": "Wrong: A scientist who studies plant life.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Correct: A scientist who studies insects."
+  }
+ },
+ {
+  "word": "entomology",
+  "question": "The science of insects is called:",
+  "options": [
+   "entomology",
+   "zoology",
+   "botany",
+   "geology"
+  ],
+  "correct": "A",
+  "explanation": "entomology: The science of insects.",
+  "reasons": {
+   "A": "Correct: The science of insects.",
+   "B": "Wrong: The science of animal life.",
+   "C": "Wrong: The science of plant life.",
+   "D": "Wrong: The science of the earth's composition and history."
+  }
+ },
+ {
+  "word": "eulogist",
+  "question": "The speaker who gave the praising speech at the funeral was a:",
+  "options": [
+   "benefactor",
+   "eulogist",
+   "beneficiary",
+   "sycophant"
+  ],
+  "correct": "B",
+  "explanation": "eulogist: A person who delivers a eulogy.",
+  "reasons": {
+   "A": "Wrong: A person who gives money or help to others.",
+   "B": "Correct: A person who delivers a eulogy.",
+   "C": "Wrong: The person who receives money or help.",
+   "D": "Wrong: A person who flatters the powerful to gain favor."
+  }
+ },
+ {
+  "word": "eulogistic",
+  "question": "The speech praised the leader in highly flattering terms. The speech was:",
+  "options": [
+   "malevolent",
+   "malignant",
+   "eulogistic",
+   "disparaging"
+  ],
+  "correct": "C",
+  "explanation": "eulogistic: Praising highly in speech or writing.",
+  "reasons": {
+   "A": "Wrong: Wishing evil or harm to others.",
+   "B": "Wrong: Harmful and deadly, with deep hatred or evil intent.",
+   "C": "Correct: Praising highly in speech or writing.",
+   "D": "Wrong: Belittling; expressing low opinion."
+  }
+ },
+ {
+  "word": "eulogize",
+  "question": "At the funeral, she spoke to praise the dead man's life. She would eulogize him, meaning to:",
+  "options": [
+   "disparage",
+   "castigate",
+   "malign",
+   "eulogize"
+  ],
+  "correct": "D",
+  "explanation": "eulogize: To praise highly in a speech.",
+  "reasons": {
+   "A": "Wrong: To belittle or speak of as less important.",
+   "B": "Wrong: To scold or criticize severely.",
+   "C": "Wrong: To speak evil of someone; to slander.",
+   "D": "Correct: To praise highly in a speech."
+  }
+ },
+ {
+  "word": "eulogy",
+  "question": "The speech praising the dead man at the funeral was a:",
+  "options": [
+   "eulogy",
+   "tome",
+   "platitude",
+   "epitome"
+  ],
+  "correct": "A",
+  "explanation": "eulogy: A speech or writing praising a person, often at a funeral.",
+  "reasons": {
+   "A": "Correct: A speech or writing praising a person, often at a funeral.",
+   "B": "Wrong: A large, heavy book; originally a part cut from a whole.",
+   "C": "Wrong: A dull, trite remark presented as if new.",
+   "D": "Wrong: A perfect example; a short summary."
+  }
+ },
+ {
+  "word": "genealogical",
+  "question": "The researcher traced the family's line back through many generations. Her work was:",
+  "options": [
+   "geological",
+   "genealogical",
+   "zoological",
+   "chronological"
+  ],
+  "correct": "B",
+  "explanation": "genealogical: Relating to family history.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Correct: Relating to family history.",
+   "C": "Wrong: Relating to animals and their study.",
+   "D": "Wrong: In correct time order."
+  }
+ },
+ {
+  "word": "genealogist",
+  "question": "The expert who traces family trees and ancestry is a:",
+  "options": [
+   "geologist",
+   "chronologist",
+   "genealogist",
+   "zoologist"
+  ],
+  "correct": "C",
+  "explanation": "genealogist: A person who studies family trees.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A person who arranges events in time order.",
+   "C": "Correct: A person who studies family trees.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "genealogy",
+  "question": "The study of family history and ancestry is called:",
+  "options": [
+   "geology",
+   "chronology",
+   "zoology",
+   "genealogy"
+  ],
+  "correct": "D",
+  "explanation": "genealogy: The study of family history and ancestry.",
+  "reasons": {
+   "A": "Wrong: The science of the earth's composition and history.",
+   "B": "Wrong: The science of arranging events in time order.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Correct: The study of family history and ancestry."
+  }
+ },
+ {
+  "word": "geological",
+  "question": "The professor studied the rock layers and the history of the earth. Her study was:",
+  "options": [
+   "geological",
+   "biological",
+   "zoological",
+   "theological"
+  ],
+  "correct": "A",
+  "explanation": "geological: Relating to geology.",
+  "reasons": {
+   "A": "Correct: Relating to geology.",
+   "B": "Wrong: Relating to living things.",
+   "C": "Wrong: Relating to animals and their study.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "geologist",
+  "question": "The scientist who studies the earth's rocks and composition is a:",
+  "options": [
+   "biologist",
+   "geologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "B",
+  "explanation": "geologist: A scientist who studies the earth and its rocks.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies all living matter.",
+   "B": "Correct: A scientist who studies the earth and its rocks.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "geology",
+  "question": "The science of the earth's rocks and history is called:",
+  "options": [
+   "biology",
+   "zoology",
+   "geology",
+   "theology"
+  ],
+  "correct": "C",
+  "explanation": "geology: The science of the earth's composition and history.",
+  "reasons": {
+   "A": "Wrong: The science of living things.",
+   "B": "Wrong: The science of animal life.",
+   "C": "Correct: The science of the earth's composition and history.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "gerontological",
+  "question": "The institute researched the health problems faced in old age. Its research was:",
+  "options": [
+   "pediatric",
+   "podiatric",
+   "psychiatric",
+   "gerontological"
+  ],
+  "correct": "D",
+  "explanation": "gerontological: Relating to the study of aging.",
+  "reasons": {
+   "A": "Wrong: Relating to children's medicine.",
+   "B": "Wrong: Relating to foot care.",
+   "C": "Wrong: Relating to the treatment of mental disorders.",
+   "D": "Correct: Relating to the study of aging."
+  }
+ },
+ {
+  "word": "gerontologist",
+  "question": "The social scientist who studies the problems of aging is a:",
+  "options": [
+   "gerontologist",
+   "geriatrician",
+   "psychologist",
+   "sociologist"
+  ],
+  "correct": "A",
+  "explanation": "gerontologist: A social scientist who studies the problems of the elderly.",
+  "reasons": {
+   "A": "Correct: A social scientist who studies the problems of the elderly.",
+   "B": "Wrong: A doctor who specializes in the elderly.",
+   "C": "Wrong: A specialist who studies human behavior.",
+   "D": "Wrong: A scientist who studies human society and social groups."
+  }
+ },
+ {
+  "word": "gerontology",
+  "question": "The study of the problems of old age is called:",
+  "options": [
+   "geriatrics",
+   "gerontology",
+   "sociology",
+   "psychology"
+  ],
+  "correct": "B",
+  "explanation": "gerontology: The study of the problems of old age.",
+  "reasons": {
+   "A": "Wrong: The medical care of the elderly.",
+   "B": "Correct: The study of the problems of old age.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "graphological",
+  "question": "The expert analysed the handwriting to reveal character. Her method was:",
+  "options": [
+   "geological",
+   "sociological",
+   "graphological",
+   "zoological"
+  ],
+  "correct": "C",
+  "explanation": "graphological: Relating to the study of handwriting.",
+  "reasons": {
+   "A": "Wrong: Relating to geology.",
+   "B": "Wrong: Relating to the study of society.",
+   "C": "Correct: Relating to the study of handwriting.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "graphologist",
+  "question": "The consultant studied the handwriting to judge personality and character. She is a:",
+  "options": [
+   "geologist",
+   "sociologist",
+   "psychologist",
+   "graphologist"
+  ],
+  "correct": "D",
+  "explanation": "graphologist: A person who analyzes handwriting to judge character.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies the earth and its rocks.",
+   "B": "Wrong: A scientist who studies human society and social groups.",
+   "C": "Wrong: A specialist who studies human behavior.",
+   "D": "Correct: A person who analyzes handwriting to judge character."
+  }
+ },
+ {
+  "word": "graphology",
+  "question": "The study of handwriting to judge personality is called:",
+  "options": [
+   "graphology",
+   "geology",
+   "sociology",
+   "psychology"
+  ],
+  "correct": "A",
+  "explanation": "graphology: The study of handwriting to judge character.",
+  "reasons": {
+   "A": "Correct: The study of handwriting to judge character.",
+   "B": "Wrong: The science of the earth's composition and history.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "gynecological",
+  "question": "The hospital's department focused on women's health and childbirth. Its work was:",
+  "options": [
+   "pediatric",
+   "gynecological",
+   "podiatric",
+   "geriatric"
+  ],
+  "correct": "B",
+  "explanation": "gynecological: Relating to women's health.",
+  "reasons": {
+   "A": "Wrong: Relating to children's medicine.",
+   "B": "Correct: Relating to women's health.",
+   "C": "Wrong: Relating to foot care.",
+   "D": "Wrong: Relating to the medical care of the elderly."
+  }
+ },
+ {
+  "word": "gynecologist",
+  "question": "She went to a doctor who treats women's health and reproductive diseases. Her doctor was a:",
+  "options": [
+   "pediatrician",
+   "podiatrist",
+   "gynecologist",
+   "geriatrician"
+  ],
+  "correct": "C",
+  "explanation": "gynecologist: A doctor who treats women's diseases.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats children.",
+   "B": "Wrong: A practitioner who treats minor foot ailments.",
+   "C": "Correct: A doctor who treats women's diseases.",
+   "D": "Wrong: A doctor who specializes in the elderly."
+  }
+ },
+ {
+  "word": "gynecology",
+  "question": "The medical study of women's health is called:",
+  "options": [
+   "pediatrics",
+   "podiatry",
+   "geriatrics",
+   "gynecology"
+  ],
+  "correct": "D",
+  "explanation": "gynecology: The medical study of women's health.",
+  "reasons": {
+   "A": "Wrong: The medical care of children.",
+   "B": "Wrong: The treatment of minor foot ailments.",
+   "C": "Wrong: The medical care of the elderly.",
+   "D": "Correct: The medical study of women's health."
+  }
+ },
+ {
+  "word": "logophobia",
+  "question": "He was terrified of speech and words, and avoided every conversation. His fear is called:",
+  "options": [
+   "logophobia",
+   "claustrophobia",
+   "acrophobia",
+   "hydrophobia"
+  ],
+  "correct": "A",
+  "explanation": "logophobia: Fear of speech or words.",
+  "reasons": {
+   "A": "Correct: Fear of speech or words.",
+   "B": "Wrong: Morbid dread of being shut in small places.",
+   "C": "Wrong: Morbid dread of heights.",
+   "D": "Wrong: Fear of water."
+  }
+ },
+ {
+  "word": "neurological",
+  "question": "The study of the nervous system and its disorders was the focus of the lab. Its focus was:",
+  "options": [
+   "cardiological",
+   "neurological",
+   "dermatological",
+   "gynecological"
+  ],
+  "correct": "B",
+  "explanation": "neurological: Relating to the nervous system.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of the heart.",
+   "B": "Correct: Relating to the nervous system.",
+   "C": "Wrong: Relating to skin medicine.",
+   "D": "Wrong: Relating to women's health."
+  }
+ },
+ {
+  "word": "neurologist",
+  "question": "The doctor who treats disorders of the nervous system is a:",
+  "options": [
+   "cardiologist",
+   "dermatologist",
+   "neurologist",
+   "gynecologist"
+  ],
+  "correct": "C",
+  "explanation": "neurologist: A doctor who treats the nervous system.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats heart diseases.",
+   "B": "Wrong: A doctor who treats skin diseases.",
+   "C": "Correct: A doctor who treats the nervous system.",
+   "D": "Wrong: A doctor who treats women's diseases."
+  }
+ },
+ {
+  "word": "neurology",
+  "question": "The study of the nervous system is called:",
+  "options": [
+   "cardiology",
+   "dermatology",
+   "gynecology",
+   "neurology"
+  ],
+  "correct": "D",
+  "explanation": "neurology: The study of the nervous system.",
+  "reasons": {
+   "A": "Wrong: The study of the heart and its diseases.",
+   "B": "Wrong: The study of skin and its diseases.",
+   "C": "Wrong: The medical study of women's health.",
+   "D": "Correct: The study of the nervous system."
+  }
+ },
+ {
+  "word": "ophthalmological",
+  "question": "The conference covered new treatments for eye disorders. Its subject was:",
+  "options": [
+   "ophthalmological",
+   "neurological",
+   "pathological",
+   "cardiological"
+  ],
+  "correct": "A",
+  "explanation": "ophthalmological: Relating to eye medicine.",
+  "reasons": {
+   "A": "Correct: Relating to eye medicine.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Diseased; relating to a disease.",
+   "D": "Wrong: Relating to the study of the heart."
+  }
+ },
+ {
+  "word": "ophthalmologist",
+  "question": "The medical doctor who treats eye disorders is an:",
+  "options": [
+   "neurologist",
+   "ophthalmologist",
+   "dermatologist",
+   "cardiologist"
+  ],
+  "correct": "B",
+  "explanation": "ophthalmologist: A medical doctor who treats eye disorders.",
+  "reasons": {
+   "A": "Wrong: A doctor who treats the nervous system.",
+   "B": "Correct: A medical doctor who treats eye disorders.",
+   "C": "Wrong: A doctor who treats skin diseases.",
+   "D": "Wrong: A doctor who treats heart diseases."
+  }
+ },
+ {
+  "word": "ophthalmology",
+  "question": "The medical study of eye diseases is called:",
+  "options": [
+   "neurology",
+   "dermatology",
+   "ophthalmology",
+   "cardiology"
+  ],
+  "correct": "C",
+  "explanation": "ophthalmology: The medical study of eye diseases.",
+  "reasons": {
+   "A": "Wrong: The study of the nervous system.",
+   "B": "Wrong: The study of skin and its diseases.",
+   "C": "Correct: The medical study of eye diseases.",
+   "D": "Wrong: The study of the heart and its diseases."
+  }
+ },
+ {
+  "word": "pathological",
+  "question": "The doctor found diseased tissue in the sample under the microscope. The sample was:",
+  "options": [
+   "psychological",
+   "sociological",
+   "theological",
+   "pathological"
+  ],
+  "correct": "D",
+  "explanation": "pathological: Diseased; relating to a disease.",
+  "reasons": {
+   "A": "Wrong: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to the study of society.",
+   "C": "Wrong: Relating to the study of God and religion.",
+   "D": "Correct: Diseased; relating to a disease."
+  }
+ },
+ {
+  "word": "pathologist",
+  "question": "The expert who examines tissue to diagnose disease is a:",
+  "options": [
+   "pathologist",
+   "psychologist",
+   "sociologist",
+   "theologian"
+  ],
+  "correct": "A",
+  "explanation": "pathologist: An expert who examines tissue to diagnose disease.",
+  "reasons": {
+   "A": "Correct: An expert who examines tissue to diagnose disease.",
+   "B": "Wrong: A specialist who studies human behavior.",
+   "C": "Wrong: A scientist who studies human society and social groups.",
+   "D": "Wrong: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "pathology",
+  "question": "The study of disease and its causes is called:",
+  "options": [
+   "psychology",
+   "pathology",
+   "sociology",
+   "theology"
+  ],
+  "correct": "B",
+  "explanation": "pathology: The study of disease, its nature, and its cause.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Correct: The study of disease, its nature, and its cause.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "philological",
+  "question": "The scholar studied the history of words and how languages developed. His study was:",
+  "options": [
+   "psychological",
+   "sociological",
+   "philological",
+   "theological"
+  ],
+  "correct": "C",
+  "explanation": "philological: Relating to the study of language.",
+  "reasons": {
+   "A": "Wrong: Relating to the mind or to psychology.",
+   "B": "Wrong: Relating to the study of society.",
+   "C": "Correct: Relating to the study of language.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "philologist",
+  "question": "The scientist who studies languages and their history is a:",
+  "options": [
+   "psychologist",
+   "sociologist",
+   "theologian",
+   "philologist"
+  ],
+  "correct": "D",
+  "explanation": "philologist: A scientist who studies language and its history.",
+  "reasons": {
+   "A": "Wrong: A specialist who studies human behavior.",
+   "B": "Wrong: A scientist who studies human society and social groups.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Correct: A scientist who studies language and its history."
+  }
+ },
+ {
+  "word": "philology",
+  "question": "The study of language and its history is called:",
+  "options": [
+   "philology",
+   "psychology",
+   "sociology",
+   "theology"
+  ],
+  "correct": "A",
+  "explanation": "philology: The study of language and its history.",
+  "reasons": {
+   "A": "Correct: The study of language and its history.",
+   "B": "Wrong: The study of the mind and behavior.",
+   "C": "Wrong: The study of human society and social groups.",
+   "D": "Wrong: The study of God and religion."
+  }
+ },
+ {
+  "word": "psychological",
+  "question": "The therapist examined the mind and behavior of the patient. Her approach was:",
+  "options": [
+   "theological",
+   "psychological",
+   "biological",
+   "zoological"
+  ],
+  "correct": "B",
+  "explanation": "psychological: Relating to the mind or to psychology.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of God and religion.",
+   "B": "Correct: Relating to the mind or to psychology.",
+   "C": "Wrong: Relating to living things.",
+   "D": "Wrong: Relating to animals and their study."
+  }
+ },
+ {
+  "word": "psychologist",
+  "question": "A specialist who studies human behavior and the mind is a:",
+  "options": [
+   "sociologist",
+   "theologian",
+   "psychologist",
+   "zoologist"
+  ],
+  "correct": "C",
+  "explanation": "psychologist: A specialist who studies human behavior.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies human society and social groups.",
+   "B": "Wrong: A student or expert of God and religion.",
+   "C": "Correct: A specialist who studies human behavior.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "psychology",
+  "question": "The study of the mind and behavior is called:",
+  "options": [
+   "sociology",
+   "theology",
+   "zoology",
+   "psychology"
+  ],
+  "correct": "D",
+  "explanation": "psychology: The study of the mind and behavior.",
+  "reasons": {
+   "A": "Wrong: The study of human society and social groups.",
+   "B": "Wrong: The study of God and religion.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Correct: The study of the mind and behavior."
+  }
+ },
+ {
+  "word": "sociological",
+  "question": "The report analysed how groups and communities in society interact. Its analysis was:",
+  "options": [
+   "sociological",
+   "psychological",
+   "geological",
+   "theological"
+  ],
+  "correct": "A",
+  "explanation": "sociological: Relating to the study of society.",
+  "reasons": {
+   "A": "Correct: Relating to the study of society.",
+   "B": "Wrong: Relating to the mind or to psychology.",
+   "C": "Wrong: Relating to geology.",
+   "D": "Wrong: Relating to the study of God and religion."
+  }
+ },
+ {
+  "word": "sociologist",
+  "question": "The scientist who studies human society and social groups is a:",
+  "options": [
+   "psychologist",
+   "sociologist",
+   "theologian",
+   "zoologist"
+  ],
+  "correct": "B",
+  "explanation": "sociologist: A scientist who studies human society and social groups.",
+  "reasons": {
+   "A": "Wrong: A specialist who studies human behavior.",
+   "B": "Correct: A scientist who studies human society and social groups.",
+   "C": "Wrong: A student or expert of God and religion.",
+   "D": "Wrong: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "sociology",
+  "question": "The study of human society and social groups is called:",
+  "options": [
+   "psychology",
+   "theology",
+   "sociology",
+   "zoology"
+  ],
+  "correct": "C",
+  "explanation": "sociology: The study of human society and social groups.",
+  "reasons": {
+   "A": "Wrong: The study of the mind and behavior.",
+   "B": "Wrong: The study of God and religion.",
+   "C": "Correct: The study of human society and social groups.",
+   "D": "Wrong: The science of animal life."
+  }
+ },
+ {
+  "word": "theologian",
+  "question": "The scholar who studies God and religion is a:",
+  "options": [
+   "zoologist",
+   "geologist",
+   "philologist",
+   "theologian"
+  ],
+  "correct": "D",
+  "explanation": "theologian: A student or expert of God and religion.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies animal life.",
+   "B": "Wrong: A scientist who studies the earth and its rocks.",
+   "C": "Wrong: A scientist who studies language and its history.",
+   "D": "Correct: A student or expert of God and religion."
+  }
+ },
+ {
+  "word": "theological",
+  "question": "The seminar explored questions about God and religious belief. Its focus was:",
+  "options": [
+   "theological",
+   "psychological",
+   "zoological",
+   "geological"
+  ],
+  "correct": "A",
+  "explanation": "theological: Relating to the study of God and religion.",
+  "reasons": {
+   "A": "Correct: Relating to the study of God and religion.",
+   "B": "Wrong: Relating to the mind or to psychology.",
+   "C": "Wrong: Relating to animals and their study.",
+   "D": "Wrong: Relating to geology."
+  }
+ },
+ {
+  "word": "theology",
+  "question": "The study of God and religion is called:",
+  "options": [
+   "zoology",
+   "theology",
+   "geology",
+   "sociology"
+  ],
+  "correct": "B",
+  "explanation": "theology: The study of God and religion.",
+  "reasons": {
+   "A": "Wrong: The science of animal life.",
+   "B": "Correct: The study of God and religion.",
+   "C": "Wrong: The science of the earth's composition and history.",
+   "D": "Wrong: The study of human society and social groups."
+  }
+ },
+ {
+  "word": "zoological",
+  "question": "The garden's research centre studied animals and their life. Its work was:",
+  "options": [
+   "biological",
+   "geological",
+   "zoological",
+   "botanical"
+  ],
+  "correct": "C",
+  "explanation": "zoological: Relating to animals and their study.",
+  "reasons": {
+   "A": "Wrong: Relating to living things.",
+   "B": "Wrong: Relating to geology.",
+   "C": "Correct: Relating to animals and their study.",
+   "D": "Wrong: Relating to plants and their study."
+  }
+ },
+ {
+  "word": "zoologist",
+  "question": "The scientist who studies animal life is a:",
+  "options": [
+   "biologist",
+   "botanist",
+   "geologist",
+   "zoologist"
+  ],
+  "correct": "D",
+  "explanation": "zoologist: A scientist who studies animal life.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies all living matter.",
+   "B": "Wrong: A scientist who studies plant life.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Correct: A scientist who studies animal life."
+  }
+ },
+ {
+  "word": "zoology",
+  "question": "The science of animal life is called:",
+  "options": [
+   "zoology",
+   "biology",
+   "botany",
+   "geology"
+  ],
+  "correct": "A",
+  "explanation": "zoology: The science of animal life.",
+  "reasons": {
+   "A": "Correct: The science of animal life.",
+   "B": "Wrong: The science of living things.",
+   "C": "Wrong: The science of plant life.",
+   "D": "Wrong: The science of the earth's composition and history."
+  }
+ }
+]

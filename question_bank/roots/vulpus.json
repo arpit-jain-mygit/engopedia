@@ -1,0 +1,20 @@
+[
+ {
+  "word": "vulpine",
+  "question": "The salesman smiled, but his narrow eyes showed he was sly and cunning, always planning a trick. His look was:",
+  "options": [
+   "Vulpine",
+   "Lupine",
+   "Ursine",
+   "Leonine"
+  ],
+  "correct": "A",
+  "explanation": "Vulpus (fox) + -ine: fox-like.",
+  "reasons": {
+   "A": "Correct: fox-like; sly or cunning.",
+   "B": "Wrong: wolf-like, fierce rather than sly.",
+   "C": "Wrong: bear-like, big and heavy.",
+   "D": "Wrong: lion-like, proud and commanding."
+  }
+ }
+]

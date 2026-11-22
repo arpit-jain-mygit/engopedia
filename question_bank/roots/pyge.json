@@ -1,0 +1,20 @@
+[
+ {
+  "word": "callipygian",
+  "question": "A sculptor's statue is praised for its beautifully shaped rear. Such a statue is:",
+  "options": [
+   "Pachydermal",
+   "Callipygian",
+   "Callous",
+   "Calligraphic"
+  ],
+  "correct": "B",
+  "explanation": "Kallos (beauty) + pyge (buttocks) + -ian: beautifully shaped rear.",
+  "reasons": {
+   "A": "Wrong: thick-skinned.",
+   "B": "Correct: having a shapely, attractive rear end.",
+   "C": "Wrong: unfeeling or cruel.",
+   "D": "Wrong: relating to beautiful handwriting."
+  }
+ }
+]

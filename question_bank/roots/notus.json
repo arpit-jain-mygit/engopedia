@@ -1,0 +1,38 @@
+[
+ {
+  "word": "notorious",
+  "question": "The bank robber had a name that every police station knew, built on years of crimes. He was:",
+  "options": [
+   "Renowned",
+   "Obscure",
+   "Anonymous",
+   "Notorious"
+  ],
+  "correct": "D",
+  "explanation": "Notus (known) + -ious: known, well known for a bad quality.",
+  "reasons": {
+   "A": "Wrong: famous for good qualities.",
+   "B": "Wrong: little known.",
+   "C": "Wrong: with no name known to others.",
+   "D": "Correct: widely known for something bad."
+  }
+ },
+ {
+  "word": "notoriety",
+  "question": "The gang leader's fame for violence spread through the whole city, and everyone feared his name. This reputation for bad fame is called his:",
+  "options": [
+   "Notoriety",
+   "Renown",
+   "Obscurity",
+   "Anonymity"
+  ],
+  "correct": "A",
+  "explanation": "Notoriety: the state of being well known for a bad quality.",
+  "reasons": {
+   "A": "Correct: the state of being famous for something bad.",
+   "B": "Wrong: fame for good qualities.",
+   "C": "Wrong: being little known.",
+   "D": "Wrong: having no known name."
+  }
+ }
+]

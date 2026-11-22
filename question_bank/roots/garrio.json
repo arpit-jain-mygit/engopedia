@@ -1,0 +1,38 @@
+[
+ {
+  "word": "garrulous",
+  "question": "The guest talked nonstop through the whole dinner and never let anyone else get a word in. He was:",
+  "options": [
+   "Reticent",
+   "Laconic",
+   "Garrulous",
+   "Equable"
+  ],
+  "correct": "C",
+  "explanation": "Garrio (chatter) + -ulous: given to talking too much.",
+  "reasons": {
+   "A": "Wrong: reserved and reluctant to speak; the opposite of this guest.",
+   "B": "Wrong: using very few words; the guest uses far too many.",
+   "C": "Correct: talking too much, in a rambling way.",
+   "D": "Wrong: calm and even-tempered."
+  }
+ },
+ {
+  "word": "garrulity",
+  "question": "His endless, rambling chatter at every meeting wore out his colleagues. This constant talkativeness is his:",
+  "options": [
+   "Taciturnity",
+   "Equanimity",
+   "Ambivalence",
+   "Garrulity"
+  ],
+  "correct": "D",
+  "explanation": "Garrulity: the quality of being talkative, often in a rambling way.",
+  "reasons": {
+   "A": "Wrong: silence or reserve in speech.",
+   "B": "Wrong: calm composure.",
+   "C": "Wrong: mixed or conflicting feelings.",
+   "D": "Correct: the quality of talking too much."
+  }
+ }
+]

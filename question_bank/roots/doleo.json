@@ -1,0 +1,92 @@
+[
+ {
+  "word": "condole",
+  "question": "The neighbours came to express their sympathy in grief for the family. They came to:",
+  "options": [
+   "disparage",
+   "malign",
+   "eulogize",
+   "condole"
+  ],
+  "correct": "D",
+  "explanation": "condole: To express sympathy in grief.",
+  "reasons": {
+   "A": "Wrong: To belittle or speak of as less important.",
+   "B": "Wrong: To speak evil of someone; to slander.",
+   "C": "Wrong: To praise highly in a speech.",
+   "D": "Correct: To express sympathy in grief."
+  }
+ },
+ {
+  "word": "condolence",
+  "question": "The card expressed sympathy in grief for the family's loss. Such an expression is:",
+  "options": [
+   "condolence",
+   "disparagement",
+   "eulogy",
+   "platitude"
+  ],
+  "correct": "A",
+  "explanation": "condolence: Expression of sympathy in grief.",
+  "reasons": {
+   "A": "Correct: Expression of sympathy in grief.",
+   "B": "Wrong: The act of belittling someone or something.",
+   "C": "Wrong: A speech or writing praising a person, often at a funeral.",
+   "D": "Wrong: A dull, trite remark presented as if new."
+  }
+ },
+ {
+  "word": "doleful",
+  "question": "The sad, gloomy song made the audience feel dismal and sorrowful. The song was:",
+  "options": [
+   "euphoric",
+   "doleful",
+   "vivacious",
+   "vivid"
+  ],
+  "correct": "B",
+  "explanation": "doleful: Sad, dismal, and gloomy.",
+  "reasons": {
+   "A": "Wrong: Feeling great joy and excitement.",
+   "B": "Correct: Sad, dismal, and gloomy.",
+   "C": "Wrong: Full of life, joy, and energy.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "dolor",
+  "question": "The poet described his sorrow with an old poetic word for grief. That word is:",
+  "options": [
+   "euphoria",
+   "ennui",
+   "dolor",
+   "apathy"
+  ],
+  "correct": "C",
+  "explanation": "dolor: Grief or sorrow; a poetic word.",
+  "reasons": {
+   "A": "Wrong: A strong feeling of happiness and well-being.",
+   "B": "Wrong: Boredom and weariness from having too little to do.",
+   "C": "Correct: Grief or sorrow; a poetic word.",
+   "D": "Wrong: A lack of feeling, interest, or concern."
+  }
+ },
+ {
+  "word": "dolorous",
+  "question": "The mourners' voices were sad and mournful as they walked. Their tone was:",
+  "options": [
+   "vivacious",
+   "euphoric",
+   "placid",
+   "dolorous"
+  ],
+  "correct": "D",
+  "explanation": "dolorous: Sad and mournful.",
+  "reasons": {
+   "A": "Wrong: Full of life, joy, and energy.",
+   "B": "Wrong: Feeling great joy and excitement.",
+   "C": "Wrong: Calm, easygoing, and undisturbed.",
+   "D": "Correct: Sad and mournful."
+  }
+ }
+]

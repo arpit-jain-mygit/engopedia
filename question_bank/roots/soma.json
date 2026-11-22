@@ -1,0 +1,20 @@
+[
+ {
+  "word": "psychosomatic",
+  "question": "A student gets a stomach ache every time an exam approaches, though a doctor finds no physical cause. The illness is:",
+  "options": [
+   "Somnolent",
+   "Hypochondriac",
+   "Psychosomatic",
+   "Anosmic"
+  ],
+  "correct": "C",
+  "explanation": "Psyche (mind) + soma (body) + -ic: the body reacts to a mental cause.",
+  "reasons": {
+   "A": "Wrong: drowsy or sleepy.",
+   "B": "Wrong: a person who worries about their health; it names a person, not an illness.",
+   "C": "Correct: a physical illness caused by the mind.",
+   "D": "Wrong: unable to smell."
+  }
+ }
+]

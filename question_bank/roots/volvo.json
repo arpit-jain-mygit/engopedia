@@ -1,0 +1,182 @@
+[
+ {
+  "word": "evolution",
+  "question": "Over millions of years, species changed gradually into new forms. This gradual change is:",
+  "options": [
+   "revolution",
+   "evolution",
+   "revival",
+   "decadence"
+  ],
+  "correct": "B",
+  "explanation": "evolution: A gradual development over time.",
+  "reasons": {
+   "A": "Wrong: A complete change; a rolling turn.",
+   "B": "Correct: A gradual development over time.",
+   "C": "Wrong: A restoring to life or activity.",
+   "D": "Wrong: Moral or physical decay."
+  }
+ },
+ {
+  "word": "evolutionary",
+  "question": "The scientist studied the gradual development of species over time. Her theory was:",
+  "options": [
+   "revolutionary",
+   "vivacious",
+   "evolutionary",
+   "placid"
+  ],
+  "correct": "C",
+  "explanation": "evolutionary: Relating to gradual development.",
+  "reasons": {
+   "A": "Wrong: Bringing a radical change.",
+   "B": "Wrong: Full of life, joy, and energy.",
+   "C": "Correct: Relating to gradual development.",
+   "D": "Wrong: Calm, easygoing, and undisturbed."
+  }
+ },
+ {
+  "word": "evolve",
+  "question": "The small company gradually developed into a large firm over many years. It began to:",
+  "options": [
+   "revolve",
+   "involve",
+   "devitalize",
+   "evolve"
+  ],
+  "correct": "D",
+  "explanation": "evolve: To develop gradually.",
+  "reasons": {
+   "A": "Wrong: To turn round and round.",
+   "B": "Wrong: To roll in; to include or take part in.",
+   "C": "Wrong: To drain life or energy from.",
+   "D": "Correct: To develop gradually."
+  }
+ },
+ {
+  "word": "involve",
+  "question": "The new project would include all the team members in its work. It would:",
+  "options": [
+   "involve",
+   "revolve",
+   "evolve",
+   "vacillate"
+  ],
+  "correct": "A",
+  "explanation": "involve: To roll in; to include or take part in.",
+  "reasons": {
+   "A": "Correct: To roll in; to include or take part in.",
+   "B": "Wrong: To turn round and round.",
+   "C": "Wrong: To develop gradually.",
+   "D": "Wrong: To waver or keep changing your mind."
+  }
+ },
+ {
+  "word": "involvement",
+  "question": "Her taking part in the campaign showed her active participation. This participation is her:",
+  "options": [
+   "revolution",
+   "involvement",
+   "evolution",
+   "volition"
+  ],
+  "correct": "B",
+  "explanation": "involvement: The act of taking part.",
+  "reasons": {
+   "A": "Wrong: A complete change; a rolling turn.",
+   "B": "Correct: The act of taking part.",
+   "C": "Wrong: A gradual development over time.",
+   "D": "Wrong: One's own will or choice."
+  }
+ },
+ {
+  "word": "revolution",
+  "question": "The sudden overthrow of the government brought a complete change. This dramatic change is a:",
+  "options": [
+   "evolution",
+   "involvement",
+   "revolution",
+   "decadence"
+  ],
+  "correct": "C",
+  "explanation": "revolution: A complete change; a rolling turn.",
+  "reasons": {
+   "A": "Wrong: A gradual development over time.",
+   "B": "Wrong: The act of taking part.",
+   "C": "Correct: A complete change; a rolling turn.",
+   "D": "Wrong: Moral or physical decay."
+  }
+ },
+ {
+  "word": "revolutionary",
+  "question": "The new invention brought a radical change to how people work. It was:",
+  "options": [
+   "evolutionary",
+   "placid",
+   "trivial",
+   "revolutionary"
+  ],
+  "correct": "D",
+  "explanation": "revolutionary: Bringing a radical change.",
+  "reasons": {
+   "A": "Wrong: Relating to gradual development.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Unimportant; of little value.",
+   "D": "Correct: Bringing a radical change."
+  }
+ },
+ {
+  "word": "revolve",
+  "question": "The planet turns round and round as it orbits the sun. It would:",
+  "options": [
+   "revolve",
+   "evolve",
+   "involve",
+   "vacillate"
+  ],
+  "correct": "A",
+  "explanation": "revolve: To turn round and round.",
+  "reasons": {
+   "A": "Correct: To turn round and round.",
+   "B": "Wrong: To develop gradually.",
+   "C": "Wrong: To roll in; to include or take part in.",
+   "D": "Wrong: To waver or keep changing your mind."
+  }
+ },
+ {
+  "word": "volubility",
+  "question": "Her talkativeness and fluency in speaking rapidly were astonishing. This ease of speech is:",
+  "options": [
+   "taciturnity",
+   "volubility",
+   "reticence",
+   "laconicism"
+  ],
+  "correct": "B",
+  "explanation": "volubility: Speaking rapidly and easily.",
+  "reasons": {
+   "A": "Wrong: Habitual silence; unwillingness to talk.",
+   "B": "Correct: Speaking rapidly and easily.",
+   "C": "Wrong: Unwillingness to speak openly.",
+   "D": "Wrong: A habit of using few words."
+  }
+ },
+ {
+  "word": "voluble",
+  "question": "The salesman spoke rapidly and fluently and never stopped talking. He was:",
+  "options": [
+   "taciturn",
+   "reticent",
+   "voluble",
+   "laconic"
+  ],
+  "correct": "C",
+  "explanation": "voluble: Speaking rapidly and fluently.",
+  "reasons": {
+   "A": "Wrong: Silent, unwilling to talk.",
+   "B": "Wrong: Unwilling to reveal feelings or thoughts.",
+   "C": "Correct: Speaking rapidly and fluently.",
+   "D": "Wrong: Using very few words; brief and to the point."
+  }
+ }
+]

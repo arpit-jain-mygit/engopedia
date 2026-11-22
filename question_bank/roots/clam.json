@@ -1,0 +1,20 @@
+[
+ {
+  "word": "clandestine",
+  "question": "The rebels met in a cellar at midnight, using codewords and hiding every plan from the police. Their meetings were:",
+  "options": [
+   "Ephemeral",
+   "Bona fide",
+   "Opulent",
+   "Clandestine"
+  ],
+  "correct": "D",
+  "explanation": "Clam (secretly) + -ine: done in secret.",
+  "reasons": {
+   "A": "Wrong: lasting only a short time.",
+   "B": "Wrong: genuine and made in good faith.",
+   "C": "Wrong: luxurious and rich.",
+   "D": "Correct: done in secret, hidden from view."
+  }
+ }
+]

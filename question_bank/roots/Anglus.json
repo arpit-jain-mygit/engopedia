@@ -1,0 +1,20 @@
+[
+ {
+  "word": "Anglophile",
+  "question": "A man collects Dickens novels, follows cricket closely, and admires everything about the island of the Tower and the Thames. He is an:",
+  "options": [
+   "Anglophile",
+   "Francophile",
+   "Bibliophile",
+   "Philatelist"
+  ],
+  "correct": "A",
+  "explanation": "Anglus (English) + philein (to love): a lover of English things.",
+  "reasons": {
+   "A": "Correct: a lover of English culture and everything English.",
+   "B": "Wrong: a lover of France and French culture; this man admires a different nation.",
+   "C": "Wrong: a lover of books; the stem is about a nation's culture, not collecting books.",
+   "D": "Wrong: a stamp collector."
+  }
+ }
+]

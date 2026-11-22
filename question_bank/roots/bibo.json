@@ -1,0 +1,38 @@
+[
+ {
+  "word": "bibulous",
+  "question": "Each evening he drinks far more than he should, and by midnight he is noticeably unsteady. He is:",
+  "options": [
+   "Garrulous",
+   "Bibulous",
+   "Ascetic",
+   "Impecunious"
+  ],
+  "correct": "B",
+  "explanation": "Bibo (drink) + -ulous: given to drinking.",
+  "reasons": {
+   "A": "Wrong: talking too much; the stem describes drinking, not talk.",
+   "B": "Correct: fond of drinking, especially alcohol, to excess.",
+   "C": "Wrong: living in strict self-denial; the man indulges.",
+   "D": "Wrong: having little or no money."
+  }
+ },
+ {
+  "word": "imbibe",
+  "question": "The student soaked up every word of the lecture, taking in the ideas as eagerly as a sponge. He ___ the knowledge.",
+  "options": [
+   "Castigate",
+   "Condone",
+   "Imbibe",
+   "Oscillate"
+  ],
+  "correct": "C",
+  "explanation": "In- (in) + bibo (drink): to take in, like a drink.",
+  "reasons": {
+   "A": "Wrong: to scold harshly; the student is not being punished.",
+   "B": "Wrong: to overlook wrongdoing; there is no wrongdoing here.",
+   "C": "Correct: to take in or absorb, such as ideas or knowledge.",
+   "D": "Wrong: to swing back and forth; the student is absorbing, not swinging."
+  }
+ }
+]

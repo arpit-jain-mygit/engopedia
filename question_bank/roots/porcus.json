@@ -1,0 +1,20 @@
+[
+ {
+  "word": "porcine",
+  "question": "The large man gobbled his food loudly and greedily, snuffling and grunting at the table, his round pink face glistening. His appearance was:",
+  "options": [
+   "Porcine",
+   "Bovine",
+   "Canine",
+   "Ursine"
+  ],
+  "correct": "A",
+  "explanation": "Porcus (pig) + -ine: pig-like.",
+  "reasons": {
+   "A": "Correct: pig-like.",
+   "B": "Wrong: slow and dull, like a cow.",
+   "C": "Wrong: dog-like.",
+   "D": "Wrong: bear-like."
+  }
+ }
+]

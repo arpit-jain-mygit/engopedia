@@ -1,0 +1,20 @@
+[
+ {
+  "word": "ichthyophobia",
+  "question": "A diver refuses to enter the reef, where harmless scaly swimmers with gills and fins dart around her. Her fear is of these creatures:",
+  "options": [
+   "Ornithophobia",
+   "Entomophobia",
+   "Ichthyophobia",
+   "Ophidiophobia"
+  ],
+  "correct": "C",
+  "explanation": "Ichthys (fish) + phobia = fear of fish.",
+  "reasons": {
+   "A": "Wrong: fear of birds.",
+   "B": "Wrong: fear of insects.",
+   "C": "Correct: ichthys means fish, so the fear is of fish.",
+   "D": "Wrong: fear of snakes."
+  }
+ }
+]

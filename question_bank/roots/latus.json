@@ -1,0 +1,20 @@
+[
+ {
+  "word": "equilateral",
+  "question": "A tile-maker wants every edge of a triangular tile to measure exactly the same. A triangle with all sides identical is called:",
+  "options": [
+   "Equilateral",
+   "Isosceles",
+   "Scalene",
+   "Obtuse"
+  ],
+  "correct": "A",
+  "explanation": "Aequus (equal) + latus (side): equal sides.",
+  "reasons": {
+   "A": "Correct: all three sides are equal in length.",
+   "B": "Wrong: a triangle with only two equal sides.",
+   "C": "Wrong: a triangle with no equal sides.",
+   "D": "Wrong: a triangle with one angle greater than ninety degrees."
+  }
+ }
+]

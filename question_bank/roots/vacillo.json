@@ -1,0 +1,56 @@
+[
+ {
+  "word": "vacillate",
+  "question": "She could not decide whether to accept, and kept changing her mind. She would:",
+  "options": [
+   "capitulate",
+   "vacillate",
+   "decapitate",
+   "punctuate"
+  ],
+  "correct": "B",
+  "explanation": "vacillate: To waver or keep changing your mind.",
+  "reasons": {
+   "A": "Wrong: To surrender on agreed terms.",
+   "B": "Correct: To waver or keep changing your mind.",
+   "C": "Wrong: To cut off the head.",
+   "D": "Wrong: To mark with points; to interrupt."
+  }
+ },
+ {
+  "word": "vacillation",
+  "question": "Her wavering between opinions and choices was frustrating. This wavering is:",
+  "options": [
+   "capitulation",
+   "alleviation",
+   "vacillation",
+   "decapitation"
+  ],
+  "correct": "C",
+  "explanation": "vacillation: Wavering between opinions or choices.",
+  "reasons": {
+   "A": "Wrong: Surrender.",
+   "B": "Wrong: Relief from pain or trouble.",
+   "C": "Correct: Wavering between opinions or choices.",
+   "D": "Wrong: The act of cutting off the head."
+  }
+ },
+ {
+  "word": "vacillatory",
+  "question": "His indecisive, wavering behaviour in the meeting made progress hard. His behaviour was:",
+  "options": [
+   "intrepid",
+   "placid",
+   "cogent",
+   "vacillatory"
+  ],
+  "correct": "D",
+  "explanation": "vacillatory: Wavering; undecided.",
+  "reasons": {
+   "A": "Wrong: Fearless and bold; not afraid of danger.",
+   "B": "Wrong: Calm, easygoing, and undisturbed.",
+   "C": "Wrong: Powerful, convincing, and logical.",
+   "D": "Correct: Wavering; undecided."
+  }
+ }
+]

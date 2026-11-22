@@ -1,0 +1,236 @@
+[
+ {
+  "word": "bigamist",
+  "question": "A man who marries while already married to another person is a:",
+  "options": [
+   "monogamist",
+   "polygamist",
+   "misogamist",
+   "bigamist"
+  ],
+  "correct": "D",
+  "explanation": "bigamist: A person who marries while already married.",
+  "reasons": {
+   "A": "Wrong: A person married to only one spouse.",
+   "B": "Wrong: A person with more than one spouse.",
+   "C": "Wrong: One who hates marriage.",
+   "D": "Correct: A person who marries while already married."
+  }
+ },
+ {
+  "word": "bigamous",
+  "question": "The marriage was illegal because one partner was still married to someone else. It was:",
+  "options": [
+   "bigamous",
+   "monogamous",
+   "polygamous",
+   "misogamous"
+  ],
+  "correct": "A",
+  "explanation": "bigamous: Having two spouses at the same time.",
+  "reasons": {
+   "A": "Correct: Having two spouses at the same time.",
+   "B": "Wrong: Married to only one person.",
+   "C": "Wrong: Having many spouses at the same time.",
+   "D": "Wrong: Opposed to marriage."
+  }
+ },
+ {
+  "word": "bigamy",
+  "question": "The crime of marrying while still legally married to another is called:",
+  "options": [
+   "monogamy",
+   "bigamy",
+   "polygamy",
+   "misogamy"
+  ],
+  "correct": "B",
+  "explanation": "bigamy: The crime of having two spouses at once.",
+  "reasons": {
+   "A": "Wrong: Marriage to only one spouse at a time.",
+   "B": "Correct: The crime of having two spouses at once.",
+   "C": "Wrong: Marriage with many spouses at once.",
+   "D": "Wrong: Hatred of marriage."
+  }
+ },
+ {
+  "word": "gamophobia",
+  "question": "The fear of marriage that stopped her from ever wedding is called:",
+  "options": [
+   "gerontophobia",
+   "gynephobia",
+   "gamophobia",
+   "genophobia"
+  ],
+  "correct": "C",
+  "explanation": "gamophobia: Fear of marriage.",
+  "reasons": {
+   "A": "Wrong: Fear of old men.",
+   "B": "Wrong: Fear of women.",
+   "C": "Correct: Fear of marriage.",
+   "D": "Wrong: Fear of birth."
+  }
+ },
+ {
+  "word": "misogamist",
+  "question": "The philosopher who argued that marriage should be avoided was a:",
+  "options": [
+   "monogamist",
+   "bigamist",
+   "polygamist",
+   "misogamist"
+  ],
+  "correct": "D",
+  "explanation": "misogamist: One who hates marriage.",
+  "reasons": {
+   "A": "Wrong: A person married to only one spouse.",
+   "B": "Wrong: A person who marries while already married.",
+   "C": "Wrong: A person with more than one spouse.",
+   "D": "Correct: One who hates marriage."
+  }
+ },
+ {
+  "word": "misogamous",
+  "question": "The writer opposed marriage and considered it a wrong. His view was:",
+  "options": [
+   "misogamous",
+   "monogamous",
+   "bigamous",
+   "polygamous"
+  ],
+  "correct": "A",
+  "explanation": "misogamous: Opposed to marriage.",
+  "reasons": {
+   "A": "Correct: Opposed to marriage.",
+   "B": "Wrong: Married to only one person.",
+   "C": "Wrong: Having two spouses at the same time.",
+   "D": "Wrong: Having many spouses at the same time."
+  }
+ },
+ {
+  "word": "misogamy",
+  "question": "Hatred of marriage is called:",
+  "options": [
+   "bigamy",
+   "misogamy",
+   "monogamy",
+   "polygamy"
+  ],
+  "correct": "B",
+  "explanation": "misogamy: Hatred of marriage.",
+  "reasons": {
+   "A": "Wrong: The crime of having two spouses at once.",
+   "B": "Correct: Hatred of marriage.",
+   "C": "Wrong: Marriage to only one spouse at a time.",
+   "D": "Wrong: Marriage with many spouses at once."
+  }
+ },
+ {
+  "word": "monogamist",
+  "question": "The couple had lived with only each other their whole lives. He was a:",
+  "options": [
+   "polygynist",
+   "bigamist",
+   "monogamist",
+   "polyandrist"
+  ],
+  "correct": "C",
+  "explanation": "monogamist: A person married to only one spouse.",
+  "reasons": {
+   "A": "Wrong: A man with more than one wife.",
+   "B": "Wrong: A person who marries while already married.",
+   "C": "Correct: A person married to only one spouse.",
+   "D": "Wrong: A woman with more than one husband."
+  }
+ },
+ {
+  "word": "monogamous",
+  "question": "She vowed to be married to only one spouse for life. Her marriage would be:",
+  "options": [
+   "polygamous",
+   "bigamous",
+   "polyandrous",
+   "monogamous"
+  ],
+  "correct": "D",
+  "explanation": "monogamous: Married to only one person.",
+  "reasons": {
+   "A": "Wrong: Having many spouses at the same time.",
+   "B": "Wrong: Having two spouses at the same time.",
+   "C": "Wrong: Relating to a woman with several husbands.",
+   "D": "Correct: Married to only one person."
+  }
+ },
+ {
+  "word": "monogamy",
+  "question": "A marriage to one spouse, the common norm in many societies, is called:",
+  "options": [
+   "monogamy",
+   "polygamy",
+   "bigamy",
+   "polyandry"
+  ],
+  "correct": "A",
+  "explanation": "monogamy: Marriage to only one spouse at a time.",
+  "reasons": {
+   "A": "Correct: Marriage to only one spouse at a time.",
+   "B": "Wrong: Marriage with many spouses at once.",
+   "C": "Wrong: The crime of having two spouses at once.",
+   "D": "Wrong: The practice of a woman having several husbands."
+  }
+ },
+ {
+  "word": "polygamist",
+  "question": "The sultan kept many wives in his palace. He was a:",
+  "options": [
+   "monogamist",
+   "polygamist",
+   "bigamist",
+   "polyandrist"
+  ],
+  "correct": "B",
+  "explanation": "polygamist: A person with more than one spouse.",
+  "reasons": {
+   "A": "Wrong: A person married to only one spouse.",
+   "B": "Correct: A person with more than one spouse.",
+   "C": "Wrong: A person who marries while already married.",
+   "D": "Wrong: A woman with more than one husband."
+  }
+ },
+ {
+  "word": "polygamous",
+  "question": "The tribe permitted a man to marry several women at the same time. The custom was:",
+  "options": [
+   "monogamous",
+   "bigamous",
+   "polygamous",
+   "polyandrous"
+  ],
+  "correct": "C",
+  "explanation": "polygamous: Having many spouses at the same time.",
+  "reasons": {
+   "A": "Wrong: Married to only one person.",
+   "B": "Wrong: Having two spouses at the same time.",
+   "C": "Correct: Having many spouses at the same time.",
+   "D": "Wrong: Relating to a woman with several husbands."
+  }
+ },
+ {
+  "word": "polygamy",
+  "question": "The practice of having many spouses at once is called:",
+  "options": [
+   "monogamy",
+   "bigamy",
+   "polyandry",
+   "polygamy"
+  ],
+  "correct": "D",
+  "explanation": "polygamy: Marriage with many spouses at once.",
+  "reasons": {
+   "A": "Wrong: Marriage to only one spouse at a time.",
+   "B": "Wrong: The crime of having two spouses at once.",
+   "C": "Wrong: The practice of a woman having several husbands.",
+   "D": "Correct: Marriage with many spouses at once."
+  }
+ }
+]

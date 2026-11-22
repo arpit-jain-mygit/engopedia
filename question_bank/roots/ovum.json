@@ -1,0 +1,128 @@
+[
+ {
+  "word": "oval",
+  "question": "The table was shaped like an egg, longer than wide, with rounded ends. It was:",
+  "options": [
+   "equilateral",
+   "equinoctial",
+   "oval",
+   "nautical"
+  ],
+  "correct": "C",
+  "explanation": "oval: Egg-shaped.",
+  "reasons": {
+   "A": "Wrong: Having equal sides.",
+   "B": "Wrong: Relating to the equinox.",
+   "C": "Correct: Egg-shaped.",
+   "D": "Wrong: Relating to ships, sailing, or navigation."
+  }
+ },
+ {
+  "word": "ovarian",
+  "question": "The condition affecting the organs that produce eggs in women is:",
+  "options": [
+   "cardiac",
+   "neurological",
+   "auricular",
+   "ovarian"
+  ],
+  "correct": "D",
+  "explanation": "ovarian: Relating to the ovary.",
+  "reasons": {
+   "A": "Wrong: Relating to the heart.",
+   "B": "Wrong: Relating to the nervous system.",
+   "C": "Wrong: Relating to the ear or an auricle.",
+   "D": "Correct: Relating to the ovary."
+  }
+ },
+ {
+  "word": "ovary",
+  "question": "The organ in women that produces eggs is the:",
+  "options": [
+   "ovary",
+   "ventricle",
+   "epidermis",
+   "auricle"
+  ],
+  "correct": "A",
+  "explanation": "ovary: The organ that produces eggs.",
+  "reasons": {
+   "A": "Correct: The organ that produces eggs.",
+   "B": "Wrong: A hollow chamber of the heart or brain.",
+   "C": "Wrong: The outer layer of skin.",
+   "D": "Wrong: An upper chamber of the heart."
+  }
+ },
+ {
+  "word": "oviparous",
+  "question": "Birds and fish that lay eggs which hatch outside the mother's body are:",
+  "options": [
+   "viviparous",
+   "oviparous",
+   "ovoid",
+   "vivid"
+  ],
+  "correct": "B",
+  "explanation": "oviparous: Laying eggs that hatch outside the body.",
+  "reasons": {
+   "A": "Wrong: Giving birth to live young.",
+   "B": "Correct: Laying eggs that hatch outside the body.",
+   "C": "Wrong: Shaped like an egg.",
+   "D": "Wrong: Full of life and freshness; bright or sharp."
+  }
+ },
+ {
+  "word": "ovoid",
+  "question": "The shape of the stone was like an egg. It was:",
+  "options": [
+   "oval",
+   "equilateral",
+   "ovoid",
+   "nautical"
+  ],
+  "correct": "C",
+  "explanation": "ovoid: Shaped like an egg.",
+  "reasons": {
+   "A": "Wrong: Egg-shaped.",
+   "B": "Wrong: Having equal sides.",
+   "C": "Correct: Shaped like an egg.",
+   "D": "Wrong: Relating to ships, sailing, or navigation."
+  }
+ },
+ {
+  "word": "ovulate",
+  "question": "Each month the woman releases an egg from her ovary. She will:",
+  "options": [
+   "vacillate",
+   "vegetate",
+   "ventriloquize",
+   "ovulate"
+  ],
+  "correct": "D",
+  "explanation": "ovulate: To release an egg from the ovary.",
+  "reasons": {
+   "A": "Wrong: To waver or keep changing your mind.",
+   "B": "Wrong: To live a dull, inactive life.",
+   "C": "Wrong: To throw the voice.",
+   "D": "Correct: To release an egg from the ovary."
+  }
+ },
+ {
+  "word": "ovulation",
+  "question": "The release of an egg from the ovary each month is called:",
+  "options": [
+   "ovulation",
+   "vacillation",
+   "evanescence",
+   "revitalization"
+  ],
+  "correct": "A",
+  "explanation": "ovulation: The release of an egg from the ovary.",
+  "reasons": {
+   "A": "Correct: The release of an egg from the ovary.",
+   "B": "Wrong: Wavering between opinions or choices.",
+   "C": "Wrong: The quality of quickly vanishing.",
+   "D": "Wrong: The act of giving new life or vigor."
+  }
+ }
+]

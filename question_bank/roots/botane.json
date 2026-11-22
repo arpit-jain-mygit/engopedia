@@ -1,0 +1,74 @@
+[
+ {
+  "word": "botanical",
+  "question": "The garden contained rare plants and was studied for their growth. The garden was:",
+  "options": [
+   "entomological",
+   "zoological",
+   "botanical",
+   "geological"
+  ],
+  "correct": "C",
+  "explanation": "botanical: Relating to plants and their study.",
+  "reasons": {
+   "A": "Wrong: Relating to the study of insects.",
+   "B": "Wrong: Relating to animals and their study.",
+   "C": "Correct: Relating to plants and their study.",
+   "D": "Wrong: Relating to geology."
+  }
+ },
+ {
+  "word": "botanist",
+  "question": "The scientist who studies plant life and its growth is a:",
+  "options": [
+   "entomologist",
+   "zoologist",
+   "geologist",
+   "botanist"
+  ],
+  "correct": "D",
+  "explanation": "botanist: A scientist who studies plant life.",
+  "reasons": {
+   "A": "Wrong: A scientist who studies insects.",
+   "B": "Wrong: A scientist who studies animal life.",
+   "C": "Wrong: A scientist who studies the earth and its rocks.",
+   "D": "Correct: A scientist who studies plant life."
+  }
+ },
+ {
+  "word": "botanophobia",
+  "question": "She dreaded plants and avoided gardens entirely. Her fear is:",
+  "options": [
+   "botanophobia",
+   "zoophobia",
+   "entomophobia",
+   "ichthyophobia"
+  ],
+  "correct": "A",
+  "explanation": "botanophobia: Fear of plants.",
+  "reasons": {
+   "A": "Correct: Fear of plants.",
+   "B": "Wrong: Fear of animals.",
+   "C": "Wrong: Fear of insects.",
+   "D": "Wrong: Fear of fish."
+  }
+ },
+ {
+  "word": "botany",
+  "question": "The science of plant life is called:",
+  "options": [
+   "entomology",
+   "botany",
+   "zoology",
+   "geology"
+  ],
+  "correct": "B",
+  "explanation": "botany: The science of plant life.",
+  "reasons": {
+   "A": "Wrong: The science of insects.",
+   "B": "Correct: The science of plant life.",
+   "C": "Wrong: The science of animal life.",
+   "D": "Wrong: The science of the earth's composition and history."
+  }
+ }
+]

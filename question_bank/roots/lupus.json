@@ -1,0 +1,20 @@
+[
+ {
+  "word": "lupine",
+  "question": "The gang leader's hungry, predatory look, and his habit of hunting rivals in packs at night, made everyone shiver. His look was:",
+  "options": [
+   "Ursine",
+   "Lupine",
+   "Vulpine",
+   "Leonine"
+  ],
+  "correct": "B",
+  "explanation": "Lupus (wolf) + -ine: wolf-like.",
+  "reasons": {
+   "A": "Wrong: bear-like and heavy.",
+   "B": "Correct: wolf-like, fierce and predatory.",
+   "C": "Wrong: sly and fox-like.",
+   "D": "Wrong: proud and lion-like."
+  }
+ }
+]

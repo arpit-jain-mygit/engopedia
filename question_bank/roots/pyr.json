@@ -1,0 +1,20 @@
+[
+ {
+  "word": "pyrophobia",
+  "question": "A father cannot bear the sight of a lit match or a candle's glow, and keeps his family away from every stove. He fears:",
+  "options": [
+   "Thermophobia",
+   "Heliophobia",
+   "Pyrophobia",
+   "Photophobia"
+  ],
+  "correct": "C",
+  "explanation": "Pyr (fire) + phobia = fear of fire.",
+  "reasons": {
+   "A": "Wrong: fear of heat in general.",
+   "B": "Wrong: fear of sunlight.",
+   "C": "Correct: pyr means fire, so the fear is of fire.",
+   "D": "Wrong: fear of light."
+  }
+ }
+]
