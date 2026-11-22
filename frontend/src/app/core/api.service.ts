@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
 import { Observable } from 'rxjs';
-import { AnswerResult, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WordCard } from './models';
+import { AnswerResult, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WmAnswerResult, WmChapter, WmQuestionList, WordCard } from './models';
 
 export interface AnswerBody {
   choice?: number;
@@ -60,6 +60,26 @@ export class ApiService {
 
   equipItem(code: string, itemId: string): Observable<Profile> {
     return this.http.post<Profile>(`/api/players/${encodeURIComponent(code)}/shop/equip`, { item_id: itemId });
+  }
+
+  wmChapters(): Observable<{ chapters: WmChapter[] }> {
+    return this.http.get<{ chapters: WmChapter[] }>('/api/wm/chapters');
+  }
+
+  wmQuestions(code: string, chapter: number): Observable<WmQuestionList> {
+    return this.http.get<WmQuestionList>(`/api/players/${encodeURIComponent(code)}/wm/chapters/${chapter}/questions`);
+  }
+
+  wmProgress(code: string): Observable<{ done: Record<string, number> }> {
+    return this.http.get<{ done: Record<string, number> }>(`/api/players/${encodeURIComponent(code)}/wm/progress`);
+  }
+
+  wmAnswer(code: string, chapter: number, questionId: string, choice: number): Observable<WmAnswerResult> {
+    return this.http.post<WmAnswerResult>(`/api/players/${encodeURIComponent(code)}/wm/answers`, {
+      chapter,
+      question_id: questionId,
+      choice,
+    });
   }
 
   leaderboard(limit = 10): Observable<{ rows: LeaderRow[] }> {

@@ -1,6 +1,35 @@
-import { Component, inject } from '@angular/core';
-import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
+import { Component, inject, signal } from '@angular/core';
+import { NavigationEnd, Router, RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
+import { filter } from 'rxjs';
 import { PlayerService } from './core/player.service';
+
+type Section = 'hub' | 'word-wizard' | 'wren-martin';
+
+interface NavItem {
+  label: string;
+  link: string;
+}
+
+const NAV: Record<Exclude<Section, 'hub'>, NavItem[]> = {
+  'word-wizard': [
+    { label: '📚 Learn', link: '/learn' },
+    { label: '🎯 Quiz', link: '/quiz' },
+    { label: '🛍️ Shop', link: '/shop' },
+    { label: '🏆 Board', link: '/leaderboard' },
+  ],
+  'wren-martin': [
+    { label: '📚 Learn', link: '/wren-martin/learn' },
+    { label: '🎯 Quiz', link: '/wren-martin/quiz' },
+    { label: '🛍️ Shop', link: '/wren-martin/shop' },
+    { label: '🏆 Board', link: '/wren-martin/board' },
+  ],
+};
+
+const BRAND: Record<Section, string> = {
+  hub: '✨ Study Hub',
+  'word-wizard': '🧙 Word Wizard',
+  'wren-martin': '📖 Wren & Martin',
+};
 
 @Component({
   selector: 'app-root',
@@ -8,13 +37,14 @@ import { PlayerService } from './core/player.service';
   imports: [RouterOutlet, RouterLink, RouterLinkActive],
   template: `
     <header class="top">
-      <a routerLink="/" class="brand"><span aria-hidden="true">🧙</span> Word Wizard</a>
-      <nav aria-label="Main">
-        <a routerLink="/learn" routerLinkActive="on">📚 Learn</a>
-        <a routerLink="/quiz" routerLinkActive="on">🎯 Quiz</a>
-        <a routerLink="/shop" routerLinkActive="on">🛍️ Shop</a>
-        <a routerLink="/leaderboard" routerLinkActive="on">🏆 Board</a>
-      </nav>
+      <a routerLink="/" class="brand">{{ brand() }}</a>
+      @if (section() !== 'hub') {
+        <nav [attr.aria-label]="brand() + ' menu'">
+          @for (item of nav(); track item.link) {
+            <a [routerLink]="item.link" routerLinkActive="on">{{ item.label }}</a>
+          }
+        </nav>
+      }
       @if (player.profile(); as p) {
         <div class="wallet" aria-label="Your points and candies">
           <span class="pill star">⭐ {{ p.points }}</span>
@@ -38,4 +68,27 @@ import { PlayerService } from './core/player.service';
 })
 export class AppComponent {
   player = inject(PlayerService);
+  private router = inject(Router);
+  section = signal<Section>(this.sectionFor(this.router.url));
+
+  constructor() {
+    this.router.events
+      .pipe(filter((e): e is NavigationEnd => e instanceof NavigationEnd))
+      .subscribe((e) => this.section.set(this.sectionFor(e.urlAfterRedirects)));
+  }
+
+  brand() {
+    return BRAND[this.section()];
+  }
+
+  nav() {
+    const s = this.section();
+    return s === 'hub' ? [] : NAV[s];
+  }
+
+  private sectionFor(url: string): Section {
+    const path = url.split(/[?#]/)[0];
+    if (path === '/' || path === '') return 'hub';
+    return path.startsWith('/wren-martin') ? 'wren-martin' : 'word-wizard';
+  }
 }

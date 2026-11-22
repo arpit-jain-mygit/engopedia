@@ -136,3 +136,33 @@ def learn_cards(root):
         cards.append({"word": w["word"], "parts": parts, "meaning": w["meaning"], "sentence": w["sentence"]})
     cards.sort(key=lambda c: c["word"])
     return cards
+
+
+# ---- Wren & Martin grammar quiz (data/wren_martin.json, from scripts/export_wren_martin.py) ----
+
+@lru_cache(maxsize=1)
+def _wm():
+    return json.loads((DATA_DIR / "wren_martin.json").read_text(encoding="utf-8"))
+
+
+def wm_chapters():
+    """Chapters that have quiz questions, in book order, with how many questions each has."""
+    return _wm()["chapters"]
+
+
+@lru_cache(maxsize=None)
+def wm_questions(chapter):
+    return [q for q in _wm()["questions"] if q["chapter"] == chapter]
+
+
+def wm_find_question(chapter, question_id):
+    for q in wm_questions(chapter):
+        if q["id"] == question_id:
+            return q
+    return None
+
+
+def wm_public_question(q):
+    """A question without its answer or reasons: the child sees these only after answering."""
+    return {"id": q["id"], "source": q["source"], "exercise": q["exercise"],
+            "stem": q["stem"], "options": q["options"]}

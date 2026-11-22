@@ -20,6 +20,12 @@ class ShopItemIn(BaseModel):
     item_id: str = Field(min_length=1, max_length=40)
 
 
+class WmAnswerIn(BaseModel):
+    chapter: int
+    question_id: str = Field(min_length=1, max_length=40)
+    choice: int = Field(ge=0, le=3)
+
+
 class AnswerIn(BaseModel):
     root: str
     question_id: str
@@ -240,6 +246,78 @@ def create_app(store=None):
         player["equipped"] = equipped
         store.put(player)
         return profile_view(player)
+
+    # ---- Wren & Martin grammar quiz: same player, points and candies as Word Wizard ----
+
+    def wm_chapter_or_404(chapter):
+        known = {c["chapter"]: c for c in content.wm_chapters()}
+        if chapter not in known:
+            raise HTTPException(status_code=404, detail="Unknown chapter")
+        return known[chapter]
+
+    @app.get("/api/wm/chapters")
+    def wm_chapters():
+        return {"chapters": content.wm_chapters()}
+
+    @app.get("/api/players/{code}/wm/chapters/{chapter}/questions")
+    def wm_questions(code: str, chapter: int):
+        player = load_player(code)
+        info = wm_chapter_or_404(chapter)
+        pk = player["pk"]
+        questions = []
+        for q in content.wm_questions(chapter):
+            state = store.get(pk, f"WM#{q['id']}") or {}
+            questions.append({**content.wm_public_question(q), "done": bool(state.get("done"))})
+        return {"chapter": chapter, "title": info["title"], "questions": questions,
+                "done": sum(1 for q in questions if q["done"])}
+
+    @app.get("/api/players/{code}/wm/progress")
+    def wm_progress(code: str):
+        player = load_player(code)
+        done = {}
+        for item in store.query_prefix(player["pk"], "WM#"):
+            if item.get("done"):
+                key = str(item.get("chapter"))
+                done[key] = done.get(key, 0) + 1
+        return {"done": done}
+
+    @app.post("/api/players/{code}/wm/answers")
+    def wm_answer(code: str, body: WmAnswerIn):
+        player = load_player(code)
+        wm_chapter_or_404(body.chapter)
+        question = content.wm_find_question(body.chapter, body.question_id)
+        if question is None:
+            raise HTTPException(status_code=404, detail="Unknown question")
+
+        pk = player["pk"]
+        state_sk = f"WM#{body.question_id}"
+        state = store.get(pk, state_sk) or {"pk": pk, "sk": state_sk, "done": False, "wrong": 0, "chapter": body.chapter}
+        totals = lambda p: {"points": p["points"], "candies": p["candies"], "streak": p["streak"]}  # noqa: E731
+
+        if state["done"]:
+            return {"correct": True, "already_answered": True, "points_awarded": 0,
+                    "candies_awarded": 0, "explanation": question["explanation"], **totals(player)}
+
+        if body.choice == question["correct"]:
+            first_try = state["wrong"] == 0
+            points, candies, streak = game.score_answer(first_try, player["streak"])
+            state["done"] = True
+            store.put(state)
+            player["points"] += points
+            player["candies"] += candies
+            player["streak"] = streak
+            store.put(player)
+            return {"correct": True, "already_answered": False, "points_awarded": points,
+                    "candies_awarded": candies, "first_try": first_try,
+                    "explanation": question["explanation"], **totals(player)}
+
+        state["wrong"] += 1
+        store.put(state)
+        player["streak"] = 0
+        store.put(player)
+        return {"correct": False, "already_answered": False, "points_awarded": 0,
+                "candies_awarded": 0, "explanation": question["reasons"][body.choice],
+                **totals(player)}
 
     @app.get("/api/leaderboard")
     def leaderboard(limit: int = 10):

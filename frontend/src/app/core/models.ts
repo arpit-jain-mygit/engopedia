@@ -86,3 +86,48 @@ export interface LeaderRow {
   name: string;
   points: number;
 }
+
+// ---- Wren & Martin grammar quiz ----
+
+export interface WmChapter {
+  chapter: number;
+  title: string;
+  count: number;
+}
+
+export interface WmQuestion {
+  id: string;
+  source: string;      // "Book" (from the exercises) or "Generated" (written for practice)
+  exercise: string;    // e.g. "Exercise in Grammar 94" for book questions, empty otherwise
+  stem: string;
+  options: string[];   // always four
+  done: boolean;
+}
+
+export interface WmQuestionList {
+  chapter: number;
+  title: string;
+  questions: WmQuestion[];
+  done: number;
+}
+
+export interface WmAnswerResult {
+  correct: boolean;
+  already_answered: boolean;
+  points_awarded: number;
+  candies_awarded: number;
+  first_try?: boolean;
+  explanation: string;
+  points: number;
+  candies: number;
+  streak: number;
+}
+
+export interface WmNote {
+  chapter: number;
+  title: string;
+  summary: string;
+  points: string[];
+  examples: string[];
+  tip: string;
+}
