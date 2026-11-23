@@ -16,7 +16,21 @@ interface EnglishSet {
 
 const BASE = '/papers/cambridge-stage8-english/';
 
+const PAPER_FILES: { number: number; title: string; file: string }[] = [
+  { number: 1, title: 'Non-fiction: recount', file: 'Paper_1_Nonfiction' },
+  { number: 2, title: 'Fiction: story', file: 'Paper_2_Fiction' },
+  { number: 3, title: 'Explanatory: two texts', file: 'Paper_3_Explanatory' },
+  { number: 4, title: 'Persuasive: opinion article', file: 'Paper_4_Persuasive' },
+  { number: 5, title: 'Drama: playscript', file: 'Paper_5_Drama' },
+  { number: 6, title: 'Poetry: two poems', file: 'Paper_6_Poetry' },
+];
+
 const SETS: EnglishSet[] = [
+  { label: 'Set 7 (23 Nov 2026, 17:00)', date: '2026-11-23_1700_v1_Stage8', papers: PAPER_FILES },
+  { label: 'Set 6 (23 Nov 2026, 16:00)', date: '2026-11-23_1600_v1_Stage8', papers: PAPER_FILES },
+  { label: 'Set 5 (23 Nov 2026, 15:00)', date: '2026-11-23_1500_v1_Stage8', papers: PAPER_FILES },
+  { label: 'Set 4 (23 Nov 2026, 14:00)', date: '2026-11-23_1400_v1_Stage8', papers: PAPER_FILES },
+  { label: 'Set 3 (23 Nov 2026, 13:00)', date: '2026-11-23_1300_v1_Stage8', papers: PAPER_FILES },
   {
     label: 'Set 2 (23 Nov 2026)',
     date: '2026-11-23_1200_v1_Stage8',
