@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
 import { Observable } from 'rxjs';
-import { AnswerResult, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WmAnswerResult, WmChapter, WmQuestionList, WmTestItem, WmTestResult, WordCard } from './models';
+import { AnswerResult, CmChapter, CmNote, CmQuiz, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WmAnswerResult, WmChapter, WmQuestionList, WmTestItem, WmTestResult, WordCard } from './models';
 
 export interface AnswerBody {
   choice?: number;
@@ -90,6 +90,28 @@ export class ApiService {
 
   wmGradeTest(items: { id: string; answer: string }[]): Observable<WmTestResult> {
     return this.http.post<WmTestResult>('/api/wm/tests/grade', { items });
+  }
+
+  // Cambridge Stage 8: chapter notes, chapter quizzes and student-made tests. No login needed.
+  cmChapters(): Observable<{ chapters: CmChapter[] }> {
+    return this.http.get<{ chapters: CmChapter[] }>('/api/cm/chapters');
+  }
+
+  cmChapter(chapter: number): Observable<CmNote> {
+    return this.http.get<CmNote>(`/api/cm/chapters/${chapter}`);
+  }
+
+  cmQuiz(chapter: number): Observable<CmQuiz> {
+    return this.http.get<CmQuiz>(`/api/cm/chapters/${chapter}/quiz`);
+  }
+
+  cmBuildTest(chapters: number[], formats: string[], count: number): Observable<{ items: WmTestItem[] }> {
+    const params = `chapters=${chapters.join(',')}&formats=${formats.join('')}&count=${count}`;
+    return this.http.get<{ items: WmTestItem[] }>(`/api/cm/tests/build?${params}`);
+  }
+
+  cmGradeTest(items: { id: string; answer: string }[]): Observable<WmTestResult> {
+    return this.http.post<WmTestResult>('/api/cm/tests/grade', { items });
   }
 
   leaderboard(limit = 10): Observable<{ rows: LeaderRow[] }> {

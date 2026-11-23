@@ -3,7 +3,7 @@ import { NavigationEnd, Router, RouterLink, RouterLinkActive, RouterOutlet } fro
 import { filter } from 'rxjs';
 import { PlayerService } from './core/player.service';
 
-type Section = 'hub' | 'word-wizard' | 'wren-martin';
+type Section = 'hub' | 'word-wizard' | 'wren-martin' | 'cambridge';
 
 interface NavItem {
   label: string;
@@ -11,6 +11,13 @@ interface NavItem {
 }
 
 const NAV: Record<Exclude<Section, 'hub'>, NavItem[]> = {
+  cambridge: [
+    { label: '📚 Learn', link: '/cambridge/learn' },
+    { label: '🎯 Quiz', link: '/cambridge/quiz' },
+    { label: '✍️ Tests', link: '/cambridge/tests' },
+    { label: '🛍️ Shop', link: '/cambridge/shop' },
+    { label: '🏆 Board', link: '/cambridge/board' },
+  ],
   'word-wizard': [
     { label: '📚 Learn', link: '/learn' },
     { label: '🎯 Quiz', link: '/quiz' },
@@ -30,6 +37,7 @@ const BRAND: Record<Section, string> = {
   hub: '✨ Study Hub',
   'word-wizard': '🧙 Word Wizard',
   'wren-martin': '📖 Wren & Martin',
+  cambridge: '📐 Cambridge Maths',
 };
 
 @Component({
@@ -90,6 +98,8 @@ export class AppComponent {
   private sectionFor(url: string): Section {
     const path = url.split(/[?#]/)[0];
     if (path === '/' || path === '') return 'hub';
-    return path.startsWith('/wren-martin') ? 'wren-martin' : 'word-wizard';
+    if (path.startsWith('/wren-martin')) return 'wren-martin';
+    if (path.startsWith('/cambridge')) return 'cambridge';
+    return 'word-wizard';
   }
 }

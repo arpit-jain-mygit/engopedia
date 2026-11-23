@@ -146,3 +146,34 @@ export interface WmTestResult {
   score: number;
   total: number;
 }
+
+// Cambridge Lower Secondary Maths Stage 8.
+export interface CmChapter {
+  chapter: number;
+  title: string;
+  questions: number;
+}
+
+export interface CmSection {
+  heading: string;
+  paragraphs: string[];
+}
+
+export interface CmNote {
+  chapter: number;
+  title: string;
+  notes: CmSection[];
+  questions: number;
+}
+
+export interface CmQuizQuestion {
+  id: string;
+  stem: string;
+  options: string[];
+}
+
+export interface CmQuiz {
+  chapter: number;
+  title: string;
+  questions: CmQuizQuestion[];
+}

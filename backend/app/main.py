@@ -6,7 +6,7 @@ from fastapi import FastAPI, HTTPException
 from mangum import Mangum
 from pydantic import BaseModel, Field
 
-from . import content, game, shop, wm_tests
+from . import cambridge, content, game, shop, wm_tests
 from .store import make_store
 
 CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"  # no 0/O or 1/I/L, easy to read aloud
@@ -349,6 +349,51 @@ def create_app(store=None):
         return {"correct": False, "already_answered": False, "points_awarded": 0,
                 "candies_awarded": 0, "explanation": question["reasons"][body.choice],
                 **totals(player)}
+
+    # ---- Cambridge Lower Secondary Maths Stage 8: notes, chapter quizzes and student-made tests ----
+    # No login: the same wallet and board as the other sections. Nothing about these tests is stored.
+
+    def cm_chapter_or_404(number):
+        ch = cambridge.chapter(number)
+        if ch is None:
+            raise HTTPException(status_code=404, detail="Unknown chapter")
+        return ch
+
+    @app.get("/api/cm/chapters")
+    def cm_chapters():
+        return {"chapters": cambridge.chapters()}
+
+    @app.get("/api/cm/chapters/{number}")
+    def cm_chapter(number: int):
+        ch = cm_chapter_or_404(number)
+        return {"chapter": number, "title": ch["title"], "notes": ch["notes"],
+                "questions": len(ch["questions"])}
+
+    @app.get("/api/cm/chapters/{number}/quiz")
+    def cm_quiz(number: int):
+        ch = cm_chapter_or_404(number)
+        return {"chapter": number, "title": ch["title"], "questions": cambridge.quiz(number)}
+
+    @app.get("/api/cm/tests/build")
+    def cm_build_test(chapters: str = "", formats: str = "ABCD", count: int = 10):
+        known = [c["chapter"] for c in cambridge.chapters()]
+        try:
+            chosen = [int(c) for c in chapters.split(",") if c.strip()] or known
+        except ValueError:
+            raise HTTPException(status_code=400, detail="Chapters must be numbers")
+        if any(c not in known for c in chosen):
+            raise HTTPException(status_code=404, detail="Unknown chapter")
+        wanted = [f for f in formats.upper() if f in cambridge.FORMATS]
+        if not wanted:
+            raise HTTPException(status_code=400, detail="Pick at least one format")
+        items = cambridge.build(chosen, wanted, max(1, min(count, 50)))
+        if not items:
+            raise HTTPException(status_code=404, detail="No questions match this choice")
+        return {"items": items}
+
+    @app.post("/api/cm/tests/grade")
+    def cm_grade_test(body: WmGradeIn):
+        return cambridge.grade([item.model_dump() for item in body.items])
 
     @app.get("/api/leaderboard")
     def leaderboard(limit: int = 10):

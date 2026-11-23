@@ -25,6 +25,11 @@ import { PlayerService } from '../core/player.service';
         <strong>Wren &amp; Martin Grammar</strong>
         <span>Simple notes for every chapter, and grammar quizzes from the book.</span>
       </a>
+      <a class="big cm" routerLink="/cambridge">
+        <span class="emoji" aria-hidden="true">📐</span>
+        <strong>Cambridge Maths Stage 8</strong>
+        <span>Notes for all 25 chapters, a quiz for each chapter, and tests you build yourself.</span>
+      </a>
     </section>
 
     @if (!player.profile()) {
@@ -37,12 +42,13 @@ import { PlayerService } from '../core/player.service';
     h1 { font-family: var(--display); font-size: 40px; margin: 8px 0 4px; }
     .hero p { color: var(--muted); margin: 0; }
     .choices { display: grid; grid-template-columns: 1fr; gap: 14px; margin: 24px 0; }
-    @media (min-width: 640px) { .choices { grid-template-columns: 1fr 1fr; } }
+    @media (min-width: 640px) { .choices { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); } }
     .big { display: flex; flex-direction: column; gap: 6px; padding: 26px 22px; border-radius: 22px; text-decoration: none; color: var(--fg); border: 2px solid var(--line); background: var(--surface); min-height: 180px; }
     .big strong { font-family: var(--display); font-size: 26px; }
     .big span:last-child { color: var(--muted); }
     .big.ww { border-color: var(--accent); }
     .big.wm { border-color: var(--correct); }
+    .big.cm { border-color: var(--accent); }
     .big:hover { filter: brightness(0.98); }
     .emoji { font-size: 44px; }
     .center { text-align: center; }
