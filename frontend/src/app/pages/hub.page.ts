@@ -30,6 +30,11 @@ import { PlayerService } from '../core/player.service';
         <strong>Cambridge Maths Stage 8</strong>
         <span>Notes for all 25 chapters, a quiz for each chapter, and tests you build yourself.</span>
       </a>
+      <a class="big en" routerLink="/cambridge/english">
+        <span class="emoji" aria-hidden="true">📝</span>
+        <strong>Cambridge English Stage 8</strong>
+        <span>Practice papers in the Cambridge style, each with a mark scheme and a student copy.</span>
+      </a>
     </section>
 
     @if (!player.profile()) {
@@ -49,6 +54,7 @@ import { PlayerService } from '../core/player.service';
     .big.ww { border-color: var(--accent); }
     .big.wm { border-color: var(--correct); }
     .big.cm { border-color: var(--accent); }
+    .big.en { border-color: var(--correct); }
     .big:hover { filter: brightness(0.98); }
     .emoji { font-size: 44px; }
     .center { text-align: center; }
