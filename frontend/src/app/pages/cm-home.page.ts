@@ -27,6 +27,11 @@ import { PlayerService } from '../core/player.service';
         <strong>Create a test</strong>
         <span>Pick chapters and question types, then test yourself</span>
       </a>
+      <a class="link-tile" routerLink="/cambridge/english">
+        <span class="icon" aria-hidden="true">📝</span>
+        <strong>English</strong>
+        <span>Six practice papers, each with a mark scheme and student copy</span>
+      </a>
       <a class="link-tile" routerLink="/cambridge/shop">
         <span class="icon" aria-hidden="true">🛍️</span>
         <strong>Shop</strong>

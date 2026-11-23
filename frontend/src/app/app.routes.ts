@@ -19,6 +19,7 @@ import { CmLearnChapterPage } from './pages/cm-learn-chapter.page';
 import { CmQuizMapPage } from './pages/cm-quiz-map.page';
 import { CmQuizPlayPage } from './pages/cm-quiz-play.page';
 import { CmTestPage } from './pages/cm-test.page';
+import { CmEnglishPage } from './pages/cm-english.page';
 
 export const routes: Routes = [
   // Study hub: two tiles, Word Wizard and Wren & Martin.
@@ -52,6 +53,7 @@ export const routes: Routes = [
   { path: 'cambridge/tests', component: CmTestPage, title: 'Create a test | Cambridge Maths' },
   { path: 'cambridge/shop', component: ShopPage, title: 'Candy shop | Cambridge Maths' },
   { path: 'cambridge/board', component: LeaderboardPage, title: 'Board | Cambridge Maths' },
+  { path: 'cambridge/english', component: CmEnglishPage, title: 'English Stage 8 | Cambridge' },
 
   { path: '**', redirectTo: '' },
 ];
