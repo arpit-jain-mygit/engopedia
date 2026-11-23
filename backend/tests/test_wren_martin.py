@@ -88,3 +88,50 @@ def test_progress_counts_done_questions_per_chapter():
         c.post(f"/api/players/{code}/wm/answers",
                json={"chapter": 3, "question_id": q["id"], "choice": q["correct"]})
     assert c.get(f"/api/players/{code}/wm/progress").json() == {"done": {"3": 2}}
+
+
+def test_student_test_builds_only_the_chosen_formats_and_chapters():
+    c = client()
+    items = c.get("/api/wm/tests/build", params={"chapters": "38,40", "formats": "BC", "count": 20}).json()["items"]
+    assert items, "fill-in chapters should give items"
+    assert {i["format"] for i in items} <= {"B", "C"}
+    assert {i["chapter"] for i in items} <= {38, 40}
+    assert all("answer" not in i and "explanation" not in i for i in items)
+
+
+def test_student_test_is_marked_on_the_server():
+    c = client()
+    items = c.get("/api/wm/tests/build", params={"chapters": "1", "formats": "A", "count": 3}).json()["items"]
+    assert len(items) == 3
+    qid = items[0]["id"].split("|")[0]
+    question = content.wm_find_question(1, qid)
+    right_letter = "ABCD"[question["correct"]]
+    wrong_letter = "ABCD"[(question["correct"] + 1) % 4]
+    graded = c.post("/api/wm/tests/grade", json={"items": [
+        {"id": f"{qid}|A", "answer": right_letter},
+        {"id": f"{qid}|A", "answer": wrong_letter},
+        {"id": "not-a-question|A", "answer": "A"},
+    ]}).json()
+    assert [r["correct"] for r in graded["results"]] == [True, False, False]
+    assert graded["score"] == 1 and graded["total"] == 3
+    assert graded["results"][0]["expected"].startswith(f"{right_letter}. ")
+
+
+def test_student_test_true_false_is_checked_against_the_word():
+    c = client()
+    items = c.get("/api/wm/tests/build", params={"chapters": "38,40,41", "formats": "C", "count": 5}).json()["items"]
+    item = items[0]
+    variant = item["id"].split("|")[2]
+    expected = "True" if variant == "T" else "False"
+    graded = c.post("/api/wm/tests/grade", json={"items": [{"id": item["id"], "answer": expected}]}).json()
+    assert graded["results"][0]["correct"] is True
+    wrong = "False" if expected == "True" else "True"
+    graded = c.post("/api/wm/tests/grade", json={"items": [{"id": item["id"], "answer": wrong}]}).json()
+    assert graded["results"][0]["correct"] is False
+
+
+def test_student_test_rejects_bad_choices():
+    c = client()
+    assert c.get("/api/wm/tests/build", params={"chapters": "999"}).status_code == 404
+    assert c.get("/api/wm/tests/build", params={"chapters": "x"}).status_code == 400
+    assert c.get("/api/wm/tests/build", params={"formats": "Z"}).status_code == 400

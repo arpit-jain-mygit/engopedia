@@ -20,6 +20,7 @@ const NAV: Record<Exclude<Section, 'hub'>, NavItem[]> = {
   'wren-martin': [
     { label: '📚 Learn', link: '/wren-martin/learn' },
     { label: '🎯 Quiz', link: '/wren-martin/quiz' },
+    { label: '✍️ Tests', link: '/wren-martin/tests' },
     { label: '🛍️ Shop', link: '/wren-martin/shop' },
     { label: '🏆 Board', link: '/wren-martin/board' },
   ],

@@ -12,6 +12,7 @@ import { WmLearnListPage } from './pages/wm-learn-list.page';
 import { WmLearnChapterPage } from './pages/wm-learn-chapter.page';
 import { WmQuizMapPage } from './pages/wm-quiz-map.page';
 import { WmQuizPlayPage } from './pages/wm-quiz-play.page';
+import { WmTestPage } from './pages/wm-test.page';
 
 export const routes: Routes = [
   // Study hub: two tiles, Word Wizard and Wren & Martin.
@@ -32,6 +33,7 @@ export const routes: Routes = [
   { path: 'wren-martin/learn/:chapter', component: WmLearnChapterPage, title: 'Learn | Wren & Martin' },
   { path: 'wren-martin/quiz', component: WmQuizMapPage, title: 'Quiz | Wren & Martin' },
   { path: 'wren-martin/quiz/:chapter', component: WmQuizPlayPage, title: 'Quiz | Wren & Martin' },
+  { path: 'wren-martin/tests', component: WmTestPage, title: 'Create a test | Wren & Martin' },
   { path: 'wren-martin/shop', component: ShopPage, title: 'Candy shop | Wren & Martin' },
   { path: 'wren-martin/board', component: LeaderboardPage, title: 'Board | Wren & Martin' },
 

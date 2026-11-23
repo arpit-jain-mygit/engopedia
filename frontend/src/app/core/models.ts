@@ -131,3 +131,18 @@ export interface WmNote {
   examples: string[];
   tip: string;
 }
+
+// Student-made tests: formats A (multiple choice), B (fill in), C (true or false), D (write the answer).
+export interface WmTestItem {
+  id: string;
+  chapter: number;
+  format: 'A' | 'B' | 'C' | 'D';
+  stem: string;
+  options?: string[];
+}
+
+export interface WmTestResult {
+  results: { id: string; known: boolean; correct: boolean; expected?: string; explanation?: string }[];
+  score: number;
+  total: number;
+}

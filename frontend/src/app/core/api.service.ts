@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable, inject } from '@angular/core';
 import { Observable } from 'rxjs';
-import { AnswerResult, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WmAnswerResult, WmChapter, WmQuestionList, WordCard } from './models';
+import { AnswerResult, FinishResult, LeaderRow, LevelInfo, Profile, QuizQuestion, ShopItem, WmAnswerResult, WmChapter, WmQuestionList, WmTestItem, WmTestResult, WordCard } from './models';
 
 export interface AnswerBody {
   choice?: number;
@@ -80,6 +80,16 @@ export class ApiService {
       question_id: questionId,
       choice,
     });
+  }
+
+  // Student-made test: chapters and formats are chosen by the student; no login needed.
+  wmBuildTest(chapters: number[], formats: string[], count: number): Observable<{ items: WmTestItem[] }> {
+    const params = `chapters=${chapters.join(',')}&formats=${formats.join('')}&count=${count}`;
+    return this.http.get<{ items: WmTestItem[] }>(`/api/wm/tests/build?${params}`);
+  }
+
+  wmGradeTest(items: { id: string; answer: string }[]): Observable<WmTestResult> {
+    return this.http.post<WmTestResult>('/api/wm/tests/grade', { items });
   }
 
   leaderboard(limit = 10): Observable<{ rows: LeaderRow[] }> {

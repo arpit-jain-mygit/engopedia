@@ -22,6 +22,11 @@ import { PlayerService } from '../core/player.service';
         <strong>Quiz</strong>
         <span>Questions from the book and practice questions</span>
       </a>
+      <a class="link-tile" routerLink="/wren-martin/tests">
+        <span class="icon" aria-hidden="true">✍️</span>
+        <strong>Create a test</strong>
+        <span>Pick chapters and question types, then test yourself</span>
+      </a>
       <a class="link-tile" routerLink="/wren-martin/shop">
         <span class="icon" aria-hidden="true">🛍️</span>
         <strong>Shop</strong>

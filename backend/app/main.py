@@ -6,7 +6,7 @@ from fastapi import FastAPI, HTTPException
 from mangum import Mangum
 from pydantic import BaseModel, Field
 
-from . import content, game, shop
+from . import content, game, shop, wm_tests
 from .store import make_store
 
 CODE_ALPHABET = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789"  # no 0/O or 1/I/L, easy to read aloud
@@ -24,6 +24,15 @@ class WmAnswerIn(BaseModel):
     chapter: int
     question_id: str = Field(min_length=1, max_length=40)
     choice: int = Field(ge=0, le=3)
+
+
+class WmTestAnswerIn(BaseModel):
+    id: str = Field(min_length=1, max_length=80)
+    answer: str = Field(default="", max_length=300)
+
+
+class WmGradeIn(BaseModel):
+    items: list[WmTestAnswerIn] = Field(max_length=50)
 
 
 class AnswerIn(BaseModel):
@@ -270,6 +279,28 @@ def create_app(store=None):
             questions.append({**content.wm_public_question(q), "done": bool(state.get("done"))})
         return {"chapter": chapter, "title": info["title"], "questions": questions,
                 "done": sum(1 for q in questions if q["done"])}
+
+    # Student-made tests: no login and nothing stored. Chapters are "1,5,9" (empty = all); formats are "ABCD" letters.
+    @app.get("/api/wm/tests/build")
+    def wm_build_test(chapters: str = "", formats: str = "ABCD", count: int = 10):
+        known = [c["chapter"] for c in content.wm_chapters()]
+        try:
+            chosen = [int(c) for c in chapters.split(",") if c.strip()] or known
+        except ValueError:
+            raise HTTPException(status_code=400, detail="Chapters must be numbers")
+        if any(c not in known for c in chosen):
+            raise HTTPException(status_code=404, detail="Unknown chapter")
+        wanted = [f for f in formats.upper() if f in wm_tests.FORMATS]
+        if not wanted:
+            raise HTTPException(status_code=400, detail="Pick at least one format")
+        items = wm_tests.build(chosen, wanted, max(1, min(count, 50)))
+        if not items:
+            raise HTTPException(status_code=404, detail="No questions match this choice")
+        return {"items": items}
+
+    @app.post("/api/wm/tests/grade")
+    def wm_grade_test(body: WmGradeIn):
+        return wm_tests.grade([item.model_dump() for item in body.items])
 
     @app.get("/api/players/{code}/wm/progress")
     def wm_progress(code: str):
