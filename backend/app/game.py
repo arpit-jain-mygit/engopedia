@@ -27,3 +27,21 @@ def stars_for(first_try_correct, total):
     if share >= 0.5:
         return 2
     return 1
+
+
+# Candies are kept per category. Word Wizard and Grammar earn them today. The Cambridge
+# categories are listed so the app can show them, and stay at 0 until they earn candies.
+def candies_by_category(player):
+    return {"word_wizard": player.get("candies_ww", 0), "grammar": player.get("candies_wm", 0),
+            "cambridge_maths": 0, "cambridge_english": 0}
+
+
+def total_candies(player):
+    return player.get("candies_ww", 0) + player.get("candies_wm", 0)
+
+
+def spend_candies(player, price):
+    """Shop purchases take candies from Word Wizard first, then from Grammar."""
+    from_ww = min(player.get("candies_ww", 0), price)
+    player["candies_ww"] = player.get("candies_ww", 0) - from_ww
+    player["candies_wm"] = player.get("candies_wm", 0) - (price - from_ww)

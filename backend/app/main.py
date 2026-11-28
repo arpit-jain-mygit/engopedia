@@ -93,7 +93,8 @@ def create_app(store=None):
             "code": player["code"],
             "name": player["name"],
             "points": player.get("points", 0),
-            "candies": player.get("candies", 0),
+            "candies": game.total_candies(player),
+            "candies_by_category": game.candies_by_category(player),
             "streak": player.get("streak", 0),
             "owned": player.get("owned", []),
             "equipped": player.get("equipped", {}),
@@ -123,7 +124,7 @@ def create_app(store=None):
         code = new_code()
         player = {
             "pk": f"PLAYER#{code}", "sk": "PROFILE", "type": "PLAYER",
-            "code": code, "name": name, "points": 0, "candies": 0, "streak": 0,
+            "code": code, "name": name, "points": 0, "candies_ww": 0, "candies_wm": 0, "streak": 0,
             "owned": [], "equipped": {},
         }
         store.put(player)
@@ -160,7 +161,7 @@ def create_app(store=None):
         pk = player["pk"]
         q_sk = f"Q#{body.root}#{body.question_id}"
         q_state = store.get(pk, q_sk) or {"pk": pk, "sk": q_sk, "done": False, "wrong": 0, "stage": 0}
-        totals = lambda p: {"points": p["points"], "candies": p["candies"], "streak": p["streak"]}  # noqa: E731
+        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "streak": p["streak"]}  # noqa: E731
         stage = q_state.get("stage", 0)
 
         if q_state["done"]:
@@ -191,7 +192,7 @@ def create_app(store=None):
             store.put(level)
 
             player["points"] += points
-            player["candies"] += candies
+            player["candies_ww"] = player.get("candies_ww", 0) + candies
             player["streak"] = streak
             store.put(player)
             return {"correct": True, "already_answered": False, "points_awarded": points,
@@ -221,7 +222,7 @@ def create_app(store=None):
         level["stars"] = max(stars, level.get("stars", 0))
         store.put(level)
         return {"root": root, "stars": level["stars"], "first_try": level["first_try"], "total": total,
-                "points": player["points"], "candies": player["candies"]}
+                "points": player["points"], "candies": game.total_candies(player)}
 
     @app.get("/api/shop")
     def get_shop():
@@ -236,9 +237,9 @@ def create_app(store=None):
         owned = list(player.get("owned", []))
         if item["id"] in owned:
             raise HTTPException(status_code=409, detail="You already own this")
-        if player.get("candies", 0) < item["price"]:
+        if game.total_candies(player) < item["price"]:
             raise HTTPException(status_code=400, detail="Not enough candies yet. Keep answering!")
-        player["candies"] = player.get("candies", 0) - item["price"]
+        game.spend_candies(player, item["price"])
         owned.append(item["id"])
         player["owned"] = owned
         store.put(player)
@@ -323,7 +324,7 @@ def create_app(store=None):
         pk = player["pk"]
         state_sk = f"WM#{body.question_id}"
         state = store.get(pk, state_sk) or {"pk": pk, "sk": state_sk, "done": False, "wrong": 0, "chapter": body.chapter}
-        totals = lambda p: {"points": p["points"], "candies": p["candies"], "streak": p["streak"]}  # noqa: E731
+        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "streak": p["streak"]}  # noqa: E731
 
         if state["done"]:
             return {"correct": True, "already_answered": True, "points_awarded": 0,
@@ -335,7 +336,7 @@ def create_app(store=None):
             state["done"] = True
             store.put(state)
             player["points"] += points
-            player["candies"] += candies
+            player["candies_wm"] = player.get("candies_wm", 0) + candies
             player["streak"] = streak
             store.put(player)
             return {"correct": True, "already_answered": False, "points_awarded": points,
