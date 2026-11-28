@@ -159,6 +159,12 @@ export interface WmTestResult {
   total: number;
 }
 
+// A chapter quiz checked for a player: the test result plus the candies earned (null when no wizard).
+export interface CmQuizResult extends WmTestResult {
+  candies_awarded: number;
+  candies_by_category: CandiesByCategory | null;
+}
+
 // Cambridge Lower Secondary Maths Stage 8.
 export interface CmChapter {
   chapter: number;

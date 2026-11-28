@@ -1,9 +1,11 @@
 import { Component, Input, OnChanges, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
+import { map } from 'rxjs';
 import { ApiService } from '../core/api.service';
-import { CmQuizQuestion, WmTestResult } from '../core/models';
+import { PlayerService } from '../core/player.service';
+import { CmQuizQuestion, CmQuizResult } from '../core/models';
 
-// Cambridge Stage 8: one chapter's quiz. Answer every question, then check. Nothing is saved.
+// Cambridge Stage 8: one chapter's quiz. Answer every question, then check. With a wizard, each right answer earns one Cambridge Maths candy the first time.
 @Component({
   selector: 'app-cm-quiz-play',
   standalone: true,
@@ -44,6 +46,11 @@ import { CmQuizQuestion, WmTestResult } from '../core/models';
     @if (stage() === 'result' && result(); as r) {
       <section class="card">
         <p class="score">{{ r.score }} / {{ r.total }} correct</p>
+        @if (r.candies_awarded) {
+          <p class="earned">+{{ r.candies_awarded }} 🍬 Cambridge Maths candies</p>
+        } @else if (!player.profile() && !player.savedCode()) {
+          <p class="sub">Start a wizard on the home page to earn candies for quizzes.</p>
+        }
         @for (row of r.results; track row.id; let i = $index) {
           <div class="q" [class.right]="row.correct" [class.wrong]="!row.correct">
             <p class="qhead">
@@ -67,6 +74,7 @@ import { CmQuizQuestion, WmTestResult } from '../core/models';
     }
   `,
   styles: [`
+    .earned { color: var(--correct); font-weight: 700; }
     .crumb, .sub { color: var(--muted); font-size: 15px; }
     .crumb a { color: var(--muted); }
     h1 { font-family: var(--display); font-size: 28px; margin: 6px 0 12px; overflow-wrap: anywhere; }
@@ -95,12 +103,13 @@ import { CmQuizQuestion, WmTestResult } from '../core/models';
 export class CmQuizPlayPage implements OnChanges {
   @Input() chapter = '';
   private api = inject(ApiService);
+  player = inject(PlayerService);
 
   readonly letters = 'ABCD';
   title = signal('Quiz');
   questions = signal<CmQuizQuestion[]>([]);
   answers = signal<Record<string, string>>({});
-  result = signal<WmTestResult | null>(null);
+  result = signal<CmQuizResult | null>(null);
   stage = signal<'quiz' | 'result'>('quiz');
   loading = signal(true);
   busy = signal(false);
@@ -137,9 +146,19 @@ export class CmQuizPlayPage implements OnChanges {
     this.busy.set(true);
     this.error.set('');
     const payload = this.questions().map((q) => ({ id: q.id, answer: this.answers()[q.id] ?? '' }));
-    this.api.cmGradeTest(payload).subscribe({
+    const profile = this.player.profile();
+    const code = profile?.code ?? this.player.savedCode();
+    const request = code
+      ? this.api.cmGradeForPlayer(code, payload)
+      : this.api.cmGradeTest(payload).pipe(map((res) => ({ ...res, candies_awarded: 0, candies_by_category: null })));
+    request.subscribe({
       next: (res) => {
         this.result.set(res);
+        if (profile && res.candies_by_category) {
+          const b = res.candies_by_category;
+          const total = b.word_wizard + b.grammar + b.cambridge_maths + b.cambridge_english;
+          this.player.update({ ...profile, candies: total, candies_by_category: b });
+        }
         this.stage.set('result');
         this.busy.set(false);
         window.scrollTo({ top: 0 });

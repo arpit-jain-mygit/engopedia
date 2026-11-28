@@ -397,6 +397,28 @@ def create_app(store=None):
     def cm_grade_test(body: WmGradeIn):
         return cambridge.grade([item.model_dump() for item in body.items])
 
+    @app.post("/api/players/{code}/cm/grade")
+    def cm_grade_for_player(code: str, body: WmGradeIn):
+        """Check a chapter quiz for a player. One candy per question, the first time it is right."""
+        player = load_player(code)
+        result = cambridge.grade([item.model_dump() for item in body.items])
+        pk = player["pk"]
+        awarded = 0
+        for r in result["results"]:
+            parts = r["id"].split("|")
+            if not r["correct"] or len(parts) < 2 or parts[1] != "A":
+                continue  # only the chapter quiz (format A) earns candies
+            sk = f"CM#{parts[0]}"
+            state = store.get(pk, sk)
+            if state and state.get("done"):
+                continue
+            store.put({"pk": pk, "sk": sk, "done": True, "chapter": int(parts[0][1:3])})
+            awarded += game.CANDY_PER_CORRECT
+        if awarded:
+            player["candies_cm"] = player.get("candies_cm", 0) + awarded
+            store.put(player)
+        return {**result, "candies_awarded": awarded, "candies_by_category": game.candies_by_category(player)}
+
     @app.get("/api/leaderboard")
     def leaderboard(limit: int = 10):
         limit = max(1, min(limit, 50))

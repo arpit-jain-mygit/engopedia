@@ -250,3 +250,32 @@ def test_leaderboard_orders_by_points():
     play_level(c, p["code"], root)
     rows = c.get("/api/leaderboard").json()["rows"]
     assert rows[0]["name"] == "Ava" and rows[0]["points"] > 0
+
+
+def test_cambridge_quiz_awards_one_maths_candy_per_question_once():
+    from app import cambridge
+    c = client()
+    code = new_player(c)["code"]
+    chapter = c.get("/api/cm/chapters").json()["chapters"][0]["chapter"]
+    quiz = c.get(f"/api/cm/chapters/{chapter}/quiz").json()["questions"]
+
+    def right_items(items):
+        out = []
+        for q in items:
+            found = cambridge._expected(q["id"])
+            _, _, seed, expected = found
+            shown = cambridge._shown_options(found[0], seed)
+            letter = cambridge.LETTERS[shown.index(expected)]
+            out.append({"id": q["id"], "answer": letter})
+        return out
+
+    first = c.post(f"/api/players/{code}/cm/grade", json={"items": right_items(quiz)}).json()
+    assert first["candies_awarded"] == len(quiz)
+    assert first["candies_by_category"]["cambridge_maths"] == len(quiz)
+    # A second check with fresh shuffles of the same questions earns nothing more.
+    again = c.get(f"/api/cm/chapters/{chapter}/quiz").json()["questions"]
+    second = c.post(f"/api/players/{code}/cm/grade", json={"items": right_items(again)}).json()
+    assert second["candies_awarded"] == 0
+    profile = c.get(f"/api/players/{code}").json()
+    assert profile["candies"] == len(quiz)
+    assert profile["candies_by_category"]["word_wizard"] == 0
