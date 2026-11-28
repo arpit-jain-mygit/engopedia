@@ -9,11 +9,19 @@ export interface LevelInfo {
   stars: number;
 }
 
+export interface CandiesByCategory {
+  word_wizard: number;
+  grammar: number;
+  cambridge_maths: number;
+  cambridge_english: number;
+}
+
 export interface Profile {
   code: string;
   name: string;
   points: number;
   candies: number;
+  candies_by_category: CandiesByCategory;
   streak: number;
   owned: string[];
   equipped: Record<string, string>;
@@ -70,6 +78,7 @@ export interface AnswerResult {
   explanation: string;
   points: number;
   candies: number;
+  candies_by_category: CandiesByCategory;
   streak: number;
 }
 
@@ -80,6 +89,7 @@ export interface FinishResult {
   total: number;
   points: number;
   candies: number;
+  candies_by_category: CandiesByCategory;
 }
 
 export interface LeaderRow {
@@ -121,6 +131,7 @@ export interface WmAnswerResult {
   explanation: string;
   points: number;
   candies: number;
+  candies_by_category: CandiesByCategory;
   streak: number;
 }
 

@@ -24,7 +24,7 @@ import { AnswerResult, FinishResult, QuizQuestion } from '../core/models';
         <p class="sub">{{ result()!.first_try }} of {{ result()!.total }} right on the first try.</p>
         <div class="haul">
           <div><b>{{ player.profile()?.points ?? 0 }}</b><span>total points</span></div>
-          <div><b>{{ player.profile()?.candies ?? 0 }}</b><span>candies</span></div>
+          <div><b>{{ player.profile()?.candies_by_category?.word_wizard ?? 0 }}</b><span>Word Wizard candies</span></div>
         </div>
         <div class="actions">
           <a class="btn" routerLink="/quiz">Next level</a>
@@ -35,7 +35,7 @@ import { AnswerResult, FinishResult, QuizQuestion } from '../core/models';
       <div class="top">
         <span class="count">Question {{ index() + 1 }} of {{ total() }}</span>
         <span class="pill star">⭐ {{ player.profile()?.points ?? 0 }}</span>
-        <span class="pill candy">🍬 {{ player.profile()?.candies ?? 0 }}</span>
+        <span class="pill candy" title="Word Wizard candies">🍬 {{ player.profile()?.candies_by_category?.word_wizard ?? 0 }}</span>
         <span class="pill">🔥 {{ streak() }}</span>
       </div>
       <div class="bar" role="progressbar" [attr.aria-valuenow]="progress()" aria-valuemin="0" aria-valuemax="100">
@@ -362,12 +362,12 @@ export class QuizPlayPage implements OnInit, OnDestroy {
           this.later(() => this.oops.set(false), 600);
         }
         const p = this.player.profile();
-        if (p) this.player.update({ ...p, points: res.points, candies: res.candies, streak: res.streak });
+        if (p) this.player.update({ ...p, points: res.points, candies: res.candies, candies_by_category: res.candies_by_category, streak: res.streak });
       },
       error: () => {
         this.busy.set(false);
         this.feedback.set({ correct: false, already_answered: false, points_awarded: 0, candies_awarded: 0,
-          explanation: 'Something went wrong. Please try that again.', points: 0, candies: 0, streak: 0 });
+          explanation: 'Something went wrong. Please try that again.', points: 0, candies: 0, candies_by_category: { word_wizard: 0, grammar: 0, cambridge_maths: 0, cambridge_english: 0 }, streak: 0 });
       },
     });
   }

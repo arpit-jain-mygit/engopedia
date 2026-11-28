@@ -161,7 +161,7 @@ def create_app(store=None):
         pk = player["pk"]
         q_sk = f"Q#{body.root}#{body.question_id}"
         q_state = store.get(pk, q_sk) or {"pk": pk, "sk": q_sk, "done": False, "wrong": 0, "stage": 0}
-        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "streak": p["streak"]}  # noqa: E731
+        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "candies_by_category": game.candies_by_category(p), "streak": p["streak"]}  # noqa: E731
         stage = q_state.get("stage", 0)
 
         if q_state["done"]:
@@ -222,7 +222,8 @@ def create_app(store=None):
         level["stars"] = max(stars, level.get("stars", 0))
         store.put(level)
         return {"root": root, "stars": level["stars"], "first_try": level["first_try"], "total": total,
-                "points": player["points"], "candies": game.total_candies(player)}
+                "points": player["points"], "candies": game.total_candies(player),
+                "candies_by_category": game.candies_by_category(player)}
 
     @app.get("/api/shop")
     def get_shop():
@@ -324,7 +325,7 @@ def create_app(store=None):
         pk = player["pk"]
         state_sk = f"WM#{body.question_id}"
         state = store.get(pk, state_sk) or {"pk": pk, "sk": state_sk, "done": False, "wrong": 0, "chapter": body.chapter}
-        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "streak": p["streak"]}  # noqa: E731
+        totals = lambda p: {"points": p["points"], "candies": game.total_candies(p), "candies_by_category": game.candies_by_category(p), "streak": p["streak"]}  # noqa: E731
 
         if state["done"]:
             return {"correct": True, "already_answered": True, "points_awarded": 0,

@@ -3,13 +3,14 @@ import { ApiService } from '../core/api.service';
 import { PlayerService } from '../core/player.service';
 import { ShopItem } from '../core/models';
 import { AvatarComponent } from '../core/avatar.component';
+import { CandyBreakdownComponent } from '../core/candy-breakdown.component';
 
 const SLOT_LABELS: Record<string, string> = { hat: '🎩 Hats', wand: '🪄 Wands', pet: '🐾 Pets' };
 
 @Component({
   selector: 'app-shop',
   standalone: true,
-  imports: [AvatarComponent],
+  imports: [AvatarComponent, CandyBreakdownComponent],
   template: `
     <h1>🛍️ Candy shop</h1>
     <p class="sub">Spend your candies to dress up your wizard. You earn one candy for every right answer.</p>
@@ -20,6 +21,7 @@ const SLOT_LABELS: Record<string, string> = { hat: '🎩 Hats', wand: '🪄 Wand
         <div class="wallet">
           <span class="pill candy">🍬 <b>{{ p.candies }}</b> candies</span>
         </div>
+        <app-candy-breakdown [breakdown]="p.candies_by_category" />
       </section>
 
       @if (message()) {

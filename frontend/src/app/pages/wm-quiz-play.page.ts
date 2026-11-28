@@ -33,6 +33,7 @@ const LETTERS = ['A', 'B', 'C', 'D'];
         <div class="bar" [style.width.%]="(index() / questions().length) * 100"></div>
       </div>
       <p class="count">Question {{ index() + 1 }} of {{ questions().length }}</p>
+      <p class="count">📖 Grammar candies: <b>{{ player.profile()?.candies_by_category?.grammar ?? 0 }}</b></p>
 
       <p class="source">
         @if (q.source === 'Book') {
@@ -105,7 +106,7 @@ const LETTERS = ['A', 'B', 'C', 'D'];
 export class WmQuizPlayPage implements OnChanges {
   @Input() chapter = '';
   private api = inject(ApiService);
-  private player = inject(PlayerService);
+  player = inject(PlayerService);
   letters = LETTERS;
   questions = signal<WmQuestion[]>([]);
   index = signal(0);
@@ -158,7 +159,7 @@ export class WmQuizPlayPage implements OnChanges {
         }
         const profile = this.player.profile();
         if (profile) {
-          this.player.update({ ...profile, points: r.points, candies: r.candies, streak: r.streak });
+          this.player.update({ ...profile, points: r.points, candies: r.candies, candies_by_category: r.candies_by_category, streak: r.streak });
         }
         this.busy.set(false);
       },
