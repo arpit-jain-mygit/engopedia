@@ -399,7 +399,7 @@ def create_app(store=None):
     def leaderboard(limit: int = 10):
         limit = max(1, min(limit, 50))
         rows = store.board(limit)
-        return {"rows": [{"name": r["name"], "points": r.get("points", 0)} for r in rows]}
+        return {"rows": [{"name": r["name"], "code": r.get("code", ""), "points": r.get("points", 0)} for r in rows]}
 
     return app
 

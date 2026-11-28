@@ -84,6 +84,7 @@ export interface FinishResult {
 
 export interface LeaderRow {
   name: string;
+  code: string;
   points: number;
 }
 

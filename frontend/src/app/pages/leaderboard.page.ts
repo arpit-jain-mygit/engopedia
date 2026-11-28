@@ -22,7 +22,7 @@ import { LeaderRow } from '../core/models';
         @for (row of rows(); track $index; let i = $index) {
           <li>
             <span class="rank">{{ i < 3 ? medals[i] : i + 1 }}</span>
-            <span class="who">{{ row.name }}</span>
+            <span class="who">{{ row.name }} <small class="code">{{ row.code }}</small></span>
             <span class="pts">{{ row.points }} pts</span>
           </li>
         }
@@ -39,6 +39,7 @@ import { LeaderRow } from '../core/models';
     .rank { font-family: var(--display); font-weight: 800; font-size: 20px; text-align: center; }
     .who { font-weight: 600; font-size: 17px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .pts { font-weight: 700; font-variant-numeric: tabular-nums; }
+    .code { font-family: ui-monospace, Menlo, monospace; font-size: 13px; color: var(--muted); letter-spacing: 1px; margin-left: 6px; }
   `],
 })
 export class LeaderboardPage implements OnInit {
